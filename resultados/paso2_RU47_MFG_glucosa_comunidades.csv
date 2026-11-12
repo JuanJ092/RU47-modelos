@@ -1,0 +1,6 @@
+﻿comunidad,n_reacciones,pagerank_acumulado,rutas_dominantes,reacciones_mas_centrales
+C1,152,0.26560009796267847,Aminoacidos (61); Cofactores y vitaminas (31); Sin asignar (19),H2Ot_b; CO2tpp_b; CO2tex_b; AKGDH_f; EX_co2_e_f; GLUDy_b
+C2,70,0.4861038462964496,Transporte (16); Intercambio (14); Nucleotidos (9),ATPS4rpp_f; CYTBO3_4pp_f; NADH16pp_f; Growth_f; EX_h2o_e_f; GAPD_f
+C3,48,0.10787477624776688,Cofactores y vitaminas (18); Nucleotidos (7); Sin asignar (6),OXACOAL_b; PDH_f; ACOXT_f; PTAr_b; ACKr_f; PRPPS_f
+C4,21,0.07862429923244386,Nucleotidos (5); Ciclo TCA y glioxilato (5); Sin asignar (4),CS_f; DMALRED_f; SUCOAS_b; G3PD_b; G3PD1ir_b; FUM_f
+C5,20,0.06179698026066118,Glucolisis/Gluconeogenesis (8); Sin asignar (5); Aminoacidos (3),PGL_f; G6PBDH_f; PGK_b; GLCabc_f; T6PGD_f; EDD_f

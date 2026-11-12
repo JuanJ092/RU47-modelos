@@ -1,0 +1,83 @@
+﻿organismo,grafo,comunidad,n_nodos,rutas_dominantes,metabolitos_mas_frecuentes,fraccion_con_metabolito_mas_frecuente,definida_por_metabolito_de_reserva
+E. coli core,RAG,C1,43,Transporte (15); Intercambio (14); Piruvato y anapleroticas (5),h_c (23/43); h_e (16/43); nad_c (6/43); nadh_c (6/43),0.5348837209302325,True
+E. coli core,RAG,C2,26,Ciclo TCA y glioxilato (5); Glucolisis/Gluconeogenesis (5); Piruvato y anapleroticas (4),h2o_c (13/26); atp_c (11/26); adp_c (10/26); h_c (9/26),0.5,True
+E. coli core,RAG,C3,26,Glucolisis/Gluconeogenesis (7); Pentosas fosfato (6); Intercambio (3),co2_c (7/26); f6p_c (7/26); g3p_c (7/26); pyr_c (7/26),0.2692307692307692,False
+E. coli core,NFG,C1,35,Intercambio (16); Transporte (11); Piruvato y anapleroticas (7),h_c (7/23); nad_c (4/23); nadh_c (4/23); h_e (4/23),0.30434782608695654,False
+E. coli core,NFG,C2,49,Transporte (14); Intercambio (12); Glucolisis/Gluconeogenesis (8),h_c (14/32); atp_c (10/32); adp_c (9/32); h2o_c (9/32),0.4375,False
+E. coli core,NFG,C3,22,Ciclo TCA y glioxilato (9); Piruvato y anapleroticas (7); Intercambio (3),co2_c (7/16); h2o_c (5/16); accoa_c (4/16); oaa_c (4/16),0.4375,False
+E. coli core,NFG,C4,22,Intercambio (7); Transporte (6); Fosforilacion oxidativa (4),h_e (8/16); h_c (7/16); succ_c (5/16); q8h2_c (4/16),0.5,True
+E. coli core,NFG,C5,26,Pentosas fosfato (14); Glucolisis/Gluconeogenesis (10); Intercambio (2),g3p_c (6/16); f6p_c (5/16); h_c (4/16); fdp_c (3/16),0.375,False
+RU47,RAG,C1,1052,Transporte (370); Intercambio (178); Lipidos y PHA (147),h_c (521/1052); h_p (230/1052); nadp_c (102/1052); nadph_c (101/1052),0.49524714828897337,False
+RU47,RAG,C2,2,Intercambio (1); Transporte (1),14glucan_e (2/2); 14glucan_p (1/2),1.0,False
+RU47,RAG,C3,2,Intercambio (1); Transporte (1),26dap__M_e (2/2); 26dap__M_p (1/2),1.0,False
+RU47,RAG,C4,3,Transporte (2); Intercambio (1),2ameph_e (3/3); 2ameph_p (1/3); 2ameph_c (1/3),1.0,False
+RU47,RAG,C5,490,Transporte (266); Intercambio (55); Nucleotidos (34),adp_c (378/490); atp_c (376/490); h_c (339/490); pi_c (328/490),0.7714285714285715,True
+RU47,RAG,C6,396,Lipidos y PHA (164); Sin asignar (53); Intercambio (36),coa_c (215/396); h_c (128/396); ppi_c (124/396); atp_c (116/396),0.5429292929292929,True
+RU47,RAG,C7,256,Transporte (110); Intercambio (45); Aminoacidos (28),pyr_c (62/256); pep_c (38/256); glu__L_c (30/256); na1_c (24/256),0.2421875,False
+RU47,RAG,C8,6,Transporte (3); Intercambio (2); Aminoacidos (1),4hpro_LT_e (3/6); 4hpro_DC_e (2/6); 4hpro_LT_c (2/6); 4hpro_DC_p (1/6),0.5,False
+RU47,RAG,C9,2,Intercambio (1); Transporte (1),5aptn_e (2/2); 5aptn_p (1/2),1.0,False
+RU47,RAG,C10,600,Sin asignar (151); Aminoacidos (99); Lipidos y PHA (79),h2o_c (517/600); h_c (184/600); nh4_c (78/600); pi_c (67/600),0.8616666666666667,True
+RU47,RAG,C11,2,Intercambio (1); Transporte (1),LalaLglu_e (2/2); LalaLglu_p (1/2),1.0,False
+RU47,RAG,C12,2,Intercambio (1); Transporte (1),alahis_e (2/2); alahis_p (1/2),1.0,False
+RU47,RAG,C13,2,Intercambio (1); Transporte (1),alaleu_e (2/2); alaleu_p (1/2),1.0,False
+RU47,RAG,C14,2,Intercambio (1); Transporte (1),alathr_e (2/2); alathr_p (1/2),1.0,False
+RU47,RAG,C15,2,Intercambio (1); Transporte (1),alatrp_e (2/2); alatrp_p (1/2),1.0,False
+RU47,RAG,C16,3,Transporte (2); Intercambio (1),all__D_e (3/3); all__D_c (1/3); all__D_p (1/3),1.0,False
+RU47,RAG,C17,2,Intercambio (1); Transporte (1),asn__D_e (2/2); asn__D_p (1/2),1.0,False
+RU47,RAG,C18,2,Intercambio (1); Transporte (1),aso3_e (2/2); aso3_p (1/2),1.0,False
+RU47,RAG,C19,2,Intercambio (1); Transporte (1),balaala_e (2/2); balaala_p (1/2),1.0,False
+RU47,RAG,C20,2,Intercambio (1); Transporte (1),balabala_e (2/2); balabala_p (1/2),1.0,False
+RU47,RAG,C21,2,Intercambio (1); Transporte (1),balagly_e (2/2); balagly_p (1/2),1.0,False
+RU47,RAG,C22,2,Intercambio (1); Transporte (1),balaleu_e (2/2); balaleu_p (1/2),1.0,False
+RU47,RAG,C23,2,Intercambio (1); Transporte (1),balamd_e (2/2); balamd_p (1/2),1.0,False
+RU47,RAG,C24,3,Transporte (2); Intercambio (1),biliverd_e (2/3); biliverd_p (2/3); biliverd_c (1/3),0.6666666666666666,False
+RU47,RAG,C25,246,Sin asignar (70); Lipidos y PHA (42); Carbono alternativo y aromaticos (40),nad_c (224/246); nadh_c (221/246); h_c (204/246); h2o_c (78/246),0.9105691056910569,True
+RU47,RAG,C26,2,Intercambio (1); Transporte (1),butso3_e (2/2); butso3_p (1/2),1.0,False
+RU47,RAG,C27,2,Intercambio (1); Transporte (1),carn_e (2/2); carn_p (1/2),1.0,False
+RU47,RAG,C28,2,Intercambio (1); Transporte (1),chols_e (2/2); chols_p (1/2),1.0,False
+RU47,RAG,C29,2,Intercambio (1); Transporte (1),dmgly_e (2/2); dmgly_p (1/2),1.0,False
+RU47,RAG,C30,2,Intercambio (1); Transporte (1),dmso2_e (2/2); dmso2_p (1/2),1.0,False
+RU47,RAG,C31,2,Intercambio (1); Transporte (1),ethso3_e (2/2); ethso3_p (1/2),1.0,False
+RU47,RAG,C32,2,Intercambio (1); Transporte (1),g3pi_e (2/2); g3pi_p (1/2),1.0,False
+RU47,RAG,C33,3,Transporte (2); Intercambio (1),galct__D_e (3/3); galct__D_c (1/3); galct__D_p (1/3),1.0,False
+RU47,RAG,C34,2,Intercambio (1); Transporte (1),glyc2p_e (2/2); glyc2p_p (1/2),1.0,False
+RU47,RAG,C35,2,Intercambio (1); Transporte (1),glygln_e (2/2); glygln_p (1/2),1.0,False
+RU47,RAG,C36,2,Intercambio (1); Transporte (1),glyglu_e (2/2); glyglu_p (1/2),1.0,False
+RU47,RAG,C37,2,Intercambio (1); Transporte (1),glygly_e (2/2); glygly_p (1/2),1.0,False
+RU47,RAG,C38,2,Intercambio (1); Transporte (1),glymet_e (2/2); glymet_p (1/2),1.0,False
+RU47,RAG,C39,2,Intercambio (1); Transporte (1),glyphe_e (2/2); glyphe_p (1/2),1.0,False
+RU47,RAG,C40,2,Intercambio (1); Transporte (1),glyser_e (2/2); glyser_p (1/2),1.0,False
+RU47,RAG,C41,4,Transporte (3); Intercambio (1),gua_e (3/4); gua_c (2/4); gua_p (2/4),0.75,False
+RU47,RAG,C42,2,Intercambio (1); Transporte (1),hco3_e (2/2); hco3_p (1/2),1.0,False
+RU47,RAG,C43,2,Intercambio (1); Transporte (1),hisgly_e (2/2); hisgly_p (1/2),1.0,False
+RU47,RAG,C44,2,Intercambio (1); Transporte (1),hishis_e (2/2); hishis_p (1/2),1.0,False
+RU47,RAG,C45,2,Intercambio (1); Transporte (1),isetac_e (2/2); isetac_p (1/2),1.0,False
+RU47,RAG,C46,2,Intercambio (1); Transporte (1),leu__D_e (2/2); leu__D_p (1/2),1.0,False
+RU47,RAG,C47,2,Intercambio (1); Transporte (1),leuleu_e (2/2); leuleu_p (1/2),1.0,False
+RU47,RAG,C48,2,Intercambio (1); Transporte (1),lys__D_e (2/2); lys__D_p (1/2),1.0,False
+RU47,RAG,C49,2,Intercambio (1); Transporte (1),maltpt_e (2/2); maltpt_p (1/2),1.0,False
+RU47,RAG,C50,2,Intercambio (1); Transporte (1),maltttr_e (2/2); maltttr_p (1/2),1.0,False
+RU47,RAG,C51,3,Transporte (2); Intercambio (1),meoh_e (2/3); meoh_p (2/3); meoh_c (1/3),0.6666666666666666,False
+RU47,RAG,C52,4,Transporte (3); Intercambio (1),nmn_e (3/4); nmn_c (2/4); nmn_p (2/4),0.75,False
+RU47,RAG,C53,2,Intercambio (1); Transporte (1),orn__D_e (2/2); orn__D_p (1/2),1.0,False
+RU47,RAG,C54,2,Intercambio (1); Transporte (1),pentso3_e (2/2); pentso3_p (1/2),1.0,False
+RU47,RAG,C55,2,Intercambio (1); Transporte (1),ppi_e (2/2); ppi_p (1/2),1.0,False
+RU47,RAG,C56,2,Intercambio (1); Transporte (1),progly_e (2/2); progly_p (1/2),1.0,False
+RU47,RAG,C57,3,Transporte (2); Intercambio (1),sel_e (3/3); sel_c (1/3); sel_p (1/3),1.0,False
+RU47,RAG,C58,2,Intercambio (1); Transporte (1),sulfac_e (2/2); sulfac_p (1/2),1.0,False
+RU47,RAG,C59,2,Intercambio (1); Transporte (1),val__D_e (2/2); val__D_p (1/2),1.0,False
+RU47,NFG,C1,2576,Transporte (828); Intercambio (598); Sin asignar (372),h_c (822/1934); h2o_c (583/1934); atp_c (263/1934); pi_c (255/1934),0.4250258531540848,False
+RU47,NFG,C2,685,Transporte (176); Envoltura celular (91); Carbono alternativo y aromaticos (87),h_c (213/571); h2o_c (141/571); pi_c (89/571); atp_c (81/571),0.37302977232924694,False
+RU47,NFG,C3,50,Lipidos y PHA (22); Transporte (18); Intercambio (7),h_c (13/35); h2o_c (11/35); atp_c (7/35); coa_c (7/35),0.37142857142857144,False
+RU47,NFG,C4,591,Lipidos y PHA (388); Transporte (87); Sin asignar (54),h_c (206/479); h2o_c (134/479); coa_c (101/479); atp_c (93/479),0.430062630480167,False
+RU47,NFG,C5,59,Lipidos y PHA (42); Transporte (11); Intercambio (6),h_c (17/41); coa_c (13/41); h2o_c (10/41); atp_c (6/41),0.4146341463414634,False
+RU47,NFG,C6,60,Lipidos y PHA (42); Transporte (10); Intercambio (6),coa_c (19/46); h_c (18/46); h2o_c (14/46); atp_c (11/46),0.41304347826086957,False
+RU47,NFG,C7,173,Sin asignar (33); Lipidos y PHA (32); Transporte (31),h_c (57/136); h2o_c (29/136); coa_c (25/136); accoa_c (20/136),0.41911764705882354,False
+RU47,NFG,C8,11,"Transporte (8); Intercambio (2); Iones, hierro y azufre (1)",h_c (5/9); mn2_c (5/9); mn2_p (5/9); h_p (3/9),0.5555555555555556,True
+RU47,NFG,C9,79,Lipidos y PHA (51); Carbono alternativo y aromaticos (10); Transporte (8),h_c (27/61); coa_c (20/61); h2o_c (20/61); atp_c (10/61),0.4426229508196721,False
+RU47,NFG,C10,4,Sin asignar (2); Carbono alternativo y aromaticos (2),3hppnl_c (2/2); h_c (2/2); 13ppd_c (2/2); nadh_c (1/2),1.0,False
+RU47,NFG,C11,6,Sin asignar (4); Cofactores y vitaminas (2),adocbi_c (4/4); h_c (3/4); adcobhex_c (2/4); appl_c (2/4),1.0,False
+RU47,NFG,C12,3,Transporte (3),ctbt_p (2/2); ctbt_c (2/2); h_c (2/2); atp_c (1/2),1.0,False
+RU47,NFG,C13,54,Sin asignar (16); Intercambio (11); Transporte (11),h_c (22/52); h2o_c (15/52); atp_c (12/52); tyr__L_c (11/52),0.4230769230769231,False
+RU47,NFG,C14,3,Piruvato y anapleroticas (2); Sin asignar (1),h_c (2/2); lald__D_c (2/2); 12ppd__R_c (2/2); nadh_c (1/2),1.0,True
+RU47,NFG,C15,2,Transporte (2),h_p (2/2); melib_p (2/2); h_c (2/2); melib_c (2/2),1.0,True

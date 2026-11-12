@@ -1,0 +1,96 @@
+﻿reaccion,nombre,subsistema,categoria,fuente
+ACALD,acetaldehyde dehydrogenase (acetylating),Pyruvate Metabolism,Piruvato y anapleroticas,iJO1366 (E. coli)
+ACALDt,R acetaldehyde reversible - transport,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+ACKr,acetate kinase,Pyruvate Metabolism,Piruvato y anapleroticas,iJO1366 (E. coli)
+ACONTa,"aconitase (half-reaction A, Citrate hydro-lyase)",Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+ACONTb,"aconitase (half-reaction B, Isocitrate hydro-lyase)",Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+ACt2r,R acetate reversible transport via proton - symport,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+ADK1,adenylate kinase,Nucleotide Salvage Pathway,Nucleotidos,iJO1366 (E. coli)
+AKGDH,2-Oxogluterate dehydrogenase,Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+AKGt2r,R 2 oxoglutarate reversible transport via - symport,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+ALCD2x,alcohol dehydrogenase (ethanol),Pyruvate Metabolism,Piruvato y anapleroticas,iJO1366 (E. coli)
+ATPM,ATP maintenance requirement,Biomass and maintenance functions,Biomasa,iJO1366 (E. coli)
+ATPS4r,ATP synthase (four protons for one ATP),Oxidative Phosphorylation,Fosforilacion oxidativa,iJO1366 (E. coli)
+Biomass_Ecoli_core,Biomass Objective Function with GAM,,Biomasa,regla
+CO2t,R CO2 transporter via - diffusion,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+CS,citrate synthase,Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+CYTBD,cytochrome oxidase bd (ubiquinol-8: 2 protons),Oxidative Phosphorylation,Fosforilacion oxidativa,iJO1366 (E. coli)
+D_LACt2,R D lactate transport via proton - symport,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+ENO,enolase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+ETOHt2r,ETOHt2r,,Transporte,regla
+EX_ac_e,Acetate exchange,,Intercambio,regla
+EX_acald_e,Acetaldehyde exchange,,Intercambio,regla
+EX_akg_e,2-Oxoglutarate exchange,,Intercambio,regla
+EX_co2_e,CO2 exchange,,Intercambio,regla
+EX_etoh_e,Ethanol exchange,,Intercambio,regla
+EX_for_e,Formate exchange,,Intercambio,regla
+EX_fru_e,D-Fructose exchange,,Intercambio,regla
+EX_fum_e,Fumarate exchange,,Intercambio,regla
+EX_glc__D_e,D-Glucose exchange,,Intercambio,regla
+EX_gln__L_e,L-Glutamine exchange,,Intercambio,regla
+EX_glu__L_e,L-Glutamate exchange,,Intercambio,regla
+EX_h_e,H+ exchange,,Intercambio,regla
+EX_h2o_e,H2O exchange,,Intercambio,regla
+EX_lac__D_e,D-lactate exchange,,Intercambio,regla
+EX_mal__L_e,L-Malate exchange,,Intercambio,regla
+EX_nh4_e,Ammonia exchange,,Intercambio,regla
+EX_o2_e,O2 exchange,,Intercambio,regla
+EX_pi_e,Phosphate exchange,,Intercambio,regla
+EX_pyr_e,Pyruvate exchange,,Intercambio,regla
+EX_succ_e,Succinate exchange,,Intercambio,regla
+FBA,fructose-bisphosphate aldolase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+FBP,fructose-bisphosphatase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+FORt2,formate transport in via proton symport,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+FORti,formate transport via diffusion,,Transporte,regla
+FRD7,fumarate reductase,,Sin asignar,
+FRUpts2,R Fructose transport via PEPPyr PTS-f6p - generating,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+FUM,fumarase,Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+FUMt2_2,R Fumarate transport via proton symport-2 - H,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+G6PDH2r,glucose 6-phosphate dehydrogenase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+GAPD,glyceraldehyde-3-phosphate dehydrogenase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+GLCpts,D-glucose transport via PEP:Pyr PTS,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+GLNS,glutamine synthetase,Glutamate Metabolism,Aminoacidos,iJO1366 (E. coli)
+GLNabc,GLNabc,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+GLUDy,glutamate dehydrogenase (NADP),Glutamate Metabolism,Aminoacidos,iJO1366 (E. coli)
+GLUN,glutaminase,Glutamate Metabolism,Aminoacidos,iJO1366 (E. coli)
+GLUSy,glutamate synthase (NADPH),Glutamate Metabolism,Aminoacidos,iJO1366 (E. coli)
+GLUt2r,R L glutamate transport via proton - symport-reversible,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+GND,phosphogluconate dehydrogenase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+H2Ot,R H2O transport via - diffusion,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+ICDHyr,isocitrate dehydrogenase (NADP),Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+ICL,Isocitrate lyase,Anaplerotic Reactions,Piruvato y anapleroticas,iJO1366 (E. coli)
+LDH_D,D-lactate dehydrogenase,Pyruvate Metabolism,Piruvato y anapleroticas,iJO1366 (E. coli)
+MALS,malate synthase,Anaplerotic Reactions,Piruvato y anapleroticas,iJO1366 (E. coli)
+MALt2_2,R Malate transport via proton symport-2 - H,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+MDH,malate dehydrogenase,Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+ME1,malic enzyme (NAD),Anaplerotic Reactions,Piruvato y anapleroticas,iJO1366 (E. coli)
+ME2,malic enzyme (NADP),Anaplerotic Reactions,Piruvato y anapleroticas,iJO1366 (E. coli)
+NADH16,NADH dehydrogenase (ubiquinone-8 & 3 protons),Oxidative Phosphorylation,Fosforilacion oxidativa,iJO1366 (E. coli)
+NADTRHD,NAD transhydrogenase,Oxidative Phosphorylation,Fosforilacion oxidativa,iJO1366 (E. coli)
+NH4t,R ammonia reversible - transport,Inorganic Ion Transport and Metabolism,Transporte,iJO1366 (E. coli)
+O2t,R o2 - transport-diffusion,Inorganic Ion Transport and Metabolism,Transporte,iJO1366 (E. coli)
+PDH,pyruvate dehydrogenase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PFK,phosphofructokinase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PFL,pyruvate formate lyase,Pyruvate Metabolism,Piruvato y anapleroticas,iJO1366 (E. coli)
+PGI,glucose-6-phosphate isomerase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PGK,phosphoglycerate kinase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PGL,6-phosphogluconolactonase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+PGM,phosphoglycerate mutase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PIt2r,R phosphate reversible transport via - symport,Inorganic Ion Transport and Metabolism,Transporte,iJO1366 (E. coli)
+PPC,phosphoenolpyruvate carboxylase,Anaplerotic Reactions,Piruvato y anapleroticas,iJO1366 (E. coli)
+PPCK,phosphoenolpyruvate carboxykinase,Anaplerotic Reactions,Piruvato y anapleroticas,iJO1366 (E. coli)
+PPS,phosphoenolpyruvate synthase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PTAr,phosphotransacetylase,Pyruvate Metabolism,Piruvato y anapleroticas,iJO1366 (E. coli)
+PYK,pyruvate kinase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)
+PYRt2,R pyruvate transport in via proton - symport,,Transporte,regla
+RPE,ribulose 5-phosphate 3-epimerase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+RPI,ribose-5-phosphate isomerase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+SUCCt2_2,R succinate transport via proton symport-2 - H,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+SUCCt3,succinate transport out via proton antiport,"Transport, Inner Membrane",Transporte,iJO1366 (E. coli)
+SUCDi,succinate dehydrogenase (irreversible),Oxidative Phosphorylation,Fosforilacion oxidativa,iJO1366 (E. coli)
+SUCOAS,succinyl-CoA synthetase (ADP-forming),Citric Acid Cycle,Ciclo TCA y glioxilato,iJO1366 (E. coli)
+TALA,transaldolase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+THD2,R NAD - P-transhydrogenase,Oxidative Phosphorylation,Fosforilacion oxidativa,iJO1366 (E. coli)
+TKT1,transketolase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+TKT2,transketolase,Pentose Phosphate Pathway,Pentosas fosfato,iJO1366 (E. coli)
+TPI,triose-phosphate isomerase,Glycolysis/Gluconeogenesis,Glucolisis/Gluconeogenesis,iJO1366 (E. coli)

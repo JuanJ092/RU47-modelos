@@ -1,0 +1,155 @@
+﻿nodo,reaccion,categoria,t=0.489 (30 com.),t=2.92 (9 com.),t=6.46 (5 com.),t=21.3 (4 com.)
+ACALD_f,ACALD,Piruvato y anapleroticas,1,1,1,1
+ACALDt_f,ACALDt,Transporte,2,1,1,1
+ACKr_f,ACKr,Piruvato y anapleroticas,3,2,2,1
+ACONTa_f,ACONTa,Ciclo TCA y glioxilato,4,3,3,1
+ACONTb_f,ACONTb,Ciclo TCA y glioxilato,5,3,3,1
+ACt2r_f,ACt2r,Transporte,3,2,2,1
+ADK1_f,ADK1,Nucleotidos,6,4,2,1
+AKGDH_f,AKGDH,Ciclo TCA y glioxilato,7,4,2,1
+AKGt2r_f,AKGt2r,Transporte,7,5,2,1
+ALCD2x_f,ALCD2x,Piruvato y anapleroticas,1,1,1,1
+ATPM_f,ATPM,Biomasa,8,4,2,1
+ATPS4r_f,ATPS4r,Fosforilacion oxidativa,9,4,2,1
+Biomass_Ecoli_core_f,Biomass_Ecoli_core,Biomasa,9,4,2,1
+CO2t_f,CO2t,Transporte,10,3,3,1
+CS_f,CS,Ciclo TCA y glioxilato,4,3,3,1
+CYTBD_f,CYTBD,Fosforilacion oxidativa,11,6,4,1
+D_LACt2_f,D_LACt2,Transporte,12,7,1,1
+ENO_f,ENO,Glucolisis/Gluconeogenesis,13,4,2,1
+ETOHt2r_f,ETOHt2r,Transporte,1,1,1,1
+EX_ac_e_f,EX_ac_e,Intercambio,3,2,2,1
+EX_acald_e_f,EX_acald_e,Intercambio,2,1,1,1
+EX_akg_e_f,EX_akg_e,Intercambio,7,5,2,1
+EX_co2_e_f,EX_co2_e,Intercambio,10,3,3,1
+EX_etoh_e_f,EX_etoh_e,Intercambio,1,1,1,1
+EX_for_e_f,EX_for_e,Intercambio,14,7,1,1
+EX_fru_e_f,EX_fru_e,Intercambio,15,7,1,1
+EX_fum_e_f,EX_fum_e,Intercambio,11,6,1,1
+EX_glc__D_e_f,EX_glc__D_e,Intercambio,16,8,1,1
+EX_gln__L_e_f,EX_gln__L_e,Intercambio,17,4,1,1
+EX_glu__L_e_f,EX_glu__L_e,Intercambio,18,4,2,1
+EX_h_e_f,EX_h_e,Intercambio,19,6,4,1
+EX_h2o_e_f,EX_h2o_e,Intercambio,8,4,1,1
+EX_lac__D_e_f,EX_lac__D_e,Intercambio,12,7,1,1
+EX_mal__L_e_f,EX_mal__L_e,Intercambio,19,6,1,1
+EX_nh4_e_f,EX_nh4_e,Intercambio,20,4,2,1
+EX_o2_e_f,EX_o2_e,Intercambio,21,6,4,1
+EX_pi_e_f,EX_pi_e,Intercambio,22,5,2,1
+EX_pyr_e_f,EX_pyr_e,Intercambio,23,7,1,1
+EX_succ_e_f,EX_succ_e,Intercambio,24,6,4,1
+FBA_f,FBA,Glucolisis/Gluconeogenesis,25,9,5,2
+FBP_f,FBP,Glucolisis/Gluconeogenesis,25,9,5,2
+FORt2_f,FORt2,Transporte,14,7,1,1
+FORti_f,FORti,Transporte,14,7,1,1
+FRD7_f,FRD7,Sin asignar,11,6,4,1
+FRUpts2_f,FRUpts2,Transporte,15,7,1,3
+FUM_f,FUM,Ciclo TCA y glioxilato,11,6,4,1
+FUMt2_2_f,FUMt2_2,Transporte,11,6,4,1
+G6PDH2r_f,G6PDH2r,Pentosas fosfato,16,8,5,2
+GAPD_f,GAPD,Glucolisis/Gluconeogenesis,26,9,5,2
+GLCpts_f,GLCpts,Transporte,16,8,2,4
+GLNS_f,GLNS,Aminoacidos,20,4,2,1
+GLNabc_f,GLNabc,Transporte,17,4,2,1
+GLUDy_f,GLUDy,Aminoacidos,20,4,2,1
+GLUN_f,GLUN,Aminoacidos,20,4,2,1
+GLUSy_f,GLUSy,Aminoacidos,20,4,2,1
+GLUt2r_f,GLUt2r,Transporte,18,4,2,1
+GND_f,GND,Pentosas fosfato,27,8,5,2
+H2Ot_f,H2Ot,Transporte,8,4,2,1
+ICDHyr_f,ICDHyr,Ciclo TCA y glioxilato,5,3,3,1
+ICL_f,ICL,Piruvato y anapleroticas,5,3,3,1
+LDH_D_f,LDH_D,Piruvato y anapleroticas,12,7,1,1
+MALS_f,MALS,Piruvato y anapleroticas,28,3,3,1
+MALt2_2_f,MALt2_2,Transporte,19,6,4,1
+MDH_f,MDH,Ciclo TCA y glioxilato,29,3,3,1
+ME1_f,ME1,Piruvato y anapleroticas,29,3,3,1
+ME2_f,ME2,Piruvato y anapleroticas,29,3,3,1
+NADH16_f,NADH16,Fosforilacion oxidativa,11,6,4,1
+NADTRHD_f,NADTRHD,Fosforilacion oxidativa,29,1,1,1
+NH4t_f,NH4t,Transporte,20,4,2,1
+O2t_f,O2t,Transporte,21,6,4,1
+PDH_f,PDH,Glucolisis/Gluconeogenesis,23,3,3,1
+PFK_f,PFK,Glucolisis/Gluconeogenesis,25,9,5,2
+PFL_f,PFL,Piruvato y anapleroticas,14,7,1,1
+PGI_f,PGI,Glucolisis/Gluconeogenesis,16,8,5,2
+PGK_f,PGK,Glucolisis/Gluconeogenesis,13,4,2,2
+PGL_f,PGL,Pentosas fosfato,27,8,5,2
+PGM_f,PGM,Glucolisis/Gluconeogenesis,13,4,2,1
+PIt2r_f,PIt2r,Transporte,22,5,2,1
+PPC_f,PPC,Piruvato y anapleroticas,4,3,3,1
+PPCK_f,PPCK,Piruvato y anapleroticas,15,3,3,1
+PPS_f,PPS,Glucolisis/Gluconeogenesis,6,4,2,1
+PTAr_f,PTAr,Piruvato y anapleroticas,28,2,2,1
+PYK_f,PYK,Glucolisis/Gluconeogenesis,9,4,2,1
+PYRt2_f,PYRt2,Transporte,23,7,1,1
+RPE_f,RPE,Pentosas fosfato,30,9,5,2
+RPI_f,RPI,Pentosas fosfato,30,9,5,2
+SUCCt2_2_f,SUCCt2_2,Transporte,24,6,4,1
+SUCCt3_f,SUCCt3,Transporte,24,6,4,1
+SUCDi_f,SUCDi,Fosforilacion oxidativa,11,6,4,1
+SUCOAS_f,SUCOAS,Ciclo TCA y glioxilato,24,6,4,1
+TALA_f,TALA,Pentosas fosfato,30,9,5,2
+THD2_f,THD2,Fosforilacion oxidativa,9,4,2,1
+TKT1_f,TKT1,Pentosas fosfato,30,9,5,2
+TKT2_f,TKT2,Pentosas fosfato,30,9,5,2
+TPI_f,TPI,Glucolisis/Gluconeogenesis,25,9,5,2
+ACALD_b,ACALD,Piruvato y anapleroticas,1,1,1,1
+ACALDt_b,ACALDt,Transporte,2,1,1,1
+ACKr_b,ACKr,Piruvato y anapleroticas,3,2,2,1
+ACONTa_b,ACONTa,Ciclo TCA y glioxilato,4,3,3,1
+ACONTb_b,ACONTb,Ciclo TCA y glioxilato,5,3,3,1
+ACt2r_b,ACt2r,Transporte,3,2,2,1
+ADK1_b,ADK1,Nucleotidos,6,4,2,1
+AKGt2r_b,AKGt2r,Transporte,7,5,2,1
+ALCD2x_b,ALCD2x,Piruvato y anapleroticas,1,1,1,1
+ATPS4r_b,ATPS4r,Fosforilacion oxidativa,19,6,4,1
+CO2t_b,CO2t,Transporte,10,3,3,1
+D_LACt2_b,D_LACt2,Transporte,12,7,1,1
+ENO_b,ENO,Glucolisis/Gluconeogenesis,13,4,2,1
+ETOHt2r_b,ETOHt2r,Transporte,1,1,1,1
+EX_ac_e_b,EX_ac_e,Intercambio,3,2,2,1
+EX_acald_e_b,EX_acald_e,Intercambio,2,1,1,1
+EX_akg_e_b,EX_akg_e,Intercambio,7,5,2,1
+EX_co2_e_b,EX_co2_e,Intercambio,10,3,3,1
+EX_etoh_e_b,EX_etoh_e,Intercambio,1,1,1,1
+EX_for_e_b,EX_for_e,Intercambio,14,7,1,1
+EX_fru_e_b,EX_fru_e,Intercambio,15,7,5,2
+EX_fum_e_b,EX_fum_e,Intercambio,11,6,4,1
+EX_glc__D_e_b,EX_glc__D_e,Intercambio,16,8,5,2
+EX_gln__L_e_b,EX_gln__L_e,Intercambio,17,4,2,1
+EX_glu__L_e_b,EX_glu__L_e,Intercambio,18,4,2,1
+EX_h_e_b,EX_h_e,Intercambio,19,6,4,1
+EX_h2o_e_b,EX_h2o_e,Intercambio,8,4,2,1
+EX_lac__D_e_b,EX_lac__D_e,Intercambio,12,7,1,1
+EX_mal__L_e_b,EX_mal__L_e,Intercambio,19,6,3,1
+EX_nh4_e_b,EX_nh4_e,Intercambio,20,4,2,1
+EX_o2_e_b,EX_o2_e,Intercambio,21,6,4,1
+EX_pi_e_b,EX_pi_e,Intercambio,22,5,2,1
+EX_pyr_e_b,EX_pyr_e,Intercambio,23,7,1,1
+EX_succ_e_b,EX_succ_e,Intercambio,24,6,4,1
+FBA_b,FBA,Glucolisis/Gluconeogenesis,25,9,5,2
+FUM_b,FUM,Ciclo TCA y glioxilato,11,6,4,1
+G6PDH2r_b,G6PDH2r,Pentosas fosfato,16,8,5,2
+GAPD_b,GAPD,Glucolisis/Gluconeogenesis,26,9,5,2
+GLUDy_b,GLUDy,Aminoacidos,9,4,2,1
+GLUt2r_b,GLUt2r,Transporte,18,4,2,1
+H2Ot_b,H2Ot,Transporte,8,4,2,1
+ICDHyr_b,ICDHyr,Ciclo TCA y glioxilato,5,3,3,1
+LDH_D_b,LDH_D,Piruvato y anapleroticas,12,7,1,1
+MDH_b,MDH,Ciclo TCA y glioxilato,29,3,3,1
+NH4t_b,NH4t,Transporte,20,4,2,1
+O2t_b,O2t,Transporte,21,6,4,1
+PGI_b,PGI,Glucolisis/Gluconeogenesis,16,8,5,2
+PGK_b,PGK,Glucolisis/Gluconeogenesis,13,4,2,1
+PGM_b,PGM,Glucolisis/Gluconeogenesis,13,4,2,1
+PIt2r_b,PIt2r,Transporte,22,5,2,1
+PTAr_b,PTAr,Piruvato y anapleroticas,28,3,3,1
+PYRt2_b,PYRt2,Transporte,23,7,1,1
+RPE_b,RPE,Pentosas fosfato,30,9,5,2
+RPI_b,RPI,Pentosas fosfato,30,9,5,2
+SUCOAS_b,SUCOAS,Ciclo TCA y glioxilato,24,6,4,1
+TALA_b,TALA,Pentosas fosfato,30,9,5,2
+TKT1_b,TKT1,Pentosas fosfato,30,9,5,2
+TKT2_b,TKT2,Pentosas fosfato,30,9,5,2
+TPI_b,TPI,Glucolisis/Gluconeogenesis,25,9,5,2

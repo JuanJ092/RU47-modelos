@@ -1,0 +1,49 @@
+﻿nodo,reaccion,categoria,t=0.489 (19 com.),t=1.32 (10 com.),t=9.61 (4 com.)
+ACONTa_f,ACONTa,Ciclo TCA y glioxilato,1,1,1
+ACONTb_f,ACONTb,Ciclo TCA y glioxilato,2,1,1
+AKGDH_f,AKGDH,Ciclo TCA y glioxilato,3,2,1
+ATPM_f,ATPM,Biomasa,4,3,2
+ATPS4r_f,ATPS4r,Fosforilacion oxidativa,5,4,2
+Biomass_Ecoli_core_f,Biomass_Ecoli_core,Biomasa,6,5,2
+CS_f,CS,Ciclo TCA y glioxilato,1,1,1
+CYTBD_f,CYTBD,Fosforilacion oxidativa,7,4,2
+ENO_f,ENO,Glucolisis/Gluconeogenesis,8,5,3
+EX_co2_e_f,EX_co2_e,Intercambio,9,2,1
+EX_h_e_f,EX_h_e,Intercambio,10,3,1
+EX_h2o_e_f,EX_h2o_e,Intercambio,11,6,4
+FBA_f,FBA,Glucolisis/Gluconeogenesis,12,7,3
+FUM_f,FUM,Ciclo TCA y glioxilato,13,1,1
+G6PDH2r_f,G6PDH2r,Pentosas fosfato,14,5,3
+GAPD_f,GAPD,Glucolisis/Gluconeogenesis,15,7,3
+GLCpts_f,GLCpts,Transporte,14,5,3
+GLNS_f,GLNS,Aminoacidos,16,8,2
+GND_f,GND,Pentosas fosfato,17,9,3
+ICDHyr_f,ICDHyr,Ciclo TCA y glioxilato,3,2,1
+MDH_f,MDH,Ciclo TCA y glioxilato,1,1,1
+NADH16_f,NADH16,Fosforilacion oxidativa,5,4,2
+NH4t_f,NH4t,Transporte,16,8,1
+O2t_f,O2t,Transporte,7,4,2
+PDH_f,PDH,Glucolisis/Gluconeogenesis,1,1,1
+PFK_f,PFK,Glucolisis/Gluconeogenesis,12,7,3
+PGI_f,PGI,Glucolisis/Gluconeogenesis,12,7,3
+PGL_f,PGL,Pentosas fosfato,17,9,3
+PIt2r_f,PIt2r,Transporte,18,10,2
+PPC_f,PPC,Piruvato y anapleroticas,1,1,1
+PYK_f,PYK,Glucolisis/Gluconeogenesis,1,1,1
+RPE_f,RPE,Pentosas fosfato,19,7,3
+SUCDi_f,SUCDi,Fosforilacion oxidativa,13,1,1
+TALA_f,TALA,Pentosas fosfato,12,7,3
+TKT1_f,TKT1,Pentosas fosfato,12,7,3
+TKT2_f,TKT2,Pentosas fosfato,12,7,3
+TPI_f,TPI,Glucolisis/Gluconeogenesis,15,7,3
+CO2t_b,CO2t,Transporte,9,2,3
+EX_glc__D_e_b,EX_glc__D_e,Intercambio,14,5,3
+EX_nh4_e_b,EX_nh4_e,Intercambio,16,8,3
+EX_o2_e_b,EX_o2_e,Intercambio,7,4,2
+EX_pi_e_b,EX_pi_e,Intercambio,18,10,2
+GLUDy_b,GLUDy,Aminoacidos,6,5,3
+H2Ot_b,H2Ot,Transporte,11,6,3
+PGK_b,PGK,Glucolisis/Gluconeogenesis,6,5,3
+PGM_b,PGM,Glucolisis/Gluconeogenesis,8,5,3
+RPI_b,RPI,Pentosas fosfato,12,7,3
+SUCOAS_b,SUCOAS,Ciclo TCA y glioxilato,13,1,1

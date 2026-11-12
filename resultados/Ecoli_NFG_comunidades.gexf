@@ -1,0 +1,2854 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-11-08">
+    <creator>NetworkX 3.7</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="comunidad" type="string" />
+      <attribute id="1" title="nombre_comunidad" type="string" />
+      <attribute id="2" title="ruta" type="string" />
+      <attribute id="3" title="pagerank" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ACALD_f" label="ACALD_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.009416471099974367" />
+        </attvalues>
+      </node>
+      <node id="ACALDt_f" label="ACALDt_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0042280217255476656" />
+        </attvalues>
+      </node>
+      <node id="ACKr_f" label="ACKr_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.007235781210007054" />
+        </attvalues>
+      </node>
+      <node id="ACONTa_f" label="ACONTa_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.0125767233843339" />
+        </attvalues>
+      </node>
+      <node id="ACONTb_f" label="ACONTb_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.008038957911987325" />
+        </attvalues>
+      </node>
+      <node id="ACt2r_f" label="ACt2r_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.00540979935644526" />
+        </attvalues>
+      </node>
+      <node id="ADK1_f" label="ADK1_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Nucleotidos" />
+          <attvalue for="3" value="0.008769492104765821" />
+        </attvalues>
+      </node>
+      <node id="AKGDH_f" label="AKGDH_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.008912154879340398" />
+        </attvalues>
+      </node>
+      <node id="AKGt2r_f" label="AKGt2r_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0046117286329502225" />
+        </attvalues>
+      </node>
+      <node id="ALCD2x_f" label="ALCD2x_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.007523365921396863" />
+        </attvalues>
+      </node>
+      <node id="ATPM_f" label="ATPM_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Biomasa" />
+          <attvalue for="3" value="0.0018569780043307036" />
+        </attvalues>
+      </node>
+      <node id="ATPS4r_f" label="ATPS4r_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.010874364153622047" />
+        </attvalues>
+      </node>
+      <node id="Biomass_Ecoli_core_f" label="Biomass_Ecoli_core_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Biomasa" />
+          <attvalue for="3" value="0.08781021192089779" />
+        </attvalues>
+      </node>
+      <node id="CO2t_f" label="CO2t_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004799088569862591" />
+        </attvalues>
+      </node>
+      <node id="CS_f" label="CS_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.006429548843463424" />
+        </attvalues>
+      </node>
+      <node id="CYTBD_f" label="CYTBD_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.011223505974100278" />
+        </attvalues>
+      </node>
+      <node id="D_LACt2_f" label="D_LACt2_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004880337956652684" />
+        </attvalues>
+      </node>
+      <node id="ENO_f" label="ENO_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.004353296821824685" />
+        </attvalues>
+      </node>
+      <node id="ETOHt2r_f" label="ETOHt2r_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.005171080830890144" />
+        </attvalues>
+      </node>
+      <node id="EX_ac_e_f" label="EX_ac_e_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.004867911317180725" />
+        </attvalues>
+      </node>
+      <node id="EX_acald_e_f" label="EX_acald_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0042280217255476656" />
+        </attvalues>
+      </node>
+      <node id="EX_akg_e_f" label="EX_akg_e_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.004069840593685688" />
+        </attvalues>
+      </node>
+      <node id="EX_co2_e_f" label="EX_co2_e_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.004799088569862591" />
+        </attvalues>
+      </node>
+      <node id="EX_etoh_e_f" label="EX_etoh_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0046291927916256095" />
+        </attvalues>
+      </node>
+      <node id="EX_for_e_f" label="EX_for_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.006554718989806037" />
+        </attvalues>
+      </node>
+      <node id="EX_fru_e_f" label="EX_fru_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0019508591335397614" />
+        </attvalues>
+      </node>
+      <node id="EX_fum_e_f" label="EX_fum_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0019508591335397614" />
+        </attvalues>
+      </node>
+      <node id="EX_glc__D_e_f" label="EX_glc__D_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0019508591335397614" />
+        </attvalues>
+      </node>
+      <node id="EX_gln__L_e_f" label="EX_gln__L_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0019508591335397614" />
+        </attvalues>
+      </node>
+      <node id="EX_glu__L_e_f" label="EX_glu__L_e_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0035073290277520645" />
+        </attvalues>
+      </node>
+      <node id="EX_h_e_f" label="EX_h_e_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0019109119926141325" />
+        </attvalues>
+      </node>
+      <node id="EX_h2o_e_f" label="EX_h2o_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0026196573658699386" />
+        </attvalues>
+      </node>
+      <node id="EX_lac__D_e_f" label="EX_lac__D_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.00433844991738815" />
+        </attvalues>
+      </node>
+      <node id="EX_mal__L_e_f" label="EX_mal__L_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0019508591335397614" />
+        </attvalues>
+      </node>
+      <node id="EX_nh4_e_f" label="EX_nh4_e_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0037364938013387467" />
+        </attvalues>
+      </node>
+      <node id="EX_o2_e_f" label="EX_o2_e_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.003336150578013726" />
+        </attvalues>
+      </node>
+      <node id="EX_pi_e_f" label="EX_pi_e_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.004242000176736485" />
+        </attvalues>
+      </node>
+      <node id="EX_pyr_e_f" label="EX_pyr_e_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.003521325051552386" />
+        </attvalues>
+      </node>
+      <node id="EX_succ_e_f" label="EX_succ_e_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.005448952211289484" />
+        </attvalues>
+      </node>
+      <node id="FBA_f" label="FBA_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.008287256825622646" />
+        </attvalues>
+      </node>
+      <node id="FBP_f" label="FBP_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.008491875771806753" />
+        </attvalues>
+      </node>
+      <node id="FORt2_f" label="FORt2_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.007096607029070572" />
+        </attvalues>
+      </node>
+      <node id="FORti_f" label="FORti_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.010832611424932491" />
+        </attvalues>
+      </node>
+      <node id="FRD7_f" label="FRD7_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Sin asignar" />
+          <attvalue for="3" value="0.014358400713298938" />
+        </attvalues>
+      </node>
+      <node id="FRUpts2_f" label="FRUpts2_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.003108015425081389" />
+        </attvalues>
+      </node>
+      <node id="FUM_f" label="FUM_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.007091169471746459" />
+        </attvalues>
+      </node>
+      <node id="FUMt2_2_f" label="FUMt2_2_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0030346352120688294" />
+        </attvalues>
+      </node>
+      <node id="G6PDH2r_f" label="G6PDH2r_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.009913844207390263" />
+        </attvalues>
+      </node>
+      <node id="GAPD_f" label="GAPD_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.009883387183194146" />
+        </attvalues>
+      </node>
+      <node id="GLCpts_f" label="GLCpts_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.003108015425081389" />
+        </attvalues>
+      </node>
+      <node id="GLNS_f" label="GLNS_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Aminoacidos" />
+          <attvalue for="3" value="0.006490248724438534" />
+        </attvalues>
+      </node>
+      <node id="GLNabc_f" label="GLNabc_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.002438813184520866" />
+        </attvalues>
+      </node>
+      <node id="GLUDy_f" label="GLUDy_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Aminoacidos" />
+          <attvalue for="3" value="0.0064911397519205275" />
+        </attvalues>
+      </node>
+      <node id="GLUN_f" label="GLUN_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Aminoacidos" />
+          <attvalue for="3" value="0.004697333081111472" />
+        </attvalues>
+      </node>
+      <node id="GLUSy_f" label="GLUSy_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Aminoacidos" />
+          <attvalue for="3" value="0.009457724508483544" />
+        </attvalues>
+      </node>
+      <node id="GLUt2r_f" label="GLUt2r_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004049217067016599" />
+        </attvalues>
+      </node>
+      <node id="GND_f" label="GND_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.008616722535683893" />
+        </attvalues>
+      </node>
+      <node id="H2Ot_f" label="H2Ot_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0026196573658699386" />
+        </attvalues>
+      </node>
+      <node id="ICDHyr_f" label="ICDHyr_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.009350985570224837" />
+        </attvalues>
+      </node>
+      <node id="ICL_f" label="ICL_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.006438909001762589" />
+        </attvalues>
+      </node>
+      <node id="LDH_D_f" label="LDH_D_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.006758782584440765" />
+        </attvalues>
+      </node>
+      <node id="MALS_f" label="MALS_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.008420505756715988" />
+        </attvalues>
+      </node>
+      <node id="MALt2_2_f" label="MALt2_2_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0030346352120688294" />
+        </attvalues>
+      </node>
+      <node id="MDH_f" label="MDH_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.006794145816251148" />
+        </attvalues>
+      </node>
+      <node id="ME1_f" label="ME1_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.006794145816251148" />
+        </attvalues>
+      </node>
+      <node id="ME2_f" label="ME2_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.008507530667483595" />
+        </attvalues>
+      </node>
+      <node id="NADH16_f" label="NADH16_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.013924692729327405" />
+        </attvalues>
+      </node>
+      <node id="NADTRHD_f" label="NADTRHD_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.0033293420057632648" />
+        </attvalues>
+      </node>
+      <node id="NH4t_f" label="NH4t_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0037364938013387467" />
+        </attvalues>
+      </node>
+      <node id="O2t_f" label="O2t_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.003336150578013726" />
+        </attvalues>
+      </node>
+      <node id="PDH_f" label="PDH_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.007469691862008963" />
+        </attvalues>
+      </node>
+      <node id="PFK_f" label="PFK_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.007207829656536315" />
+        </attvalues>
+      </node>
+      <node id="PFL_f" label="PFL_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.006271000144779161" />
+        </attvalues>
+      </node>
+      <node id="PGI_f" label="PGI_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.0070017676389280145" />
+        </attvalues>
+      </node>
+      <node id="PGK_f" label="PGK_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.0045743544276146105" />
+        </attvalues>
+      </node>
+      <node id="PGL_f" label="PGL_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.005153419848730558" />
+        </attvalues>
+      </node>
+      <node id="PGM_f" label="PGM_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.004353296821824685" />
+        </attvalues>
+      </node>
+      <node id="PIt2r_f" label="PIt2r_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004783888216001019" />
+        </attvalues>
+      </node>
+      <node id="PPC_f" label="PPC_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.008063491557817918" />
+        </attvalues>
+      </node>
+      <node id="PPCK_f" label="PPCK_f">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.004039860266755559" />
+        </attvalues>
+      </node>
+      <node id="PPS_f" label="PPS_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.00389920444076985" />
+        </attvalues>
+      </node>
+      <node id="PTAr_f" label="PTAr_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.007774856146412614" />
+        </attvalues>
+      </node>
+      <node id="PYK_f" label="PYK_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.006645235414965015" />
+        </attvalues>
+      </node>
+      <node id="PYRt2_f" label="PYRt2_f">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.00406321309081692" />
+        </attvalues>
+      </node>
+      <node id="RPE_f" label="RPE_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.008581817291376435" />
+        </attvalues>
+      </node>
+      <node id="RPI_f" label="RPI_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.006028274033148925" />
+        </attvalues>
+      </node>
+      <node id="SUCCt2_2_f" label="SUCCt2_2_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.006532728289818551" />
+        </attvalues>
+      </node>
+      <node id="SUCCt3_f" label="SUCCt3_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.00840084767509921" />
+        </attvalues>
+      </node>
+      <node id="SUCDi_f" label="SUCDi_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.015138651614807153" />
+        </attvalues>
+      </node>
+      <node id="SUCOAS_f" label="SUCOAS_f">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.011002044495622091" />
+        </attvalues>
+      </node>
+      <node id="TALA_f" label="TALA_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.012169733851826991" />
+        </attvalues>
+      </node>
+      <node id="THD2_f" label="THD2_f">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.00776607505893931" />
+        </attvalues>
+      </node>
+      <node id="TKT1_f" label="TKT1_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.011006669142244732" />
+        </attvalues>
+      </node>
+      <node id="TKT2_f" label="TKT2_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.011702422732387616" />
+        </attvalues>
+      </node>
+      <node id="TPI_f" label="TPI_f">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.006028175968163897" />
+        </attvalues>
+      </node>
+      <node id="ACALD_b" label="ACALD_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.0069573217318704885" />
+        </attvalues>
+      </node>
+      <node id="ACALDt_b" label="ACALDt_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.005358029627754146" />
+        </attvalues>
+      </node>
+      <node id="ACKr_b" label="ACKr_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.010449551406215386" />
+        </attvalues>
+      </node>
+      <node id="ACONTa_b" label="ACONTa_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.008038957911987325" />
+        </attvalues>
+      </node>
+      <node id="ACONTb_b" label="ACONTb_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.006438909001762589" />
+        </attvalues>
+      </node>
+      <node id="ACt2r_b" label="ACt2r_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0076711406898117875" />
+        </attvalues>
+      </node>
+      <node id="ADK1_b" label="ADK1_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Nucleotidos" />
+          <attvalue for="3" value="0.008169745124293708" />
+        </attvalues>
+      </node>
+      <node id="AKGt2r_b" label="AKGt2r_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.005572407991721912" />
+        </attvalues>
+      </node>
+      <node id="ALCD2x_b" label="ALCD2x_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.008477922670954277" />
+        </attvalues>
+      </node>
+      <node id="ATPS4r_b" label="ATPS4r_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Fosforilacion oxidativa" />
+          <attvalue for="3" value="0.004013061758135899" />
+        </attvalues>
+      </node>
+      <node id="CO2t_b" label="CO2t_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.006701716320092184" />
+        </attvalues>
+      </node>
+      <node id="D_LACt2_b" label="D_LACt2_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.006278785451812695" />
+        </attvalues>
+      </node>
+      <node id="ENO_b" label="ENO_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.0027307991910753317" />
+        </attvalues>
+      </node>
+      <node id="ETOHt2r_b" label="ETOHt2r_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.007043368788768794" />
+        </attvalues>
+      </node>
+      <node id="EX_ac_e_b" label="EX_ac_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_acald_e_b" label="EX_acald_e_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_akg_e_b" label="EX_akg_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_co2_e_b" label="EX_co2_e_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_etoh_e_b" label="EX_etoh_e_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_for_e_b" label="EX_for_e_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_fru_e_b" label="EX_fru_e_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_fum_e_b" label="EX_fum_e_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_glc__D_e_b" label="EX_glc__D_e_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_gln__L_e_b" label="EX_gln__L_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_glu__L_e_b" label="EX_glu__L_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_h_e_b" label="EX_h_e_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_h2o_e_b" label="EX_h2o_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_lac__D_e_b" label="EX_lac__D_e_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_mal__L_e_b" label="EX_mal__L_e_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_nh4_e_b" label="EX_nh4_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_o2_e_b" label="EX_o2_e_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_pi_e_b" label="EX_pi_e_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_pyr_e_b" label="EX_pyr_e_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="EX_succ_e_b" label="EX_succ_e_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Intercambio" />
+          <attvalue for="3" value="0.0013690239533495987" />
+        </attvalues>
+      </node>
+      <node id="FBA_b" label="FBA_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.009406420023036387" />
+        </attvalues>
+      </node>
+      <node id="FUM_b" label="FUM_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.0055954540990213455" />
+        </attvalues>
+      </node>
+      <node id="G6PDH2r_b" label="G6PDH2r_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.00642912182233205" />
+        </attvalues>
+      </node>
+      <node id="GAPD_b" label="GAPD_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.009939130125532852" />
+        </attvalues>
+      </node>
+      <node id="GLUDy_b" label="GLUDy_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Aminoacidos" />
+          <attvalue for="3" value="0.009166503709273138" />
+        </attvalues>
+      </node>
+      <node id="GLUt2r_b" label="GLUt2r_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004093138821875906" />
+        </attvalues>
+      </node>
+      <node id="H2Ot_b" label="H2Ot_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0015736428995337048" />
+        </attvalues>
+      </node>
+      <node id="ICDHyr_b" label="ICDHyr_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.010948032109046628" />
+        </attvalues>
+      </node>
+      <node id="LDH_D_b" label="LDH_D_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.0065311434329888745" />
+        </attvalues>
+      </node>
+      <node id="MDH_b" label="MDH_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.00687641820515869" />
+        </attvalues>
+      </node>
+      <node id="NH4t_b" label="NH4t_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004201493335716961" />
+        </attvalues>
+      </node>
+      <node id="O2t_b" label="O2t_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.0032595092809708523" />
+        </attvalues>
+      </node>
+      <node id="PGI_b" label="PGI_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.006924494551739317" />
+        </attvalues>
+      </node>
+      <node id="PGK_b" label="PGK_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.01021959766780478" />
+        </attvalues>
+      </node>
+      <node id="PGM_b" label="PGM_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.004291019322817612" />
+        </attvalues>
+      </node>
+      <node id="PIt2r_b" label="PIt2r_b">
+        <attvalues>
+          <attvalue for="0" value="C2" />
+          <attvalue for="1" value="C2 biomasa y glucolisis" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.006025145995693588" />
+        </attvalues>
+      </node>
+      <node id="PTAr_b" label="PTAr_b">
+        <attvalues>
+          <attvalue for="0" value="C3" />
+          <attvalue for="1" value="C3 ciclo TCA y anapleroticas" />
+          <attvalue for="2" value="Piruvato y anapleroticas" />
+          <attvalue for="3" value="0.009908940575733743" />
+        </attvalues>
+      </node>
+      <node id="PYRt2_b" label="PYRt2_b">
+        <attvalues>
+          <attvalue for="0" value="C1" />
+          <attvalue for="1" value="C1 fermentacion e intercambio" />
+          <attvalue for="2" value="Transporte" />
+          <attvalue for="3" value="0.004129944974390478" />
+        </attvalues>
+      </node>
+      <node id="RPE_b" label="RPE_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.006347419062445406" />
+        </attvalues>
+      </node>
+      <node id="RPI_b" label="RPI_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.008581817291376435" />
+        </attvalues>
+      </node>
+      <node id="SUCOAS_b" label="SUCOAS_b">
+        <attvalues>
+          <attvalue for="0" value="C4" />
+          <attvalue for="1" value="C4 cadena respiratoria y succinato" />
+          <attvalue for="2" value="Ciclo TCA y glioxilato" />
+          <attvalue for="3" value="0.022933384056187153" />
+        </attvalues>
+      </node>
+      <node id="TALA_b" label="TALA_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.012279498221681529" />
+        </attvalues>
+      </node>
+      <node id="TKT1_b" label="TKT1_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.012169733851826991" />
+        </attvalues>
+      </node>
+      <node id="TKT2_b" label="TKT2_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Pentosas fosfato" />
+          <attvalue for="3" value="0.010302738606611808" />
+        </attvalues>
+      </node>
+      <node id="TPI_b" label="TPI_b">
+        <attvalues>
+          <attvalue for="0" value="C5" />
+          <attvalue for="1" value="C5 pentosas fosfato y glucolisis" />
+          <attvalue for="2" value="Glucolisis/Gluconeogenesis" />
+          <attvalue for="3" value="0.004747268008222087" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ACALD_f" target="Biomass_Ecoli_core_f" id="0" weight="0.001679598653094355" />
+      <edge source="ACALD_f" target="CS_f" id="1" weight="0.0004481558922819668" />
+      <edge source="ACALD_f" target="CYTBD_f" id="2" weight="1.147723490456679e-05" />
+      <edge source="ACALD_f" target="GLUSy_f" id="3" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="MALS_f" id="4" weight="0.0004481558922819668" />
+      <edge source="ACALD_f" target="NADH16_f" id="5" weight="0.00018109003879988704" />
+      <edge source="ACALD_f" target="PTAr_f" id="6" weight="0.0004481558922819668" />
+      <edge source="ACALD_f" target="PYK_f" id="7" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="THD2_f" id="8" weight="0.00015813556899075347" />
+      <edge source="ACALD_f" target="ACALD_b" id="9" weight="0.0006120300787250036" />
+      <edge source="ACALD_f" target="ACt2r_b" id="10" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="AKGt2r_b" id="11" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="ALCD2x_b" id="12" weight="0.00016387418644303687" />
+      <edge source="ACALD_f" target="ATPS4r_b" id="13" weight="1.7215852356850184e-05" />
+      <edge source="ACALD_f" target="D_LACt2_b" id="14" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="ETOHt2r_b" id="15" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="G6PDH2r_b" id="16" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="GAPD_b" id="17" weight="0.00016387418644303687" />
+      <edge source="ACALD_f" target="GLUDy_b" id="18" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="GLUt2r_b" id="19" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="LDH_D_b" id="20" weight="0.00016387418644303687" />
+      <edge source="ACALD_f" target="MDH_b" id="21" weight="0.00016387418644303687" />
+      <edge source="ACALD_f" target="PIt2r_b" id="22" weight="5.738617452283395e-06" />
+      <edge source="ACALD_f" target="PYRt2_b" id="23" weight="5.738617452283395e-06" />
+      <edge source="ACALDt_f" target="ACALD_f" id="24" weight="0.0015432098765432098" />
+      <edge source="ACALDt_f" target="ACALDt_b" id="25" weight="0.0015432098765432098" />
+      <edge source="ACALDt_f" target="ALCD2x_b" id="26" weight="0.0015432098765432098" />
+      <edge source="ACKr_f" target="ATPS4r_f" id="27" weight="2.802043474264912e-05" />
+      <edge source="ACKr_f" target="PYK_f" id="28" weight="2.802043474264912e-05" />
+      <edge source="ACKr_f" target="ACKr_b" id="29" weight="0.003500242656964871" />
+      <edge source="ACKr_f" target="ADK1_b" id="30" weight="5.604086948529824e-05" />
+      <edge source="ACKr_f" target="PGK_b" id="31" weight="2.802043474264912e-05" />
+      <edge source="ACKr_f" target="PTAr_b" id="32" weight="0.003472222222222222" />
+      <edge source="ACKr_f" target="SUCOAS_b" id="33" weight="2.802043474264912e-05" />
+      <edge source="ACONTa_f" target="ACONTb_f" id="34" weight="0.0034951230415219336" />
+      <edge source="ACONTa_f" target="ATPM_f" id="35" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="Biomass_Ecoli_core_f" id="36" weight="0.0013696980023157306" />
+      <edge source="ACONTa_f" target="CS_f" id="37" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="FBP_f" id="38" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="FUM_f" id="39" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="GLNabc_f" id="40" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="GLUDy_f" id="41" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="GLUN_f" id="42" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="MALS_f" id="43" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="PGL_f" id="44" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="PPC_f" id="45" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="PPS_f" id="46" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="ACONTa_b" id="47" weight="0.0034951230415219336" />
+      <edge source="ACONTa_f" target="ATPS4r_b" id="48" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="ENO_b" id="49" weight="2.2900819299711263e-05" />
+      <edge source="ACONTa_f" target="H2Ot_b" id="50" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_f" target="ICDHyr_f" id="51" weight="0.0023148148148148147" />
+      <edge source="ACONTb_f" target="ICL_f" id="52" weight="0.0023148148148148147" />
+      <edge source="ACONTb_f" target="ACONTb_b" id="53" weight="0.0023148148148148147" />
+      <edge source="ACt2r_f" target="ACKr_f" id="54" weight="0.003472222222222222" />
+      <edge source="ACt2r_f" target="CYTBD_f" id="55" weight="1.147723490456679e-05" />
+      <edge source="ACt2r_f" target="GLUSy_f" id="56" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="NADH16_f" id="57" weight="2.295446980913358e-05" />
+      <edge source="ACt2r_f" target="PYK_f" id="58" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="ACALD_b" id="59" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="ACt2r_b" id="60" weight="0.0034779608396745057" />
+      <edge source="ACt2r_f" target="AKGt2r_b" id="61" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="ALCD2x_b" id="62" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="ATPS4r_b" id="63" weight="1.7215852356850184e-05" />
+      <edge source="ACt2r_f" target="D_LACt2_b" id="64" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="ETOHt2r_b" id="65" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="G6PDH2r_b" id="66" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="GAPD_b" id="67" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="GLUDy_b" id="68" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="GLUt2r_b" id="69" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="LDH_D_b" id="70" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="MDH_b" id="71" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="PIt2r_b" id="72" weight="5.738617452283395e-06" />
+      <edge source="ACt2r_f" target="PYRt2_b" id="73" weight="5.738617452283395e-06" />
+      <edge source="ADK1_f" target="ATPS4r_f" id="74" weight="5.604086948529824e-05" />
+      <edge source="ADK1_f" target="PYK_f" id="75" weight="5.604086948529824e-05" />
+      <edge source="ADK1_f" target="ACKr_b" id="76" weight="5.604086948529824e-05" />
+      <edge source="ADK1_f" target="ADK1_b" id="77" weight="0.00011208173897059648" />
+      <edge source="ADK1_f" target="PGK_b" id="78" weight="5.604086948529824e-05" />
+      <edge source="ADK1_f" target="SUCOAS_b" id="79" weight="5.604086948529824e-05" />
+      <edge source="AKGDH_f" target="NADH16_f" id="80" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="PPC_f" id="81" weight="0.0005787037037037037" />
+      <edge source="AKGDH_f" target="THD2_f" id="82" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="ACALD_b" id="83" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="ALCD2x_b" id="84" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="CO2t_b" id="85" weight="0.0005787037037037037" />
+      <edge source="AKGDH_f" target="GAPD_b" id="86" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="ICDHyr_b" id="87" weight="0.0005787037037037037" />
+      <edge source="AKGDH_f" target="LDH_D_b" id="88" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="MDH_b" id="89" weight="0.00015813556899075347" />
+      <edge source="AKGDH_f" target="SUCOAS_b" id="90" weight="0.006944444444444444" />
+      <edge source="AKGt2r_f" target="AKGDH_f" id="91" weight="0.0003902359835039445" />
+      <edge source="AKGt2r_f" target="CYTBD_f" id="92" weight="1.147723490456679e-05" />
+      <edge source="AKGt2r_f" target="GLUSy_f" id="93" weight="0.00039597460095622787" />
+      <edge source="AKGt2r_f" target="NADH16_f" id="94" weight="2.295446980913358e-05" />
+      <edge source="AKGt2r_f" target="PYK_f" id="95" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="ACALD_b" id="96" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="ACt2r_b" id="97" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="AKGt2r_b" id="98" weight="0.00039597460095622787" />
+      <edge source="AKGt2r_f" target="ALCD2x_b" id="99" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="ATPS4r_b" id="100" weight="1.7215852356850184e-05" />
+      <edge source="AKGt2r_f" target="D_LACt2_b" id="101" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="ETOHt2r_b" id="102" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="G6PDH2r_b" id="103" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="GAPD_b" id="104" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="GLUDy_b" id="105" weight="0.00039597460095622787" />
+      <edge source="AKGt2r_f" target="GLUt2r_b" id="106" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="ICDHyr_b" id="107" weight="0.0003902359835039445" />
+      <edge source="AKGt2r_f" target="LDH_D_b" id="108" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="MDH_b" id="109" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="PIt2r_b" id="110" weight="5.738617452283395e-06" />
+      <edge source="AKGt2r_f" target="PYRt2_b" id="111" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="ACALD_f" id="112" weight="0.0015432098765432098" />
+      <edge source="ALCD2x_f" target="CYTBD_f" id="113" weight="1.147723490456679e-05" />
+      <edge source="ALCD2x_f" target="GLUSy_f" id="114" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="NADH16_f" id="115" weight="0.00018109003879988704" />
+      <edge source="ALCD2x_f" target="PYK_f" id="116" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="THD2_f" id="117" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_f" target="ACALD_b" id="118" weight="0.00016387418644303687" />
+      <edge source="ALCD2x_f" target="ACALDt_b" id="119" weight="0.0015432098765432098" />
+      <edge source="ALCD2x_f" target="ACt2r_b" id="120" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="AKGt2r_b" id="121" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="ALCD2x_b" id="122" weight="0.0017070840629862466" />
+      <edge source="ALCD2x_f" target="ATPS4r_b" id="123" weight="1.7215852356850184e-05" />
+      <edge source="ALCD2x_f" target="D_LACt2_b" id="124" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="ETOHt2r_b" id="125" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="G6PDH2r_b" id="126" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="GAPD_b" id="127" weight="0.00016387418644303687" />
+      <edge source="ALCD2x_f" target="GLUDy_b" id="128" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="GLUt2r_b" id="129" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="LDH_D_b" id="130" weight="0.00016387418644303687" />
+      <edge source="ALCD2x_f" target="MDH_b" id="131" weight="0.00016387418644303687" />
+      <edge source="ALCD2x_f" target="PIt2r_b" id="132" weight="5.738617452283395e-06" />
+      <edge source="ALCD2x_f" target="PYRt2_b" id="133" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="ATPS4r_f" id="134" weight="6.724904338235789e-05" />
+      <edge source="ATPM_f" target="CYTBD_f" id="135" weight="1.147723490456679e-05" />
+      <edge source="ATPM_f" target="GAPD_f" id="136" weight="3.922860863970877e-05" />
+      <edge source="ATPM_f" target="GLUSy_f" id="137" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="NADH16_f" id="138" weight="2.295446980913358e-05" />
+      <edge source="ATPM_f" target="PTAr_f" id="139" weight="3.922860863970877e-05" />
+      <edge source="ATPM_f" target="PYK_f" id="140" weight="3.375905219493251e-05" />
+      <edge source="ATPM_f" target="ACALD_b" id="141" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="ACKr_b" id="142" weight="2.802043474264912e-05" />
+      <edge source="ATPM_f" target="ACt2r_b" id="143" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="ADK1_b" id="144" weight="5.604086948529824e-05" />
+      <edge source="ATPM_f" target="AKGt2r_b" id="145" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="ALCD2x_b" id="146" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="ATPS4r_b" id="147" weight="1.7215852356850184e-05" />
+      <edge source="ATPM_f" target="D_LACt2_b" id="148" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="ETOHt2r_b" id="149" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="G6PDH2r_b" id="150" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="GAPD_b" id="151" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="GLUDy_b" id="152" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="GLUt2r_b" id="153" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="LDH_D_b" id="154" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="MDH_b" id="155" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="PGK_b" id="156" weight="2.802043474264912e-05" />
+      <edge source="ATPM_f" target="PIt2r_b" id="157" weight="4.4967226091992166e-05" />
+      <edge source="ATPM_f" target="PYRt2_b" id="158" weight="5.738617452283395e-06" />
+      <edge source="ATPM_f" target="SUCOAS_b" id="159" weight="6.724904338235789e-05" />
+      <edge source="ATPS4r_f" target="ACKr_f" id="160" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="ACONTb_f" id="161" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="ADK1_f" id="162" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="ATPM_f" id="163" weight="5.559132649946856e-05" />
+      <edge source="ATPS4r_f" target="Biomass_Ecoli_core_f" id="164" weight="0.003324917237933215" />
+      <edge source="ATPS4r_f" target="CS_f" id="165" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="CYTBD_f" id="166" weight="3.443170471370037e-05" />
+      <edge source="ATPS4r_f" target="FBP_f" id="167" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="FUM_f" id="168" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="GLNS_f" id="169" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="GLNabc_f" id="170" weight="5.559132649946856e-05" />
+      <edge source="ATPS4r_f" target="GLUDy_f" id="171" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="GLUN_f" id="172" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="GLUSy_f" id="173" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="MALS_f" id="174" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="NADH16_f" id="175" weight="6.886340942740074e-05" />
+      <edge source="ATPS4r_f" target="PFK_f" id="176" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="PGK_f" id="177" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="PGL_f" id="178" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="PPC_f" id="179" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="PPCK_f" id="180" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="PPS_f" id="181" weight="5.559132649946856e-05" />
+      <edge source="ATPS4r_f" target="PYK_f" id="182" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="SUCOAS_f" id="183" weight="3.26905071997573e-05" />
+      <edge source="ATPS4r_f" target="ACALD_b" id="184" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="ACONTa_b" id="185" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="ACt2r_b" id="186" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="AKGt2r_b" id="187" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="ALCD2x_b" id="188" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="ATPS4r_b" id="189" weight="0.0001072388835700191" />
+      <edge source="ATPS4r_f" target="D_LACt2_b" id="190" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="ENO_b" id="191" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="ETOHt2r_b" id="192" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="G6PDH2r_b" id="193" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="GAPD_b" id="194" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="GLUDy_b" id="195" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="GLUt2r_b" id="196" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="H2Ot_b" id="197" weight="2.2900819299711263e-05" />
+      <edge source="ATPS4r_f" target="LDH_D_b" id="198" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="MDH_b" id="199" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="PIt2r_b" id="200" weight="1.7215852356850184e-05" />
+      <edge source="ATPS4r_f" target="PYRt2_b" id="201" weight="1.7215852356850184e-05" />
+      <edge source="Biomass_Ecoli_core_f" target="ACALD_f" id="202" weight="0.000991730830947548" />
+      <edge source="Biomass_Ecoli_core_f" target="AKGDH_f" id="203" weight="0.0025988006582134925" />
+      <edge source="Biomass_Ecoli_core_f" target="ATPS4r_f" id="204" weight="0.004022165284698825" />
+      <edge source="Biomass_Ecoli_core_f" target="CYTBD_f" id="205" weight="0.0006864534196421398" />
+      <edge source="Biomass_Ecoli_core_f" target="G6PDH2r_f" id="206" weight="0.0016728058135404523" />
+      <edge source="Biomass_Ecoli_core_f" target="GAPD_f" id="207" weight="0.0023462630827409815" />
+      <edge source="Biomass_Ecoli_core_f" target="GLUDy_f" id="208" weight="0.0016728058135404523" />
+      <edge source="Biomass_Ecoli_core_f" target="GLUSy_f" id="209" weight="0.001950296537087014" />
+      <edge source="Biomass_Ecoli_core_f" target="GND_f" id="210" weight="0.0016728058135404523" />
+      <edge source="Biomass_Ecoli_core_f" target="ICDHyr_f" id="211" weight="0.0016728058135404523" />
+      <edge source="Biomass_Ecoli_core_f" target="ME2_f" id="212" weight="0.0016728058135404523" />
+      <edge source="Biomass_Ecoli_core_f" target="NADH16_f" id="213" weight="0.0019338137024944822" />
+      <edge source="Biomass_Ecoli_core_f" target="PDH_f" id="214" weight="0.000991730830947548" />
+      <edge source="Biomass_Ecoli_core_f" target="PFL_f" id="215" weight="0.000991730830947548" />
+      <edge source="Biomass_Ecoli_core_f" target="PTAr_f" id="216" weight="0.0023462630827409815" />
+      <edge source="Biomass_Ecoli_core_f" target="PYK_f" id="217" weight="0.0020191289117789135" />
+      <edge source="Biomass_Ecoli_core_f" target="SUCOAS_f" id="218" weight="0.000991730830947548" />
+      <edge source="Biomass_Ecoli_core_f" target="THD2_f" id="219" weight="0.0022337126767506548" />
+      <edge source="Biomass_Ecoli_core_f" target="ACALD_b" id="220" weight="0.0009041335730312723" />
+      <edge source="Biomass_Ecoli_core_f" target="ACKr_b" id="221" weight="0.0016759022019578436" />
+      <edge source="Biomass_Ecoli_core_f" target="ACt2r_b" id="222" weight="0.0003432267098210699" />
+      <edge source="Biomass_Ecoli_core_f" target="ADK1_b" id="223" weight="0.0033518044039156872" />
+      <edge source="Biomass_Ecoli_core_f" target="AKGt2r_b" id="224" weight="0.001950296537087014" />
+      <edge source="Biomass_Ecoli_core_f" target="ALCD2x_b" id="225" weight="0.0009041335730312723" />
+      <edge source="Biomass_Ecoli_core_f" target="ATPS4r_b" id="226" weight="0.0010296801294632095" />
+      <edge source="Biomass_Ecoli_core_f" target="D_LACt2_b" id="227" weight="0.0003432267098210699" />
+      <edge source="Biomass_Ecoli_core_f" target="ETOHt2r_b" id="228" weight="0.0003432267098210699" />
+      <edge source="Biomass_Ecoli_core_f" target="G6PDH2r_b" id="229" weight="0.0003432267098210699" />
+      <edge source="Biomass_Ecoli_core_f" target="GAPD_b" id="230" weight="0.0009041335730312723" />
+      <edge source="Biomass_Ecoli_core_f" target="GLUDy_b" id="231" weight="0.001950296537087014" />
+      <edge source="Biomass_Ecoli_core_f" target="GLUt2r_b" id="232" weight="0.0003432267098210699" />
+      <edge source="Biomass_Ecoli_core_f" target="ICDHyr_b" id="233" weight="0.0016070698272659441" />
+      <edge source="Biomass_Ecoli_core_f" target="LDH_D_b" id="234" weight="0.0009041335730312723" />
+      <edge source="Biomass_Ecoli_core_f" target="MDH_b" id="235" weight="0.0009041335730312723" />
+      <edge source="Biomass_Ecoli_core_f" target="PGK_b" id="236" weight="0.0016759022019578436" />
+      <edge source="Biomass_Ecoli_core_f" target="PIt2r_b" id="237" weight="0.0026894897925620513" />
+      <edge source="Biomass_Ecoli_core_f" target="PTAr_b" id="238" weight="0.000991730830947548" />
+      <edge source="Biomass_Ecoli_core_f" target="PYRt2_b" id="239" weight="0.0003432267098210699" />
+      <edge source="Biomass_Ecoli_core_f" target="SUCOAS_b" id="240" weight="0.004022165284698825" />
+      <edge source="CO2t_f" target="PPC_f" id="241" weight="0.0005787037037037037" />
+      <edge source="CO2t_f" target="CO2t_b" id="242" weight="0.0005787037037037037" />
+      <edge source="CO2t_f" target="ICDHyr_b" id="243" weight="0.0005787037037037037" />
+      <edge source="CS_f" target="ACALD_f" id="244" weight="0.0002646167967734533" />
+      <edge source="CS_f" target="ACONTa_f" id="245" weight="0.006944444444444444" />
+      <edge source="CS_f" target="AKGDH_f" id="246" weight="0.0002646167967734533" />
+      <edge source="CS_f" target="CYTBD_f" id="247" weight="1.147723490456679e-05" />
+      <edge source="CS_f" target="GLUSy_f" id="248" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="NADH16_f" id="249" weight="2.295446980913358e-05" />
+      <edge source="CS_f" target="PDH_f" id="250" weight="0.0002646167967734533" />
+      <edge source="CS_f" target="PFL_f" id="251" weight="0.0002646167967734533" />
+      <edge source="CS_f" target="PYK_f" id="252" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="SUCOAS_f" id="253" weight="0.0002646167967734533" />
+      <edge source="CS_f" target="ACALD_b" id="254" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="ACt2r_b" id="255" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="AKGt2r_b" id="256" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="ALCD2x_b" id="257" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="ATPS4r_b" id="258" weight="1.7215852356850184e-05" />
+      <edge source="CS_f" target="D_LACt2_b" id="259" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="ETOHt2r_b" id="260" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="G6PDH2r_b" id="261" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="GAPD_b" id="262" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="GLUDy_b" id="263" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="GLUt2r_b" id="264" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="LDH_D_b" id="265" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="MDH_b" id="266" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="PIt2r_b" id="267" weight="5.738617452283395e-06" />
+      <edge source="CS_f" target="PTAr_b" id="268" weight="0.0002646167967734533" />
+      <edge source="CS_f" target="PYRt2_b" id="269" weight="5.738617452283395e-06" />
+      <edge source="CYTBD_f" target="ACONTb_f" id="270" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="ACt2r_f" id="271" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="AKGt2r_f" id="272" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="ATPM_f" id="273" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="ATPS4r_f" id="274" weight="0.00029708853238265" />
+      <edge source="CYTBD_f" target="Biomass_Ecoli_core_f" id="275" weight="0.0013696980023157306" />
+      <edge source="CYTBD_f" target="CS_f" id="276" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="D_LACt2_f" id="277" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="ETOHt2r_f" id="278" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="EX_h_e_f" id="279" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="FBP_f" id="280" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="FORt2_f" id="281" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="FUM_f" id="282" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="FUMt2_2_f" id="283" weight="0.000148544266191325" />
+      <edge source="CYTBD_f" target="GLNabc_f" id="284" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="GLUDy_f" id="285" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="GLUN_f" id="286" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="GLUt2r_f" id="287" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="MALS_f" id="288" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="MALt2_2_f" id="289" weight="0.000148544266191325" />
+      <edge source="CYTBD_f" target="NADH16_f" id="290" weight="0.003472222222222222" />
+      <edge source="CYTBD_f" target="PGL_f" id="291" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="PIt2r_f" id="292" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="PPC_f" id="293" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="PPS_f" id="294" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="PYRt2_f" id="295" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="SUCCt2_2_f" id="296" weight="0.000148544266191325" />
+      <edge source="CYTBD_f" target="SUCCt3_f" id="297" weight="7.42721330956625e-05" />
+      <edge source="CYTBD_f" target="SUCDi_f" id="298" weight="0.003472222222222222" />
+      <edge source="CYTBD_f" target="THD2_f" id="299" weight="0.000148544266191325" />
+      <edge source="CYTBD_f" target="ACONTa_b" id="300" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="ATPS4r_b" id="301" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="ENO_b" id="302" weight="2.2900819299711263e-05" />
+      <edge source="CYTBD_f" target="H2Ot_b" id="303" weight="2.2900819299711263e-05" />
+      <edge source="D_LACt2_f" target="CYTBD_f" id="304" weight="1.147723490456679e-05" />
+      <edge source="D_LACt2_f" target="GLUSy_f" id="305" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="LDH_D_f" id="306" weight="0.003472222222222222" />
+      <edge source="D_LACt2_f" target="NADH16_f" id="307" weight="2.295446980913358e-05" />
+      <edge source="D_LACt2_f" target="PYK_f" id="308" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="ACALD_b" id="309" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="ACt2r_b" id="310" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="AKGt2r_b" id="311" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="ALCD2x_b" id="312" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="ATPS4r_b" id="313" weight="1.7215852356850184e-05" />
+      <edge source="D_LACt2_f" target="D_LACt2_b" id="314" weight="0.0034779608396745057" />
+      <edge source="D_LACt2_f" target="ETOHt2r_b" id="315" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="G6PDH2r_b" id="316" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="GAPD_b" id="317" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="GLUDy_b" id="318" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="GLUt2r_b" id="319" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="LDH_D_b" id="320" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="MDH_b" id="321" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="PIt2r_b" id="322" weight="5.738617452283395e-06" />
+      <edge source="D_LACt2_f" target="PYRt2_b" id="323" weight="5.738617452283395e-06" />
+      <edge source="ENO_f" target="ACONTb_f" id="324" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="ATPM_f" id="325" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="Biomass_Ecoli_core_f" id="326" weight="0.0018051386974908027" />
+      <edge source="ENO_f" target="CS_f" id="327" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="FBP_f" id="328" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="FRUpts2_f" id="329" weight="0.0008388377868909114" />
+      <edge source="ENO_f" target="FUM_f" id="330" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="GLCpts_f" id="331" weight="0.0008388377868909114" />
+      <edge source="ENO_f" target="GLNabc_f" id="332" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="GLUDy_f" id="333" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="GLUN_f" id="334" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="MALS_f" id="335" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="PGL_f" id="336" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="PPC_f" id="337" weight="0.0008617386061906228" />
+      <edge source="ENO_f" target="PPS_f" id="338" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="PYK_f" id="339" weight="0.0008388377868909114" />
+      <edge source="ENO_f" target="ACONTa_b" id="340" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="ATPS4r_b" id="341" weight="2.2900819299711263e-05" />
+      <edge source="ENO_f" target="ENO_b" id="342" weight="0.0008617386061906228" />
+      <edge source="ENO_f" target="H2Ot_b" id="343" weight="2.2900819299711263e-05" />
+      <edge source="ETOHt2r_f" target="ALCD2x_f" id="344" weight="0.003472222222222222" />
+      <edge source="ETOHt2r_f" target="CYTBD_f" id="345" weight="1.147723490456679e-05" />
+      <edge source="ETOHt2r_f" target="GLUSy_f" id="346" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="NADH16_f" id="347" weight="2.295446980913358e-05" />
+      <edge source="ETOHt2r_f" target="PYK_f" id="348" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="ACALD_b" id="349" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="ACt2r_b" id="350" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="AKGt2r_b" id="351" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="ALCD2x_b" id="352" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="ATPS4r_b" id="353" weight="1.7215852356850184e-05" />
+      <edge source="ETOHt2r_f" target="D_LACt2_b" id="354" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="ETOHt2r_b" id="355" weight="0.0034779608396745057" />
+      <edge source="ETOHt2r_f" target="G6PDH2r_b" id="356" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="GAPD_b" id="357" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="GLUDy_b" id="358" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="GLUt2r_b" id="359" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="LDH_D_b" id="360" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="MDH_b" id="361" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="PIt2r_b" id="362" weight="5.738617452283395e-06" />
+      <edge source="ETOHt2r_f" target="PYRt2_b" id="363" weight="5.738617452283395e-06" />
+      <edge source="FBA_f" target="Biomass_Ecoli_core_f" id="364" weight="4.872101666032161e-05" />
+      <edge source="FBA_f" target="GAPD_f" id="365" weight="0.00037768229969241553" />
+      <edge source="FBA_f" target="TALA_f" id="366" weight="0.00037768229969241553" />
+      <edge source="FBA_f" target="TPI_f" id="367" weight="0.003472222222222222" />
+      <edge source="FBA_f" target="FBA_b" id="368" weight="0.0038499045219146377" />
+      <edge source="FBA_f" target="TKT1_b" id="369" weight="0.00037768229969241553" />
+      <edge source="FBA_f" target="TKT2_b" id="370" weight="0.00037768229969241553" />
+      <edge source="FBA_f" target="TPI_b" id="371" weight="0.00037768229969241553" />
+      <edge source="FBP_f" target="ATPS4r_f" id="372" weight="3.922860863970877e-05" />
+      <edge source="FBP_f" target="Biomass_Ecoli_core_f" id="373" weight="4.8378600418689834e-05" />
+      <edge source="FBP_f" target="GAPD_f" id="374" weight="3.922860863970877e-05" />
+      <edge source="FBP_f" target="PFK_f" id="375" weight="0.000682349794339772" />
+      <edge source="FBP_f" target="PTAr_f" id="376" weight="3.922860863970877e-05" />
+      <edge source="FBP_f" target="PGI_b" id="377" weight="0.000682349794339772" />
+      <edge source="FBP_f" target="PIt2r_b" id="378" weight="3.922860863970877e-05" />
+      <edge source="FBP_f" target="SUCOAS_b" id="379" weight="3.922860863970877e-05" />
+      <edge source="FBP_f" target="TALA_b" id="380" weight="0.000682349794339772" />
+      <edge source="FBP_f" target="TKT2_b" id="381" weight="0.000682349794339772" />
+      <edge source="FORt2_f" target="CYTBD_f" id="382" weight="1.147723490456679e-05" />
+      <edge source="FORt2_f" target="FORti_f" id="383" weight="0.006944444444444444" />
+      <edge source="FORt2_f" target="GLUSy_f" id="384" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="NADH16_f" id="385" weight="2.295446980913358e-05" />
+      <edge source="FORt2_f" target="PYK_f" id="386" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="ACALD_b" id="387" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="ACt2r_b" id="388" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="AKGt2r_b" id="389" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="ALCD2x_b" id="390" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="ATPS4r_b" id="391" weight="1.7215852356850184e-05" />
+      <edge source="FORt2_f" target="D_LACt2_b" id="392" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="ETOHt2r_b" id="393" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="G6PDH2r_b" id="394" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="GAPD_b" id="395" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="GLUDy_b" id="396" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="GLUt2r_b" id="397" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="LDH_D_b" id="398" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="MDH_b" id="399" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="PIt2r_b" id="400" weight="5.738617452283395e-06" />
+      <edge source="FORt2_f" target="PYRt2_b" id="401" weight="5.738617452283395e-06" />
+      <edge source="FORti_f" target="EX_for_e_f" id="402" weight="0.003472222222222222" />
+      <edge source="FORti_f" target="FORt2_f" id="403" weight="0.003472222222222222" />
+      <edge source="FRD7_f" target="NADH16_f" id="404" weight="0.003472222222222222" />
+      <edge source="FRD7_f" target="SUCCt3_f" id="405" weight="0.0011574074074074073" />
+      <edge source="FRD7_f" target="SUCDi_f" id="406" weight="0.004629629629629629" />
+      <edge source="FRD7_f" target="SUCOAS_f" id="407" weight="0.0011574074074074073" />
+      <edge source="FRUpts2_f" target="Biomass_Ecoli_core_f" id="408" weight="0.0007659553189146199" />
+      <edge source="FRUpts2_f" target="PDH_f" id="409" weight="0.00025331005312621076" />
+      <edge source="FRUpts2_f" target="PFK_f" id="410" weight="0.000682349794339772" />
+      <edge source="FRUpts2_f" target="PFL_f" id="411" weight="0.00025331005312621076" />
+      <edge source="FRUpts2_f" target="PPS_f" id="412" weight="0.00025331005312621076" />
+      <edge source="FRUpts2_f" target="LDH_D_b" id="413" weight="0.00025331005312621076" />
+      <edge source="FRUpts2_f" target="PGI_b" id="414" weight="0.000682349794339772" />
+      <edge source="FRUpts2_f" target="PYRt2_b" id="415" weight="0.00025331005312621076" />
+      <edge source="FRUpts2_f" target="TALA_b" id="416" weight="0.000682349794339772" />
+      <edge source="FRUpts2_f" target="TKT2_b" id="417" weight="0.000682349794339772" />
+      <edge source="FUM_f" target="MDH_f" id="418" weight="0.0008680555555555555" />
+      <edge source="FUM_f" target="ME1_f" id="419" weight="0.0008680555555555555" />
+      <edge source="FUM_f" target="ME2_f" id="420" weight="0.0008680555555555555" />
+      <edge source="FUM_f" target="FUM_b" id="421" weight="0.0008680555555555555" />
+      <edge source="FUMt2_2_f" target="CYTBD_f" id="422" weight="2.295446980913358e-05" />
+      <edge source="FUMt2_2_f" target="FRD7_f" id="423" weight="0.0023148148148148147" />
+      <edge source="FUMt2_2_f" target="FUM_f" id="424" weight="0.0023148148148148147" />
+      <edge source="FUMt2_2_f" target="GLUSy_f" id="425" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="NADH16_f" id="426" weight="4.590893961826716e-05" />
+      <edge source="FUMt2_2_f" target="PYK_f" id="427" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="ACALD_b" id="428" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="ACt2r_b" id="429" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="AKGt2r_b" id="430" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="ALCD2x_b" id="431" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="ATPS4r_b" id="432" weight="3.443170471370037e-05" />
+      <edge source="FUMt2_2_f" target="D_LACt2_b" id="433" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="ETOHt2r_b" id="434" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="G6PDH2r_b" id="435" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="GAPD_b" id="436" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="GLUDy_b" id="437" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="GLUt2r_b" id="438" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="LDH_D_b" id="439" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="MDH_b" id="440" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="PIt2r_b" id="441" weight="1.147723490456679e-05" />
+      <edge source="FUMt2_2_f" target="PYRt2_b" id="442" weight="1.147723490456679e-05" />
+      <edge source="G6PDH2r_f" target="Biomass_Ecoli_core_f" id="443" weight="0.0016728058135404523" />
+      <edge source="G6PDH2r_f" target="CYTBD_f" id="444" weight="1.147723490456679e-05" />
+      <edge source="G6PDH2r_f" target="GLUSy_f" id="445" weight="0.00013414041770715582" />
+      <edge source="G6PDH2r_f" target="NADH16_f" id="446" weight="2.295446980913358e-05" />
+      <edge source="G6PDH2r_f" target="NADTRHD_f" id="447" weight="0.0001284018002548724" />
+      <edge source="G6PDH2r_f" target="PGL_f" id="448" weight="0.006944444444444444" />
+      <edge source="G6PDH2r_f" target="PYK_f" id="449" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="ACALD_b" id="450" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="ACt2r_b" id="451" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="AKGt2r_b" id="452" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="ALCD2x_b" id="453" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="ATPS4r_b" id="454" weight="1.7215852356850184e-05" />
+      <edge source="G6PDH2r_f" target="D_LACt2_b" id="455" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="ETOHt2r_b" id="456" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="G6PDH2r_b" id="457" weight="0.007078584862151599" />
+      <edge source="G6PDH2r_f" target="GAPD_b" id="458" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="GLUDy_b" id="459" weight="0.00013414041770715582" />
+      <edge source="G6PDH2r_f" target="GLUt2r_b" id="460" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="ICDHyr_b" id="461" weight="0.0001284018002548724" />
+      <edge source="G6PDH2r_f" target="LDH_D_b" id="462" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="MDH_b" id="463" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="PIt2r_b" id="464" weight="5.738617452283395e-06" />
+      <edge source="G6PDH2r_f" target="PYRt2_b" id="465" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="CYTBD_f" id="466" weight="1.147723490456679e-05" />
+      <edge source="GAPD_f" target="GLUSy_f" id="467" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="NADH16_f" id="468" weight="0.00018109003879988704" />
+      <edge source="GAPD_f" target="PYK_f" id="469" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="THD2_f" id="470" weight="0.00015813556899075347" />
+      <edge source="GAPD_f" target="ACALD_b" id="471" weight="0.00016387418644303687" />
+      <edge source="GAPD_f" target="ACt2r_b" id="472" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="AKGt2r_b" id="473" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="ALCD2x_b" id="474" weight="0.00016387418644303687" />
+      <edge source="GAPD_f" target="ATPS4r_b" id="475" weight="1.7215852356850184e-05" />
+      <edge source="GAPD_f" target="D_LACt2_b" id="476" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="ETOHt2r_b" id="477" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="G6PDH2r_b" id="478" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="GAPD_b" id="479" weight="0.003636096408665259" />
+      <edge source="GAPD_f" target="GLUDy_b" id="480" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="GLUt2r_b" id="481" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="LDH_D_b" id="482" weight="0.00016387418644303687" />
+      <edge source="GAPD_f" target="MDH_b" id="483" weight="0.00016387418644303687" />
+      <edge source="GAPD_f" target="PGK_b" id="484" weight="0.003472222222222222" />
+      <edge source="GAPD_f" target="PIt2r_b" id="485" weight="5.738617452283395e-06" />
+      <edge source="GAPD_f" target="PYRt2_b" id="486" weight="5.738617452283395e-06" />
+      <edge source="GLCpts_f" target="Biomass_Ecoli_core_f" id="487" weight="0.0011479957997086619" />
+      <edge source="GLCpts_f" target="G6PDH2r_f" id="488" weight="0.0020996052742084485" />
+      <edge source="GLCpts_f" target="PDH_f" id="489" weight="0.00025331005312621076" />
+      <edge source="GLCpts_f" target="PFL_f" id="490" weight="0.00025331005312621076" />
+      <edge source="GLCpts_f" target="PGI_f" id="491" weight="0.0020996052742084485" />
+      <edge source="GLCpts_f" target="PPS_f" id="492" weight="0.00025331005312621076" />
+      <edge source="GLCpts_f" target="LDH_D_b" id="493" weight="0.00025331005312621076" />
+      <edge source="GLCpts_f" target="PYRt2_b" id="494" weight="0.00025331005312621076" />
+      <edge source="GLNS_f" target="ATPS4r_f" id="495" weight="6.724904338235789e-05" />
+      <edge source="GLNS_f" target="Biomass_Ecoli_core_f" id="496" weight="0.0007872032825484081" />
+      <edge source="GLNS_f" target="CYTBD_f" id="497" weight="1.147723490456679e-05" />
+      <edge source="GLNS_f" target="GAPD_f" id="498" weight="3.922860863970877e-05" />
+      <edge source="GLNS_f" target="GLUN_f" id="499" weight="0.003078620580948018" />
+      <edge source="GLNS_f" target="GLUSy_f" id="500" weight="0.0030843591984003015" />
+      <edge source="GLNS_f" target="NADH16_f" id="501" weight="2.295446980913358e-05" />
+      <edge source="GLNS_f" target="PTAr_f" id="502" weight="3.922860863970877e-05" />
+      <edge source="GLNS_f" target="PYK_f" id="503" weight="3.375905219493251e-05" />
+      <edge source="GLNS_f" target="ACALD_b" id="504" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="ACKr_b" id="505" weight="2.802043474264912e-05" />
+      <edge source="GLNS_f" target="ACt2r_b" id="506" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="ADK1_b" id="507" weight="5.604086948529824e-05" />
+      <edge source="GLNS_f" target="AKGt2r_b" id="508" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="ALCD2x_b" id="509" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="ATPS4r_b" id="510" weight="1.7215852356850184e-05" />
+      <edge source="GLNS_f" target="D_LACt2_b" id="511" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="ETOHt2r_b" id="512" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="G6PDH2r_b" id="513" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="GAPD_b" id="514" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="GLUDy_b" id="515" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="GLUt2r_b" id="516" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="LDH_D_b" id="517" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="MDH_b" id="518" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="PGK_b" id="519" weight="2.802043474264912e-05" />
+      <edge source="GLNS_f" target="PIt2r_b" id="520" weight="4.4967226091992166e-05" />
+      <edge source="GLNS_f" target="PYRt2_b" id="521" weight="5.738617452283395e-06" />
+      <edge source="GLNS_f" target="SUCOAS_b" id="522" weight="6.724904338235789e-05" />
+      <edge source="GLNabc_f" target="ATPS4r_f" id="523" weight="6.724904338235789e-05" />
+      <edge source="GLNabc_f" target="Biomass_Ecoli_core_f" id="524" weight="0.0007872032825484081" />
+      <edge source="GLNabc_f" target="CYTBD_f" id="525" weight="1.147723490456679e-05" />
+      <edge source="GLNabc_f" target="GAPD_f" id="526" weight="3.922860863970877e-05" />
+      <edge source="GLNabc_f" target="GLUN_f" id="527" weight="0.003078620580948018" />
+      <edge source="GLNabc_f" target="GLUSy_f" id="528" weight="0.0030843591984003015" />
+      <edge source="GLNabc_f" target="NADH16_f" id="529" weight="2.295446980913358e-05" />
+      <edge source="GLNabc_f" target="PTAr_f" id="530" weight="3.922860863970877e-05" />
+      <edge source="GLNabc_f" target="PYK_f" id="531" weight="3.375905219493251e-05" />
+      <edge source="GLNabc_f" target="ACALD_b" id="532" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="ACKr_b" id="533" weight="2.802043474264912e-05" />
+      <edge source="GLNabc_f" target="ACt2r_b" id="534" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="ADK1_b" id="535" weight="5.604086948529824e-05" />
+      <edge source="GLNabc_f" target="AKGt2r_b" id="536" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="ALCD2x_b" id="537" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="ATPS4r_b" id="538" weight="1.7215852356850184e-05" />
+      <edge source="GLNabc_f" target="D_LACt2_b" id="539" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="ETOHt2r_b" id="540" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="G6PDH2r_b" id="541" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="GAPD_b" id="542" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="GLUDy_b" id="543" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="GLUt2r_b" id="544" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="LDH_D_b" id="545" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="MDH_b" id="546" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="PGK_b" id="547" weight="2.802043474264912e-05" />
+      <edge source="GLNabc_f" target="PIt2r_b" id="548" weight="4.4967226091992166e-05" />
+      <edge source="GLNabc_f" target="PYRt2_b" id="549" weight="5.738617452283395e-06" />
+      <edge source="GLNabc_f" target="SUCOAS_b" id="550" weight="6.724904338235789e-05" />
+      <edge source="GLUDy_f" target="AKGDH_f" id="551" weight="0.0003902359835039445" />
+      <edge source="GLUDy_f" target="Biomass_Ecoli_core_f" id="552" weight="0.0016728058135404523" />
+      <edge source="GLUDy_f" target="CYTBD_f" id="553" weight="1.147723490456679e-05" />
+      <edge source="GLUDy_f" target="GLNS_f" id="554" weight="0.0015432098765432098" />
+      <edge source="GLUDy_f" target="GLUSy_f" id="555" weight="0.0005243764012111003" />
+      <edge source="GLUDy_f" target="NADH16_f" id="556" weight="2.295446980913358e-05" />
+      <edge source="GLUDy_f" target="NADTRHD_f" id="557" weight="0.0001284018002548724" />
+      <edge source="GLUDy_f" target="PYK_f" id="558" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="ACALD_b" id="559" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="ACt2r_b" id="560" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="AKGt2r_b" id="561" weight="0.00039597460095622787" />
+      <edge source="GLUDy_f" target="ALCD2x_b" id="562" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="ATPS4r_b" id="563" weight="1.7215852356850184e-05" />
+      <edge source="GLUDy_f" target="D_LACt2_b" id="564" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="ETOHt2r_b" id="565" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="G6PDH2r_b" id="566" weight="0.00013414041770715582" />
+      <edge source="GLUDy_f" target="GAPD_b" id="567" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="GLUDy_b" id="568" weight="0.0020675862777543097" />
+      <edge source="GLUDy_f" target="GLUt2r_b" id="569" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="ICDHyr_b" id="570" weight="0.0005186377837588169" />
+      <edge source="GLUDy_f" target="LDH_D_b" id="571" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="MDH_b" id="572" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="NH4t_b" id="573" weight="0.0015432098765432098" />
+      <edge source="GLUDy_f" target="PIt2r_b" id="574" weight="5.738617452283395e-06" />
+      <edge source="GLUDy_f" target="PYRt2_b" id="575" weight="5.738617452283395e-06" />
+      <edge source="GLUN_f" target="Biomass_Ecoli_core_f" id="576" weight="0.001728424599077129" />
+      <edge source="GLUN_f" target="GLNS_f" id="577" weight="0.0018929942694434262" />
+      <edge source="GLUN_f" target="GLUDy_f" id="578" weight="0.0003497843929002164" />
+      <edge source="GLUN_f" target="GLUDy_b" id="579" weight="0.0015432098765432098" />
+      <edge source="GLUN_f" target="GLUt2r_b" id="580" weight="0.0003497843929002164" />
+      <edge source="GLUN_f" target="NH4t_b" id="581" weight="0.0015432098765432098" />
+      <edge source="GLUSy_f" target="Biomass_Ecoli_core_f" id="582" weight="0.003456849198154258" />
+      <edge source="GLUSy_f" target="G6PDH2r_f" id="583" weight="0.0001284018002548724" />
+      <edge source="GLUSy_f" target="GLNS_f" id="584" weight="0.0006995687858004328" />
+      <edge source="GLUSy_f" target="GLUDy_f" id="585" weight="0.0008279705860553051" />
+      <edge source="GLUSy_f" target="GND_f" id="586" weight="0.0001284018002548724" />
+      <edge source="GLUSy_f" target="ICDHyr_f" id="587" weight="0.0001284018002548724" />
+      <edge source="GLUSy_f" target="ME2_f" id="588" weight="0.0001284018002548724" />
+      <edge source="GLUSy_f" target="THD2_f" id="589" weight="0.0001284018002548724" />
+      <edge source="GLUSy_f" target="GLUt2r_b" id="590" weight="0.0006995687858004328" />
+      <edge source="GLUt2r_f" target="Biomass_Ecoli_core_f" id="591" weight="0.001728424599077129" />
+      <edge source="GLUt2r_f" target="CYTBD_f" id="592" weight="1.147723490456679e-05" />
+      <edge source="GLUt2r_f" target="GLNS_f" id="593" weight="0.0003497843929002164" />
+      <edge source="GLUt2r_f" target="GLUDy_f" id="594" weight="0.0003497843929002164" />
+      <edge source="GLUt2r_f" target="GLUSy_f" id="595" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="NADH16_f" id="596" weight="2.295446980913358e-05" />
+      <edge source="GLUt2r_f" target="PYK_f" id="597" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="ACALD_b" id="598" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="ACt2r_b" id="599" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="AKGt2r_b" id="600" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="ALCD2x_b" id="601" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="ATPS4r_b" id="602" weight="1.7215852356850184e-05" />
+      <edge source="GLUt2r_f" target="D_LACt2_b" id="603" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="ETOHt2r_b" id="604" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="G6PDH2r_b" id="605" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="GAPD_b" id="606" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="GLUDy_b" id="607" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="GLUt2r_b" id="608" weight="0.00035552301035249973" />
+      <edge source="GLUt2r_f" target="LDH_D_b" id="609" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="MDH_b" id="610" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="PIt2r_b" id="611" weight="5.738617452283395e-06" />
+      <edge source="GLUt2r_f" target="PYRt2_b" id="612" weight="5.738617452283395e-06" />
+      <edge source="GND_f" target="Biomass_Ecoli_core_f" id="613" weight="0.0016728058135404523" />
+      <edge source="GND_f" target="GLUSy_f" id="614" weight="0.0001284018002548724" />
+      <edge source="GND_f" target="NADTRHD_f" id="615" weight="0.0001284018002548724" />
+      <edge source="GND_f" target="PPC_f" id="616" weight="0.0005787037037037037" />
+      <edge source="GND_f" target="RPE_f" id="617" weight="0.0023148148148148147" />
+      <edge source="GND_f" target="CO2t_b" id="618" weight="0.0005787037037037037" />
+      <edge source="GND_f" target="G6PDH2r_b" id="619" weight="0.0001284018002548724" />
+      <edge source="GND_f" target="GLUDy_b" id="620" weight="0.0001284018002548724" />
+      <edge source="GND_f" target="ICDHyr_b" id="621" weight="0.000707105503958576" />
+      <edge source="GND_f" target="RPI_b" id="622" weight="0.0023148148148148147" />
+      <edge source="H2Ot_f" target="ACONTb_f" id="623" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="ATPM_f" id="624" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="Biomass_Ecoli_core_f" id="625" weight="0.0013696980023157306" />
+      <edge source="H2Ot_f" target="CS_f" id="626" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="FBP_f" id="627" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="FUM_f" id="628" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="GLNabc_f" id="629" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="GLUDy_f" id="630" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="GLUN_f" id="631" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="MALS_f" id="632" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="PGL_f" id="633" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="PPC_f" id="634" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="PPS_f" id="635" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="ACONTa_b" id="636" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="ATPS4r_b" id="637" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="ENO_b" id="638" weight="2.2900819299711263e-05" />
+      <edge source="H2Ot_f" target="H2Ot_b" id="639" weight="2.2900819299711263e-05" />
+      <edge source="ICDHyr_f" target="AKGDH_f" id="640" weight="0.0003902359835039445" />
+      <edge source="ICDHyr_f" target="Biomass_Ecoli_core_f" id="641" weight="0.0016728058135404523" />
+      <edge source="ICDHyr_f" target="GLUSy_f" id="642" weight="0.0005186377837588169" />
+      <edge source="ICDHyr_f" target="NADTRHD_f" id="643" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_f" target="PPC_f" id="644" weight="0.0005787037037037037" />
+      <edge source="ICDHyr_f" target="AKGt2r_b" id="645" weight="0.0003902359835039445" />
+      <edge source="ICDHyr_f" target="CO2t_b" id="646" weight="0.0005787037037037037" />
+      <edge source="ICDHyr_f" target="G6PDH2r_b" id="647" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_f" target="GLUDy_b" id="648" weight="0.0005186377837588169" />
+      <edge source="ICDHyr_f" target="ICDHyr_b" id="649" weight="0.0010973414874625204" />
+      <edge source="ICL_f" target="MALS_f" id="650" weight="0.013888888888888888" />
+      <edge source="ICL_f" target="SUCCt3_f" id="651" weight="0.0011574074074074073" />
+      <edge source="ICL_f" target="SUCDi_f" id="652" weight="0.0011574074074074073" />
+      <edge source="ICL_f" target="SUCOAS_f" id="653" weight="0.0011574074074074073" />
+      <edge source="LDH_D_f" target="Biomass_Ecoli_core_f" id="654" weight="0.00071757671849593" />
+      <edge source="LDH_D_f" target="CYTBD_f" id="655" weight="1.147723490456679e-05" />
+      <edge source="LDH_D_f" target="GLUSy_f" id="656" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="NADH16_f" id="657" weight="0.00018109003879988704" />
+      <edge source="LDH_D_f" target="PDH_f" id="658" weight="0.00025331005312621076" />
+      <edge source="LDH_D_f" target="PFL_f" id="659" weight="0.00025331005312621076" />
+      <edge source="LDH_D_f" target="PPS_f" id="660" weight="0.00025331005312621076" />
+      <edge source="LDH_D_f" target="PYK_f" id="661" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="THD2_f" id="662" weight="0.00015813556899075347" />
+      <edge source="LDH_D_f" target="ACALD_b" id="663" weight="0.00016387418644303687" />
+      <edge source="LDH_D_f" target="ACt2r_b" id="664" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="AKGt2r_b" id="665" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="ALCD2x_b" id="666" weight="0.00016387418644303687" />
+      <edge source="LDH_D_f" target="ATPS4r_b" id="667" weight="1.7215852356850184e-05" />
+      <edge source="LDH_D_f" target="D_LACt2_b" id="668" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="ETOHt2r_b" id="669" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="G6PDH2r_b" id="670" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="GAPD_b" id="671" weight="0.00016387418644303687" />
+      <edge source="LDH_D_f" target="GLUDy_b" id="672" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="GLUt2r_b" id="673" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="LDH_D_b" id="674" weight="0.00041718423956924765" />
+      <edge source="LDH_D_f" target="MDH_b" id="675" weight="0.00016387418644303687" />
+      <edge source="LDH_D_f" target="PIt2r_b" id="676" weight="5.738617452283395e-06" />
+      <edge source="LDH_D_f" target="PYRt2_b" id="677" weight="0.00025904867057849416" />
+      <edge source="MALS_f" target="ACALD_f" id="678" weight="0.0002646167967734533" />
+      <edge source="MALS_f" target="AKGDH_f" id="679" weight="0.0002646167967734533" />
+      <edge source="MALS_f" target="CYTBD_f" id="680" weight="1.147723490456679e-05" />
+      <edge source="MALS_f" target="GLUSy_f" id="681" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="MDH_f" id="682" weight="0.0008680555555555555" />
+      <edge source="MALS_f" target="ME1_f" id="683" weight="0.0008680555555555555" />
+      <edge source="MALS_f" target="ME2_f" id="684" weight="0.0008680555555555555" />
+      <edge source="MALS_f" target="NADH16_f" id="685" weight="2.295446980913358e-05" />
+      <edge source="MALS_f" target="PDH_f" id="686" weight="0.0002646167967734533" />
+      <edge source="MALS_f" target="PFL_f" id="687" weight="0.0002646167967734533" />
+      <edge source="MALS_f" target="PYK_f" id="688" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="SUCOAS_f" id="689" weight="0.0002646167967734533" />
+      <edge source="MALS_f" target="ACALD_b" id="690" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="ACt2r_b" id="691" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="AKGt2r_b" id="692" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="ALCD2x_b" id="693" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="ATPS4r_b" id="694" weight="1.7215852356850184e-05" />
+      <edge source="MALS_f" target="D_LACt2_b" id="695" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="ETOHt2r_b" id="696" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="FUM_b" id="697" weight="0.0008680555555555555" />
+      <edge source="MALS_f" target="G6PDH2r_b" id="698" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="GAPD_b" id="699" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="GLUDy_b" id="700" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="GLUt2r_b" id="701" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="LDH_D_b" id="702" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="MDH_b" id="703" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="PIt2r_b" id="704" weight="5.738617452283395e-06" />
+      <edge source="MALS_f" target="PTAr_b" id="705" weight="0.0002646167967734533" />
+      <edge source="MALS_f" target="PYRt2_b" id="706" weight="5.738617452283395e-06" />
+      <edge source="MALt2_2_f" target="CYTBD_f" id="707" weight="2.295446980913358e-05" />
+      <edge source="MALt2_2_f" target="GLUSy_f" id="708" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="MDH_f" id="709" weight="0.0008680555555555555" />
+      <edge source="MALt2_2_f" target="ME1_f" id="710" weight="0.0008680555555555555" />
+      <edge source="MALt2_2_f" target="ME2_f" id="711" weight="0.0008680555555555555" />
+      <edge source="MALt2_2_f" target="NADH16_f" id="712" weight="4.590893961826716e-05" />
+      <edge source="MALt2_2_f" target="PYK_f" id="713" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="ACALD_b" id="714" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="ACt2r_b" id="715" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="AKGt2r_b" id="716" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="ALCD2x_b" id="717" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="ATPS4r_b" id="718" weight="3.443170471370037e-05" />
+      <edge source="MALt2_2_f" target="D_LACt2_b" id="719" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="ETOHt2r_b" id="720" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="FUM_b" id="721" weight="0.0008680555555555555" />
+      <edge source="MALt2_2_f" target="G6PDH2r_b" id="722" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="GAPD_b" id="723" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="GLUDy_b" id="724" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="GLUt2r_b" id="725" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="LDH_D_b" id="726" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="MDH_b" id="727" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="PIt2r_b" id="728" weight="1.147723490456679e-05" />
+      <edge source="MALt2_2_f" target="PYRt2_b" id="729" weight="1.147723490456679e-05" />
+      <edge source="MDH_f" target="Biomass_Ecoli_core_f" id="730" weight="0.002592107065178283" />
+      <edge source="MDH_f" target="CS_f" id="731" weight="0.0014507791264220537" />
+      <edge source="MDH_f" target="CYTBD_f" id="732" weight="1.147723490456679e-05" />
+      <edge source="MDH_f" target="GLUSy_f" id="733" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="NADH16_f" id="734" weight="0.00018109003879988704" />
+      <edge source="MDH_f" target="PPCK_f" id="735" weight="0.0014507791264220537" />
+      <edge source="MDH_f" target="PYK_f" id="736" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="THD2_f" id="737" weight="0.00015813556899075347" />
+      <edge source="MDH_f" target="ACALD_b" id="738" weight="0.00016387418644303687" />
+      <edge source="MDH_f" target="ACt2r_b" id="739" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="AKGt2r_b" id="740" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="ALCD2x_b" id="741" weight="0.00016387418644303687" />
+      <edge source="MDH_f" target="ATPS4r_b" id="742" weight="1.7215852356850184e-05" />
+      <edge source="MDH_f" target="D_LACt2_b" id="743" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="ETOHt2r_b" id="744" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="G6PDH2r_b" id="745" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="GAPD_b" id="746" weight="0.00016387418644303687" />
+      <edge source="MDH_f" target="GLUDy_b" id="747" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="GLUt2r_b" id="748" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="LDH_D_b" id="749" weight="0.00016387418644303687" />
+      <edge source="MDH_f" target="MDH_b" id="750" weight="0.0016146533128650906" />
+      <edge source="MDH_f" target="PIt2r_b" id="751" weight="5.738617452283395e-06" />
+      <edge source="MDH_f" target="PYRt2_b" id="752" weight="5.738617452283395e-06" />
+      <edge source="ME1_f" target="Biomass_Ecoli_core_f" id="753" weight="0.00071757671849593" />
+      <edge source="ME1_f" target="NADH16_f" id="754" weight="0.00015813556899075347" />
+      <edge source="ME1_f" target="PDH_f" id="755" weight="0.00025331005312621076" />
+      <edge source="ME1_f" target="PFL_f" id="756" weight="0.00025331005312621076" />
+      <edge source="ME1_f" target="PPC_f" id="757" weight="0.0005787037037037037" />
+      <edge source="ME1_f" target="PPS_f" id="758" weight="0.00025331005312621076" />
+      <edge source="ME1_f" target="THD2_f" id="759" weight="0.00015813556899075347" />
+      <edge source="ME1_f" target="ACALD_b" id="760" weight="0.00015813556899075347" />
+      <edge source="ME1_f" target="ALCD2x_b" id="761" weight="0.00015813556899075347" />
+      <edge source="ME1_f" target="CO2t_b" id="762" weight="0.0005787037037037037" />
+      <edge source="ME1_f" target="GAPD_b" id="763" weight="0.00015813556899075347" />
+      <edge source="ME1_f" target="ICDHyr_b" id="764" weight="0.0005787037037037037" />
+      <edge source="ME1_f" target="LDH_D_b" id="765" weight="0.00041144562211696426" />
+      <edge source="ME1_f" target="MDH_b" id="766" weight="0.00015813556899075347" />
+      <edge source="ME1_f" target="PYRt2_b" id="767" weight="0.00025331005312621076" />
+      <edge source="ME2_f" target="Biomass_Ecoli_core_f" id="768" weight="0.0023903825320363823" />
+      <edge source="ME2_f" target="GLUSy_f" id="769" weight="0.0001284018002548724" />
+      <edge source="ME2_f" target="NADTRHD_f" id="770" weight="0.0001284018002548724" />
+      <edge source="ME2_f" target="PDH_f" id="771" weight="0.00025331005312621076" />
+      <edge source="ME2_f" target="PFL_f" id="772" weight="0.00025331005312621076" />
+      <edge source="ME2_f" target="PPC_f" id="773" weight="0.0005787037037037037" />
+      <edge source="ME2_f" target="PPS_f" id="774" weight="0.00025331005312621076" />
+      <edge source="ME2_f" target="CO2t_b" id="775" weight="0.0005787037037037037" />
+      <edge source="ME2_f" target="G6PDH2r_b" id="776" weight="0.0001284018002548724" />
+      <edge source="ME2_f" target="GLUDy_b" id="777" weight="0.0001284018002548724" />
+      <edge source="ME2_f" target="ICDHyr_b" id="778" weight="0.000707105503958576" />
+      <edge source="ME2_f" target="LDH_D_b" id="779" weight="0.00025331005312621076" />
+      <edge source="ME2_f" target="PYRt2_b" id="780" weight="0.00025331005312621076" />
+      <edge source="NADH16_f" target="ACALD_f" id="781" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="ACt2r_f" id="782" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="AKGDH_f" id="783" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="AKGt2r_f" id="784" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="ALCD2x_f" id="785" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="ATPS4r_f" id="786" weight="0.00044563279857397496" />
+      <edge source="NADH16_f" target="Biomass_Ecoli_core_f" id="787" weight="0.0005609068632102025" />
+      <edge source="NADH16_f" target="CYTBD_f" id="788" weight="0.003472222222222222" />
+      <edge source="NADH16_f" target="D_LACt2_f" id="789" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="ETOHt2r_f" id="790" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="EX_h_e_f" id="791" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="FORt2_f" id="792" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="FRD7_f" id="793" weight="0.003472222222222222" />
+      <edge source="NADH16_f" target="FUMt2_2_f" id="794" weight="0.00022281639928698748" />
+      <edge source="NADH16_f" target="GAPD_f" id="795" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="GLUt2r_f" id="796" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="LDH_D_f" id="797" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="MALt2_2_f" id="798" weight="0.00022281639928698748" />
+      <edge source="NADH16_f" target="MDH_f" id="799" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="ME1_f" id="800" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="NADTRHD_f" id="801" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="PDH_f" id="802" weight="0.00015813556899075347" />
+      <edge source="NADH16_f" target="PIt2r_f" id="803" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="PYRt2_f" id="804" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="SUCCt2_2_f" id="805" weight="0.00022281639928698748" />
+      <edge source="NADH16_f" target="SUCCt3_f" id="806" weight="0.00011140819964349374" />
+      <edge source="NADH16_f" target="THD2_f" id="807" weight="0.00022281639928698748" />
+      <edge source="NADTRHD_f" target="G6PDH2r_f" id="808" weight="0.0001284018002548724" />
+      <edge source="NADTRHD_f" target="GLUDy_f" id="809" weight="0.0001284018002548724" />
+      <edge source="NADTRHD_f" target="GND_f" id="810" weight="0.0001284018002548724" />
+      <edge source="NADTRHD_f" target="ICDHyr_f" id="811" weight="0.0001284018002548724" />
+      <edge source="NADTRHD_f" target="ME2_f" id="812" weight="0.0001284018002548724" />
+      <edge source="NADTRHD_f" target="NADH16_f" id="813" weight="0.00015813556899075347" />
+      <edge source="NADTRHD_f" target="THD2_f" id="814" weight="0.00028653736924562584" />
+      <edge source="NADTRHD_f" target="ACALD_b" id="815" weight="0.00015813556899075347" />
+      <edge source="NADTRHD_f" target="ALCD2x_b" id="816" weight="0.00015813556899075347" />
+      <edge source="NADTRHD_f" target="GAPD_b" id="817" weight="0.00015813556899075347" />
+      <edge source="NADTRHD_f" target="LDH_D_b" id="818" weight="0.00015813556899075347" />
+      <edge source="NADTRHD_f" target="MDH_b" id="819" weight="0.00015813556899075347" />
+      <edge source="NH4t_f" target="GLNS_f" id="820" weight="0.0015432098765432098" />
+      <edge source="NH4t_f" target="GLUDy_b" id="821" weight="0.0015432098765432098" />
+      <edge source="NH4t_f" target="NH4t_b" id="822" weight="0.0015432098765432098" />
+      <edge source="O2t_f" target="CYTBD_f" id="823" weight="0.004629629629629629" />
+      <edge source="O2t_f" target="O2t_b" id="824" weight="0.009259259259259259" />
+      <edge source="PDH_f" target="Biomass_Ecoli_core_f" id="825" weight="0.001679598653094355" />
+      <edge source="PDH_f" target="CS_f" id="826" weight="0.0004481558922819668" />
+      <edge source="PDH_f" target="MALS_f" id="827" weight="0.0004481558922819668" />
+      <edge source="PDH_f" target="NADH16_f" id="828" weight="0.00015813556899075347" />
+      <edge source="PDH_f" target="PPC_f" id="829" weight="0.0005787037037037037" />
+      <edge source="PDH_f" target="PTAr_f" id="830" weight="0.0004481558922819668" />
+      <edge source="PDH_f" target="THD2_f" id="831" weight="0.00015813556899075347" />
+      <edge source="PDH_f" target="ACALD_b" id="832" weight="0.0006062914612727202" />
+      <edge source="PDH_f" target="ALCD2x_b" id="833" weight="0.00015813556899075347" />
+      <edge source="PDH_f" target="CO2t_b" id="834" weight="0.0005787037037037037" />
+      <edge source="PDH_f" target="GAPD_b" id="835" weight="0.00015813556899075347" />
+      <edge source="PDH_f" target="ICDHyr_b" id="836" weight="0.0005787037037037037" />
+      <edge source="PDH_f" target="LDH_D_b" id="837" weight="0.00015813556899075347" />
+      <edge source="PDH_f" target="MDH_b" id="838" weight="0.00015813556899075347" />
+      <edge source="PFK_f" target="ATPS4r_f" id="839" weight="2.802043474264912e-05" />
+      <edge source="PFK_f" target="CYTBD_f" id="840" weight="1.147723490456679e-05" />
+      <edge source="PFK_f" target="FBA_f" id="841" weight="0.003472222222222222" />
+      <edge source="PFK_f" target="FBP_f" id="842" weight="0.003472222222222222" />
+      <edge source="PFK_f" target="GLUSy_f" id="843" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="NADH16_f" id="844" weight="2.295446980913358e-05" />
+      <edge source="PFK_f" target="PYK_f" id="845" weight="3.375905219493251e-05" />
+      <edge source="PFK_f" target="ACALD_b" id="846" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="ACKr_b" id="847" weight="2.802043474264912e-05" />
+      <edge source="PFK_f" target="ACt2r_b" id="848" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="ADK1_b" id="849" weight="5.604086948529824e-05" />
+      <edge source="PFK_f" target="AKGt2r_b" id="850" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="ALCD2x_b" id="851" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="ATPS4r_b" id="852" weight="1.7215852356850184e-05" />
+      <edge source="PFK_f" target="D_LACt2_b" id="853" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="ETOHt2r_b" id="854" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="G6PDH2r_b" id="855" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="GAPD_b" id="856" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="GLUDy_b" id="857" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="GLUt2r_b" id="858" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="LDH_D_b" id="859" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="MDH_b" id="860" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="PGK_b" id="861" weight="2.802043474264912e-05" />
+      <edge source="PFK_f" target="PIt2r_b" id="862" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="PYRt2_b" id="863" weight="5.738617452283395e-06" />
+      <edge source="PFK_f" target="SUCOAS_b" id="864" weight="2.802043474264912e-05" />
+      <edge source="PFL_f" target="Biomass_Ecoli_core_f" id="865" weight="0.001679598653094355" />
+      <edge source="PFL_f" target="CS_f" id="866" weight="0.0004481558922819668" />
+      <edge source="PFL_f" target="FORti_f" id="867" weight="0.006944444444444444" />
+      <edge source="PFL_f" target="MALS_f" id="868" weight="0.0004481558922819668" />
+      <edge source="PFL_f" target="PTAr_f" id="869" weight="0.0004481558922819668" />
+      <edge source="PFL_f" target="ACALD_b" id="870" weight="0.0004481558922819668" />
+      <edge source="PGI_f" target="Biomass_Ecoli_core_f" id="871" weight="4.8378600418689834e-05" />
+      <edge source="PGI_f" target="PFK_f" id="872" weight="0.000682349794339772" />
+      <edge source="PGI_f" target="PGI_b" id="873" weight="0.000682349794339772" />
+      <edge source="PGI_f" target="TALA_b" id="874" weight="0.000682349794339772" />
+      <edge source="PGI_f" target="TKT2_b" id="875" weight="0.000682349794339772" />
+      <edge source="PGK_f" target="ATPS4r_f" id="876" weight="2.802043474264912e-05" />
+      <edge source="PGK_f" target="PYK_f" id="877" weight="2.802043474264912e-05" />
+      <edge source="PGK_f" target="ACKr_b" id="878" weight="2.802043474264912e-05" />
+      <edge source="PGK_f" target="ADK1_b" id="879" weight="5.604086948529824e-05" />
+      <edge source="PGK_f" target="GAPD_b" id="880" weight="0.003472222222222222" />
+      <edge source="PGK_f" target="PGK_b" id="881" weight="0.003500242656964871" />
+      <edge source="PGK_f" target="SUCOAS_b" id="882" weight="2.802043474264912e-05" />
+      <edge source="PGL_f" target="CYTBD_f" id="883" weight="1.147723490456679e-05" />
+      <edge source="PGL_f" target="GLUSy_f" id="884" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="GND_f" id="885" weight="0.013888888888888888" />
+      <edge source="PGL_f" target="NADH16_f" id="886" weight="2.295446980913358e-05" />
+      <edge source="PGL_f" target="PYK_f" id="887" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="ACALD_b" id="888" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="ACt2r_b" id="889" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="AKGt2r_b" id="890" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="ALCD2x_b" id="891" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="ATPS4r_b" id="892" weight="1.7215852356850184e-05" />
+      <edge source="PGL_f" target="D_LACt2_b" id="893" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="ETOHt2r_b" id="894" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="G6PDH2r_b" id="895" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="GAPD_b" id="896" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="GLUDy_b" id="897" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="GLUt2r_b" id="898" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="LDH_D_b" id="899" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="MDH_b" id="900" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="PIt2r_b" id="901" weight="5.738617452283395e-06" />
+      <edge source="PGL_f" target="PYRt2_b" id="902" weight="5.738617452283395e-06" />
+      <edge source="PGM_f" target="Biomass_Ecoli_core_f" id="903" weight="0.0029716501398423596" />
+      <edge source="PGM_f" target="PGK_f" id="904" weight="0.0019863971523010424" />
+      <edge source="PGM_f" target="PGM_b" id="905" weight="0.0019863971523010424" />
+      <edge source="PIt2r_f" target="ATPS4r_f" id="906" weight="3.922860863970877e-05" />
+      <edge source="PIt2r_f" target="CYTBD_f" id="907" weight="1.147723490456679e-05" />
+      <edge source="PIt2r_f" target="GAPD_f" id="908" weight="3.922860863970877e-05" />
+      <edge source="PIt2r_f" target="GLUSy_f" id="909" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="NADH16_f" id="910" weight="2.295446980913358e-05" />
+      <edge source="PIt2r_f" target="PTAr_f" id="911" weight="3.922860863970877e-05" />
+      <edge source="PIt2r_f" target="PYK_f" id="912" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="ACALD_b" id="913" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="ACt2r_b" id="914" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="AKGt2r_b" id="915" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="ALCD2x_b" id="916" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="ATPS4r_b" id="917" weight="1.7215852356850184e-05" />
+      <edge source="PIt2r_f" target="D_LACt2_b" id="918" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="ETOHt2r_b" id="919" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="G6PDH2r_b" id="920" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="GAPD_b" id="921" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="GLUDy_b" id="922" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="GLUt2r_b" id="923" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="LDH_D_b" id="924" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="MDH_b" id="925" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="PIt2r_b" id="926" weight="4.4967226091992166e-05" />
+      <edge source="PIt2r_f" target="PYRt2_b" id="927" weight="5.738617452283395e-06" />
+      <edge source="PIt2r_f" target="SUCOAS_b" id="928" weight="3.922860863970877e-05" />
+      <edge source="PPC_f" target="ATPS4r_f" id="929" weight="3.922860863970877e-05" />
+      <edge source="PPC_f" target="Biomass_Ecoli_core_f" id="930" weight="0.002592107065178283" />
+      <edge source="PPC_f" target="CS_f" id="931" weight="0.0014507791264220537" />
+      <edge source="PPC_f" target="CYTBD_f" id="932" weight="1.147723490456679e-05" />
+      <edge source="PPC_f" target="GAPD_f" id="933" weight="3.922860863970877e-05" />
+      <edge source="PPC_f" target="GLUSy_f" id="934" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="NADH16_f" id="935" weight="2.295446980913358e-05" />
+      <edge source="PPC_f" target="PPCK_f" id="936" weight="0.0014507791264220537" />
+      <edge source="PPC_f" target="PTAr_f" id="937" weight="3.922860863970877e-05" />
+      <edge source="PPC_f" target="PYK_f" id="938" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="ACALD_b" id="939" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="ACt2r_b" id="940" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="AKGt2r_b" id="941" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="ALCD2x_b" id="942" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="ATPS4r_b" id="943" weight="1.7215852356850184e-05" />
+      <edge source="PPC_f" target="D_LACt2_b" id="944" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="ETOHt2r_b" id="945" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="G6PDH2r_b" id="946" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="GAPD_b" id="947" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="GLUDy_b" id="948" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="GLUt2r_b" id="949" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="LDH_D_b" id="950" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="MDH_b" id="951" weight="0.0014565177438743372" />
+      <edge source="PPC_f" target="PIt2r_b" id="952" weight="4.4967226091992166e-05" />
+      <edge source="PPC_f" target="PYRt2_b" id="953" weight="5.738617452283395e-06" />
+      <edge source="PPC_f" target="SUCOAS_b" id="954" weight="3.922860863970877e-05" />
+      <edge source="PPCK_f" target="ATPS4r_f" id="955" weight="2.802043474264912e-05" />
+      <edge source="PPCK_f" target="Biomass_Ecoli_core_f" id="956" weight="0.00043544069517507207" />
+      <edge source="PPCK_f" target="FRUpts2_f" id="957" weight="0.0008388377868909114" />
+      <edge source="PPCK_f" target="GLCpts_f" id="958" weight="0.0008388377868909114" />
+      <edge source="PPCK_f" target="PPC_f" id="959" weight="0.001417541490594615" />
+      <edge source="PPCK_f" target="PYK_f" id="960" weight="0.0008668582216335605" />
+      <edge source="PPCK_f" target="ACKr_b" id="961" weight="2.802043474264912e-05" />
+      <edge source="PPCK_f" target="ADK1_b" id="962" weight="5.604086948529824e-05" />
+      <edge source="PPCK_f" target="CO2t_b" id="963" weight="0.0005787037037037037" />
+      <edge source="PPCK_f" target="ENO_b" id="964" weight="0.0008388377868909114" />
+      <edge source="PPCK_f" target="ICDHyr_b" id="965" weight="0.0005787037037037037" />
+      <edge source="PPCK_f" target="PGK_b" id="966" weight="2.802043474264912e-05" />
+      <edge source="PPCK_f" target="SUCOAS_b" id="967" weight="2.802043474264912e-05" />
+      <edge source="PPS_f" target="ADK1_f" id="968" weight="0.006944444444444444" />
+      <edge source="PPS_f" target="ATPS4r_f" id="969" weight="3.922860863970877e-05" />
+      <edge source="PPS_f" target="Biomass_Ecoli_core_f" id="970" weight="0.00043544069517507207" />
+      <edge source="PPS_f" target="CYTBD_f" id="971" weight="2.295446980913358e-05" />
+      <edge source="PPS_f" target="FRUpts2_f" id="972" weight="0.0008388377868909114" />
+      <edge source="PPS_f" target="GAPD_f" id="973" weight="3.922860863970877e-05" />
+      <edge source="PPS_f" target="GLCpts_f" id="974" weight="0.0008388377868909114" />
+      <edge source="PPS_f" target="GLUSy_f" id="975" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="NADH16_f" id="976" weight="4.590893961826716e-05" />
+      <edge source="PPS_f" target="PPC_f" id="977" weight="0.0008388377868909114" />
+      <edge source="PPS_f" target="PTAr_f" id="978" weight="3.922860863970877e-05" />
+      <edge source="PPS_f" target="PYK_f" id="979" weight="0.0008503150217954782" />
+      <edge source="PPS_f" target="ACALD_b" id="980" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="ACt2r_b" id="981" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="AKGt2r_b" id="982" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="ALCD2x_b" id="983" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="ATPS4r_b" id="984" weight="3.443170471370037e-05" />
+      <edge source="PPS_f" target="D_LACt2_b" id="985" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="ENO_b" id="986" weight="0.0008388377868909114" />
+      <edge source="PPS_f" target="ETOHt2r_b" id="987" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="G6PDH2r_b" id="988" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="GAPD_b" id="989" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="GLUDy_b" id="990" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="GLUt2r_b" id="991" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="LDH_D_b" id="992" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="MDH_b" id="993" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="PIt2r_b" id="994" weight="5.0705843544275565e-05" />
+      <edge source="PPS_f" target="PYRt2_b" id="995" weight="1.147723490456679e-05" />
+      <edge source="PPS_f" target="SUCOAS_b" id="996" weight="3.922860863970877e-05" />
+      <edge source="PTAr_f" target="ACALD_f" id="997" weight="0.0002646167967734533" />
+      <edge source="PTAr_f" target="AKGDH_f" id="998" weight="0.0002646167967734533" />
+      <edge source="PTAr_f" target="PDH_f" id="999" weight="0.0002646167967734533" />
+      <edge source="PTAr_f" target="PFL_f" id="1000" weight="0.0002646167967734533" />
+      <edge source="PTAr_f" target="SUCOAS_f" id="1001" weight="0.0002646167967734533" />
+      <edge source="PTAr_f" target="ACKr_b" id="1002" weight="0.003472222222222222" />
+      <edge source="PTAr_f" target="PTAr_b" id="1003" weight="0.0037368390189956753" />
+      <edge source="PYK_f" target="ACKr_f" id="1004" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="ADK1_f" id="1005" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="ATPM_f" id="1006" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="Biomass_Ecoli_core_f" id="1007" weight="0.002672795954113414" />
+      <edge source="PYK_f" target="GLNS_f" id="1008" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="GLNabc_f" id="1009" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="PDH_f" id="1010" weight="0.00025331005312621076" />
+      <edge source="PYK_f" target="PFK_f" id="1011" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="PFL_f" id="1012" weight="0.00025331005312621076" />
+      <edge source="PYK_f" target="PGK_f" id="1013" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="PPCK_f" id="1014" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="PPS_f" id="1015" weight="0.0002860005603259681" />
+      <edge source="PYK_f" target="SUCOAS_f" id="1016" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="ATPS4r_b" id="1017" weight="3.26905071997573e-05" />
+      <edge source="PYK_f" target="LDH_D_b" id="1018" weight="0.00025331005312621076" />
+      <edge source="PYK_f" target="PYRt2_b" id="1019" weight="0.00025331005312621076" />
+      <edge source="PYRt2_f" target="Biomass_Ecoli_core_f" id="1020" weight="0.00071757671849593" />
+      <edge source="PYRt2_f" target="CYTBD_f" id="1021" weight="1.147723490456679e-05" />
+      <edge source="PYRt2_f" target="GLUSy_f" id="1022" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="NADH16_f" id="1023" weight="2.295446980913358e-05" />
+      <edge source="PYRt2_f" target="PDH_f" id="1024" weight="0.00025331005312621076" />
+      <edge source="PYRt2_f" target="PFL_f" id="1025" weight="0.00025331005312621076" />
+      <edge source="PYRt2_f" target="PPS_f" id="1026" weight="0.00025331005312621076" />
+      <edge source="PYRt2_f" target="PYK_f" id="1027" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="ACALD_b" id="1028" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="ACt2r_b" id="1029" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="AKGt2r_b" id="1030" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="ALCD2x_b" id="1031" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="ATPS4r_b" id="1032" weight="1.7215852356850184e-05" />
+      <edge source="PYRt2_f" target="D_LACt2_b" id="1033" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="ETOHt2r_b" id="1034" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="G6PDH2r_b" id="1035" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="GAPD_b" id="1036" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="GLUDy_b" id="1037" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="GLUt2r_b" id="1038" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="LDH_D_b" id="1039" weight="0.00025904867057849416" />
+      <edge source="PYRt2_f" target="MDH_b" id="1040" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="PIt2r_b" id="1041" weight="5.738617452283395e-06" />
+      <edge source="PYRt2_f" target="PYRt2_b" id="1042" weight="0.00025904867057849416" />
+      <edge source="RPE_f" target="TKT1_f" id="1043" weight="0.0015432098765432098" />
+      <edge source="RPE_f" target="TKT2_f" id="1044" weight="0.0015432098765432098" />
+      <edge source="RPE_f" target="RPE_b" id="1045" weight="0.0015432098765432098" />
+      <edge source="RPI_f" target="RPE_f" id="1046" weight="0.0023148148148148147" />
+      <edge source="RPI_f" target="RPI_b" id="1047" weight="0.0023148148148148147" />
+      <edge source="SUCCt2_2_f" target="CYTBD_f" id="1048" weight="2.295446980913358e-05" />
+      <edge source="SUCCt2_2_f" target="GLUSy_f" id="1049" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="NADH16_f" id="1050" weight="4.590893961826716e-05" />
+      <edge source="SUCCt2_2_f" target="PYK_f" id="1051" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="SUCCt3_f" id="1052" weight="0.0011574074074074073" />
+      <edge source="SUCCt2_2_f" target="SUCDi_f" id="1053" weight="0.0011574074074074073" />
+      <edge source="SUCCt2_2_f" target="SUCOAS_f" id="1054" weight="0.0011574074074074073" />
+      <edge source="SUCCt2_2_f" target="ACALD_b" id="1055" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="ACt2r_b" id="1056" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="AKGt2r_b" id="1057" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="ALCD2x_b" id="1058" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="ATPS4r_b" id="1059" weight="3.443170471370037e-05" />
+      <edge source="SUCCt2_2_f" target="D_LACt2_b" id="1060" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="ETOHt2r_b" id="1061" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="G6PDH2r_b" id="1062" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="GAPD_b" id="1063" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="GLUDy_b" id="1064" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="GLUt2r_b" id="1065" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="LDH_D_b" id="1066" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="MDH_b" id="1067" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="PIt2r_b" id="1068" weight="1.147723490456679e-05" />
+      <edge source="SUCCt2_2_f" target="PYRt2_b" id="1069" weight="1.147723490456679e-05" />
+      <edge source="SUCCt3_f" target="CYTBD_f" id="1070" weight="1.147723490456679e-05" />
+      <edge source="SUCCt3_f" target="EX_succ_e_f" id="1071" weight="0.003472222222222222" />
+      <edge source="SUCCt3_f" target="GLUSy_f" id="1072" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="NADH16_f" id="1073" weight="2.295446980913358e-05" />
+      <edge source="SUCCt3_f" target="PYK_f" id="1074" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="SUCCt2_2_f" id="1075" weight="0.003472222222222222" />
+      <edge source="SUCCt3_f" target="ACALD_b" id="1076" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="ACt2r_b" id="1077" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="AKGt2r_b" id="1078" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="ALCD2x_b" id="1079" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="ATPS4r_b" id="1080" weight="1.7215852356850184e-05" />
+      <edge source="SUCCt3_f" target="D_LACt2_b" id="1081" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="ETOHt2r_b" id="1082" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="G6PDH2r_b" id="1083" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="GAPD_b" id="1084" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="GLUDy_b" id="1085" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="GLUt2r_b" id="1086" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="LDH_D_b" id="1087" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="MDH_b" id="1088" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="PIt2r_b" id="1089" weight="5.738617452283395e-06" />
+      <edge source="SUCCt3_f" target="PYRt2_b" id="1090" weight="5.738617452283395e-06" />
+      <edge source="SUCDi_f" target="CYTBD_f" id="1091" weight="0.003472222222222222" />
+      <edge source="SUCDi_f" target="FRD7_f" id="1092" weight="0.005787037037037036" />
+      <edge source="SUCDi_f" target="FUM_f" id="1093" weight="0.0023148148148148147" />
+      <edge source="SUCOAS_f" target="ATPS4r_f" id="1094" weight="6.724904338235789e-05" />
+      <edge source="SUCOAS_f" target="GAPD_f" id="1095" weight="3.922860863970877e-05" />
+      <edge source="SUCOAS_f" target="PTAr_f" id="1096" weight="3.922860863970877e-05" />
+      <edge source="SUCOAS_f" target="PYK_f" id="1097" weight="2.802043474264912e-05" />
+      <edge source="SUCOAS_f" target="ACKr_b" id="1098" weight="2.802043474264912e-05" />
+      <edge source="SUCOAS_f" target="ADK1_b" id="1099" weight="5.604086948529824e-05" />
+      <edge source="SUCOAS_f" target="PGK_b" id="1100" weight="2.802043474264912e-05" />
+      <edge source="SUCOAS_f" target="PIt2r_b" id="1101" weight="3.922860863970877e-05" />
+      <edge source="SUCOAS_f" target="SUCOAS_b" id="1102" weight="0.007011693487826803" />
+      <edge source="TALA_f" target="Biomass_Ecoli_core_f" id="1103" weight="0.0011101932740503902" />
+      <edge source="TALA_f" target="PFK_f" id="1104" weight="0.000682349794339772" />
+      <edge source="TALA_f" target="TKT2_f" id="1105" weight="0.0029413148854063723" />
+      <edge source="TALA_f" target="PGI_b" id="1106" weight="0.000682349794339772" />
+      <edge source="TALA_f" target="TALA_b" id="1107" weight="0.0036236646797461443" />
+      <edge source="TALA_f" target="TKT2_b" id="1108" weight="0.000682349794339772" />
+      <edge source="THD2_f" target="ACALD_f" id="1109" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="AKGDH_f" id="1110" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="ALCD2x_f" id="1111" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="Biomass_Ecoli_core_f" id="1112" weight="0.0022337126767506548" />
+      <edge source="THD2_f" target="CYTBD_f" id="1113" weight="2.295446980913358e-05" />
+      <edge source="THD2_f" target="GAPD_f" id="1114" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="GLUSy_f" id="1115" weight="0.0001398790351594392" />
+      <edge source="THD2_f" target="LDH_D_f" id="1116" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="MDH_f" id="1117" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="ME1_f" id="1118" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="NADH16_f" id="1119" weight="4.590893961826716e-05" />
+      <edge source="THD2_f" target="NADTRHD_f" id="1120" weight="0.00028653736924562584" />
+      <edge source="THD2_f" target="PDH_f" id="1121" weight="0.00015813556899075347" />
+      <edge source="THD2_f" target="PYK_f" id="1122" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="ACALD_b" id="1123" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="ACt2r_b" id="1124" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="AKGt2r_b" id="1125" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="ALCD2x_b" id="1126" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="ATPS4r_b" id="1127" weight="3.443170471370037e-05" />
+      <edge source="THD2_f" target="D_LACt2_b" id="1128" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="ETOHt2r_b" id="1129" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="G6PDH2r_b" id="1130" weight="0.0001398790351594392" />
+      <edge source="THD2_f" target="GAPD_b" id="1131" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="GLUDy_b" id="1132" weight="0.0001398790351594392" />
+      <edge source="THD2_f" target="GLUt2r_b" id="1133" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="ICDHyr_b" id="1134" weight="0.0001284018002548724" />
+      <edge source="THD2_f" target="LDH_D_b" id="1135" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="MDH_b" id="1136" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="PIt2r_b" id="1137" weight="1.147723490456679e-05" />
+      <edge source="THD2_f" target="PYRt2_b" id="1138" weight="1.147723490456679e-05" />
+      <edge source="TKT1_f" target="Biomass_Ecoli_core_f" id="1139" weight="4.872101666032161e-05" />
+      <edge source="TKT1_f" target="GAPD_f" id="1140" weight="0.00037768229969241553" />
+      <edge source="TKT1_f" target="TALA_f" id="1141" weight="0.0038499045219146377" />
+      <edge source="TKT1_f" target="FBA_b" id="1142" weight="0.00037768229969241553" />
+      <edge source="TKT1_f" target="TKT1_b" id="1143" weight="0.0038499045219146377" />
+      <edge source="TKT1_f" target="TKT2_b" id="1144" weight="0.00037768229969241553" />
+      <edge source="TKT1_f" target="TPI_b" id="1145" weight="0.00037768229969241553" />
+      <edge source="TKT2_f" target="Biomass_Ecoli_core_f" id="1146" weight="9.709961707901145e-05" />
+      <edge source="TKT2_f" target="GAPD_f" id="1147" weight="0.00037768229969241553" />
+      <edge source="TKT2_f" target="PFK_f" id="1148" weight="0.000682349794339772" />
+      <edge source="TKT2_f" target="TALA_f" id="1149" weight="0.00037768229969241553" />
+      <edge source="TKT2_f" target="FBA_b" id="1150" weight="0.00037768229969241553" />
+      <edge source="TKT2_f" target="PGI_b" id="1151" weight="0.000682349794339772" />
+      <edge source="TKT2_f" target="TALA_b" id="1152" weight="0.000682349794339772" />
+      <edge source="TKT2_f" target="TKT1_b" id="1153" weight="0.00037768229969241553" />
+      <edge source="TKT2_f" target="TKT2_b" id="1154" weight="0.0010600320940321877" />
+      <edge source="TKT2_f" target="TPI_b" id="1155" weight="0.00037768229969241553" />
+      <edge source="TPI_f" target="Biomass_Ecoli_core_f" id="1156" weight="4.872101666032161e-05" />
+      <edge source="TPI_f" target="GAPD_f" id="1157" weight="0.00037768229969241553" />
+      <edge source="TPI_f" target="TALA_f" id="1158" weight="0.00037768229969241553" />
+      <edge source="TPI_f" target="FBA_b" id="1159" weight="0.00037768229969241553" />
+      <edge source="TPI_f" target="TKT1_b" id="1160" weight="0.00037768229969241553" />
+      <edge source="TPI_f" target="TKT2_b" id="1161" weight="0.00037768229969241553" />
+      <edge source="TPI_f" target="TPI_b" id="1162" weight="0.00037768229969241553" />
+      <edge source="ACALD_b" target="ACALD_f" id="1163" weight="0.0019659622423074167" />
+      <edge source="ACALD_b" target="AKGDH_f" id="1164" weight="0.0004227523657642067" />
+      <edge source="ACALD_b" target="ALCD2x_f" id="1165" weight="0.00015813556899075347" />
+      <edge source="ACALD_b" target="Biomass_Ecoli_core_f" id="1166" weight="0.0005609068632102025" />
+      <edge source="ACALD_b" target="GAPD_f" id="1167" weight="0.00015813556899075347" />
+      <edge source="ACALD_b" target="LDH_D_f" id="1168" weight="0.00015813556899075347" />
+      <edge source="ACALD_b" target="MDH_f" id="1169" weight="0.00015813556899075347" />
+      <edge source="ACALD_b" target="ME1_f" id="1170" weight="0.00015813556899075347" />
+      <edge source="ACALD_b" target="NADTRHD_f" id="1171" weight="0.00015813556899075347" />
+      <edge source="ACALD_b" target="PDH_f" id="1172" weight="0.0004227523657642067" />
+      <edge source="ACALD_b" target="PFL_f" id="1173" weight="0.0002646167967734533" />
+      <edge source="ACALD_b" target="SUCOAS_f" id="1174" weight="0.0002646167967734533" />
+      <edge source="ACALD_b" target="ACALDt_b" id="1175" weight="0.0015432098765432098" />
+      <edge source="ACALD_b" target="ALCD2x_b" id="1176" weight="0.0015432098765432098" />
+      <edge source="ACALD_b" target="PTAr_b" id="1177" weight="0.0002646167967734533" />
+      <edge source="ACALDt_b" target="ACALDt_f" id="1178" weight="0.003472222222222222" />
+      <edge source="ACALDt_b" target="EX_acald_e_f" id="1179" weight="0.003472222222222222" />
+      <edge source="ACKr_b" target="ACKr_f" id="1180" weight="0.003504912729421979" />
+      <edge source="ACKr_b" target="ADK1_f" id="1181" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="ATPM_f" id="1182" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="Biomass_Ecoli_core_f" id="1183" weight="0.001955219235617484" />
+      <edge source="ACKr_b" target="GLNS_f" id="1184" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="GLNabc_f" id="1185" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="PFK_f" id="1186" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="PGK_f" id="1187" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="PPCK_f" id="1188" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="PPS_f" id="1189" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="SUCOAS_f" id="1190" weight="3.26905071997573e-05" />
+      <edge source="ACKr_b" target="ACt2r_b" id="1191" weight="0.003472222222222222" />
+      <edge source="ACKr_b" target="ATPS4r_b" id="1192" weight="3.26905071997573e-05" />
+      <edge source="ACONTa_b" target="ACONTa_f" id="1193" weight="0.006944444444444444" />
+      <edge source="ACONTb_b" target="ACONTb_f" id="1194" weight="0.0034951230415219336" />
+      <edge source="ACONTb_b" target="ATPM_f" id="1195" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="Biomass_Ecoli_core_f" id="1196" weight="0.0013696980023157306" />
+      <edge source="ACONTb_b" target="CS_f" id="1197" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="FBP_f" id="1198" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="FUM_f" id="1199" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="GLNabc_f" id="1200" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="GLUDy_f" id="1201" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="GLUN_f" id="1202" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="MALS_f" id="1203" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="PGL_f" id="1204" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="PPC_f" id="1205" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="PPS_f" id="1206" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="ACONTa_b" id="1207" weight="0.0034951230415219336" />
+      <edge source="ACONTb_b" target="ATPS4r_b" id="1208" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="ENO_b" id="1209" weight="2.2900819299711263e-05" />
+      <edge source="ACONTb_b" target="H2Ot_b" id="1210" weight="2.2900819299711263e-05" />
+      <edge source="ACt2r_b" target="ACt2r_f" id="1211" weight="0.0035093582887700536" />
+      <edge source="ACt2r_b" target="AKGt2r_f" id="1212" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="ATPS4r_f" id="1213" weight="0.000148544266191325" />
+      <edge source="ACt2r_b" target="D_LACt2_f" id="1214" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="ETOHt2r_f" id="1215" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="EX_ac_e_f" id="1216" weight="0.003472222222222222" />
+      <edge source="ACt2r_b" target="EX_h_e_f" id="1217" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="FORt2_f" id="1218" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="FUMt2_2_f" id="1219" weight="7.42721330956625e-05" />
+      <edge source="ACt2r_b" target="GLUt2r_f" id="1220" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="MALt2_2_f" id="1221" weight="7.42721330956625e-05" />
+      <edge source="ACt2r_b" target="PIt2r_f" id="1222" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="PYRt2_f" id="1223" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="SUCCt2_2_f" id="1224" weight="7.42721330956625e-05" />
+      <edge source="ACt2r_b" target="SUCCt3_f" id="1225" weight="3.713606654783125e-05" />
+      <edge source="ACt2r_b" target="THD2_f" id="1226" weight="7.42721330956625e-05" />
+      <edge source="ADK1_b" target="ACKr_f" id="1227" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="ADK1_f" id="1228" weight="0.006977134951644202" />
+      <edge source="ADK1_b" target="ATPM_f" id="1229" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="Biomass_Ecoli_core_f" id="1230" weight="0.001955219235617484" />
+      <edge source="ADK1_b" target="GLNS_f" id="1231" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="GLNabc_f" id="1232" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="PFK_f" id="1233" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="PGK_f" id="1234" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="PPCK_f" id="1235" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="PPS_f" id="1236" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="SUCOAS_f" id="1237" weight="3.26905071997573e-05" />
+      <edge source="ADK1_b" target="ATPS4r_b" id="1238" weight="3.26905071997573e-05" />
+      <edge source="AKGt2r_b" target="ACt2r_f" id="1239" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="AKGt2r_f" id="1240" weight="0.0035093582887700536" />
+      <edge source="AKGt2r_b" target="ATPS4r_f" id="1241" weight="0.000148544266191325" />
+      <edge source="AKGt2r_b" target="D_LACt2_f" id="1242" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="ETOHt2r_f" id="1243" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="EX_akg_e_f" id="1244" weight="0.003472222222222222" />
+      <edge source="AKGt2r_b" target="EX_h_e_f" id="1245" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="FORt2_f" id="1246" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="FUMt2_2_f" id="1247" weight="7.42721330956625e-05" />
+      <edge source="AKGt2r_b" target="GLUt2r_f" id="1248" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="MALt2_2_f" id="1249" weight="7.42721330956625e-05" />
+      <edge source="AKGt2r_b" target="PIt2r_f" id="1250" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="PYRt2_f" id="1251" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="SUCCt2_2_f" id="1252" weight="7.42721330956625e-05" />
+      <edge source="AKGt2r_b" target="SUCCt3_f" id="1253" weight="3.713606654783125e-05" />
+      <edge source="AKGt2r_b" target="THD2_f" id="1254" weight="7.42721330956625e-05" />
+      <edge source="ALCD2x_b" target="ACALD_f" id="1255" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="AKGDH_f" id="1256" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="ALCD2x_f" id="1257" weight="0.003630357791212975" />
+      <edge source="ALCD2x_b" target="Biomass_Ecoli_core_f" id="1258" weight="0.0005609068632102025" />
+      <edge source="ALCD2x_b" target="GAPD_f" id="1259" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="LDH_D_f" id="1260" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="MDH_f" id="1261" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="ME1_f" id="1262" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="NADTRHD_f" id="1263" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="PDH_f" id="1264" weight="0.00015813556899075347" />
+      <edge source="ALCD2x_b" target="ETOHt2r_b" id="1265" weight="0.003472222222222222" />
+      <edge source="ATPS4r_b" target="ACt2r_f" id="1266" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="AKGt2r_f" id="1267" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="ATPS4r_f" id="1268" weight="0.0006614261081476579" />
+      <edge source="ATPS4r_b" target="D_LACt2_f" id="1269" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="ETOHt2r_f" id="1270" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="EX_h_e_f" id="1271" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="FORt2_f" id="1272" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="FUMt2_2_f" id="1273" weight="0.00029708853238265" />
+      <edge source="ATPS4r_b" target="GAPD_f" id="1274" weight="3.922860863970877e-05" />
+      <edge source="ATPS4r_b" target="GLUt2r_f" id="1275" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="MALt2_2_f" id="1276" weight="0.00029708853238265" />
+      <edge source="ATPS4r_b" target="PIt2r_f" id="1277" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="PTAr_f" id="1278" weight="3.922860863970877e-05" />
+      <edge source="ATPS4r_b" target="PYK_f" id="1279" weight="2.802043474264912e-05" />
+      <edge source="ATPS4r_b" target="PYRt2_f" id="1280" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="SUCCt2_2_f" id="1281" weight="0.00029708853238265" />
+      <edge source="ATPS4r_b" target="SUCCt3_f" id="1282" weight="0.000148544266191325" />
+      <edge source="ATPS4r_b" target="THD2_f" id="1283" weight="0.00029708853238265" />
+      <edge source="ATPS4r_b" target="ACKr_b" id="1284" weight="2.802043474264912e-05" />
+      <edge source="ATPS4r_b" target="ADK1_b" id="1285" weight="5.604086948529824e-05" />
+      <edge source="ATPS4r_b" target="PGK_b" id="1286" weight="2.802043474264912e-05" />
+      <edge source="ATPS4r_b" target="PIt2r_b" id="1287" weight="3.922860863970877e-05" />
+      <edge source="ATPS4r_b" target="SUCOAS_b" id="1288" weight="6.724904338235789e-05" />
+      <edge source="CO2t_b" target="CO2t_f" id="1289" weight="0.003472222222222222" />
+      <edge source="CO2t_b" target="EX_co2_e_f" id="1290" weight="0.003472222222222222" />
+      <edge source="D_LACt2_b" target="ACt2r_f" id="1291" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="AKGt2r_f" id="1292" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="ATPS4r_f" id="1293" weight="0.000148544266191325" />
+      <edge source="D_LACt2_b" target="D_LACt2_f" id="1294" weight="0.0035093582887700536" />
+      <edge source="D_LACt2_b" target="ETOHt2r_f" id="1295" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="EX_h_e_f" id="1296" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="EX_lac__D_e_f" id="1297" weight="0.003472222222222222" />
+      <edge source="D_LACt2_b" target="FORt2_f" id="1298" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="FUMt2_2_f" id="1299" weight="7.42721330956625e-05" />
+      <edge source="D_LACt2_b" target="GLUt2r_f" id="1300" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="MALt2_2_f" id="1301" weight="7.42721330956625e-05" />
+      <edge source="D_LACt2_b" target="PIt2r_f" id="1302" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="PYRt2_f" id="1303" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="SUCCt2_2_f" id="1304" weight="7.42721330956625e-05" />
+      <edge source="D_LACt2_b" target="SUCCt3_f" id="1305" weight="3.713606654783125e-05" />
+      <edge source="D_LACt2_b" target="THD2_f" id="1306" weight="7.42721330956625e-05" />
+      <edge source="ENO_b" target="ENO_f" id="1307" weight="0.003472222222222222" />
+      <edge source="ENO_b" target="PGM_f" id="1308" weight="0.003472222222222222" />
+      <edge source="ETOHt2r_b" target="ACt2r_f" id="1309" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="AKGt2r_f" id="1310" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="ATPS4r_f" id="1311" weight="0.000148544266191325" />
+      <edge source="ETOHt2r_b" target="D_LACt2_f" id="1312" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="ETOHt2r_f" id="1313" weight="0.0035093582887700536" />
+      <edge source="ETOHt2r_b" target="EX_etoh_e_f" id="1314" weight="0.003472222222222222" />
+      <edge source="ETOHt2r_b" target="EX_h_e_f" id="1315" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="FORt2_f" id="1316" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="FUMt2_2_f" id="1317" weight="7.42721330956625e-05" />
+      <edge source="ETOHt2r_b" target="GLUt2r_f" id="1318" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="MALt2_2_f" id="1319" weight="7.42721330956625e-05" />
+      <edge source="ETOHt2r_b" target="PIt2r_f" id="1320" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="PYRt2_f" id="1321" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="SUCCt2_2_f" id="1322" weight="7.42721330956625e-05" />
+      <edge source="ETOHt2r_b" target="SUCCt3_f" id="1323" weight="3.713606654783125e-05" />
+      <edge source="ETOHt2r_b" target="THD2_f" id="1324" weight="7.42721330956625e-05" />
+      <edge source="EX_ac_e_b" target="ACt2r_f" id="1325" weight="0.003472222222222222" />
+      <edge source="EX_ac_e_b" target="EX_ac_e_f" id="1326" weight="0.003472222222222222" />
+      <edge source="EX_acald_e_b" target="ACALDt_f" id="1327" weight="0.003472222222222222" />
+      <edge source="EX_acald_e_b" target="EX_acald_e_f" id="1328" weight="0.003472222222222222" />
+      <edge source="EX_akg_e_b" target="AKGt2r_f" id="1329" weight="0.003472222222222222" />
+      <edge source="EX_akg_e_b" target="EX_akg_e_f" id="1330" weight="0.003472222222222222" />
+      <edge source="EX_co2_e_b" target="CO2t_f" id="1331" weight="0.003472222222222222" />
+      <edge source="EX_co2_e_b" target="EX_co2_e_f" id="1332" weight="0.003472222222222222" />
+      <edge source="EX_etoh_e_b" target="ETOHt2r_f" id="1333" weight="0.003472222222222222" />
+      <edge source="EX_etoh_e_b" target="EX_etoh_e_f" id="1334" weight="0.003472222222222222" />
+      <edge source="EX_for_e_b" target="EX_for_e_f" id="1335" weight="0.003472222222222222" />
+      <edge source="EX_for_e_b" target="FORt2_f" id="1336" weight="0.003472222222222222" />
+      <edge source="EX_fru_e_b" target="EX_fru_e_f" id="1337" weight="0.006944444444444444" />
+      <edge source="EX_fru_e_b" target="FRUpts2_f" id="1338" weight="0.006944444444444444" />
+      <edge source="EX_fum_e_b" target="EX_fum_e_f" id="1339" weight="0.006944444444444444" />
+      <edge source="EX_fum_e_b" target="FUMt2_2_f" id="1340" weight="0.006944444444444444" />
+      <edge source="EX_glc__D_e_b" target="EX_glc__D_e_f" id="1341" weight="0.006944444444444444" />
+      <edge source="EX_glc__D_e_b" target="GLCpts_f" id="1342" weight="0.006944444444444444" />
+      <edge source="EX_gln__L_e_b" target="EX_gln__L_e_f" id="1343" weight="0.006944444444444444" />
+      <edge source="EX_gln__L_e_b" target="GLNabc_f" id="1344" weight="0.006944444444444444" />
+      <edge source="EX_glu__L_e_b" target="EX_glu__L_e_f" id="1345" weight="0.003472222222222222" />
+      <edge source="EX_glu__L_e_b" target="GLUt2r_f" id="1346" weight="0.003472222222222222" />
+      <edge source="EX_h_e_b" target="ACt2r_f" id="1347" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="AKGt2r_f" id="1348" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="ATPS4r_f" id="1349" weight="0.000148544266191325" />
+      <edge source="EX_h_e_b" target="D_LACt2_f" id="1350" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="ETOHt2r_f" id="1351" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="EX_h_e_f" id="1352" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="FORt2_f" id="1353" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="FUMt2_2_f" id="1354" weight="7.42721330956625e-05" />
+      <edge source="EX_h_e_b" target="GLUt2r_f" id="1355" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="MALt2_2_f" id="1356" weight="7.42721330956625e-05" />
+      <edge source="EX_h_e_b" target="PIt2r_f" id="1357" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="PYRt2_f" id="1358" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="SUCCt2_2_f" id="1359" weight="7.42721330956625e-05" />
+      <edge source="EX_h_e_b" target="SUCCt3_f" id="1360" weight="3.713606654783125e-05" />
+      <edge source="EX_h_e_b" target="THD2_f" id="1361" weight="7.42721330956625e-05" />
+      <edge source="EX_h2o_e_b" target="EX_h2o_e_f" id="1362" weight="0.003472222222222222" />
+      <edge source="EX_h2o_e_b" target="H2Ot_f" id="1363" weight="0.003472222222222222" />
+      <edge source="EX_lac__D_e_b" target="D_LACt2_f" id="1364" weight="0.003472222222222222" />
+      <edge source="EX_lac__D_e_b" target="EX_lac__D_e_f" id="1365" weight="0.003472222222222222" />
+      <edge source="EX_mal__L_e_b" target="EX_mal__L_e_f" id="1366" weight="0.006944444444444444" />
+      <edge source="EX_mal__L_e_b" target="MALt2_2_f" id="1367" weight="0.006944444444444444" />
+      <edge source="EX_nh4_e_b" target="EX_nh4_e_f" id="1368" weight="0.003472222222222222" />
+      <edge source="EX_nh4_e_b" target="NH4t_f" id="1369" weight="0.003472222222222222" />
+      <edge source="EX_o2_e_b" target="EX_o2_e_f" id="1370" weight="0.003472222222222222" />
+      <edge source="EX_o2_e_b" target="O2t_f" id="1371" weight="0.003472222222222222" />
+      <edge source="EX_pi_e_b" target="EX_pi_e_f" id="1372" weight="0.003472222222222222" />
+      <edge source="EX_pi_e_b" target="PIt2r_f" id="1373" weight="0.003472222222222222" />
+      <edge source="EX_pyr_e_b" target="EX_pyr_e_f" id="1374" weight="0.003472222222222222" />
+      <edge source="EX_pyr_e_b" target="PYRt2_f" id="1375" weight="0.003472222222222222" />
+      <edge source="EX_succ_e_b" target="EX_succ_e_f" id="1376" weight="0.003472222222222222" />
+      <edge source="EX_succ_e_b" target="SUCCt2_2_f" id="1377" weight="0.003472222222222222" />
+      <edge source="FBA_b" target="FBA_f" id="1378" weight="0.003472222222222222" />
+      <edge source="FBA_b" target="FBP_f" id="1379" weight="0.003472222222222222" />
+      <edge source="FUM_b" target="ACONTb_f" id="1380" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="ATPM_f" id="1381" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="Biomass_Ecoli_core_f" id="1382" weight="0.0013696980023157306" />
+      <edge source="FUM_b" target="CS_f" id="1383" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="FBP_f" id="1384" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="FRD7_f" id="1385" weight="0.0023148148148148147" />
+      <edge source="FUM_b" target="FUM_f" id="1386" weight="0.002337715634114526" />
+      <edge source="FUM_b" target="GLNabc_f" id="1387" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="GLUDy_f" id="1388" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="GLUN_f" id="1389" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="MALS_f" id="1390" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="PGL_f" id="1391" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="PPC_f" id="1392" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="PPS_f" id="1393" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="ACONTa_b" id="1394" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="ATPS4r_b" id="1395" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="ENO_b" id="1396" weight="2.2900819299711263e-05" />
+      <edge source="FUM_b" target="H2Ot_b" id="1397" weight="2.2900819299711263e-05" />
+      <edge source="G6PDH2r_b" target="Biomass_Ecoli_core_f" id="1398" weight="0.0004304190812127319" />
+      <edge source="G6PDH2r_b" target="G6PDH2r_f" id="1399" weight="0.0022280070744633207" />
+      <edge source="G6PDH2r_b" target="GLUDy_f" id="1400" weight="0.0001284018002548724" />
+      <edge source="G6PDH2r_b" target="GND_f" id="1401" weight="0.0001284018002548724" />
+      <edge source="G6PDH2r_b" target="ICDHyr_f" id="1402" weight="0.0001284018002548724" />
+      <edge source="G6PDH2r_b" target="ME2_f" id="1403" weight="0.0001284018002548724" />
+      <edge source="G6PDH2r_b" target="PGI_f" id="1404" weight="0.0020996052742084485" />
+      <edge source="G6PDH2r_b" target="THD2_f" id="1405" weight="0.0001284018002548724" />
+      <edge source="GAPD_b" target="ACALD_f" id="1406" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="AKGDH_f" id="1407" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="ALCD2x_f" id="1408" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="ATPS4r_f" id="1409" weight="3.922860863970877e-05" />
+      <edge source="GAPD_b" target="Biomass_Ecoli_core_f" id="1410" weight="0.0006096278798705242" />
+      <edge source="GAPD_b" target="GAPD_f" id="1411" weight="0.0005750464773228778" />
+      <edge source="GAPD_b" target="LDH_D_f" id="1412" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="MDH_f" id="1413" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="ME1_f" id="1414" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="NADTRHD_f" id="1415" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="PDH_f" id="1416" weight="0.00015813556899075347" />
+      <edge source="GAPD_b" target="PTAr_f" id="1417" weight="3.922860863970877e-05" />
+      <edge source="GAPD_b" target="TALA_f" id="1418" weight="0.00037768229969241553" />
+      <edge source="GAPD_b" target="FBA_b" id="1419" weight="0.00037768229969241553" />
+      <edge source="GAPD_b" target="PIt2r_b" id="1420" weight="3.922860863970877e-05" />
+      <edge source="GAPD_b" target="SUCOAS_b" id="1421" weight="3.922860863970877e-05" />
+      <edge source="GAPD_b" target="TKT1_b" id="1422" weight="0.00037768229969241553" />
+      <edge source="GAPD_b" target="TKT2_b" id="1423" weight="0.00037768229969241553" />
+      <edge source="GAPD_b" target="TPI_b" id="1424" weight="0.00037768229969241553" />
+      <edge source="GLUDy_b" target="ACONTb_f" id="1425" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="ATPM_f" id="1426" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="Biomass_Ecoli_core_f" id="1427" weight="0.0030981226013928596" />
+      <edge source="GLUDy_b" target="CS_f" id="1428" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="FBP_f" id="1429" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="FUM_f" id="1430" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="G6PDH2r_f" id="1431" weight="0.0001284018002548724" />
+      <edge source="GLUDy_b" target="GLNS_f" id="1432" weight="0.0003497843929002164" />
+      <edge source="GLUDy_b" target="GLNabc_f" id="1433" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="GLUDy_f" id="1434" weight="0.0005010870124548001" />
+      <edge source="GLUDy_b" target="GLUN_f" id="1435" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="GND_f" id="1436" weight="0.0001284018002548724" />
+      <edge source="GLUDy_b" target="ICDHyr_f" id="1437" weight="0.0001284018002548724" />
+      <edge source="GLUDy_b" target="MALS_f" id="1438" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="ME2_f" id="1439" weight="0.0001284018002548724" />
+      <edge source="GLUDy_b" target="PGL_f" id="1440" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="PPC_f" id="1441" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="PPS_f" id="1442" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="THD2_f" id="1443" weight="0.0001284018002548724" />
+      <edge source="GLUDy_b" target="ACONTa_b" id="1444" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="ATPS4r_b" id="1445" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="ENO_b" id="1446" weight="2.2900819299711263e-05" />
+      <edge source="GLUDy_b" target="GLUt2r_b" id="1447" weight="0.0003497843929002164" />
+      <edge source="GLUDy_b" target="H2Ot_b" id="1448" weight="2.2900819299711263e-05" />
+      <edge source="GLUt2r_b" target="ACt2r_f" id="1449" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="AKGt2r_f" id="1450" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="ATPS4r_f" id="1451" weight="0.000148544266191325" />
+      <edge source="GLUt2r_b" target="D_LACt2_f" id="1452" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="ETOHt2r_f" id="1453" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="EX_glu__L_e_f" id="1454" weight="0.003472222222222222" />
+      <edge source="GLUt2r_b" target="EX_h_e_f" id="1455" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="FORt2_f" id="1456" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="FUMt2_2_f" id="1457" weight="7.42721330956625e-05" />
+      <edge source="GLUt2r_b" target="GLUt2r_f" id="1458" weight="0.0035093582887700536" />
+      <edge source="GLUt2r_b" target="MALt2_2_f" id="1459" weight="7.42721330956625e-05" />
+      <edge source="GLUt2r_b" target="PIt2r_f" id="1460" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="PYRt2_f" id="1461" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="SUCCt2_2_f" id="1462" weight="7.42721330956625e-05" />
+      <edge source="GLUt2r_b" target="SUCCt3_f" id="1463" weight="3.713606654783125e-05" />
+      <edge source="GLUt2r_b" target="THD2_f" id="1464" weight="7.42721330956625e-05" />
+      <edge source="H2Ot_b" target="EX_h2o_e_f" id="1465" weight="0.003472222222222222" />
+      <edge source="H2Ot_b" target="H2Ot_f" id="1466" weight="0.003472222222222222" />
+      <edge source="ICDHyr_b" target="G6PDH2r_f" id="1467" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_b" target="GLUDy_f" id="1468" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_b" target="GND_f" id="1469" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_b" target="ICDHyr_f" id="1470" weight="0.002443216615069687" />
+      <edge source="ICDHyr_b" target="ICL_f" id="1471" weight="0.0023148148148148147" />
+      <edge source="ICDHyr_b" target="ME2_f" id="1472" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_b" target="THD2_f" id="1473" weight="0.0001284018002548724" />
+      <edge source="ICDHyr_b" target="ACONTb_b" id="1474" weight="0.0023148148148148147" />
+      <edge source="LDH_D_b" target="ACALD_f" id="1475" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="AKGDH_f" id="1476" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="ALCD2x_f" id="1477" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="Biomass_Ecoli_core_f" id="1478" weight="0.0005609068632102025" />
+      <edge source="LDH_D_b" target="GAPD_f" id="1479" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="LDH_D_f" id="1480" weight="0.003630357791212975" />
+      <edge source="LDH_D_b" target="MDH_f" id="1481" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="ME1_f" id="1482" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="NADTRHD_f" id="1483" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="PDH_f" id="1484" weight="0.00015813556899075347" />
+      <edge source="LDH_D_b" target="D_LACt2_b" id="1485" weight="0.003472222222222222" />
+      <edge source="MDH_b" target="ACALD_f" id="1486" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="AKGDH_f" id="1487" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="ALCD2x_f" id="1488" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="Biomass_Ecoli_core_f" id="1489" weight="0.0005609068632102025" />
+      <edge source="MDH_b" target="GAPD_f" id="1490" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="LDH_D_f" id="1491" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="MDH_f" id="1492" weight="0.001026191124546309" />
+      <edge source="MDH_b" target="ME1_f" id="1493" weight="0.001026191124546309" />
+      <edge source="MDH_b" target="ME2_f" id="1494" weight="0.0008680555555555555" />
+      <edge source="MDH_b" target="NADTRHD_f" id="1495" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="PDH_f" id="1496" weight="0.00015813556899075347" />
+      <edge source="MDH_b" target="FUM_b" id="1497" weight="0.0008680555555555555" />
+      <edge source="NH4t_b" target="EX_nh4_e_f" id="1498" weight="0.003472222222222222" />
+      <edge source="NH4t_b" target="NH4t_f" id="1499" weight="0.003472222222222222" />
+      <edge source="O2t_b" target="EX_o2_e_f" id="1500" weight="0.003472222222222222" />
+      <edge source="O2t_b" target="O2t_f" id="1501" weight="0.003472222222222222" />
+      <edge source="PGI_b" target="Biomass_Ecoli_core_f" id="1502" weight="0.0004304190812127319" />
+      <edge source="PGI_b" target="G6PDH2r_f" id="1503" weight="0.0020996052742084485" />
+      <edge source="PGI_b" target="PGI_f" id="1504" weight="0.0020996052742084485" />
+      <edge source="PGK_b" target="ACKr_f" id="1505" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="ADK1_f" id="1506" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="ATPM_f" id="1507" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="Biomass_Ecoli_core_f" id="1508" weight="0.004926869375459844" />
+      <edge source="PGK_b" target="GLNS_f" id="1509" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="GLNabc_f" id="1510" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="PFK_f" id="1511" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="PGK_f" id="1512" weight="0.0020190876595008" />
+      <edge source="PGK_b" target="PPCK_f" id="1513" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="PPS_f" id="1514" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="SUCOAS_f" id="1515" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="ATPS4r_b" id="1516" weight="3.26905071997573e-05" />
+      <edge source="PGK_b" target="PGM_b" id="1517" weight="0.0019863971523010424" />
+      <edge source="PGM_b" target="ENO_f" id="1518" weight="0.003472222222222222" />
+      <edge source="PGM_b" target="PGM_f" id="1519" weight="0.003472222222222222" />
+      <edge source="PIt2r_b" target="ACt2r_f" id="1520" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="AKGt2r_f" id="1521" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="ATPS4r_f" id="1522" weight="0.000148544266191325" />
+      <edge source="PIt2r_b" target="D_LACt2_f" id="1523" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="ETOHt2r_f" id="1524" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="EX_h_e_f" id="1525" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="EX_pi_e_f" id="1526" weight="0.003472222222222222" />
+      <edge source="PIt2r_b" target="FORt2_f" id="1527" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="FUMt2_2_f" id="1528" weight="7.42721330956625e-05" />
+      <edge source="PIt2r_b" target="GLUt2r_f" id="1529" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="MALt2_2_f" id="1530" weight="7.42721330956625e-05" />
+      <edge source="PIt2r_b" target="PIt2r_f" id="1531" weight="0.0035093582887700536" />
+      <edge source="PIt2r_b" target="PYRt2_f" id="1532" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="SUCCt2_2_f" id="1533" weight="7.42721330956625e-05" />
+      <edge source="PIt2r_b" target="SUCCt3_f" id="1534" weight="3.713606654783125e-05" />
+      <edge source="PIt2r_b" target="THD2_f" id="1535" weight="7.42721330956625e-05" />
+      <edge source="PTAr_b" target="ATPS4r_f" id="1536" weight="3.922860863970877e-05" />
+      <edge source="PTAr_b" target="Biomass_Ecoli_core_f" id="1537" weight="0.001679598653094355" />
+      <edge source="PTAr_b" target="CS_f" id="1538" weight="0.0004481558922819668" />
+      <edge source="PTAr_b" target="GAPD_f" id="1539" weight="3.922860863970877e-05" />
+      <edge source="PTAr_b" target="MALS_f" id="1540" weight="0.0004481558922819668" />
+      <edge source="PTAr_b" target="PTAr_f" id="1541" weight="0.0004873845009216756" />
+      <edge source="PTAr_b" target="ACALD_b" id="1542" weight="0.0004481558922819668" />
+      <edge source="PTAr_b" target="PIt2r_b" id="1543" weight="3.922860863970877e-05" />
+      <edge source="PTAr_b" target="SUCOAS_b" id="1544" weight="3.922860863970877e-05" />
+      <edge source="PYRt2_b" target="ACt2r_f" id="1545" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="AKGt2r_f" id="1546" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="ATPS4r_f" id="1547" weight="0.000148544266191325" />
+      <edge source="PYRt2_b" target="D_LACt2_f" id="1548" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="ETOHt2r_f" id="1549" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="EX_h_e_f" id="1550" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="EX_pyr_e_f" id="1551" weight="0.003472222222222222" />
+      <edge source="PYRt2_b" target="FORt2_f" id="1552" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="FUMt2_2_f" id="1553" weight="7.42721330956625e-05" />
+      <edge source="PYRt2_b" target="GLUt2r_f" id="1554" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="MALt2_2_f" id="1555" weight="7.42721330956625e-05" />
+      <edge source="PYRt2_b" target="PIt2r_f" id="1556" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="PYRt2_f" id="1557" weight="0.0035093582887700536" />
+      <edge source="PYRt2_b" target="SUCCt2_2_f" id="1558" weight="7.42721330956625e-05" />
+      <edge source="PYRt2_b" target="SUCCt3_f" id="1559" weight="3.713606654783125e-05" />
+      <edge source="PYRt2_b" target="THD2_f" id="1560" weight="7.42721330956625e-05" />
+      <edge source="RPE_b" target="RPE_f" id="1561" weight="0.0023148148148148147" />
+      <edge source="RPE_b" target="RPI_b" id="1562" weight="0.0023148148148148147" />
+      <edge source="RPI_b" target="Biomass_Ecoli_core_f" id="1563" weight="0.0021513710107249812" />
+      <edge source="RPI_b" target="RPI_f" id="1564" weight="0.0023965367168597316" />
+      <edge source="RPI_b" target="TKT1_f" id="1565" weight="0.0023965367168597316" />
+      <edge source="SUCOAS_b" target="ACALD_f" id="1566" weight="0.0002646167967734533" />
+      <edge source="SUCOAS_b" target="ACKr_f" id="1567" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="ADK1_f" id="1568" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="AKGDH_f" id="1569" weight="0.0002646167967734533" />
+      <edge source="SUCOAS_b" target="ATPM_f" id="1570" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="Biomass_Ecoli_core_f" id="1571" weight="0.001955219235617484" />
+      <edge source="SUCOAS_b" target="GLNS_f" id="1572" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="GLNabc_f" id="1573" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="PDH_f" id="1574" weight="0.0002646167967734533" />
+      <edge source="SUCOAS_b" target="PFK_f" id="1575" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="PFL_f" id="1576" weight="0.0002646167967734533" />
+      <edge source="SUCOAS_b" target="PGK_f" id="1577" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="PPCK_f" id="1578" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="PPS_f" id="1579" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="SUCCt3_f" id="1580" weight="0.0011574074074074073" />
+      <edge source="SUCOAS_b" target="SUCDi_f" id="1581" weight="0.0011574074074074073" />
+      <edge source="SUCOAS_b" target="SUCOAS_f" id="1582" weight="0.0014547147113806178" />
+      <edge source="SUCOAS_b" target="ATPS4r_b" id="1583" weight="3.26905071997573e-05" />
+      <edge source="SUCOAS_b" target="PTAr_b" id="1584" weight="0.0002646167967734533" />
+      <edge source="TALA_b" target="Biomass_Ecoli_core_f" id="1585" weight="4.872101666032161e-05" />
+      <edge source="TALA_b" target="GAPD_f" id="1586" weight="0.00037768229969241553" />
+      <edge source="TALA_b" target="TALA_f" id="1587" weight="0.0038499045219146377" />
+      <edge source="TALA_b" target="FBA_b" id="1588" weight="0.00037768229969241553" />
+      <edge source="TALA_b" target="TKT1_b" id="1589" weight="0.0038499045219146377" />
+      <edge source="TALA_b" target="TKT2_b" id="1590" weight="0.00037768229969241553" />
+      <edge source="TALA_b" target="TPI_b" id="1591" weight="0.00037768229969241553" />
+      <edge source="TKT1_b" target="Biomass_Ecoli_core_f" id="1592" weight="0.0021513710107249812" />
+      <edge source="TKT1_b" target="RPI_f" id="1593" weight="0.0023965367168597316" />
+      <edge source="TKT1_b" target="TKT1_f" id="1594" weight="0.0039397465934029405" />
+      <edge source="TKT1_b" target="TKT2_f" id="1595" weight="0.0015432098765432098" />
+      <edge source="TKT1_b" target="RPE_b" id="1596" weight="0.0015432098765432098" />
+      <edge source="TKT2_b" target="Biomass_Ecoli_core_f" id="1597" weight="0.0010618146736317005" />
+      <edge source="TKT2_b" target="TKT1_f" id="1598" weight="0.0015432098765432098" />
+      <edge source="TKT2_b" target="TKT2_f" id="1599" weight="0.004484524761949583" />
+      <edge source="TKT2_b" target="RPE_b" id="1600" weight="0.0015432098765432098" />
+      <edge source="TKT2_b" target="TALA_b" id="1601" weight="0.0029413148854063723" />
+      <edge source="TPI_b" target="TPI_f" id="1602" weight="0.003472222222222222" />
+      <edge source="TPI_b" target="FBA_b" id="1603" weight="0.003472222222222222" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,4357 @@
+﻿nodo,reaccion,categoria,t=35.1 (15 com.)
+EX_12dgr160_e_f,EX_12dgr160_e,Intercambio,1
+EX_12dgr180_e_f,EX_12dgr180_e,Intercambio,1
+EX_14glucan_e_f,EX_14glucan_e,Intercambio,1
+EX_1ag160_e_f,EX_1ag160_e,Intercambio,1
+EX_1ag180_e_f,EX_1ag180_e,Intercambio,1
+EX_1ag181d9_e_f,EX_1ag181d9_e,Intercambio,1
+EX_1ag182d9d12_e_f,EX_1ag182d9d12_e,Intercambio,1
+EX_25dkglcn_e_f,EX_25dkglcn_e,Intercambio,1
+EX_26dap__M_e_f,EX_26dap__M_e,Intercambio,1
+EX_2ameph_e_f,EX_2ameph_e,Intercambio,1
+EX_2dhglcn_e_f,EX_2dhglcn_e,Intercambio,2
+EX_2m35mdntha_e_f,EX_2m35mdntha_e,Intercambio,1
+EX_2obut_e_f,EX_2obut_e,Intercambio,1
+EX_2pg_e_f,EX_2pg_e,Intercambio,1
+EX_2pglyc_e_f,EX_2pglyc_e,Intercambio,1
+EX_34dhbz_e_f,EX_34dhbz_e,Intercambio,1
+EX_34dhpac_e_f,EX_34dhpac_e,Intercambio,1
+EX_35dnta_e_f,EX_35dnta_e,Intercambio,1
+EX_3h4atb_e_f,EX_3h4atb_e,Intercambio,3
+EX_3hcinnm_e_f,EX_3hcinnm_e,Intercambio,1
+EX_3hoxpac_e_f,EX_3hoxpac_e,Intercambio,1
+EX_3hpppn_e_f,EX_3hpppn_e,Intercambio,1
+EX_3mb_e_f,EX_3mb_e,Intercambio,1
+EX_3oxoadp_e_f,EX_3oxoadp_e,Intercambio,1
+EX_3pg_e_f,EX_3pg_e,Intercambio,1
+EX_4abut_e_f,EX_4abut_e,Intercambio,1
+EX_4crsol_e_f,EX_4crsol_e,Intercambio,1
+EX_4hba_e_f,EX_4hba_e,Intercambio,1
+EX_4hbald_e_f,EX_4hbald_e,Intercambio,1
+EX_4hbz_e_f,EX_4hbz_e,Intercambio,1
+EX_4hoxpac_e_f,EX_4hoxpac_e,Intercambio,1
+EX_4hoxpacd_e_f,EX_4hoxpacd_e,Intercambio,1
+EX_4hphac_e_f,EX_4hphac_e,Intercambio,1
+EX_4hpro_DC_e_f,EX_4hpro_DC_e,Intercambio,1
+EX_4hpro_LT_e_f,EX_4hpro_LT_e,Intercambio,1
+EX_4oxptn_e_f,EX_4oxptn_e,Intercambio,1
+EX_5aptn_e_f,EX_5aptn_e,Intercambio,1
+EX_5drib_e_f,EX_5drib_e,Intercambio,1
+EX_6atha_e_f,EX_6atha_e,Intercambio,1
+EX_6hnac_e_f,EX_6hnac_e,Intercambio,1
+EX_LalaDgluMdapDala_e_f,EX_LalaDgluMdapDala_e,Intercambio,2
+EX_LalaLglu_e_f,EX_LalaLglu_e,Intercambio,1
+EX_Lcyst_e_f,EX_Lcyst_e,Intercambio,1
+EX_R_3h4atba_e_f,EX_R_3h4atba_e,Intercambio,3
+EX_R_3hhdca_e_f,EX_R_3hhdca_e,Intercambio,4
+EX_R_3hppta_e_f,EX_R_3hppta_e,Intercambio,5
+EX_R_3hpt_e_f,EX_R_3hpt_e,Intercambio,6
+EX_abg4_e_f,EX_abg4_e,Intercambio,1
+EX_ac_e_f,EX_ac_e,Intercambio,1
+EX_acac_e_f,EX_acac_e,Intercambio,1
+EX_acgam_e_f,EX_acgam_e,Intercambio,1
+EX_acmana_e_f,EX_acmana_e,Intercambio,1
+EX_acnam_e_f,EX_acnam_e,Intercambio,1
+EX_acon_C_e_f,EX_acon_C_e,Intercambio,1
+EX_acser_e_f,EX_acser_e,Intercambio,1
+EX_actn__R_e_f,EX_actn__R_e,Intercambio,1
+EX_ad_e_f,EX_ad_e,Intercambio,1
+EX_ade_e_f,EX_ade_e,Intercambio,1
+EX_adn_e_f,EX_adn_e,Intercambio,1
+EX_ag_e_f,EX_ag_e,Intercambio,1
+EX_agm_e_f,EX_agm_e,Intercambio,1
+EX_akg_e_f,EX_akg_e,Intercambio,1
+EX_ala_B_e_f,EX_ala_B_e,Intercambio,1
+EX_ala_L_asp__L_e_f,EX_ala_L_asp__L_e,Intercambio,1
+EX_ala_L_glu__L_e_f,EX_ala_L_glu__L_e,Intercambio,1
+EX_ala_L_thr__L_e_f,EX_ala_L_thr__L_e,Intercambio,1
+EX_ala__L_e_f,EX_ala__L_e,Intercambio,1
+EX_ala_gln_e_f,EX_ala_gln_e,Intercambio,1
+EX_ala_his_e_f,EX_ala_his_e,Intercambio,1
+EX_ala_leu_e_f,EX_ala_leu_e,Intercambio,1
+EX_alaala_e_f,EX_alaala_e,Intercambio,2
+EX_alagly_e_f,EX_alagly_e,Intercambio,1
+EX_alahis_e_f,EX_alahis_e,Intercambio,1
+EX_alaleu_e_f,EX_alaleu_e,Intercambio,1
+EX_alathr_e_f,EX_alathr_e,Intercambio,1
+EX_alatrp_e_f,EX_alatrp_e,Intercambio,1
+EX_algac_MG_14_e_f,EX_algac_MG_14_e,Intercambio,7
+EX_algac_MG_23_e_f,EX_algac_MG_23_e,Intercambio,7
+EX_algac_MG_32_e_f,EX_algac_MG_32_e,Intercambio,7
+EX_algac_MG_41_e_f,EX_algac_MG_41_e,Intercambio,7
+EX_algac__M_e_f,EX_algac__M_e,Intercambio,7
+EX_all__D_e_f,EX_all__D_e,Intercambio,1
+EX_alltn_e_f,EX_alltn_e,Intercambio,1
+EX_anhgm_e_f,EX_anhgm_e,Intercambio,2
+EX_apc_e_f,EX_apc_e,Intercambio,1
+EX_arab__L_e_f,EX_arab__L_e,Intercambio,1
+EX_arbt_e_f,EX_arbt_e,Intercambio,1
+EX_arg__L_e_f,EX_arg__L_e,Intercambio,1
+EX_ascb__L_e_f,EX_ascb__L_e,Intercambio,1
+EX_asn__D_e_f,EX_asn__D_e,Intercambio,1
+EX_asn__L_e_f,EX_asn__L_e,Intercambio,1
+EX_aso3_e_f,EX_aso3_e,Intercambio,1
+EX_aso4_e_f,EX_aso4_e,Intercambio,1
+EX_asp__L_e_f,EX_asp__L_e,Intercambio,1
+EX_balaala_e_f,EX_balaala_e,Intercambio,1
+EX_balabala_e_f,EX_balabala_e,Intercambio,1
+EX_balagly_e_f,EX_balagly_e,Intercambio,1
+EX_balaleu_e_f,EX_balaleu_e,Intercambio,1
+EX_balamd_e_f,EX_balamd_e,Intercambio,1
+EX_biliverd_e_f,EX_biliverd_e,Intercambio,1
+EX_btd_RR_e_f,EX_btd_RR_e,Intercambio,1
+EX_btn_e_f,EX_btn_e,Intercambio,1
+EX_btoh_e_f,EX_btoh_e,Intercambio,1
+EX_but_e_f,EX_but_e,Intercambio,1
+EX_buts_e_f,EX_buts_e,Intercambio,1
+EX_butso3_e_f,EX_butso3_e,Intercambio,1
+EX_bz_e_f,EX_bz_e,Intercambio,1
+EX_bzal_e_f,EX_bzal_e,Intercambio,1
+EX_bzalc_e_f,EX_bzalc_e,Intercambio,1
+EX_ca2_e_f,EX_ca2_e,Intercambio,1
+EX_carn_e_f,EX_carn_e,Intercambio,1
+EX_cd2_e_f,EX_cd2_e,Intercambio,1
+EX_cgly_e_f,EX_cgly_e,Intercambio,1
+EX_chol_e_f,EX_chol_e,Intercambio,1
+EX_chols_e_f,EX_chols_e,Intercambio,1
+EX_chor_e_f,EX_chor_e,Intercambio,1
+EX_chsterol_e_f,EX_chsterol_e,Intercambio,1
+EX_chtbs_e_f,EX_chtbs_e,Intercambio,1
+EX_cinnm_e_f,EX_cinnm_e,Intercambio,5
+EX_cit_e_f,EX_cit_e,Intercambio,1
+EX_cl_e_f,EX_cl_e,Intercambio,1
+EX_cm_e_f,EX_cm_e,Intercambio,1
+EX_cmcbtt_e_f,EX_cmcbtt_e,Intercambio,4
+EX_co2_e_f,EX_co2_e,Intercambio,1
+EX_cobalt2_e_f,EX_cobalt2_e,Intercambio,1
+EX_confrl_e_f,EX_confrl_e,Intercambio,1
+EX_creat_e_f,EX_creat_e,Intercambio,1
+EX_crn_e_f,EX_crn_e,Intercambio,1
+EX_cro4_e_f,EX_cro4_e,Intercambio,1
+EX_csn_e_f,EX_csn_e,Intercambio,1
+EX_cu2_e_f,EX_cu2_e,Intercambio,3
+EX_cu_e_f,EX_cu_e,Intercambio,1
+EX_cyan_e_f,EX_cyan_e,Intercambio,1
+EX_cys__L_e_f,EX_cys__L_e,Intercambio,1
+EX_d23hb_e_f,EX_d23hb_e,Intercambio,2
+EX_dad_2_e_f,EX_dad_2_e,Intercambio,1
+EX_dag181d9_e_f,EX_dag181d9_e,Intercambio,1
+EX_dag182d9d12_e_f,EX_dag182d9d12_e,Intercambio,1
+EX_dca_e_f,EX_dca_e,Intercambio,1
+EX_ddca_e_f,EX_ddca_e,Intercambio,1
+EX_dmanur_e_f,EX_dmanur_e,Intercambio,2
+EX_dmgly_e_f,EX_dmgly_e,Intercambio,1
+EX_dmso2_e_f,EX_dmso2_e,Intercambio,1
+EX_dopa_e_f,EX_dopa_e,Intercambio,1
+EX_doxrbcn_e_f,EX_doxrbcn_e,Intercambio,1
+EX_drib_e_f,EX_drib_e,Intercambio,1
+EX_dtmp_e_f,EX_dtmp_e,Intercambio,1
+EX_dxyl_e_f,EX_dxyl_e,Intercambio,1
+EX_enter_e_f,EX_enter_e,Intercambio,1
+EX_etha_e_f,EX_etha_e,Intercambio,4
+EX_eths_e_f,EX_eths_e,Intercambio,1
+EX_ethso3_e_f,EX_ethso3_e,Intercambio,1
+EX_etoh_e_f,EX_etoh_e,Intercambio,1
+EX_fad_e_f,EX_fad_e,Intercambio,1
+EX_fald_e_f,EX_fald_e,Intercambio,1
+EX_fcmcbtt_e_f,EX_fcmcbtt_e,Intercambio,1
+EX_fe2_e_f,EX_fe2_e,Intercambio,1
+EX_fe3_e_f,EX_fe3_e,Intercambio,1
+EX_fe3dcit_e_f,EX_fe3dcit_e,Intercambio,1
+EX_fe3dhbzs3_e_f,EX_fe3dhbzs3_e,Intercambio,1
+EX_fe3pyovd_kt_e_f,EX_fe3pyovd_kt_e,Intercambio,1
+EX_feenter_e_f,EX_feenter_e,Intercambio,1
+EX_feoxam_e_f,EX_feoxam_e,Intercambio,1
+EX_feoxam_un_e_f,EX_feoxam_un_e,Intercambio,2
+EX_fer_e_f,EX_fer_e,Intercambio,1
+EX_fmn_e_f,EX_fmn_e,Intercambio,2
+EX_fol_e_f,EX_fol_e,Intercambio,1
+EX_for_e_f,EX_for_e,Intercambio,1
+EX_fru_e_f,EX_fru_e,Intercambio,1
+EX_fuc__L_e_f,EX_fuc__L_e,Intercambio,1
+EX_fusa_e_f,EX_fusa_e,Intercambio,1
+EX_g3pc_e_f,EX_g3pc_e,Intercambio,1
+EX_g3pg_e_f,EX_g3pg_e,Intercambio,1
+EX_g3pi_e_f,EX_g3pi_e,Intercambio,1
+EX_g3ps_e_f,EX_g3ps_e,Intercambio,1
+EX_gal_e_f,EX_gal_e,Intercambio,2
+EX_galct__D_e_f,EX_galct__D_e,Intercambio,1
+EX_galctn__D_e_f,EX_galctn__D_e,Intercambio,1
+EX_galt_e_f,EX_galt_e,Intercambio,1
+EX_galur_e_f,EX_galur_e,Intercambio,1
+EX_gam_e_f,EX_gam_e,Intercambio,1
+EX_glc__D_e_f,EX_glc__D_e,Intercambio,2
+EX_glcn_e_f,EX_glcn_e,Intercambio,2
+EX_glcr_e_f,EX_glcr_e,Intercambio,1
+EX_glcur_e_f,EX_glcur_e,Intercambio,1
+EX_gln__L_e_f,EX_gln__L_e,Intercambio,1
+EX_glu__L_e_f,EX_glu__L_e,Intercambio,1
+EX_glutar_e_f,EX_glutar_e,Intercambio,1
+EX_gly_asn__L_e_f,EX_gly_asn__L_e,Intercambio,1
+EX_gly_asp__L_e_f,EX_gly_asp__L_e,Intercambio,1
+EX_gly_cys_e_f,EX_gly_cys_e,Intercambio,1
+EX_gly_e_f,EX_gly_e,Intercambio,1
+EX_gly_gln_e_f,EX_gly_gln_e,Intercambio,1
+EX_gly_glu__L_e_f,EX_gly_glu__L_e,Intercambio,1
+EX_gly_leu_e_f,EX_gly_leu_e,Intercambio,1
+EX_gly_met_e_f,EX_gly_met_e,Intercambio,1
+EX_gly_phe_e_f,EX_gly_phe_e,Intercambio,1
+EX_gly_pro__L_e_f,EX_gly_pro__L_e,Intercambio,1
+EX_gly_tyr_e_f,EX_gly_tyr_e,Intercambio,1
+EX_glyald_e_f,EX_glyald_e,Intercambio,4
+EX_glyb_e_f,EX_glyb_e,Intercambio,1
+EX_glyc2p_e_f,EX_glyc2p_e,Intercambio,1
+EX_glyc3p_e_f,EX_glyc3p_e,Intercambio,1
+EX_glyc__R_e_f,EX_glyc__R_e,Intercambio,1
+EX_glyc_e_f,EX_glyc_e,Intercambio,4
+EX_glyclt_e_f,EX_glyclt_e,Intercambio,1
+EX_glycol_e_f,EX_glycol_e,Intercambio,1
+EX_glygln_e_f,EX_glygln_e,Intercambio,1
+EX_glyglu_e_f,EX_glyglu_e,Intercambio,1
+EX_glygly_e_f,EX_glygly_e,Intercambio,1
+EX_glymet_e_f,EX_glymet_e,Intercambio,1
+EX_glyphe_e_f,EX_glyphe_e,Intercambio,1
+EX_glyser_e_f,EX_glyser_e,Intercambio,1
+EX_gsn_e_f,EX_gsn_e,Intercambio,1
+EX_gthrd_e_f,EX_gthrd_e,Intercambio,1
+EX_gua_e_f,EX_gua_e,Intercambio,1
+EX_h2o2_e_f,EX_h2o2_e,Intercambio,1
+EX_h2o_e_f,EX_h2o_e,Intercambio,1
+EX_h2s_e_f,EX_h2s_e,Intercambio,1
+EX_h_e_f,EX_h_e,Intercambio,1
+EX_hco3_e_f,EX_hco3_e,Intercambio,1
+EX_hdca_e_f,EX_hdca_e,Intercambio,1
+EX_hdcea_e_f,EX_hdcea_e,Intercambio,1
+EX_hexs_e_f,EX_hexs_e,Intercambio,1
+EX_hg2_e_f,EX_hg2_e,Intercambio,1
+EX_hia_e_f,EX_hia_e,Intercambio,1
+EX_his__L_e_f,EX_his__L_e,Intercambio,1
+EX_hisgly_e_f,EX_hisgly_e,Intercambio,1
+EX_hishis_e_f,EX_hishis_e,Intercambio,1
+EX_hpta_e_f,EX_hpta_e,Intercambio,1
+EX_hqn_e_f,EX_hqn_e,Intercambio,1
+EX_hxa_e_f,EX_hxa_e,Intercambio,1
+EX_hxan_e_f,EX_hxan_e,Intercambio,1
+EX_ibt_e_f,EX_ibt_e,Intercambio,1
+EX_icit_e_f,EX_icit_e,Intercambio,1
+EX_ile__L_e_f,EX_ile__L_e,Intercambio,1
+EX_ind3ac_e_f,EX_ind3ac_e,Intercambio,1
+EX_indole_e_f,EX_indole_e,Intercambio,2
+EX_inost_e_f,EX_inost_e,Intercambio,1
+EX_ins_e_f,EX_ins_e,Intercambio,1
+EX_isetac_e_f,EX_isetac_e,Intercambio,1
+EX_istnt_e_f,EX_istnt_e,Intercambio,1
+EX_k_e_f,EX_k_e,Intercambio,1
+EX_lac__D_e_f,EX_lac__D_e,Intercambio,1
+EX_lac__L_e_f,EX_lac__L_e,Intercambio,2
+EX_lcts_e_f,EX_lcts_e,Intercambio,1
+EX_leu__D_e_f,EX_leu__D_e,Intercambio,1
+EX_leu__L_e_f,EX_leu__L_e,Intercambio,1
+EX_leuleu_e_f,EX_leuleu_e,Intercambio,1
+EX_lnlc_e_f,EX_lnlc_e,Intercambio,1
+EX_lys__D_e_f,EX_lys__D_e,Intercambio,1
+EX_lys__L_e_f,EX_lys__L_e,Intercambio,1
+EX_m_xyl_e_f,EX_m_xyl_e,Intercambio,1
+EX_mal__L_e_f,EX_mal__L_e,Intercambio,1
+EX_malt_e_f,EX_malt_e,Intercambio,1
+EX_malthp_e_f,EX_malthp_e,Intercambio,1
+EX_malthx_e_f,EX_malthx_e,Intercambio,1
+EX_maltpt_e_f,EX_maltpt_e,Intercambio,1
+EX_malttr_e_f,EX_malttr_e,Intercambio,1
+EX_maltttr_e_f,EX_maltttr_e,Intercambio,1
+EX_man_e_f,EX_man_e,Intercambio,1
+EX_manglyc_e_f,EX_manglyc_e,Intercambio,1
+EX_manur_e_f,EX_manur_e,Intercambio,2
+EX_meoh_e_f,EX_meoh_e,Intercambio,1
+EX_met_L_ala__L_e_f,EX_met_L_ala__L_e,Intercambio,1
+EX_met__D_e_f,EX_met__D_e,Intercambio,1
+EX_met__L_e_f,EX_met__L_e,Intercambio,1
+EX_metox__R_e_f,EX_metox__R_e,Intercambio,1
+EX_metox_e_f,EX_metox_e,Intercambio,1
+EX_mg2_e_f,EX_mg2_e,Intercambio,1
+EX_mn2_e_f,EX_mn2_e,Intercambio,8
+EX_mnl1p_e_f,EX_mnl1p_e,Intercambio,1
+EX_mnl_e_f,EX_mnl_e,Intercambio,1
+EX_mobd_e_f,EX_mobd_e,Intercambio,1
+EX_mso3_e_f,EX_mso3_e,Intercambio,1
+EX_na1_e_f,EX_na1_e,Intercambio,1
+EX_nac_e_f,EX_nac_e,Intercambio,1
+EX_nh4_e_f,EX_nh4_e,Intercambio,1
+EX_ni2_e_f,EX_ni2_e,Intercambio,1
+EX_nmn_e_f,EX_nmn_e,Intercambio,1
+EX_no2_e_f,EX_no2_e,Intercambio,1
+EX_no3_e_f,EX_no3_e,Intercambio,1
+EX_no_e_f,EX_no_e,Intercambio,1
+EX_nona_e_f,EX_nona_e,Intercambio,1
+EX_novbcn_e_f,EX_novbcn_e,Intercambio,1
+EX_o2_e_f,EX_o2_e,Intercambio,1
+EX_oaa_e_f,EX_oaa_e,Intercambio,1
+EX_ocdca_e_f,EX_ocdca_e,Intercambio,1
+EX_ocdcea_e_f,EX_ocdcea_e,Intercambio,1
+EX_octa_e_f,EX_octa_e,Intercambio,1
+EX_orn__D_e_f,EX_orn__D_e,Intercambio,1
+EX_orn_e_f,EX_orn_e,Intercambio,1
+EX_orot_e_f,EX_orot_e,Intercambio,1
+EX_oxa_e_f,EX_oxa_e,Intercambio,1
+EX_p_xyl_e_f,EX_p_xyl_e,Intercambio,1
+EX_pac_e_f,EX_pac_e,Intercambio,9
+EX_pea_e_f,EX_pea_e,Intercambio,9
+EX_peamn_e_f,EX_peamn_e,Intercambio,1
+EX_pentso3_e_f,EX_pentso3_e,Intercambio,1
+EX_pep_e_f,EX_pep_e,Intercambio,1
+EX_phe__L_e_f,EX_phe__L_e,Intercambio,1
+EX_phedca_e_f,EX_phedca_e,Intercambio,1
+EX_phehpa_e_f,EX_phehpa_e,Intercambio,1
+EX_phehxa_e_f,EX_phehxa_e,Intercambio,1
+EX_pheme_e_f,EX_pheme_e,Intercambio,1
+EX_phenona_e_f,EX_phenona_e,Intercambio,1
+EX_pheocta_e_f,EX_pheocta_e,Intercambio,1
+EX_phept_e_f,EX_phept_e,Intercambio,1
+EX_pi_e_f,EX_pi_e,Intercambio,4
+EX_pime_e_f,EX_pime_e,Intercambio,1
+EX_pnto__R_e_f,EX_pnto__R_e,Intercambio,1
+EX_ppa_e_f,EX_ppa_e,Intercambio,1
+EX_ppap_e_f,EX_ppap_e,Intercambio,1
+EX_ppi_e_f,EX_ppi_e,Intercambio,1
+EX_ppoh_e_f,EX_ppoh_e,Intercambio,1
+EX_prealg_MG_14_e_f,EX_prealg_MG_14_e,Intercambio,2
+EX_prealg_MG_23_e_f,EX_prealg_MG_23_e,Intercambio,2
+EX_prealg_MG_32_e_f,EX_prealg_MG_32_e,Intercambio,2
+EX_prealg_MG_41_e_f,EX_prealg_MG_41_e,Intercambio,2
+EX_prealginate_G_e_f,EX_prealginate_G_e,Intercambio,2
+EX_pro__L_e_f,EX_pro__L_e,Intercambio,1
+EX_progly_e_f,EX_progly_e,Intercambio,1
+EX_pta_e_f,EX_pta_e,Intercambio,1
+EX_ptrc_e_f,EX_ptrc_e,Intercambio,1
+EX_ptsla_e_f,EX_ptsla_e,Intercambio,1
+EX_pydxn_e_f,EX_pydxn_e,Intercambio,1
+EX_pyovd_kt_e_f,EX_pyovd_kt_e,Intercambio,1
+EX_pyr_e_f,EX_pyr_e,Intercambio,1
+EX_rib__D_e_f,EX_rib__D_e,Intercambio,2
+EX_rmn_e_f,EX_rmn_e,Intercambio,1
+EX_rnam_e_f,EX_rnam_e,Intercambio,1
+EX_salc_e_f,EX_salc_e,Intercambio,1
+EX_salchs4_e_f,EX_salchs4_e,Intercambio,4
+EX_salchs4fe_e_f,EX_salchs4fe_e,Intercambio,1
+EX_sbt__D_e_f,EX_sbt__D_e,Intercambio,1
+EX_sel_e_f,EX_sel_e,Intercambio,1
+EX_ser__L_e_f,EX_ser__L_e,Intercambio,1
+EX_sheme_e_f,EX_sheme_e,Intercambio,1
+EX_skm_e_f,EX_skm_e,Intercambio,1
+EX_slnt_e_f,EX_slnt_e,Intercambio,1
+EX_so3_e_f,EX_so3_e,Intercambio,1
+EX_so4_e_f,EX_so4_e,Intercambio,1
+EX_spmd_e_f,EX_spmd_e,Intercambio,1
+EX_succ_e_f,EX_succ_e,Intercambio,1
+EX_sucr_e_f,EX_sucr_e,Intercambio,1
+EX_sula_e_f,EX_sula_e,Intercambio,1
+EX_sulfac_e_f,EX_sulfac_e,Intercambio,1
+EX_tag160_e_f,EX_tag160_e,Intercambio,1
+EX_tag180_e_f,EX_tag180_e,Intercambio,1
+EX_tag181d9_e_f,EX_tag181d9_e,Intercambio,1
+EX_tag182d9d12_e_f,EX_tag182d9d12_e,Intercambio,1
+EX_taur_e_f,EX_taur_e,Intercambio,1
+EX_tcb_e_f,EX_tcb_e,Intercambio,1
+EX_tcynt_e_f,EX_tcynt_e,Intercambio,1
+EX_tet_e_f,EX_tet_e,Intercambio,1
+EX_thm_e_f,EX_thm_e,Intercambio,1
+EX_thr__L_e_f,EX_thr__L_e,Intercambio,1
+EX_thym_e_f,EX_thym_e,Intercambio,1
+EX_tmanur_e_f,EX_tmanur_e,Intercambio,2
+EX_tnt_e_f,EX_tnt_e,Intercambio,1
+EX_tol_e_f,EX_tol_e,Intercambio,1
+EX_tre_e_f,EX_tre_e,Intercambio,1
+EX_trp__L_e_f,EX_trp__L_e,Intercambio,1
+EX_tsul_e_f,EX_tsul_e,Intercambio,1
+EX_ttdca_e_f,EX_ttdca_e,Intercambio,1
+EX_ttdcea_e_f,EX_ttdcea_e,Intercambio,1
+EX_ttrcyc_e_f,EX_ttrcyc_e,Intercambio,1
+EX_tym_e_f,EX_tym_e,Intercambio,1
+EX_tyr__D_e_f,EX_tyr__D_e,Intercambio,1
+EX_tyr__L_e_f,EX_tyr__L_e,Intercambio,1
+EX_uaccg_e_f,EX_uaccg_e,Intercambio,1
+EX_udcpp_e_f,EX_udcpp_e,Intercambio,1
+EX_ump_e_f,EX_ump_e,Intercambio,1
+EX_ura_e_f,EX_ura_e,Intercambio,2
+EX_vacc_e_f,EX_vacc_e,Intercambio,1
+EX_val__D_e_f,EX_val__D_e,Intercambio,1
+EX_val__L_e_f,EX_val__L_e,Intercambio,1
+EX_vanln_e_f,EX_vanln_e,Intercambio,1
+EX_vanlt_e_f,EX_vanlt_e,Intercambio,1
+EX_xan_e_f,EX_xan_e,Intercambio,1
+EX_xtsn_e_f,EX_xtsn_e,Intercambio,1
+EX_xyl__D_e_f,EX_xyl__D_e,Intercambio,2
+EX_zn2_e_f,EX_zn2_e,Intercambio,1
+12DGR120tipp_f,12DGR120tipp,Transporte,4
+12DGR140tipp_f,12DGR140tipp,Transporte,4
+12DGR141tipp_f,12DGR141tipp,Transporte,4
+12DGR160tipp_f,12DGR160tipp,Transporte,4
+12DGR161tipp_f,12DGR161tipp,Transporte,4
+12DGR180tipp_f,12DGR180tipp,Transporte,4
+12DGR181tipp_f,12DGR181tipp,Transporte,4
+13PPDH_f,13PPDH,Sin asignar,10
+13PPDH2_f,13PPDH2,Carbono alternativo y aromaticos,10
+14GLUCANabcpp_f,14GLUCANabcpp,Transporte,1
+14GLUCANtexi_f,14GLUCANtexi,Transporte,2
+1P2CBXLCYCL_f,1P2CBXLCYCL,Aminoacidos,1
+1P2CBXLR_f,1P2CBXLR,Aminoacidos,1
+1PPDCRc_f,1PPDCRc,Aminoacidos,1
+1PY4h3cAH_f,1PY4h3cAH,Aminoacidos,1
+23CTI1_f,23CTI1,Lipidos y PHA,4
+23CTI2_f,23CTI2,Lipidos y PHA,4
+23CTI3_f,23CTI3,Lipidos y PHA,4
+24DECOAR_f,24DECOAR,Lipidos y PHA,4
+25DKGLCNt2rpp_f,25DKGLCNt2rpp,Transporte,1
+25DKGLCNtex_f,25DKGLCNtex,Transporte,1
+26DAHtex_f,26DAHtex,Transporte,1
+2AACLPGT161_f,2AACLPGT161,Lipidos y PHA,4
+2AACLPPEAT161_f,2AACLPPEAT161,Lipidos y PHA,4
+2AGPE160tipp_f,2AGPE160tipp,Lipidos y PHA,4
+2AGPE161tipp_f,2AGPE161tipp,Lipidos y PHA,4
+2AGPE180tipp_f,2AGPE180tipp,Lipidos y PHA,4
+2AGPE181tipp_f,2AGPE181tipp,Lipidos y PHA,4
+2AGPEAT160_f,2AGPEAT160,Lipidos y PHA,4
+2AGPEAT180_f,2AGPEAT180,Lipidos y PHA,4
+2AGPEAT181_f,2AGPEAT181,Lipidos y PHA,4
+2AGPG160tipp_f,2AGPG160tipp,Lipidos y PHA,4
+2AGPG161tipp_f,2AGPG161tipp,Lipidos y PHA,4
+2AGPG180tipp_f,2AGPG180tipp,Lipidos y PHA,4
+2AGPG181tipp_f,2AGPG181tipp,Lipidos y PHA,4
+2AGPGAT160_f,2AGPGAT160,Lipidos y PHA,4
+2AGPGAT180_f,2AGPGAT180,Lipidos y PHA,4
+2AGPGAT181_f,2AGPGAT181,Lipidos y PHA,4
+2DGULRy_f,2DGULRy,Carbono alternativo y aromaticos,1
+2DHGLCK_f,2DHGLCK,Glucolisis/Gluconeogenesis,2
+2DHGLCNkt_tpp_f,2DHGLCNkt_tpp,Transporte,2
+2DHGLCNtex_f,2DHGLCNtex,Transporte,2
+2HH24DDH_f,2HH24DDH,Sin asignar,1
+2HH24DDH1_f,2HH24DDH1,Sin asignar,1
+2MAHMP_f,2MAHMP,Cofactores y vitaminas,1
+2OBUTt2ipp_f,2OBUTt2ipp,Transporte,1
+2OBUTtex_f,2OBUTtex,Transporte,1
+2PGLYCt6_f,2PGLYCt6,Transporte,1
+2PGt6pp_f,2PGt6pp,Transporte,1
+2PGtex_f,2PGtex,Transporte,1
+34DHPACDO_f,34DHPACDO,Sin asignar,1
+34HPPOR_f,34HPPOR,Carbono alternativo y aromaticos,1
+34dhpactex_f,34dhpactex,Transporte,1
+3AIBT2_f,3AIBT2,Aminoacidos,1
+3HAACOAT80_f,3HAACOAT80,Lipidos y PHA,4
+3HAD80_f,3HAD80,Lipidos y PHA,4
+3HBCOAHL_f,3HBCOAHL,Aminoacidos,1
+3HCINNMH_f,3HCINNMH,Carbono alternativo y aromaticos,1
+3HOXPACt2pp_f,3HOXPACt2pp,Transporte,1
+3HPAOX_f,3HPAOX,Sin asignar,1
+3HPPPNH_f,3HPPPNH,Carbono alternativo y aromaticos,1
+3HPTNCOAR_f,3HPTNCOAR,Lipidos y PHA,6
+3HSA_f,3HSA,Sin asignar,1
+3MBt2pp_f,3MBt2pp,Transporte,1
+3MBtex_f,3MBtex,Transporte,1
+3OADPCOAT_f,3OADPCOAT,Carbono alternativo y aromaticos,2
+3OXCOAT_f,3OXCOAT,Carbono alternativo y aromaticos,9
+3OXOADPt_ex_f,3OXOADPt_ex,Transporte,1
+3OXOADPt_pp_f,3OXOADPt_pp,Transporte,1
+3PEPTabcpp_f,3PEPTabcpp,Envoltura celular,2
+3PGt6pp_f,3PGt6pp,Transporte,1
+3PGtex_f,3PGtex,Transporte,1
+3_4DHBZ1t_pp_f,3_4DHBZ1t_pp,Transporte,1
+3_4DHBZt2_f,3_4DHBZt2,Transporte,1
+3hoxpactex_f,3hoxpactex,Transporte,1
+42A12BOOXpp_f,42A12BOOXpp,"Iones, hierro y azufre",1
+4ABUTD_f,4ABUTD,Sin asignar,1
+4ABUTabcpp_f,4ABUTabcpp,Transporte,1
+4CMLCL_kt_f,4CMLCL_kt,Carbono alternativo y aromaticos,2
+4H2KPILY_f,4H2KPILY,Sin asignar,1
+4HBADH_f,4HBADH,Cofactores y vitaminas,1
+4HBALDtex_f,4HBALDtex,Transporte,1
+4HBAt_f,4HBAt,Transporte,1
+4HBAtex_f,4HBAtex,Transporte,1
+4HBHYOX_f,4HBHYOX,Carbono alternativo y aromaticos,1
+4HBZt3pp_f,4HBZt3pp,Transporte,1
+4HBZtex_f,4HBZtex,Transporte,1
+4HDPROO_f,4HDPROO,Aminoacidos,1
+4HOXPACDtex_f,4HOXPACDtex,Transporte,1
+4HOXPACMON_f,4HOXPACMON,Sin asignar,1
+4HOXPACt2pp_f,4HOXPACt2pp,Transporte,1
+4HOXPACt2pp_1_f,4HOXPACt2pp_1,Transporte,1
+4HPRODCabcpp_f,4HPRODCabcpp,Transporte,1
+4HPRODCtex_f,4HPRODCtex,Transporte,1
+4HPROE_f,4HPROE,Aminoacidos,1
+4HPROLTabcpp_f,4HPROLTabcpp,Transporte,1
+4HPROLTtex_f,4HPROLTtex,Transporte,1
+4HPRO_LT_Et_f,4HPRO_LT_Et,Transporte,1
+4HPTNCOAK_f,4HPTNCOAK,Carbono alternativo y aromaticos,1
+4HTHRA_f,4HTHRA,Sin asignar,2
+4HTHRK_f,4HTHRK,Sin asignar,2
+4HTHRS_f,4HTHRS,Cofactores y vitaminas,2
+4MBZALDH_f,4MBZALDH,Carbono alternativo y aromaticos,1
+4MBZDH_f,4MBZDH,Carbono alternativo y aromaticos,1
+4MCAT23DOX_f,4MCAT23DOX,Carbono alternativo y aromaticos,1
+4OD_f,4OD,Carbono alternativo y aromaticos,1
+4OD2_f,4OD2,Carbono alternativo y aromaticos,1
+4OT_f,4OT,Carbono alternativo y aromaticos,1
+4OT2_f,4OT2,Carbono alternativo y aromaticos,1
+4OXPTCOADHx_f,4OXPTCOADHx,Carbono alternativo y aromaticos,1
+4OXPTCOADHy_f,4OXPTCOADHy,Carbono alternativo y aromaticos,1
+4OXPTNtex_f,4OXPTNtex,Transporte,1
+4OXPTNtpp_f,4OXPTNtpp,Transporte,1
+4PCP_f,4PCP,Envoltura celular,2
+4PCPpp_f,4PCPpp,Envoltura celular,2
+4PEPTabcpp_f,4PEPTabcpp,Envoltura celular,2
+4PEPTtex_f,4PEPTtex,Transporte,2
+4POPCOAM_f,4POPCOAM,Carbono alternativo y aromaticos,1
+4POPCOAM2_f,4POPCOAM2,Carbono alternativo y aromaticos,1
+4POPCOAM3_f,4POPCOAM3,Carbono alternativo y aromaticos,1
+4hoxpactex_f,4hoxpactex,Transporte,1
+5APTNabcpp_f,5APTNabcpp,Transporte,1
+5APTNtex_f,5APTNtex,Transporte,1
+5DH4DGLCD_f,5DH4DGLCD,Carbono alternativo y aromaticos,1
+5DKGR_f,5DKGR,Sin asignar,2
+5DOAN_f,5DOAN,Nucleotidos,1
+5HPUDICDC_c_f,5HPUDICDC_c,Nucleotidos,1
+6ATHAtexi_f,6ATHAtexi,Transporte,3
+6HNACMO_f,6HNACMO,Cofactores y vitaminas,1
+6HNACt1pp_f,6HNACt1pp,Transporte,1
+6HNACtex_f,6HNACtex,Transporte,1
+A53C_f,A53C,Sin asignar,7
+A6PAG_f,A6PAG,Sin asignar,2
+AABTN_f,AABTN,Sin asignar,1
+AACOAR_syn_f,AACOAR_syn,Sin asignar,7
+AACOAT_f,AACOAT,Carbono alternativo y aromaticos,1
+AACPS2_f,AACPS2,Envoltura celular,4
+AACPS4_f,AACPS4,Envoltura celular,4
+AACPS7_f,AACPS7,Envoltura celular,4
+AACPS9_f,AACPS9,Envoltura celular,4
+AACTOOR_f,AACTOOR,Piruvato y anapleroticas,1
+AADSACYCL_f,AADSACYCL,Aminoacidos,1
+AALDH_f,AALDH,Sin asignar,9
+AAMYL_f,AAMYL,Carbono alternativo y aromaticos,2
+AASAD3_f,AASAD3,Aminoacidos,1
+AATA_f,AATA,Aminoacidos,1
+AB3CL_f,AB3CL,Sin asignar,7
+AB6PGH_1_f,AB6PGH_1,Sin asignar,2
+ABG4t2_f,ABG4t2,Transporte,1
+ABTA_f,ABTA,Aminoacidos,1
+ABUTD_f,ABUTD,"Iones, hierro y azufre",1
+ABUTt2pp_f,ABUTt2pp,Transporte,1
+ABUTt2r_f,ABUTt2r,Transporte,1
+ACACCT_f,ACACCT,Carbono alternativo y aromaticos,7
+ACACT10_f,ACACT10,Sin asignar,4
+ACACT11_f,ACACT11,Sin asignar,7
+ACACT12_f,ACACT12,Sin asignar,4
+ACACT13_f,ACACT13,Sin asignar,4
+ACACT1r_f,ACACT1r,Carbono alternativo y aromaticos,7
+ACACT2r_f,ACACT2r,Lipidos y PHA,7
+ACACT3r_f,ACACT3r,Lipidos y PHA,7
+ACACT4r_f,ACACT4r,Lipidos y PHA,4
+ACACT5r_f,ACACT5r,Lipidos y PHA,4
+ACACT5r_1_f,ACACT5r_1,Sin asignar,4
+ACACT6r_f,ACACT6r,Lipidos y PHA,4
+ACACT6r_1_f,ACACT6r_1,Sin asignar,4
+ACACT7r_f,ACACT7r,Lipidos y PHA,4
+ACACT8_f,ACACT8,Sin asignar,7
+ACACT8r_f,ACACT8r,Lipidos y PHA,4
+ACACT9_f,ACACT9,Sin asignar,4
+ACACt2pp_f,ACACt2pp,Transporte,7
+ACACtex_f,ACACtex,Transporte,1
+ACALD_f,ACALD,Carbono alternativo y aromaticos,1
+ACCOAC_f,ACCOAC,Lipidos y PHA,7
+ACGAMK_f,ACGAMK,Envoltura celular,2
+ACGApts_f,ACGApts,Transporte,2
+ACGAptspp_f,ACGAptspp,Transporte,2
+ACGAtex_f,ACGAtex,Transporte,2
+ACGK_f,ACGK,Aminoacidos,1
+ACGS_f,ACGS,Aminoacidos,1
+ACHBS_f,ACHBS,Aminoacidos,1
+ACITL_f,ACITL,Sin asignar,1
+ACKr_f,ACKr,Piruvato y anapleroticas,7
+ACLS_f,ACLS,Cofactores y vitaminas,2
+ACM6PH_f,ACM6PH,Carbono alternativo y aromaticos,2
+ACMANApts_f,ACMANApts,Transporte,2
+ACMANAptspp_f,ACMANAptspp,Transporte,2
+ACMANAtex_f,ACMANAtex,Transporte,2
+ACNAMt2pp_f,ACNAMt2pp,Transporte,2
+ACNAMtex_f,ACNAMtex,Transporte,2
+ACNPLYS_f,ACNPLYS,Sin asignar,2
+ACOAD1_f,ACOAD1,Sin asignar,7
+ACOAD10f_f,ACOAD10f,Lipidos y PHA,6
+ACOAD11f_f,ACOAD11f,Lipidos y PHA,6
+ACOAD12f_f,ACOAD12f,Lipidos y PHA,9
+ACOAD13f_f,ACOAD13f,Lipidos y PHA,5
+ACOAD14f_f,ACOAD14f,Lipidos y PHA,9
+ACOAD15f_f,ACOAD15f,Lipidos y PHA,5
+ACOAD16f_f,ACOAD16f,Lipidos y PHA,9
+ACOAD17f_f,ACOAD17f,Lipidos y PHA,5
+ACOAD18f_f,ACOAD18f,Lipidos y PHA,9
+ACOAD19f_f,ACOAD19f,Lipidos y PHA,5
+ACOAD1f_f,ACOAD1f,Lipidos y PHA,7
+ACOAD2_f,ACOAD2,Sin asignar,7
+ACOAD20_f,ACOAD20,Sin asignar,1
+ACOAD20f_f,ACOAD20f,Lipidos y PHA,3
+ACOAD21f_f,ACOAD21f,Lipidos y PHA,3
+ACOAD22f_f,ACOAD22f,Lipidos y PHA,4
+ACOAD23f_f,ACOAD23f,Lipidos y PHA,4
+ACOAD24f_f,ACOAD24f,Lipidos y PHA,4
+ACOAD25f_f,ACOAD25f,Lipidos y PHA,4
+ACOAD26f_f,ACOAD26f,Lipidos y PHA,4
+ACOAD27f_f,ACOAD27f,Lipidos y PHA,4
+ACOAD28f_f,ACOAD28f,Lipidos y PHA,4
+ACOAD29f_f,ACOAD29f,Lipidos y PHA,4
+ACOAD2f_f,ACOAD2f,Lipidos y PHA,7
+ACOAD3_f,ACOAD3,Sin asignar,4
+ACOAD30f_f,ACOAD30f,Lipidos y PHA,4
+ACOAD31f_f,ACOAD31f,Lipidos y PHA,4
+ACOAD32f_f,ACOAD32f,Lipidos y PHA,4
+ACOAD33f_f,ACOAD33f,Lipidos y PHA,4
+ACOAD34f_f,ACOAD34f,Lipidos y PHA,4
+ACOAD3f_f,ACOAD3f,Lipidos y PHA,4
+ACOAD4_1_f,ACOAD4_1,Sin asignar,4
+ACOAD4f_f,ACOAD4f,Lipidos y PHA,4
+ACOAD5_1_f,ACOAD5_1,Sin asignar,4
+ACOAD5f_f,ACOAD5f,Lipidos y PHA,4
+ACOAD6_f,ACOAD6,Sin asignar,4
+ACOAD6f_f,ACOAD6f,Lipidos y PHA,4
+ACOAD7_f,ACOAD7,Sin asignar,4
+ACOAD7f_f,ACOAD7f,Lipidos y PHA,4
+ACOAD8f_f,ACOAD8f,Lipidos y PHA,4
+ACOADH1_f,ACOADH1,Aminoacidos,1
+ACOADH2_f,ACOADH2,Aminoacidos,1
+ACODA_f,ACODA,Aminoacidos,1
+ACONCt4pp_f,ACONCt4pp,Transporte,1
+ACONCtex_f,ACONCtex,Transporte,1
+ACONCtupp_f,ACONCtupp,Transporte,1
+ACONT_f,ACONT,Sin asignar,1
+ACONTa_f,ACONTa,Ciclo TCA y glioxilato,1
+ACONTb_f,ACONTb,Ciclo TCA y glioxilato,1
+ACOTA_f,ACOTA,Aminoacidos,1
+ACOXT_f,ACOXT,Sin asignar,1
+ACP1_FMN_f,ACP1_FMN,Sin asignar,2
+ACPPAT120_f,ACPPAT120,Lipidos y PHA,4
+ACPPAT141_f,ACPPAT141,Lipidos y PHA,4
+ACPPAT161_f,ACPPAT161,Lipidos y PHA,4
+ACS_f,ACS,Glucolisis/Gluconeogenesis,7
+ACS2_f,ACS2,Carbono alternativo y aromaticos,1
+ACSERtex_f,ACSERtex,Transporte,1
+ACSERtpp_f,ACSERtpp,Transporte,1
+ACSPHAC100_f,ACSPHAC100,Lipidos y PHA,4
+ACSPHAC101_f,ACSPHAC101,Lipidos y PHA,4
+ACSPHAC120_f,ACSPHAC120,Lipidos y PHA,4
+ACSPHAC121_f,ACSPHAC121,Lipidos y PHA,4
+ACSPHAC121d6_f,ACSPHAC121d6,Lipidos y PHA,4
+ACSPHAC140_f,ACSPHAC140,Lipidos y PHA,4
+ACSPHAC141_f,ACSPHAC141,Lipidos y PHA,4
+ACSPHAC141d5_f,ACSPHAC141d5,Lipidos y PHA,4
+ACSPHAC142_f,ACSPHAC142,Lipidos y PHA,4
+ACSPHAC160_f,ACSPHAC160,Lipidos y PHA,4
+ACSPHAC40_f,ACSPHAC40,Lipidos y PHA,7
+ACSPHAC50_f,ACSPHAC50,Lipidos y PHA,6
+ACSPHAC60_f,ACSPHAC60,Lipidos y PHA,7
+ACSPHAC70_f,ACSPHAC70,Lipidos y PHA,6
+ACSPHAC80_f,ACSPHAC80,Lipidos y PHA,4
+ACSPHAC90_f,ACSPHAC90,Lipidos y PHA,6
+ACSPHACP100_f,ACSPHACP100,Lipidos y PHA,9
+ACSPHACP40_f,ACSPHACP40,Lipidos y PHA,9
+ACSPHACP50_f,ACSPHACP50,Lipidos y PHA,5
+ACSPHACP60_f,ACSPHACP60,Lipidos y PHA,9
+ACSPHACP70_f,ACSPHACP70,Lipidos y PHA,5
+ACSPHACP80_f,ACSPHACP80,Lipidos y PHA,9
+ACSPHACP90_f,ACSPHACP90,Lipidos y PHA,5
+ACSPHACT40_f,ACSPHACT40,Lipidos y PHA,3
+ACSPHACT60_f,ACSPHACT60,Lipidos y PHA,3
+ACTD_f,ACTD,Sin asignar,1
+ACTD2_f,ACTD2,Carbono alternativo y aromaticos,1
+ACTD_1_f,ACTD_1,Sin asignar,1
+ACTDa_f,ACTDa,Sin asignar,1
+ACTNabc_f,ACTNabc,Transporte,1
+ACTNabc1_f,ACTNabc1,Transporte,1
+ACt4pp_f,ACt4pp,Transporte,1
+ACt5pp_f,ACt5pp,Transporte,1
+ACtex_f,ACtex,Transporte,1
+ADA_f,ADA,Nucleotidos,1
+ADADir_f,ADADir,Sin asignar,1
+ADCL_f,ADCL,Cofactores y vitaminas,2
+ADCPS1_f,ADCPS1,Cofactores y vitaminas,11
+ADCS_f,ADCS,Cofactores y vitaminas,2
+ADD_f,ADD,Nucleotidos,1
+ADEt2rpp_f,ADEt2rpp,Transporte,1
+ADEtex_f,ADEtex,Transporte,1
+ADK1_f,ADK1,Nucleotidos,1
+ADK3_f,ADK3,Nucleotidos,1
+ADK4_f,ADK4,Nucleotidos,1
+ADMDC_f,ADMDC,Aminoacidos,1
+ADNCYC_f,ADNCYC,Nucleotidos,1
+ADNK1_f,ADNK1,Nucleotidos,1
+ADNUC_f,ADNUC,Nucleotidos,1
+ADNt2_f,ADNt2,Transporte,1
+ADNtex_f,ADNtex,Transporte,1
+ADOCBIAH_f,ADOCBIAH,Sin asignar,11
+ADOCBIK_f,ADOCBIK,Cofactores y vitaminas,11
+ADPRDP_f,ADPRDP,Nucleotidos,1
+ADPT_f,ADPT,Nucleotidos,1
+ADSELK_f,ADSELK,Sin asignar,1
+ADSELR_f,ADSELR,Sin asignar,1
+ADSELR2_f,ADSELR2,Sin asignar,1
+ADSK_f,ADSK,"Iones, hierro y azufre",1
+ADSL1r_f,ADSL1r,Nucleotidos,1
+ADSL2r_f,ADSL2r,Nucleotidos,1
+ADSS_f,ADSS,Nucleotidos,1
+ADtr_f,ADtr,Transporte,1
+AEPTA_f,AEPTA,"Iones, hierro y azufre",1
+AEPabcpp_f,AEPabcpp,Transporte,1
+AEPtex_f,AEPtex,Transporte,1
+AGDC_f,AGDC,Carbono alternativo y aromaticos,2
+AGM3PA_f,AGM3PA,Envoltura celular,2
+AGM3PApp_f,AGM3PApp,Envoltura celular,2
+AGM3PH_f,AGM3PH,Envoltura celular,2
+AGM3Pt2pp_f,AGM3Pt2pp,Transporte,2
+AGM4PA_f,AGM4PA,Envoltura celular,2
+AGM4PApp_f,AGM4PApp,Envoltura celular,2
+AGM4PCP_f,AGM4PCP,Envoltura celular,2
+AGM4PCPpp_f,AGM4PCPpp,Envoltura celular,2
+AGM4PH_f,AGM4PH,Envoltura celular,2
+AGM4Pt2pp_f,AGM4Pt2pp,Transporte,2
+AGMDA_f,AGMDA,Aminoacidos,1
+AGMH_f,AGMH,Envoltura celular,2
+AGMT_f,AGMT,Aminoacidos,1
+AGMt2pp_f,AGMt2pp,Transporte,2
+AGMtex_f,AGMtex,Transporte,1
+AGPAT120_f,AGPAT120,Lipidos y PHA,4
+AGPAT141_f,AGPAT141,Lipidos y PHA,4
+AGPAT161_f,AGPAT161,Lipidos y PHA,4
+AGPOP_f,AGPOP,Glucolisis/Gluconeogenesis,1
+AGPR_f,AGPR,Aminoacidos,1
+AGt3_f,AGt3,"Iones, hierro y azufre",1
+AGtex_f,AGtex,Transporte,1
+AGtpp_f,AGtpp,Transporte,1
+AHCi_f,AHCi,Sin asignar,1
+AHGDx_f,AHGDx,Sin asignar,1
+AHMMPS_1_f,AHMMPS_1,Sin asignar,1
+AHSERL2_f,AHSERL2,Aminoacidos,1
+AICART_f,AICART,Nucleotidos,1
+AIRC2_f,AIRC2,Nucleotidos,1
+AIRC3_f,AIRC3,Nucleotidos,1
+AKGDH_f,AKGDH,Ciclo TCA y glioxilato,1
+AKGDa_f,AKGDa,Ciclo TCA y glioxilato,7
+AKGDb_f,AKGDb,Ciclo TCA y glioxilato,7
+AKGt2r_f,AKGt2r,Transporte,1
+AKGt2rpp_f,AKGt2rpp,Transporte,1
+AKGtex_f,AKGtex,Transporte,1
+AL4D_f,AL4D,Sin asignar,2
+ALAALAD_1_f,ALAALAD_1,Sin asignar,2
+ALAALAabcpp_f,ALAALAabcpp,Transporte,2
+ALAALAr_f,ALAALAr,Envoltura celular,2
+ALAALAtex_f,ALAALAtex,Transporte,2
+ALAGLNtr_f,ALAGLNtr,Transporte,1
+ALAGLUabcpp_f,ALAGLUabcpp,Transporte,1
+ALAGLYtr_f,ALAGLYtr,Transporte,1
+ALAHISabcpp_f,ALAHISabcpp,Transporte,1
+ALAHIStex_f,ALAHIStex,Transporte,1
+ALAHIStr_f,ALAHIStr,Transporte,1
+ALALEUabcpp_f,ALALEUabcpp,Transporte,1
+ALALEUt_f,ALALEUt,Transporte,1
+ALALEUtex_f,ALALEUtex,Transporte,1
+ALAR_f,ALAR,Aminoacidos,2
+ALAS_f,ALAS,Sin asignar,1
+ALATA_D2_f,ALATA_D2,Cofactores y vitaminas,2
+ALATA_L_f,ALATA_L,Aminoacidos,1
+ALATA_L2_f,ALATA_L2,Cofactores y vitaminas,2
+ALATHRabcpp_f,ALATHRabcpp,Transporte,1
+ALATHRtex_f,ALATHRtex,Transporte,1
+ALATHRtr_f,ALATHRtr,Transporte,1
+ALATRPabcpp_f,ALATRPabcpp,Transporte,1
+ALATRPtex_f,ALATRPtex,Transporte,1
+ALAabc_f,ALAabc,Transporte,1
+ALAabcpp_f,ALAabcpp,Transporte,1
+ALAt4_f,ALAt4,Transporte,1
+ALAt4pp_f,ALAt4pp,Transporte,1
+ALAtex_f,ALAtex,Transporte,1
+ALCD1_f,ALCD1,Sin asignar,1
+ALCD19_f,ALCD19,Lipidos y PHA,4
+ALCD19y_f,ALCD19y,Sin asignar,4
+ALCD22_L_f,ALCD22_L,Sin asignar,2
+ALCD2ir_f,ALCD2ir,Sin asignar,1
+ALCD2x_f,ALCD2x,Piruvato y anapleroticas,1
+ALCD3ir_f,ALCD3ir,Sin asignar,1
+ALCD4_f,ALCD4,Sin asignar,7
+ALCD4y_f,ALCD4y,Sin asignar,7
+ALDD1_f,ALDD1,Carbono alternativo y aromaticos,1
+ALDD19xr_f,ALDD19xr,Carbono alternativo y aromaticos,9
+ALDD20x_f,ALDD20x,Biomasa,1
+ALDD20y_f,ALDD20y,Sin asignar,1
+ALDD2x_f,ALDD2x,Carbono alternativo y aromaticos,1
+ALDD2y_f,ALDD2y,Carbono alternativo y aromaticos,1
+ALDD3_f,ALDD3,Sin asignar,1
+ALDD31_f,ALDD31,"Iones, hierro y azufre",1
+ALDD31_1_f,ALDD31_1,Sin asignar,1
+ALDD3y_f,ALDD3y,Carbono alternativo y aromaticos,1
+ALDD4_f,ALDD4,"Iones, hierro y azufre",7
+ALDD4x_f,ALDD4x,Sin asignar,1
+ALDD5_f,ALDD5,Sin asignar,1
+ALDD6_f,ALDD6,Sin asignar,7
+ALDH_1_f,ALDH_1,Sin asignar,1
+ALDR_f,ALDR,Sin asignar,2
+ALGAC1_f,ALGAC1,Envoltura celular,7
+ALGAC2_f,ALGAC2,Envoltura celular,7
+ALGAC3_f,ALGAC3,Envoltura celular,7
+ALGAC4_f,ALGAC4,Envoltura celular,7
+ALGAC5_f,ALGAC5,Envoltura celular,7
+ALGE1_f,ALGE1,Envoltura celular,2
+ALGE2_f,ALGE2,Envoltura celular,2
+ALGE3_f,ALGE3,Envoltura celular,2
+ALGE4_f,ALGE4,Envoltura celular,2
+ALGE5_f,ALGE5,Envoltura celular,2
+ALGE6_f,ALGE6,Envoltura celular,7
+ALGE7_f,ALGE7,Envoltura celular,7
+ALGE8_f,ALGE8,Envoltura celular,7
+ALGE9_f,ALGE9,Envoltura celular,7
+ALGL_f,ALGL,Envoltura celular,2
+ALGL2_f,ALGL2,Envoltura celular,2
+ALGSex1_f,ALGSex1,Envoltura celular,2
+ALGSex10_f,ALGSex10,Envoltura celular,7
+ALGSex11_f,ALGSex11,Envoltura celular,2
+ALGSex12_f,ALGSex12,Envoltura celular,2
+ALGSex13_f,ALGSex13,Envoltura celular,2
+ALGSex2_f,ALGSex2,Envoltura celular,2
+ALGSex3_f,ALGSex3,Envoltura celular,2
+ALGSex4_f,ALGSex4,Envoltura celular,2
+ALGSex5_f,ALGSex5,Envoltura celular,2
+ALGSex6_f,ALGSex6,Envoltura celular,7
+ALGSex7_f,ALGSex7,Envoltura celular,7
+ALGSex8_f,ALGSex8,Envoltura celular,7
+ALGSex9_f,ALGSex9,Envoltura celular,7
+ALKP_f,ALKP,Sin asignar,2
+ALLTAMH_f,ALLTAMH,Nucleotidos,1
+ALLTN_f,ALLTN,Nucleotidos,1
+ALLTNRA_f,ALLTNRA,Nucleotidos,1
+ALLTNt2rpp_f,ALLTNt2rpp,Transporte,1
+ALLTNtex_f,ALLTNtex,Transporte,1
+ALL_D_Et_f,ALL_D_Et,Transporte,1
+ALLabcpp_f,ALLabcpp,Transporte,1
+ALLtex_f,ALLtex,Transporte,1
+ALPHNH_f,ALPHNH,Sin asignar,1
+ALR2_f,ALR2,Piruvato y anapleroticas,2
+ALR3_f,ALR3,Sin asignar,2
+AM2Et_f,AM2Et,Transporte,1
+AM3PA_f,AM3PA,Envoltura celular,2
+AM4PA_f,AM4PA,Envoltura celular,2
+AM4PCP_f,AM4PCP,Envoltura celular,2
+AMALT1_f,AMALT1,Carbono alternativo y aromaticos,2
+AMANAPEr_f,AMANAPEr,Carbono alternativo y aromaticos,2
+AMAOTr_f,AMAOTr,Cofactores y vitaminas,1
+AMID2_f,AMID2,Sin asignar,1
+AMID2_1_f,AMID2_1,Sin asignar,1
+AMID4_f,AMID4,Sin asignar,1
+AMID_1_f,AMID_1,Sin asignar,1
+AMMQLT8_f,AMMQLT8,Cofactores y vitaminas,1
+AMMQT8_f,AMMQT8,Sin asignar,1
+AMMQT8_2_f,AMMQT8_2,Sin asignar,1
+AMPD2_f,AMPD2,Sin asignar,1
+AMPEP1_f,AMPEP1,Sin asignar,1
+AMPEP10_f,AMPEP10,Sin asignar,1
+AMPEP11_f,AMPEP11,Sin asignar,1
+AMPEP12_f,AMPEP12,Sin asignar,1
+AMPEP13_f,AMPEP13,Sin asignar,1
+AMPEP14_f,AMPEP14,Sin asignar,1
+AMPEP2_f,AMPEP2,Sin asignar,1
+AMPEP3_f,AMPEP3,Sin asignar,1
+AMPEP4_f,AMPEP4,Sin asignar,1
+AMPEP5_f,AMPEP5,Sin asignar,1
+AMPEP6_f,AMPEP6,Sin asignar,1
+AMPEP7_f,AMPEP7,Sin asignar,1
+AMPEP8_f,AMPEP8,Sin asignar,1
+AMPEP9_f,AMPEP9,Sin asignar,1
+AMPMS2_f,AMPMS2,Cofactores y vitaminas,1
+AMPN_f,AMPN,Nucleotidos,1
+AMPTASEAH_f,AMPTASEAH,Aminoacidos,1
+AMPTASEAL_f,AMPTASEAL,Aminoacidos,1
+AMPTASEAT_f,AMPTASEAT,Aminoacidos,1
+AMPTASEATRP_f,AMPTASEATRP,Aminoacidos,1
+AMPTASECG_f,AMPTASECG,Aminoacidos,1
+AMPTASEGGLN_f,AMPTASEGGLN,Aminoacidos,1
+AMPTASEGGLU_f,AMPTASEGGLU,Aminoacidos,1
+AMPTASEGM_f,AMPTASEGM,Aminoacidos,1
+AMPTASEGS_f,AMPTASEGS,Aminoacidos,1
+AMPTASEHG_f,AMPTASEHG,Aminoacidos,1
+AMPTASEHH_f,AMPTASEHH,Aminoacidos,1
+AMPTASEPG_f,AMPTASEPG,Aminoacidos,1
+ANDO1_f,ANDO1,Sin asignar,2
+ANDO2_f,ANDO2,Sin asignar,2
+ANHGMtex_f,ANHGMtex,Transporte,2
+ANHMK_f,ANHMK,Envoltura celular,2
+ANPRT_f,ANPRT,Aminoacidos,2
+ANS_f,ANS,Aminoacidos,2
+ANS2_f,ANS2,Aminoacidos,2
+AOBUTDs_f,AOBUTDs,Aminoacidos,1
+AOXHEXCYCL_f,AOXHEXCYCL,Aminoacidos,7
+AOXSr_f,AOXSr,Sin asignar,1
+AP4AH_f,AP4AH,Nucleotidos,1
+AP4AS_f,AP4AS,Nucleotidos,1
+APATr_f,APATr,Aminoacidos,2
+APCt5_f,APCt5,Transporte,1
+APCt6_f,APCt6,Transporte,1
+APCtex_f,APCtex,Transporte,1
+APCtpp_f,APCtpp,Transporte,1
+APENTAMAH2_f,APENTAMAH2,Aminoacidos,7
+APG3PAT120_f,APG3PAT120,Lipidos y PHA,4
+APG3PAT141_f,APG3PAT141,Lipidos y PHA,4
+APG3PAT161_f,APG3PAT161,Lipidos y PHA,4
+APPAT_f,APPAT,Cofactores y vitaminas,1
+APRAUR_f,APRAUR,Cofactores y vitaminas,1
+APRTO2_f,APRTO2,Sin asignar,1
+APSR_f,APSR,"Iones, hierro y azufre",1
+APSR2_f,APSR2,"Iones, hierro y azufre",1
+APTNAT_f,APTNAT,Aminoacidos,7
+ARABDI_f,ARABDI,Sin asignar,2
+ARAI_f,ARAI,Carbono alternativo y aromaticos,2
+ARAT_f,ARAT,Sin asignar,1
+ARBTpts_f,ARBTpts,Transporte,2
+ARBabcpp_f,ARBabcpp,Transporte,2
+ARBt2r_f,ARBt2r,Transporte,2
+ARBt3ipp_f,ARBt3ipp,Transporte,2
+ARD_1_f,ARD_1,Sin asignar,1
+ARGDC_f,ARGDC,Aminoacidos,1
+ARGDCpp_f,ARGDCpp,Aminoacidos,1
+ARGDI_f,ARGDI,Aminoacidos,1
+ARGDr_f,ARGDr,Aminoacidos,1
+ARGORNt7pp_f,ARGORNt7pp,Transporte,1
+ARGR_f,ARGR,Aminoacidos,1
+ARGSL_f,ARGSL,Aminoacidos,1
+ARGSS_f,ARGSS,Aminoacidos,1
+ARGabc_f,ARGabc,Transporte,1
+ARGabcpp_f,ARGabcpp,Transporte,1
+ARGt2pp_f,ARGt2pp,Transporte,1
+ARGt3pp_f,ARGt3pp,Transporte,1
+ARGtex_f,ARGtex,Transporte,1
+AROAT_f,AROAT,Sin asignar,1
+AROH_f,AROH,Aminoacidos,1
+ARSR_f,ARSR,Sin asignar,1
+ARUH_f,ARUH,Aminoacidos,1
+ASAD_f,ASAD,Aminoacidos,1
+ASCBPL_f,ASCBPL,Carbono alternativo y aromaticos,2
+ASCBpts_f,ASCBpts,Transporte,2
+ASCBptspp_f,ASCBptspp,Transporte,2
+ASCBtex_f,ASCBtex,Transporte,2
+ASNN_f,ASNN,Aminoacidos,1
+ASNNpp_f,ASNNpp,Aminoacidos,1
+ASNS1_f,ASNS1,Aminoacidos,1
+ASNabc_f,ASNabc,Transporte,1
+ASNt2r_f,ASNt2r,Transporte,1
+ASNt2rpp_f,ASNt2rpp,Transporte,1
+ASNt4_f,ASNt4,Transporte,1
+ASNtex_f,ASNtex,Transporte,1
+ASO3t2pp_f,ASO3t2pp,"Iones, hierro y azufre",1
+ASO3t8pp_f,ASO3t8pp,Transporte,1
+ASO3tex_f,ASO3tex,Transporte,1
+ASO4rt2rpp_f,ASO4rt2rpp,Transporte,1
+ASO4tex_f,ASO4tex,Transporte,1
+ASP1DC_f,ASP1DC,Cofactores y vitaminas,1
+ASP3H_f,ASP3H,"Iones, hierro y azufre",1
+ASPCT_f,ASPCT,Nucleotidos,1
+ASPK_f,ASPK,Aminoacidos,1
+ASPO1_f,ASPO1,Cofactores y vitaminas,1
+ASPO3_f,ASPO3,Cofactores y vitaminas,1
+ASPO5_f,ASPO5,Cofactores y vitaminas,1
+ASPO5_2_f,ASPO5_2,Sin asignar,1
+ASPO6_f,ASPO6,Cofactores y vitaminas,1
+ASPT_f,ASPT,Aminoacidos,1
+ASPTA_f,ASPTA,Aminoacidos,1
+ASPabc_f,ASPabc,Transporte,1
+ASPabcpp_f,ASPabcpp,Transporte,1
+ASPt2pp_f,ASPt2pp,Transporte,1
+ASPt2r_f,ASPt2r,Transporte,1
+ASR_f,ASR,"Iones, hierro y azufre",1
+ASR2_f,ASR2,Sin asignar,1
+AST_f,AST,Aminoacidos,1
+ATAH_1_f,ATAH_1,Sin asignar,1
+ATHRDHr_f,ATHRDHr,Aminoacidos,1
+ATPHs_f,ATPHs,Nucleotidos,1
+ATPPRT_f,ATPPRT,Aminoacidos,1
+ATPS4rpp_f,ATPS4rpp,Fosforilacion oxidativa,1
+BALAALAabcpp_f,BALAALAabcpp,Transporte,2
+BALAALAtex_f,BALAALAtex,Transporte,2
+BALABALAabcpp_f,BALABALAabcpp,Transporte,2
+BALABALAtex_f,BALABALAtex,Transporte,2
+BALAGLYabcpp_f,BALAGLYabcpp,Transporte,2
+BALAGLYtex_f,BALAGLYtex,Transporte,2
+BALALEUabcpp_f,BALALEUabcpp,Transporte,1
+BALALEUtex_f,BALALEUtex,Transporte,1
+BALAMDAH_f,BALAMDAH,Aminoacidos,1
+BALAt2pp_f,BALAt2pp,Transporte,4
+BALAtex_f,BALAtex,Transporte,1
+BCOALIG_f,BCOALIG,Sin asignar,1
+BCT1_syn_f,BCT1_syn,Transporte,1
+BDH_f,BDH,Carbono alternativo y aromaticos,7
+BEF_f,BEF,Sin asignar,1
+BETALDHx_f,BETALDHx,"Iones, hierro y azufre",1
+BETALDHy_f,BETALDHy,"Iones, hierro y azufre",1
+BGLApp_f,BGLApp,Envoltura celular,2
+BHBtpp_f,BHBtpp,Transporte,7
+BILIVERDtex_f,BILIVERDtex,Transporte,1
+BILIVERDtpp_f,BILIVERDtpp,Transporte,1
+BLAMDabcpp_f,BLAMDabcpp,Transporte,1
+BLAMDtex_f,BLAMDtex,Transporte,1
+BPNT_f,BPNT,"Iones, hierro y azufre",1
+BSCT_f,BSCT,Sin asignar,1
+BTDD_RR_f,BTDD_RR,Carbono alternativo y aromaticos,1
+BTDt_RR_f,BTDt_RR,Transporte,1
+BTNTe_f,BTNTe,Transporte,1
+BTOHt2rpp_f,BTOHt2rpp,Transporte,7
+BTOHtex_f,BTOHtex,Transporte,7
+BTS_f,BTS,Sin asignar,7
+BTS2_f,BTS2,Sin asignar,1
+BTS_nadph_f,BTS_nadph,Sin asignar,7
+BUP_f,BUP,Nucleotidos,1
+BUP2_f,BUP2,Sin asignar,1
+BUPN_f,BUPN,Sin asignar,2
+BUTCT_f,BUTCT,Carbono alternativo y aromaticos,7
+BUTCT2_f,BUTCT2,Sin asignar,7
+BUTSO3abcpp_f,BUTSO3abcpp,Transporte,7
+BUTSO3tex_f,BUTSO3tex,Transporte,7
+BUTSabc_f,BUTSabc,Transporte,7
+BUTt2rpp_f,BUTt2rpp,Transporte,7
+BUTtex_f,BUTtex,Transporte,7
+BZ12DOX_f,BZ12DOX,Carbono alternativo y aromaticos,1
+BZALCt2pp_f,BZALCt2pp,Transporte,1
+BZALCtex_f,BZALCtex,Transporte,1
+BZALDH_f,BZALDH,Carbono alternativo y aromaticos,1
+BZALt_f,BZALt,Transporte,1
+BZALt2pp_f,BZALt2pp,Transporte,1
+BZALtex_f,BZALtex,Transporte,1
+BZDH_f,BZDH,Carbono alternativo y aromaticos,1
+BZDIOLDH_f,BZDIOLDH,Carbono alternativo y aromaticos,1
+BZSCD_f,BZSCD,Sin asignar,1
+BZSCT_f,BZSCT,Sin asignar,1
+BZSS_f,BZSS,Sin asignar,1
+BZt1pp_f,BZt1pp,Transporte,1
+BZt2_pp_f,BZt2_pp,Transporte,1
+BZtex_f,BZtex,Transporte,1
+CA2t3pp_f,CA2t3pp,Transporte,1
+CA2tex_f,CA2tex,Transporte,1
+CARNabcpp_f,CARNabcpp,Transporte,1
+CARNtex_f,CARNtex,Transporte,1
+CAT_f,CAT,Sin asignar,2
+CATDOX_f,CATDOX,Carbono alternativo y aromaticos,1
+CATpp_f,CATpp,Sin asignar,1
+CAt6_f,CAt6,Transporte,1
+CAt6pp_f,CAt6pp,Transporte,1
+CBMKr_f,CBMKr,Aminoacidos,1
+CBPAH_f,CBPAH,"Iones, hierro y azufre",1
+CBPS_f,CBPS,Nucleotidos,1
+CD2abcpp_f,CD2abcpp,"Iones, hierro y azufre",1
+CD2t3pp_f,CD2t3pp,"Iones, hierro y azufre",1
+CD2t4_f,CD2t4,"Iones, hierro y azufre",1
+CD2t4pp_f,CD2t4pp,"Iones, hierro y azufre",1
+CD2t5_f,CD2t5,"Iones, hierro y azufre",1
+CD2t6_f,CD2t6,"Iones, hierro y azufre",1
+CD2tex_f,CD2tex,Transporte,1
+CD2tpp_f,CD2tpp,Transporte,1
+CDDTPP_f,CDDTPP,Sin asignar,1
+CDGUNPD_f,CDGUNPD,Sin asignar,1
+CDPMEK_f,CDPMEK,Cofactores y vitaminas,2
+CDPPH_f,CDPPH,Sin asignar,4
+CELASEpp_f,CELASEpp,Envoltura celular,2
+CELLS_f,CELLS,Envoltura celular,2
+CGLYabcpp_f,CGLYabcpp,Transporte,1
+CGLYtex_f,CGLYtex,Transporte,1
+CHCD_f,CHCD,Sin asignar,1
+CHCOAL_f,CHCOAL,Sin asignar,1
+CHLP_f,CHLP,Sin asignar,1
+CHLabcpp_f,CHLabcpp,Transporte,1
+CHLt3pp_f,CHLt3pp,Transporte,1
+CHOD_f,CHOD,Sin asignar,1
+CHOL1_f,CHOL1,Sin asignar,1
+CHOLCOA_f,CHOLCOA,Sin asignar,1
+CHOLD_f,CHOLD,"Iones, hierro y azufre",1
+CHOLK_f,CHOLK,Sin asignar,1
+CHOLSH_f,CHOLSH,"Iones, hierro y azufre",1
+CHOLS_ex_f,CHOLS_ex,Transporte,1
+CHOLSabc_f,CHOLSabc,Transporte,1
+CHOLt4ipp_f,CHOLt4ipp,Transporte,1
+CHORM_f,CHORM,Aminoacidos,2
+CHORS_f,CHORS,Aminoacidos,2
+CHORt2_f,CHORt2,Transporte,1
+CHRPL_f,CHRPL,Cofactores y vitaminas,2
+CHSTEROLt_1_f,CHSTEROLt_1,Transporte,1
+CHTBSptspp_f,CHTBSptspp,Transporte,2
+CHTBStex_f,CHTBStex,Transporte,2
+CINNMCOAH_f,CINNMCOAH,Lipidos y PHA,5
+CINNMtex_f,CINNMtex,Transporte,5
+CINNMtpp_f,CINNMtpp,Transporte,5
+CITt3pp_f,CITt3pp,Transporte,1
+CITt4pp_1_f,CITt4pp_1,Transporte,1
+CITt_kt_f,CITt_kt,Transporte,1
+CITtex_f,CITtex,Transporte,1
+CITtupp_f,CITtupp,Transporte,1
+CLPNH120pp_f,CLPNH120pp,Lipidos y PHA,4
+CLPNH140pp_f,CLPNH140pp,Lipidos y PHA,4
+CLPNH141pp_f,CLPNH141pp,Lipidos y PHA,4
+CLPNH160pp_f,CLPNH160pp,Lipidos y PHA,4
+CLPNH161pp_f,CLPNH161pp,Lipidos y PHA,4
+CLPNH180pp_f,CLPNH180pp,Lipidos y PHA,4
+CLPNH181pp_f,CLPNH181pp,Lipidos y PHA,4
+CLPNS120pp_f,CLPNS120pp,Lipidos y PHA,4
+CLPNS140pp_f,CLPNS140pp,Lipidos y PHA,4
+CLPNS141pp_f,CLPNS141pp,Lipidos y PHA,4
+CLPNS160_f,CLPNS160,Lipidos y PHA,4
+CLPNS160pp_f,CLPNS160pp,Lipidos y PHA,4
+CLPNS161pp_f,CLPNS161pp,Lipidos y PHA,4
+CLPNS180pp_f,CLPNS180pp,Lipidos y PHA,4
+CLPNS181pp_f,CLPNS181pp,Lipidos y PHA,4
+CLS_f,CLS,Sin asignar,4
+CLt3_2pp_f,CLt3_2pp,Transporte,1
+CLtex_f,CLtex,Transporte,1
+CMCBTFL_f,CMCBTFL,Transporte,4
+CMCBTFU_f,CMCBTFU,Sin asignar,4
+CMCBTFabcpp_f,CMCBTFabcpp,"Iones, hierro y azufre",1
+CMCBTFtex_f,CMCBTFtex,"Iones, hierro y azufre",4
+CMCBTFtonex_f,CMCBTFtonex,"Iones, hierro y azufre",1
+CMCBTFtpp_f,CMCBTFtpp,"Iones, hierro y azufre",4
+CMCMSAD_f,CMCMSAD,Sin asignar,1
+CMHMI_f,CMHMI,Sin asignar,1
+CMLDC_f,CMLDC,Sin asignar,2
+CMt2ex_f,CMt2ex,Transporte,1
+CMt2ppi_f,CMt2ppi,Transporte,1
+CMtex_f,CMtex,Transporte,1
+CMtexabc_f,CMtexabc,Transporte,1
+CMtpp_f,CMtpp,Transporte,1
+CO23OC_f,CO23OC,Sin asignar,1
+CO2FO_f,CO2FO,Sin asignar,1
+CO2tex_f,CO2tex,Transporte,1
+CO2tpp_f,CO2tpp,Transporte,1
+COALCDH_f,COALCDH,Carbono alternativo y aromaticos,1
+COALDDH_f,COALDDH,Carbono alternativo y aromaticos,1
+COBALT2t3pp_f,COBALT2t3pp,"Iones, hierro y azufre",1
+COBALT2tex_f,COBALT2tex,Transporte,1
+COBALT2tpp_f,COBALT2tpp,Transporte,1
+COBALTt4pp_f,COBALTt4pp,"Iones, hierro y azufre",1
+COBALTt5_f,COBALTt5,Transporte,1
+COCO2_f,COCO2,Sin asignar,1
+CONFRLtex_f,CONFRLtex,Transporte,1
+CONFRLtpp_f,CONFRLtpp,Transporte,1
+COabc_f,COabc,Transporte,1
+CPPPGO_f,CPPPGO,Cofactores y vitaminas,1
+CPPPGO2_f,CPPPGO2,Cofactores y vitaminas,1
+CREAT_f,CREAT,"Iones, hierro y azufre",1
+CREATtex_f,CREATtex,Transporte,1
+CREATtpp_f,CREATtpp,Transporte,1
+CRESt2ipp_f,CRESt2ipp,Transporte,1
+CREStex_f,CREStex,Transporte,1
+CRNDH_f,CRNDH,"Iones, hierro y azufre",1
+CRNDabcpp_f,CRNDabcpp,Transporte,1
+CRNDt2rpp_f,CRNDt2rpp,Transporte,1
+CRNabcpp_f,CRNabcpp,Transporte,1
+CRNt2rpp_f,CRNt2rpp,Transporte,1
+CRNt8pp_f,CRNt8pp,Transporte,1
+CRNtex_f,CRNtex,Transporte,1
+CRO4abcpp_f,CRO4abcpp,Transporte,1
+CRO4t3_f,CRO4t3,"Iones, hierro y azufre",1
+CRO4t3pp_f,CRO4t3pp,"Iones, hierro y azufre",1
+CRO4tex_f,CRO4tex,Transporte,1
+CS_f,CS,Ciclo TCA y glioxilato,1
+CSND_f,CSND,Nucleotidos,1
+CSNt2_f,CSNt2,Transporte,1
+CSPMDDC_f,CSPMDDC,Aminoacidos,1
+CSPMDDH_f,CSPMDDH,Aminoacidos,1
+CTBTabcpp_f,CTBTabcpp,Transporte,12
+CTBTt2rpp_f,CTBTt2rpp,Transporte,12
+CTECOAI6_f,CTECOAI6,Lipidos y PHA,4
+CTECOAI7_f,CTECOAI7,Lipidos y PHA,4
+CTECOAI8_f,CTECOAI8,Lipidos y PHA,4
+CTI1_f,CTI1,Lipidos y PHA,4
+CTPS1_f,CTPS1,Nucleotidos,2
+CTPS2_f,CTPS2,Nucleotidos,2
+CU1Opp_f,CU1Opp,Transporte,3
+CU2abcpp_f,CU2abcpp,"Iones, hierro y azufre",3
+CU2tex_f,CU2tex,"Iones, hierro y azufre",3
+CU2tonex_f,CU2tonex,Transporte,3
+CU2tpp_f,CU2tpp,Transporte,3
+CUabcpp_f,CUabcpp,Transporte,3
+CUtex_f,CUtex,Transporte,3
+CYANST_f,CYANST,"Iones, hierro y azufre",1
+CYANSTpp_f,CYANSTpp,Transporte,1
+CYANt2pp_f,CYANt2pp,Transporte,1
+CYANtex_f,CYANtex,Transporte,1
+CYO1_KT_f,CYO1_KT,Fosforilacion oxidativa,1
+CYO1b_f,CYO1b,Sin asignar,1
+CYO4pp_f,CYO4pp,Carbono alternativo y aromaticos,1
+CYOO2pp_f,CYOO2pp,Transporte,1
+CYP1_f,CYP1,Sin asignar,1
+CYP2_f,CYP2,Sin asignar,1
+CYP3_f,CYP3,Sin asignar,1
+CYS_f,CYS,Sin asignar,1
+CYSDDS_f,CYSDDS,Aminoacidos,1
+CYSDS_f,CYSDS,Aminoacidos,1
+CYSLY3_f,CYSLY3,Sin asignar,1
+CYSS_f,CYSS,Aminoacidos,1
+CYSTA_f,CYSTA,Sin asignar,1
+CYSTGL_f,CYSTGL,Aminoacidos,1
+CYSTL_f,CYSTL,Aminoacidos,1
+CYSTS_f,CYSTS,Aminoacidos,1
+CYSabc_f,CYSabc,Transporte,1
+CYSabc2pp_f,CYSabc2pp,Transporte,1
+CYSabcpp_f,CYSabcpp,Transporte,1
+CYSt2r_f,CYSt2r,Transporte,1
+CYStpp_f,CYStpp,Transporte,1
+CYTBDpp_f,CYTBDpp,Fosforilacion oxidativa,2
+CYTBO3_4pp_f,CYTBO3_4pp,Fosforilacion oxidativa,2
+CYTB_B3_f,CYTB_B3,Transporte,4
+CYTCAA3pp_f,CYTCAA3pp,Fosforilacion oxidativa,1
+CYTCBB3pp_f,CYTCBB3pp,Fosforilacion oxidativa,1
+CYTDH_f,CYTDH,Nucleotidos,1
+CYTK1_f,CYTK1,Nucleotidos,4
+CYTK2_f,CYTK2,Nucleotidos,1
+CYTMQOR3pp_f,CYTMQOR3pp,Transporte,1
+CYTOM_f,CYTOM,Sin asignar,1
+Clt_f,Clt,Transporte,1
+Cuabc_f,Cuabc,Transporte,3
+Cut1_f,Cut1,Transporte,3
+D3AIBT_f,D3AIBT,Sin asignar,1
+DAAD_f,DAAD,Aminoacidos,2
+DAAD11_f,DAAD11,Aminoacidos,1
+DAAD12_f,DAAD12,Aminoacidos,1
+DAAD2_f,DAAD2,Aminoacidos,1
+DAAD3_f,DAAD3,Aminoacidos,1
+DAAD4_f,DAAD4,Aminoacidos,1
+DAAD5_f,DAAD5,Aminoacidos,1
+DAAD7_f,DAAD7,Aminoacidos,1
+DAAD8_f,DAAD8,Aminoacidos,2
+DABAAT2_f,DABAAT2,Aminoacidos,1
+DACL_f,DACL,Sin asignar,2
+DADA_f,DADA,Nucleotidos,1
+DADK_f,DADK,Nucleotidos,1
+DADNt2_f,DADNt2,Transporte,1
+DAGK120_f,DAGK120,Lipidos y PHA,4
+DAGK140_f,DAGK140,Lipidos y PHA,4
+DAGK141_f,DAGK141,Lipidos y PHA,4
+DAGK160_f,DAGK160,Lipidos y PHA,4
+DAGK161_f,DAGK161,Lipidos y PHA,4
+DAGK180_f,DAGK180,Lipidos y PHA,4
+DAGK181_f,DAGK181,Lipidos y PHA,4
+DAGLIPA160ex_f,DAGLIPA160ex,Lipidos y PHA,4
+DAGLIPA180ex_f,DAGLIPA180ex,Lipidos y PHA,4
+DAGLIPA181d9ex_f,DAGLIPA181d9ex,Lipidos y PHA,4
+DAGLIPA182d9d12ex_f,DAGLIPA182d9d12ex,Lipidos y PHA,4
+DALAALAD_f,DALAALAD,Aminoacidos,2
+DALADALAD_f,DALADALAD,Aminoacidos,2
+DALAGLYD_f,DALAGLYD,Aminoacidos,2
+DALALEUD_f,DALALEUD,Aminoacidos,1
+DALAabcpp_f,DALAabcpp,Transporte,2
+DAPDC_f,DAPDC,Aminoacidos,1
+DAPE_f,DAPE,Aminoacidos,1
+DAPabcpp_f,DAPabcpp,Transporte,2
+DARBabcpp_f,DARBabcpp,Transporte,2
+DARBt3ipp_f,DARBt3ipp,Transporte,2
+DASNabcpp_f,DASNabcpp,Transporte,1
+DASNtex_f,DASNtex,Transporte,1
+DASYN120_f,DASYN120,Lipidos y PHA,4
+DASYN140_f,DASYN140,Lipidos y PHA,4
+DASYN141_f,DASYN141,Lipidos y PHA,4
+DASYN160_f,DASYN160,Lipidos y PHA,4
+DASYN161_f,DASYN161,Lipidos y PHA,4
+DASYN180_f,DASYN180,Lipidos y PHA,4
+DASYN181_f,DASYN181,Lipidos y PHA,4
+DATPHs_f,DATPHs,Nucleotidos,1
+DB4PS_f,DB4PS,Cofactores y vitaminas,2
+DBTS_f,DBTS,Cofactores y vitaminas,1
+DC6PH_f,DC6PH,Carbono alternativo y aromaticos,2
+DCAtex_f,DCAtex,Transporte,4
+DCMPDA_f,DCMPDA,Sin asignar,1
+DCTPD_f,DCTPD,Nucleotidos,1
+DCTPD2_f,DCTPD2,Nucleotidos,2
+DDCAtexi_f,DDCAtexi,Transporte,4
+DDGALK_f,DDGALK,Carbono alternativo y aromaticos,2
+DDGLK_f,DDGLK,Carbono alternativo y aromaticos,2
+DDPA_f,DDPA,Aminoacidos,2
+DDPGALA_f,DDPGALA,Carbono alternativo y aromaticos,2
+DGAK_f,DGAK,Sin asignar,2
+DGK1_f,DGK1,Nucleotidos,1
+DGUNC_f,DGUNC,Sin asignar,1
+DH23t_f,DH23t,Transporte,2
+DH35O_f,DH35O,Sin asignar,7
+DH36M_f,DH36M,Sin asignar,7
+DH4MCHCDH_f,DH4MCHCDH,Carbono alternativo y aromaticos,1
+DHACOAH_f,DHACOAH,Carbono alternativo y aromaticos,9
+DHAD1_f,DHAD1,Aminoacidos,1
+DHAD2_f,DHAD2,Aminoacidos,1
+DHAPT_f,DHAPT,Carbono alternativo y aromaticos,2
+DHBD_f,DHBD,Cofactores y vitaminas,2
+DHBS_f,DHBS,Cofactores y vitaminas,2
+DHBSH_1_f,DHBSH_1,Sin asignar,1
+DHBSZ3FEabcpp_f,DHBSZ3FEabcpp,Transporte,1
+DHBSZ3FEtonex_f,DHBSZ3FEtonex,Transporte,1
+DHBZS2H_f,DHBZS2H,Sin asignar,1
+DHBZS3H_f,DHBZS3H,Sin asignar,1
+DHCINDO_f,DHCINDO,Carbono alternativo y aromaticos,1
+DHDPRy_f,DHDPRy,Aminoacidos,2
+DHDPS_f,DHDPS,Aminoacidos,2
+DHEDAA_f,DHEDAA,Sin asignar,1
+DHFR_f,DHFR,Cofactores y vitaminas,1
+DHFR2i_f,DHFR2i,Sin asignar,1
+DHFS_f,DHFS,Cofactores y vitaminas,1
+DHGLYH_f,DHGLYH,Sin asignar,1
+DHMPTR_f,DHMPTR,Cofactores y vitaminas,1
+DHNAOT_f,DHNAOT,Sin asignar,1
+DHNCOAS_f,DHNCOAS,Cofactores y vitaminas,1
+DHNCOAT_f,DHNCOAT,Cofactores y vitaminas,1
+DHNPA_1_f,DHNPA_1,Cofactores y vitaminas,1
+DHORD2_f,DHORD2,Nucleotidos,1
+DHORDfum_f,DHORDfum,Nucleotidos,1
+DHORTS_f,DHORTS,Nucleotidos,1
+DHPACCOAHIT_f,DHPACCOAHIT,Sin asignar,9
+DHPDO_f,DHPDO,Sin asignar,1
+DHPM1_f,DHPM1,Nucleotidos,2
+DHPM2_f,DHPM2,Nucleotidos,1
+DHPPDA_f,DHPPDA,Sin asignar,1
+DHPPDA2_f,DHPPDA2,Cofactores y vitaminas,1
+DHPS_f,DHPS,Cofactores y vitaminas,1
+DHQS_f,DHQS,Aminoacidos,2
+DHQTi_f,DHQTi,Aminoacidos,2
+DHR_1_f,DHR_1,Sin asignar,1
+DHSKDH_f,DHSKDH,Carbono alternativo y aromaticos,2
+DIPEPabc1_f,DIPEPabc1,Transporte,1
+DIPEPabc10_f,DIPEPabc10,Transporte,1
+DIPEPabc12_f,DIPEPabc12,Transporte,1
+DIPEPabc13_f,DIPEPabc13,Transporte,1
+DIPEPabc14_f,DIPEPabc14,Transporte,1
+DIPEPabc15_f,DIPEPabc15,Transporte,1
+DIPEPabc3_f,DIPEPabc3,Transporte,1
+DIPEPabc8_f,DIPEPabc8,Transporte,1
+DKGLCNR1_f,DKGLCNR1,Carbono alternativo y aromaticos,2
+DKGLCNR3_f,DKGLCNR3,Carbono alternativo y aromaticos,2
+DLASNR_f,DLASNR,Aminoacidos,1
+DLCYSR_f,DLCYSR,Aminoacidos,1
+DLEUabcpp_f,DLEUabcpp,Transporte,1
+DLEUtex_f,DLEUtex,Transporte,1
+DLMETR_f,DLMETR,Aminoacidos,1
+DLYSAD_f,DLYSAD,Aminoacidos,7
+DLYSabcpp_f,DLYSabcpp,Transporte,7
+DLYStex_f,DLYStex,Transporte,7
+DMALRED_f,DMALRED,Ciclo TCA y glioxilato,1
+DMATT_f,DMATT,Cofactores y vitaminas,2
+DMGDH2_f,DMGDH2,"Iones, hierro y azufre",1
+DMGLYBabcpp_f,DMGLYBabcpp,Transporte,1
+DMGLYtex_f,DMGLYtex,Transporte,1
+DMPPS_f,DMPPS,Cofactores y vitaminas,2
+DMSO2abcpp_f,DMSO2abcpp,Transporte,1
+DMSO2tex_f,DMSO2tex,Transporte,1
+DNADDP_f,DNADDP,Sin asignar,1
+DNMPPA_f,DNMPPA,Cofactores y vitaminas,1
+DNTAep_f,DNTAep,"Iones, hierro y azufre",1
+DNTPPA_f,DNTPPA,Cofactores y vitaminas,1
+DOPAtex_f,DOPAtex,Transporte,1
+DOPDH_f,DOPDH,Carbono alternativo y aromaticos,1
+DORNabcpp_f,DORNabcpp,Transporte,1
+DORNtex_f,DORNtex,Transporte,1
+DOXRBCNtex_f,DOXRBCNtex,Transporte,1
+DOXRBCNtpp_f,DOXRBCNtpp,Transporte,1
+DPCOAK_f,DPCOAK,Cofactores y vitaminas,1
+DPR_f,DPR,Cofactores y vitaminas,1
+DRBK_1_f,DRBK_1,Sin asignar,1
+DRIBabc_f,DRIBabc,Transporte,1
+DRIBtex_1_f,DRIBtex_1,Transporte,1
+DRPA_f,DRPA,Carbono alternativo y aromaticos,1
+DSERDHr_f,DSERDHr,Aminoacidos,1
+DTMPK_f,DTMPK,Nucleotidos,1
+DTMPt6_f,DTMPt6,Transporte,1
+DTYRt2rpp_f,DTYRt2rpp,Transporte,1
+DTYRtex_f,DTYRtex,Transporte,1
+DURAD_f,DURAD,Nucleotidos,2
+DURAD2_f,DURAD2,Nucleotidos,1
+DURIPP_1_f,DURIPP_1,Sin asignar,1
+DUTPDP_f,DUTPDP,Nucleotidos,2
+DVALabcpp_f,DVALabcpp,Transporte,1
+DVALtex_f,DVALtex,Transporte,1
+DXPRIi_f,DXPRIi,Cofactores y vitaminas,2
+DXPS_f,DXPS,Cofactores y vitaminas,2
+DXYLUDtex_f,DXYLUDtex,Transporte,8
+DXYLUDtpp_f,DXYLUDtpp,Transporte,8
+D_LACt2pp_f,D_LACt2pp,Transporte,1
+D_LACtex_f,D_LACtex,Transporte,1
+E4PD_f,E4PD,Cofactores y vitaminas,2
+EAR80x_f,EAR80x,Envoltura celular,4
+EAR80y_f,EAR80y,Lipidos y PHA,4
+ECHA191_f,ECHA191,Sin asignar,1
+ECHA192_f,ECHA192,Sin asignar,1
+ECHA193_f,ECHA193,Sin asignar,1
+ECHA20_f,ECHA20,Sin asignar,1
+ECOAH1_f,ECOAH1,Lipidos y PHA,7
+ECOAH12_f,ECOAH12,Aminoacidos,1
+ECOAH14_f,ECOAH14,Lipidos y PHA,6
+ECOAH15_f,ECOAH15,Lipidos y PHA,6
+ECOAH16_f,ECOAH16,Lipidos y PHA,9
+ECOAH17_f,ECOAH17,Lipidos y PHA,5
+ECOAH18_f,ECOAH18,Lipidos y PHA,9
+ECOAH19_f,ECOAH19,Lipidos y PHA,5
+ECOAH2_f,ECOAH2,Lipidos y PHA,7
+ECOAH20_f,ECOAH20,Lipidos y PHA,9
+ECOAH21_f,ECOAH21,Lipidos y PHA,5
+ECOAH22_f,ECOAH22,Lipidos y PHA,9
+ECOAH23_f,ECOAH23,Lipidos y PHA,3
+ECOAH24_f,ECOAH24,Lipidos y PHA,3
+ECOAH25_f,ECOAH25,Lipidos y PHA,4
+ECOAH26_f,ECOAH26,Lipidos y PHA,4
+ECOAH27_f,ECOAH27,Lipidos y PHA,4
+ECOAH28_f,ECOAH28,Lipidos y PHA,4
+ECOAH29_f,ECOAH29,Lipidos y PHA,4
+ECOAH3_f,ECOAH3,Lipidos y PHA,4
+ECOAH30_f,ECOAH30,Lipidos y PHA,4
+ECOAH31_f,ECOAH31,Lipidos y PHA,4
+ECOAH32_f,ECOAH32,Lipidos y PHA,4
+ECOAH33_f,ECOAH33,Lipidos y PHA,4
+ECOAH34_f,ECOAH34,Lipidos y PHA,4
+ECOAH35_f,ECOAH35,Lipidos y PHA,4
+ECOAH36_f,ECOAH36,Lipidos y PHA,4
+ECOAH37_f,ECOAH37,Lipidos y PHA,4
+ECOAH38_f,ECOAH38,Lipidos y PHA,4
+ECOAH4_f,ECOAH4,Lipidos y PHA,4
+ECOAH5_f,ECOAH5,Lipidos y PHA,4
+ECOAH5_1_f,ECOAH5_1,Sin asignar,4
+ECOAH6_f,ECOAH6,Lipidos y PHA,4
+ECOAH7_f,ECOAH7,Lipidos y PHA,4
+ECOAH8_f,ECOAH8,Lipidos y PHA,4
+ECOAH9ir_f,ECOAH9ir,Aminoacidos,1
+EDA_f,EDA,Glucolisis/Gluconeogenesis,2
+EDD_f,EDD,Glucolisis/Gluconeogenesis,2
+ENO_f,ENO,Glucolisis/Gluconeogenesis,2
+ENOPH_f,ENOPH,Sin asignar,1
+ENTCS_f,ENTCS,Cofactores y vitaminas,1
+ETHAAL_f,ETHAAL,"Iones, hierro y azufre",4
+ETHAt_f,ETHAt,Transporte,4
+ETHAt2pp_f,ETHAt2pp,Transporte,4
+ETHSO3abcpp_f,ETHSO3abcpp,Transporte,1
+ETHSO3tex_f,ETHSO3tex,Transporte,1
+ETHSabc_f,ETHSabc,Transporte,1
+ETOHtex_f,ETOHtex,Transporte,1
+ETOHtrpp_f,ETOHtrpp,Transporte,1
+F1PP_f,F1PP,Sin asignar,2
+F6PP_f,F6PP,Carbono alternativo y aromaticos,2
+FA120ACPHi_f,FA120ACPHi,Lipidos y PHA,4
+FA141ACPHi_f,FA141ACPHi,Lipidos y PHA,4
+FA161ACPHi_f,FA161ACPHi,Lipidos y PHA,4
+FA80ACPHi_f,FA80ACPHi,Lipidos y PHA,4
+FACOAE100_f,FACOAE100,Lipidos y PHA,4
+FACOAE120_f,FACOAE120,Lipidos y PHA,4
+FACOAE140_f,FACOAE140,Lipidos y PHA,4
+FACOAE141_f,FACOAE141,Lipidos y PHA,4
+FACOAE160_f,FACOAE160,Lipidos y PHA,4
+FACOAE161_f,FACOAE161,Lipidos y PHA,4
+FACOAE180_f,FACOAE180,Lipidos y PHA,4
+FACOAE181_f,FACOAE181,Lipidos y PHA,4
+FACOAE1829Z12Z_f,FACOAE1829Z12Z,Lipidos y PHA,4
+FACOAE50_f,FACOAE50,Lipidos y PHA,6
+FACOAE60_f,FACOAE60,Lipidos y PHA,7
+FACOAE70_f,FACOAE70,Lipidos y PHA,6
+FACOAE80_f,FACOAE80,Lipidos y PHA,4
+FACOAE90_f,FACOAE90,Lipidos y PHA,6
+FACOAL100t2pp_f,FACOAL100t2pp,Lipidos y PHA,4
+FACOAL120t2pp_f,FACOAL120t2pp,Lipidos y PHA,4
+FACOAL140_f,FACOAL140,Lipidos y PHA,4
+FACOAL140t2pp_f,FACOAL140t2pp,Lipidos y PHA,4
+FACOAL141_f,FACOAL141,Lipidos y PHA,4
+FACOAL141t2pp_f,FACOAL141t2pp,Lipidos y PHA,4
+FACOAL160_f,FACOAL160,Lipidos y PHA,4
+FACOAL160t2pp_f,FACOAL160t2pp,Lipidos y PHA,4
+FACOAL161_f,FACOAL161,Lipidos y PHA,4
+FACOAL161t2pp_f,FACOAL161t2pp,Lipidos y PHA,4
+FACOAL180_f,FACOAL180,Lipidos y PHA,4
+FACOAL180t2pp_f,FACOAL180t2pp,Lipidos y PHA,4
+FACOAL181_f,FACOAL181,Lipidos y PHA,4
+FACOAL1812_f,FACOAL1812,Lipidos y PHA,4
+FACOAL181d11tpp_f,FACOAL181d11tpp,Lipidos y PHA,4
+FACOAL181d6t2pp_f,FACOAL181d6t2pp,Lipidos y PHA,4
+FACOAL181t2pp_f,FACOAL181t2pp,Lipidos y PHA,4
+FACOAL1821_f,FACOAL1821,Lipidos y PHA,4
+FACOAL182t2pp_f,FACOAL182t2pp,Lipidos y PHA,4
+FACOAL40It2pp_f,FACOAL40It2pp,Transporte,1
+FACOAL50i_f,FACOAL50i,Lipidos y PHA,6
+FACOAL50t2pp_f,FACOAL50t2pp,Lipidos y PHA,6
+FACOAL60i_f,FACOAL60i,Lipidos y PHA,7
+FACOAL60t2pp_f,FACOAL60t2pp,Lipidos y PHA,7
+FACOAL70t2pp_f,FACOAL70t2pp,Lipidos y PHA,6
+FACOAL80_f,FACOAL80,Lipidos y PHA,4
+FACOAL80t2pp_f,FACOAL80t2pp,Lipidos y PHA,4
+FACOAL90i_f,FACOAL90i,Lipidos y PHA,6
+FACOAL90t2pp_f,FACOAL90t2pp,Lipidos y PHA,6
+FACOALP100t2pp_f,FACOALP100t2pp,Lipidos y PHA,9
+FACOALP50t2pp_f,FACOALP50t2pp,Lipidos y PHA,5
+FACOALP60t2pp_f,FACOALP60t2pp,Lipidos y PHA,9
+FACOALP70t2pp_f,FACOALP70t2pp,Lipidos y PHA,5
+FACOALP80t2pp_f,FACOALP80t2pp,Lipidos y PHA,9
+FACOALP90t2pp_f,FACOALP90t2pp,Lipidos y PHA,5
+FACOALT60t2pp_f,FACOALT60t2pp,Lipidos y PHA,3
+FACOAL_70_c_f,FACOAL_70_c,Lipidos y PHA,6
+FADB2_f,FADB2,Sin asignar,1
+FADB3_f,FADB3,Sin asignar,1
+FADD17_f,FADD17,Sin asignar,1
+FADD3_f,FADD3,Sin asignar,1
+FADE233_f,FADE233,Sin asignar,1
+FADE281_f,FADE281,Sin asignar,1
+FADE282_f,FADE282,Sin asignar,1
+FADE30_f,FADE30,Sin asignar,1
+FADE51_f,FADE51,Sin asignar,1
+FADE52_f,FADE52,Sin asignar,1
+FADMQOR_f,FADMQOR,Sin asignar,1
+FADRx_f,FADRx,Cofactores y vitaminas,4
+FADt_f,FADt,Transporte,4
+FADtex_f,FADtex,Transporte,1
+FALDH2_f,FALDH2,Carbono alternativo y aromaticos,1
+FALDM_f,FALDM,Carbono alternativo y aromaticos,1
+FALDep_f,FALDep,Transporte,1
+FALDtpp_f,FALDtpp,Transporte,1
+FALDtpp2_f,FALDtpp2,Transporte,1
+FALGTHLs_f,FALGTHLs,Carbono alternativo y aromaticos,1
+FAO1_f,FAO1,Sin asignar,4
+FAO10_f,FAO10,Sin asignar,4
+FAO11_f,FAO11,Sin asignar,4
+FAO2_f,FAO2,Sin asignar,4
+FAO3_f,FAO3,Sin asignar,4
+FAS100_f,FAS100,Sin asignar,4
+FAS120_f,FAS120,Sin asignar,4
+FAS140_f,FAS140,Sin asignar,4
+FAS160_f,FAS160,Sin asignar,4
+FAS161_f,FAS161,Sin asignar,4
+FAS180_f,FAS180,Sin asignar,4
+FAS181_f,FAS181,Sin asignar,4
+FAS80_L_f,FAS80_L,Sin asignar,4
+FASC141ACP_f,FASC141ACP,Sin asignar,4
+FBA_f,FBA,Glucolisis/Gluconeogenesis,2
+FBACS_f,FBACS,"Iones, hierro y azufre",1
+FBACabcpp_f,FBACabcpp,Transporte,1
+FBP_f,FBP,Glucolisis/Gluconeogenesis,2
+FCI_f,FCI,Carbono alternativo y aromaticos,1
+FCLK_f,FCLK,Carbono alternativo y aromaticos,1
+FCLPA_f,FCLPA,Carbono alternativo y aromaticos,2
+FCLT_f,FCLT,Cofactores y vitaminas,1
+FDH_f,FDH,Carbono alternativo y aromaticos,1
+FDMO_f,FDMO,"Iones, hierro y azufre",1
+FDMO1_f,FDMO1,Sin asignar,1
+FDMO2_f,FDMO2,"Iones, hierro y azufre",1
+FDMO2_1_f,FDMO2_1,Sin asignar,7
+FDMO3_f,FDMO3,"Iones, hierro y azufre",1
+FDMO3_1_f,FDMO3_1,Sin asignar,7
+FDMO4_f,FDMO4,"Iones, hierro y azufre",7
+FDMO4_1_f,FDMO4_1,Sin asignar,1
+FDMO5_f,FDMO5,"Iones, hierro y azufre",6
+FDMO5_1_f,FDMO5_1,Sin asignar,1
+FDMO6_f,FDMO6,"Iones, hierro y azufre",1
+FDMO6_1_f,FDMO6_1,Sin asignar,2
+FDMO7_f,FDMO7,"Iones, hierro y azufre",1
+FDMO_1_f,FDMO_1,Sin asignar,1
+FDMOtau_f,FDMOtau,"Iones, hierro y azufre",1
+FE2Gabcpp_f,FE2Gabcpp,Transporte,1
+FE2abc_f,FE2abc,Transporte,1
+FE2abcpp_f,FE2abcpp,Transporte,1
+FE2t_f,FE2t,Transporte,1
+FE2t3pp_f,FE2t3pp,"Iones, hierro y azufre",1
+FE2t4pp_f,FE2t4pp,Transporte,1
+FE2tex_f,FE2tex,"Iones, hierro y azufre",1
+FE2tpp_f,FE2tpp,Transporte,1
+FE3DCIT2abcpp_f,FE3DCIT2abcpp,"Iones, hierro y azufre",1
+FE3DCITR3_f,FE3DCITR3,"Iones, hierro y azufre",1
+FE3DCITR5_f,FE3DCITR5,Sin asignar,1
+FE3DCITabcpp_f,FE3DCITabcpp,"Iones, hierro y azufre",1
+FE3DCITtonex_f,FE3DCITtonex,Transporte,1
+FE3DHBZS3R_f,FE3DHBZS3R,Sin asignar,1
+FE3Gabcpp_f,FE3Gabcpp,Transporte,1
+FE3PYOVDL2_f,FE3PYOVDL2,"Iones, hierro y azufre",1
+FE3Ri_f,FE3Ri,Cofactores y vitaminas,4
+FE3abc_f,FE3abc,"Iones, hierro y azufre",1
+FE3abcpp_f,FE3abcpp,"Iones, hierro y azufre",1
+FE3t_f,FE3t,Transporte,1
+FE3tex_f,FE3tex,Transporte,1
+FEENTER2tpp_f,FEENTER2tpp,Transporte,1
+FEENTERR4_f,FEENTERR4,Sin asignar,1
+FEENTERabcpp_f,FEENTERabcpp,"Iones, hierro y azufre",1
+FEENTERtex_f,FEENTERtex,"Iones, hierro y azufre",1
+FEENTERtonex_f,FEENTERtonex,"Iones, hierro y azufre",1
+FEENTERtpp_f,FEENTERtpp,"Iones, hierro y azufre",1
+FEOXAMR1_f,FEOXAMR1,"Iones, hierro y azufre",4
+FEOXAMR2_f,FEOXAMR2,"Iones, hierro y azufre",2
+FEOXAMR3_f,FEOXAMR3,Transporte,2
+FEOXAMUtex_f,FEOXAMUtex,"Iones, hierro y azufre",2
+FEOXAMUtpp_f,FEOXAMUtpp,"Iones, hierro y azufre",2
+FEOXAMabcpp_f,FEOXAMabcpp,"Iones, hierro y azufre",1
+FEOXAMtonex_f,FEOXAMtonex,"Iones, hierro y azufre",1
+FEROpp_f,FEROpp,"Iones, hierro y azufre",1
+FERtex_f,FERtex,Transporte,1
+FERtpp_f,FERtpp,Transporte,1
+FFSD_f,FFSD,Carbono alternativo y aromaticos,2
+FFSD1r_f,FFSD1r,Sin asignar,2
+FGLU_f,FGLU,Sin asignar,1
+FLVR_f,FLVR,Cofactores y vitaminas,2
+FLVRx_f,FLVRx,Cofactores y vitaminas,2
+FMNAT_f,FMNAT,Cofactores y vitaminas,2
+FMNRx_f,FMNRx,"Iones, hierro y azufre",2
+FMNRx2_f,FMNRx2,"Iones, hierro y azufre",2
+FMNRy_f,FMNRy,Sin asignar,2
+FMNt_f,FMNt,Transporte,2
+FMNtex_f,FMNtex,Transporte,2
+FNOR_f,FNOR,Sin asignar,1
+FOLD3_f,FOLD3,Cofactores y vitaminas,1
+FOLt_f,FOLt,Transporte,1
+FOMETRi_f,FOMETRi,Cofactores y vitaminas,1
+FORAMD_f,FORAMD,Sin asignar,1
+FORCT_f,FORCT,Carbono alternativo y aromaticos,1
+FORGLUIH2_f,FORGLUIH2,Aminoacidos,1
+FORt2pp_f,FORt2pp,Transporte,1
+FORtex_f,FORtex,Transporte,1
+FORtppi_f,FORtppi,Transporte,1
+FRD_f,FRD,Sin asignar,1
+FRDx_f,FRDx,Sin asignar,1
+FRUK_f,FRUK,Carbono alternativo y aromaticos,2
+FRUpts_f,FRUpts,Carbono alternativo y aromaticos,2
+FRUpts2pp_f,FRUpts2pp,Transporte,2
+FRUptspp_f,FRUptspp,Carbono alternativo y aromaticos,2
+FRUtex_f,FRUtex,Transporte,2
+FTHFCL_f,FTHFCL,Cofactores y vitaminas,1
+FTHFD_f,FTHFD,Cofactores y vitaminas,1
+FUCtex_f,FUCtex,Transporte,1
+FUCtpp_f,FUCtpp,Transporte,1
+FUM_f,FUM,Ciclo TCA y glioxilato,1
+FUMAC_f,FUMAC,Carbono alternativo y aromaticos,1
+FUMt1pp_f,FUMt1pp,Transporte,1
+FUMt2_2pp_f,FUMt2_2pp,Transporte,1
+FUSAtex_f,FUSAtex,Transporte,1
+FUSAtpp_f,FUSAtpp,Transporte,1
+G1PACT_f,G1PACT,Envoltura celular,2
+G1PP_f,G1PP,Glucolisis/Gluconeogenesis,2
+G1SAT_f,G1SAT,Cofactores y vitaminas,1
+G2PP_f,G2PP,Carbono alternativo y aromaticos,4
+G3PAT120_f,G3PAT120,Lipidos y PHA,4
+G3PAT141_f,G3PAT141,Lipidos y PHA,4
+G3PAT161_f,G3PAT161,Lipidos y PHA,4
+G3PCabcpp_f,G3PCabcpp,Transporte,1
+G3PCtex_f,G3PCtex,Transporte,1
+G3PD_f,G3PD,Sin asignar,4
+G3PD1ir_f,G3PD1ir,Sin asignar,4
+G3PD2_f,G3PD2,Lipidos y PHA,4
+G3PD4_f,G3PD4,Sin asignar,2
+G3PD5_f,G3PD5,Lipidos y PHA,2
+G3PEabcpp_f,G3PEabcpp,Transporte,4
+G3PGabcpp_f,G3PGabcpp,Transporte,4
+G3PIabcpp_f,G3PIabcpp,Transporte,4
+G3PItex_f,G3PItex,Transporte,4
+G5SADs_f,G5SADs,Aminoacidos,1
+G5SD_f,G5SD,Aminoacidos,1
+G6PBDH_f,G6PBDH,Glucolisis/Gluconeogenesis,2
+G6PDH1_f,G6PDH1,Sin asignar,2
+G6PDH2r_f,G6PDH2r,Glucolisis/Gluconeogenesis,2
+G6PI_f,G6PI,Pentosas fosfato,2
+G6PP_f,G6PP,Glucolisis/Gluconeogenesis,2
+GAD2ktpp_f,GAD2ktpp,Glucolisis/Gluconeogenesis,2
+GAL6PI_f,GAL6PI,Sin asignar,2
+GALCTD_f,GALCTD,Carbono alternativo y aromaticos,1
+GALCTND_f,GALCTND,Carbono alternativo y aromaticos,2
+GALCTNt2pp_f,GALCTNt2pp,Transporte,2
+GALCTNtex_f,GALCTNtex,Transporte,2
+GALCT_D_Et_f,GALCT_D_Et,Transporte,1
+GALCTt2rpp_f,GALCTt2rpp,Transporte,1
+GALCTtex_f,GALCTtex,Transporte,1
+GALKr_f,GALKr,Carbono alternativo y aromaticos,2
+GALT_f,GALT,Sin asignar,2
+GALTpts_f,GALTpts,Transporte,2
+GALTptspp_f,GALTptspp,Transporte,2
+GALTtex_f,GALTtex,Transporte,2
+GALURDH_f,GALURDH,Carbono alternativo y aromaticos,1
+GALUR_Et_f,GALUR_Et,Transporte,1
+GALURt2r_f,GALURt2r,Transporte,1
+GALURt2rpp_f,GALURt2rpp,Transporte,1
+GALURtex_f,GALURtex,Transporte,1
+GALUi_f,GALUi,Carbono alternativo y aromaticos,2
+GALabcpp_f,GALabcpp,Transporte,2
+GALpts_f,GALpts,Transporte,2
+GALt2_f,GALt2,Transporte,2
+GAMpts_f,GAMpts,Transporte,2
+GAMptspp_f,GAMptspp,Transporte,2
+GAMtex_f,GAMtex,Transporte,2
+GAPD_f,GAPD,Glucolisis/Gluconeogenesis,2
+GAPDi_nadp_f,GAPDi_nadp,Glucolisis/Gluconeogenesis,2
+GARFT_f,GARFT,Nucleotidos,1
+GART_f,GART,Nucleotidos,1
+GBDM_f,GBDM,"Iones, hierro y azufre",1
+GCALDD_f,GCALDD,Cofactores y vitaminas,1
+GCALDtabcpp_f,GCALDtabcpp,Transporte,1
+GDBTALDH_f,GDBTALDH,Aminoacidos,1
+GDOCBIK_f,GDOCBIK,Sin asignar,11
+GDPDPK_f,GDPDPK,Nucleotidos,1
+GDPMANNDH_f,GDPMANNDH,Envoltura celular,2
+GDPMNP_f,GDPMNP,Envoltura celular,2
+GDPTPDP_f,GDPTPDP,Cofactores y vitaminas,1
+GF6PTA_f,GF6PTA,Envoltura celular,2
+GG15DAPAH_f,GG15DAPAH,"Iones, hierro y azufre",7
+GG15DAPDxr_f,GG15DAPDxr,"Iones, hierro y azufre",7
+GG15DAPO_f,GG15DAPO,"Iones, hierro y azufre",7
+GG15DAPS_f,GG15DAPS,"Iones, hierro y azufre",7
+GGDAPAH_f,GGDAPAH,"Iones, hierro y azufre",1
+GGDAPDxr_f,GGDAPDxr,"Iones, hierro y azufre",1
+GGDAPO_f,GGDAPO,"Iones, hierro y azufre",1
+GGDAPS_f,GGDAPS,"Iones, hierro y azufre",1
+GGGABADr_f,GGGABADr,Carbono alternativo y aromaticos,1
+GGGABADxr_f,GGGABADxr,"Iones, hierro y azufre",1
+GGGABAH_f,GGGABAH,"Iones, hierro y azufre",1
+GGLUCT2_f,GGLUCT2,Sin asignar,1
+GGPTRCO_f,GGPTRCO,"Iones, hierro y azufre",1
+GGPTRCS_f,GGPTRCS,"Iones, hierro y azufre",1
+GGSPMDO_f,GGSPMDO,"Iones, hierro y azufre",1
+GGSPMDS_f,GGSPMDS,"Iones, hierro y azufre",1
+GHMT2r_f,GHMT2r,Aminoacidos,1
+GK1_f,GK1,Nucleotidos,1
+GK2_f,GK2,Sin asignar,1
+GLBRAN3_f,GLBRAN3,Carbono alternativo y aromaticos,2
+GLCDpp_f,GLCDpp,Glucolisis/Gluconeogenesis,2
+GLCNt2r_f,GLCNt2r,Transporte,2
+GLCNt2rpp_f,GLCNt2rpp,Transporte,2
+GLCNtex_f,GLCNtex,Transporte,2
+GLCOAS_f,GLCOAS,Aminoacidos,7
+GLCOASYNT_f,GLCOASYNT,Aminoacidos,7
+GLCP3_f,GLCP3,Carbono alternativo y aromaticos,2
+GLCP4_f,GLCP4,Carbono alternativo y aromaticos,2
+GLCRAL_1_f,GLCRAL_1,Sin asignar,2
+GLCRD_f,GLCRD,Carbono alternativo y aromaticos,1
+GLCRD_1_f,GLCRD_1,Sin asignar,2
+GLCRt2rpp_f,GLCRt2rpp,Transporte,2
+GLCRtex_f,GLCRtex,Transporte,2
+GLCS3_1_f,GLCS3_1,Sin asignar,2
+GLCURDH_f,GLCURDH,Carbono alternativo y aromaticos,2
+GLCURt2r_f,GLCURt2r,Transporte,2
+GLCURt2rpp_f,GLCURt2rpp,Transporte,2
+GLCURtex_f,GLCURtex,Transporte,2
+GLCabc_f,GLCabc,Transporte,2
+GLCabcpp_f,GLCabcpp,Transporte,2
+GLCpts_f,GLCpts,Transporte,2
+GLCptspp_f,GLCptspp,Transporte,2
+GLCtex_f,GLCtex,Transporte,2
+GLDBRAN3_f,GLDBRAN3,Carbono alternativo y aromaticos,2
+GLGC_f,GLGC,Carbono alternativo y aromaticos,2
+GLNS_f,GLNS,Aminoacidos,1
+GLNabc_f,GLNabc,Transporte,1
+GLNabcpp_f,GLNabcpp,Transporte,1
+GLNtex_f,GLNtex,Transporte,1
+GLTPD_f,GLTPD,Carbono alternativo y aromaticos,2
+GLU5K_f,GLU5K,Aminoacidos,1
+GLUABUTt7pp_f,GLUABUTt7pp,Transporte,1
+GLUCYS_f,GLUCYS,Aminoacidos,1
+GLUDxi_f,GLUDxi,Sin asignar,1
+GLUDy_f,GLUDy,Aminoacidos,1
+GLUNpp_f,GLUNpp,Aminoacidos,1
+GLUPRT_f,GLUPRT,Nucleotidos,1
+GLUR_f,GLUR,Aminoacidos,1
+GLUSfx_f,GLUSfx,Sin asignar,1
+GLUSy_f,GLUSy,Aminoacidos,1
+GLUTARt2rpp_f,GLUTARt2rpp,Transporte,7
+GLUTARtex_f,GLUTARtex,Transporte,7
+GLUTCOADHc_f,GLUTCOADHc,Aminoacidos,7
+GLUTRR_f,GLUTRR,Cofactores y vitaminas,1
+GLUTRS_f,GLUTRS,Aminoacidos,1
+GLUabc_f,GLUabc,Transporte,1
+GLUabcpp_f,GLUabcpp,Transporte,1
+GLUt2rpp_f,GLUt2rpp,Transporte,1
+GLUt4_f,GLUt4,Transporte,1
+GLUt4pp_f,GLUt4pp,Transporte,1
+GLUtex_f,GLUtex,Transporte,1
+GLXCL_f,GLXCL,Ciclo TCA y glioxilato,1
+GLXO1_f,GLXO1,Sin asignar,1
+GLYALDDr_f,GLYALDDr,Lipidos y PHA,4
+GLYALDtex_f,GLYALDtex,Transporte,4
+GLYALDtpp_f,GLYALDtpp,Transporte,4
+GLYBACT1r_f,GLYBACT1r,"Iones, hierro y azufre",1
+GLYBCOAT_f,GLYBCOAT,"Iones, hierro y azufre",1
+GLYBabc_f,GLYBabc,Transporte,1
+GLYBabcpp_f,GLYBabcpp,Transporte,1
+GLYBt2pp_f,GLYBt2pp,Transporte,1
+GLYBt3pp_f,GLYBt3pp,Transporte,1
+GLYBti4pp_f,GLYBti4pp,Transporte,1
+GLYC2Pabcpp_f,GLYC2Pabcpp,Transporte,4
+GLYC2Ptex_f,GLYC2Ptex,Transporte,4
+GLYC3Pabc_f,GLYC3Pabc,Transporte,4
+GLYC3Pabcpp_f,GLYC3Pabcpp,Transporte,4
+GLYC3Pt6_f,GLYC3Pt6,Transporte,1
+GLYC3Pt6pp_f,GLYC3Pt6pp,Transporte,4
+GLYCAt2rpp_f,GLYCAt2rpp,Transporte,2
+GLYCAtex_f,GLYCAtex,Transporte,2
+GLYCK_f,GLYCK,Ciclo TCA y glioxilato,1
+GLYCL_f,GLYCL,Aminoacidos,1
+GLYCLTDx_f,GLYCLTDx,Ciclo TCA y glioxilato,1
+GLYCLTDy_f,GLYCLTDy,Ciclo TCA y glioxilato,1
+GLYCLTt2rpp_f,GLYCLTt2rpp,Transporte,1
+GLYCLTt4pp_f,GLYCLTt4pp,Transporte,1
+GLYCLTtex_f,GLYCLTtex,Transporte,1
+GLYCOLDHpp_f,GLYCOLDHpp,Carbono alternativo y aromaticos,1
+GLYCOLtex_f,GLYCOLtex,Transporte,1
+GLYCTO1_f,GLYCTO1,Ciclo TCA y glioxilato,1
+GLYCTO2_f,GLYCTO2,Carbono alternativo y aromaticos,1
+GLYCTO3_f,GLYCTO3,Carbono alternativo y aromaticos,1
+GLYCTO4_f,GLYCTO4,Carbono alternativo y aromaticos,1
+GLYCYSAP_f,GLYCYSAP,Sin asignar,1
+GLYCYSabc_f,GLYCYSabc,Transporte,1
+GLYCtex_f,GLYCtex,Transporte,4
+GLYCtpp_f,GLYCtpp,Transporte,4
+GLYGLNabcpp_f,GLYGLNabcpp,Transporte,1
+GLYGLNtex_f,GLYGLNtex,Transporte,1
+GLYGLNtr_f,GLYGLNtr,Transporte,1
+GLYGLUabcpp_f,GLYGLUabcpp,Transporte,1
+GLYGLUtex_f,GLYGLUtex,Transporte,1
+GLYGLYCNc_f,GLYGLYCNc,Aminoacidos,1
+GLYGLYabcpp_f,GLYGLYabcpp,Transporte,1
+GLYGLYtex_f,GLYGLYtex,Transporte,1
+GLYK_f,GLYK,Lipidos y PHA,4
+GLYLEUAP_f,GLYLEUAP,Sin asignar,1
+GLYLEUtr_f,GLYLEUtr,Transporte,1
+GLYMETabcpp_f,GLYMETabcpp,Transporte,1
+GLYMETtex_f,GLYMETtex,Transporte,1
+GLYMETtr_f,GLYMETtr,Transporte,1
+GLYO1_f,GLYO1,Ciclo TCA y glioxilato,1
+GLYOX_f,GLYOX,Piruvato y anapleroticas,1
+GLYPHEAP_f,GLYPHEAP,Sin asignar,1
+GLYPHEHYc_f,GLYPHEHYc,Aminoacidos,1
+GLYPHEabcpp_f,GLYPHEabcpp,Transporte,1
+GLYPHEtex_f,GLYPHEtex,Transporte,1
+GLYPHEtr_f,GLYPHEtr,Transporte,1
+GLYSERabcpp_f,GLYSERabcpp,Transporte,1
+GLYSERtex_f,GLYSERtex,Transporte,1
+GLYTYRAP_f,GLYTYRAP,Sin asignar,1
+GLYTYRabc_f,GLYTYRabc,Transporte,1
+GLYabc_f,GLYabc,Transporte,1
+GLYabcpp_f,GLYabcpp,Transporte,1
+GLYt4_f,GLYt4,Transporte,1
+GLYt4pp_f,GLYt4pp,Transporte,1
+GLYtex_f,GLYtex,Transporte,1
+GLYtpp_f,GLYtpp,Transporte,1
+GMPS_f,GMPS,Sin asignar,1
+GMPS2_f,GMPS2,Nucleotidos,1
+GND_f,GND,Pentosas fosfato,2
+GNK_f,GNK,Glucolisis/Gluconeogenesis,2
+GNNUC_f,GNNUC,Nucleotidos,1
+GOX_f,GOX,Sin asignar,1
+GPDDA1_f,GPDDA1,Lipidos y PHA,1
+GPDDA1_1_f,GPDDA1_1,Sin asignar,1
+GPDDA2_f,GPDDA2,Lipidos y PHA,4
+GPDDA2_1_f,GPDDA2_1,Sin asignar,4
+GPDDA2pp_f,GPDDA2pp,Lipidos y PHA,4
+GPDDA3_1_f,GPDDA3_1,Sin asignar,1
+GPDDA4_f,GPDDA4,Lipidos y PHA,4
+GPDDA4_1_f,GPDDA4_1,Transporte,4
+GPDDA5_f,GPDDA5,Lipidos y PHA,4
+GRTT_f,GRTT,Cofactores y vitaminas,2
+GRXR_f,GRXR,Sin asignar,1
+GSEALD_f,GSEALD,Sin asignar,1
+GSNt2_f,GSNt2,Transporte,1
+GSNt3pp_f,GSNt3pp,Transporte,1
+GSNtex_f,GSNtex,Transporte,1
+GTHOr_f,GTHOr,Cofactores y vitaminas,1
+GTHPi_f,GTHPi,Sin asignar,1
+GTHRDHpp_f,GTHRDHpp,Cofactores y vitaminas,1
+GTHRDabc2pp_f,GTHRDabc2pp,Transporte,1
+GTHRDabcpp_f,GTHRDabcpp,Transporte,1
+GTHRDt2_1_f,GTHRDt2_1,Transporte,1
+GTHS_f,GTHS,Aminoacidos,1
+GTMLT_f,GTMLT,Sin asignar,1
+GTPCI_f,GTPCI,Cofactores y vitaminas,1
+GTPCII_f,GTPCII,Sin asignar,1
+GTPCII2_f,GTPCII2,Cofactores y vitaminas,1
+GTPDPDP_f,GTPDPDP,Nucleotidos,1
+GTPDPK_f,GTPDPK,Nucleotidos,1
+GTPHs_f,GTPHs,Nucleotidos,1
+GUACYC_f,GUACYC,Nucleotidos,1
+GUAD_f,GUAD,Nucleotidos,1
+GUAPRT_f,GUAPRT,Nucleotidos,1
+GUAt_f,GUAt,Transporte,1
+GUAt2pp_f,GUAt2pp,Transporte,1
+GUAtex_f,GUAtex,Transporte,1
+GUAtpp_f,GUAtpp,Transporte,1
+GUDBUTNAH_f,GUDBUTNAH,Aminoacidos,1
+GUI1_f,GUI1,Carbono alternativo y aromaticos,2
+GalMr_2_f,GalMr_2,Sin asignar,2
+H2CO3D_f,H2CO3D,Sin asignar,1
+H2CO3D2_f,H2CO3D2,Sin asignar,1
+H2O2tex_f,H2O2tex,Transporte,3
+H2Ot_f,H2Ot,Transporte,1
+H2Otex_f,H2Otex,Transporte,4
+H2Otpp_f,H2Otpp,Transporte,1
+H2SO_f,H2SO,"Iones, hierro y azufre",1
+H2Stex_f,H2Stex,Transporte,1
+HACD1_f,HACD1,Lipidos y PHA,7
+HACD10i_f,HACD10i,Lipidos y PHA,6
+HACD11i_f,HACD11i,Lipidos y PHA,6
+HACD12i_f,HACD12i,Lipidos y PHA,9
+HACD13i_f,HACD13i,Lipidos y PHA,5
+HACD14i_f,HACD14i,Lipidos y PHA,9
+HACD15i_f,HACD15i,Lipidos y PHA,5
+HACD16i_f,HACD16i,Lipidos y PHA,9
+HACD17i_f,HACD17i,Lipidos y PHA,5
+HACD18i_f,HACD18i,Lipidos y PHA,9
+HACD19i_f,HACD19i,Lipidos y PHA,3
+HACD1i_f,HACD1i,Lipidos y PHA,7
+HACD2_f,HACD2,Lipidos y PHA,7
+HACD20i_f,HACD20i,Lipidos y PHA,4
+HACD21i_f,HACD21i,Lipidos y PHA,4
+HACD22i_f,HACD22i,Lipidos y PHA,4
+HACD23i_f,HACD23i,Lipidos y PHA,4
+HACD24i_f,HACD24i,Lipidos y PHA,4
+HACD25i_f,HACD25i,Lipidos y PHA,4
+HACD26i_f,HACD26i,Lipidos y PHA,4
+HACD27i_f,HACD27i,Lipidos y PHA,4
+HACD28i_f,HACD28i,Lipidos y PHA,4
+HACD29i_f,HACD29i,Lipidos y PHA,4
+HACD2i_f,HACD2i,Lipidos y PHA,7
+HACD3_f,HACD3,Lipidos y PHA,7
+HACD30i_f,HACD30i,Lipidos y PHA,4
+HACD31i_f,HACD31i,Lipidos y PHA,4
+HACD32i_f,HACD32i,Lipidos y PHA,4
+HACD33i_f,HACD33i,Lipidos y PHA,4
+HACD3i_f,HACD3i,Lipidos y PHA,4
+HACD4_f,HACD4,Lipidos y PHA,4
+HACD4i_f,HACD4i,Lipidos y PHA,4
+HACD5_f,HACD5,Lipidos y PHA,4
+HACD5i_f,HACD5i,Lipidos y PHA,4
+HACD6_f,HACD6,Lipidos y PHA,4
+HACD6i_f,HACD6i,Lipidos y PHA,4
+HACD7_f,HACD7,Lipidos y PHA,4
+HACD7i_f,HACD7i,Lipidos y PHA,4
+HACD8_f,HACD8,Lipidos y PHA,4
+HACD8i_f,HACD8i,Lipidos y PHA,4
+HACD9_f,HACD9,Aminoacidos,1
+HACOADr_f,HACOADr,Sin asignar,1
+HADPCOADH3_f,HADPCOADH3,Carbono alternativo y aromaticos,9
+HAT40tex_f,HAT40tex,Transporte,3
+HAT40tpp_f,HAT40tpp,Transporte,3
+HATBH_f,HATBH,Lipidos y PHA,3
+HBCE_f,HBCE,Sin asignar,7
+HBCHLR_f,HBCHLR,Sin asignar,7
+HBRCH_f,HBRCH,Sin asignar,7
+HBZOPT_f,HBZOPT,Cofactores y vitaminas,2
+HCINNMt2rpp_f,HCINNMt2rpp,Transporte,1
+HCINNMtex_f,HCINNMtex,Transporte,1
+HCO3E_f,HCO3E,Sin asignar,1
+HCO3tex_f,HCO3tex,Transporte,1
+HCYSMT_f,HCYSMT,Aminoacidos,1
+HDAD_f,HDAD,Sin asignar,1
+HDCAtexi_f,HDCAtexi,Transporte,4
+HDCEAtexi_f,HDCEAtexi,Transporte,4
+HDH_f,HDH,Aminoacidos,1
+HEMEOS_f,HEMEOS,Cofactores y vitaminas,1
+HEMEti_f,HEMEti,Transporte,1
+HETZK_1_f,HETZK_1,Sin asignar,13
+HEX1_f,HEX1,Glucolisis/Gluconeogenesis,2
+HEX4_f,HEX4,Carbono alternativo y aromaticos,2
+HEX7_f,HEX7,Carbono alternativo y aromaticos,2
+HEXSabc_f,HEXSabc,Transporte,7
+HG2t3pp_f,HG2t3pp,"Iones, hierro y azufre",1
+HG2tex_f,HG2tex,Transporte,1
+HGNTOR_f,HGNTOR,Carbono alternativo y aromaticos,1
+HGt_f,HGt,Transporte,1
+HHDDI_f,HHDDI,Sin asignar,1
+HIAA_f,HIAA,Sin asignar,1
+HIAt_f,HIAt,Transporte,1
+HIBDkt_f,HIBDkt,Aminoacidos,1
+HIPB_f,HIPB,Sin asignar,1
+HISDr_f,HISDr,Aminoacidos,1
+HISGLYabcpp_f,HISGLYabcpp,Transporte,1
+HISGLYtex_f,HISGLYtex,Transporte,1
+HISHISabcpp_f,HISHISabcpp,Transporte,1
+HISHIStex_f,HISHIStex,Transporte,1
+HISTD_f,HISTD,Aminoacidos,1
+HISTP_f,HISTP,Aminoacidos,1
+HISabc_f,HISabc,Transporte,1
+HISabcpp_f,HISabcpp,Transporte,1
+HISt2rpp_f,HISt2rpp,Transporte,1
+HIStex_f,HIStex,Transporte,1
+HIUH_c_f,HIUH_c,Sin asignar,1
+HKNDDH_f,HKNDDH,Carbono alternativo y aromaticos,1
+HKNTDH_f,HKNTDH,Carbono alternativo y aromaticos,1
+HMBS_f,HMBS,Cofactores y vitaminas,1
+HMGL_f,HMGL,Carbono alternativo y aromaticos,1
+HMGL_2_f,HMGL_2,Sin asignar,1
+HMPK1_f,HMPK1,Cofactores y vitaminas,13
+HMPSCD_f,HMPSCD,Sin asignar,1
+HMR_0188_f,HMR_0188,Lipidos y PHA,4
+HMR_0260_f,HMR_0260,Lipidos y PHA,4
+HMR_3951_f,HMR_3951,Transporte,1
+HMSD_f,HMSD,Carbono alternativo y aromaticos,1
+HMSD2_f,HMSD2,Carbono alternativo y aromaticos,1
+HOMt2pp_f,HOMt2pp,Transporte,1
+HOMtpp_f,HOMtpp,Transporte,1
+HOPNTAL_f,HOPNTAL,Carbono alternativo y aromaticos,1
+HOPNTAL2_f,HOPNTAL2,Carbono alternativo y aromaticos,1
+HOXG_f,HOXG,"Iones, hierro y azufre",1
+HOXPRx_f,HOXPRx,Sin asignar,2
+HPA3MO_f,HPA3MO,Sin asignar,1
+HPACt2r_f,HPACt2r,Transporte,1
+HPAtex_f,HPAtex,Transporte,1
+HPAtexi_f,HPAtexi,Transporte,6
+HPCOR_f,HPCOR,Sin asignar,1
+HPHL_f,HPHL,Sin asignar,1
+HPPK_f,HPPK,Cofactores y vitaminas,1
+HPPPNDO_f,HPPPNDO,Carbono alternativo y aromaticos,1
+HPPPNt2rpp_f,HPPPNt2rpp,Transporte,1
+HPPPNtex_f,HPPPNtex,Transporte,1
+HPYRI_f,HPYRI,Ciclo TCA y glioxilato,2
+HPYRP_f,HPYRP,Sin asignar,2
+HPYRRx_f,HPYRRx,Carbono alternativo y aromaticos,2
+HPYRRy_f,HPYRRy,Carbono alternativo y aromaticos,2
+HQNt6_f,HQNt6,Transporte,1
+HSA_f,HSA,Sin asignar,1
+HSAC_f,HSAC,Sin asignar,1
+HSAE_f,HSAE,Sin asignar,1
+HSDy_f,HSDy,Aminoacidos,1
+HSERTA_f,HSERTA,Aminoacidos,1
+HSK_f,HSK,Aminoacidos,1
+HSTPT_f,HSTPT,Aminoacidos,1
+HSTPTr_f,HSTPTr,Sin asignar,1
+HVCD_f,HVCD,Sin asignar,1
+HXAND_f,HXAND,Nucleotidos,1
+HXANt2pp_f,HXANt2pp,Transporte,1
+HXAtex_f,HXAtex,Transporte,7
+HXCT_f,HXCT,Carbono alternativo y aromaticos,7
+HXPRT_f,HXPRT,Nucleotidos,1
+HYXNtex_f,HYXNtex,Transporte,1
+HYXNtpp_f,HYXNtpp,Transporte,1
+Htex_f,Htex,Transporte,1
+IBTtex_f,IBTtex,Transporte,1
+ICDHyr_f,ICDHyr,Ciclo TCA y glioxilato,1
+ICHORS_f,ICHORS,Sin asignar,2
+ICHORT_f,ICHORT,Cofactores y vitaminas,2
+ICITt4pp_f,ICITt4pp,Transporte,1
+ICITt_kt_f,ICITt_kt,Transporte,1
+ICITtex_f,ICITtex,Transporte,1
+ICITtupp_f,ICITtupp,Transporte,1
+ICL_f,ICL,Ciclo TCA y glioxilato,1
+IDOND_f,IDOND,Carbono alternativo y aromaticos,2
+IDPh_1_f,IDPh_1,Sin asignar,2
+IG3PS_f,IG3PS,Aminoacidos,1
+IGPDH_f,IGPDH,Aminoacidos,1
+IGPS_f,IGPS,Aminoacidos,2
+ILEDHr_1_f,ILEDHr_1,Sin asignar,1
+ILETA_f,ILETA,Aminoacidos,1
+ILETA2_f,ILETA2,Sin asignar,1
+ILEabc_f,ILEabc,Transporte,1
+ILEabcpp_f,ILEabcpp,Transporte,1
+ILEt2rpp_f,ILEt2rpp,Transporte,1
+ILEt3pp_f,ILEt3pp,Transporte,1
+ILEtex_f,ILEtex,Transporte,1
+IMPC_f,IMPC,Nucleotidos,1
+IMPD_f,IMPD,Nucleotidos,1
+IND3ACtex_f,IND3ACtex,Transporte,1
+IND3ACtpp_f,IND3ACtpp,Transporte,1
+INDOLEt2pp_f,INDOLEt2pp,Transporte,1
+INDOLEt5_f,INDOLEt5,Transporte,1
+INDOLEt6_f,INDOLEt6,Transporte,1
+INDOLEtex_f,INDOLEtex,Transporte,1
+INOSR_f,INOSR,Sin asignar,2
+INS2D_f,INS2D,Sin asignar,2
+INSCR_f,INSCR,Sin asignar,2
+INSH_f,INSH,Nucleotidos,1
+INSTabc_f,INSTabc,Transporte,1
+INSTt2_f,INSTt2,Transporte,4
+INSt2_f,INSt2,Transporte,1
+INSt3pp_f,INSt3pp,Transporte,1
+INStex_f,INStex,Transporte,1
+IPDDI_f,IPDDI,Cofactores y vitaminas,2
+IPDPS_f,IPDPS,Cofactores y vitaminas,2
+IPMD_f,IPMD,Aminoacidos,1
+IPPMIa_f,IPPMIa,Aminoacidos,1
+IPPMIb_f,IPPMIb,Aminoacidos,1
+IPPS_f,IPPS,Aminoacidos,1
+ISETACabcpp_f,ISETACabcpp,Transporte,1
+ISETACtex_f,ISETACtex,Transporte,1
+ISOAML_f,ISOAML,Carbono alternativo y aromaticos,2
+ISTNTabc_f,ISTNTabc,Transporte,1
+IVCS_f,IVCS,Aminoacidos,1
+IZPN_f,IZPN,Aminoacidos,1
+KARA1_f,KARA1,Aminoacidos,1
+KARA2_f,KARA2,Aminoacidos,1
+KARI_1_f,KARI_1,Sin asignar,1
+KARI_23dhmp_1_f,KARI_23dhmp_1,Sin asignar,1
+KAS13_f,KAS13,Sin asignar,4
+KAS17_f,KAS17,Sin asignar,4
+KAS2_f,KAS2,Sin asignar,4
+KAS7_f,KAS7,Sin asignar,4
+KAS8_f,KAS8,Sin asignar,4
+KAT1_f,KAT1,Lipidos y PHA,7
+KAT10_f,KAT10,Lipidos y PHA,6
+KAT11_f,KAT11,Lipidos y PHA,6
+KAT12_f,KAT12,Lipidos y PHA,9
+KAT13_f,KAT13,Lipidos y PHA,5
+KAT14_f,KAT14,Lipidos y PHA,9
+KAT15_f,KAT15,Lipidos y PHA,5
+KAT16_f,KAT16,Lipidos y PHA,9
+KAT17_f,KAT17,Lipidos y PHA,5
+KAT18_f,KAT18,Lipidos y PHA,9
+KAT19_f,KAT19,Lipidos y PHA,3
+KAT20_f,KAT20,Lipidos y PHA,4
+KAT21_f,KAT21,Lipidos y PHA,4
+KAT22_f,KAT22,Lipidos y PHA,4
+KAT23_f,KAT23,Lipidos y PHA,4
+KAT24_f,KAT24,Lipidos y PHA,4
+KAT25_f,KAT25,Lipidos y PHA,4
+KAT26_f,KAT26,Lipidos y PHA,4
+KAT27_f,KAT27,Lipidos y PHA,4
+KAT28_f,KAT28,Lipidos y PHA,4
+KAT29_f,KAT29,Lipidos y PHA,4
+KAT30_f,KAT30,Lipidos y PHA,4
+KAT31_f,KAT31,Lipidos y PHA,4
+KAT32_f,KAT32,Lipidos y PHA,4
+KAT33_f,KAT33,Lipidos y PHA,6
+KG6PDC_f,KG6PDC,Carbono alternativo y aromaticos,2
+KGD2_f,KGD2,Sin asignar,1
+KSH_f,KSH,Sin asignar,1
+KSTD_f,KSTD,Sin asignar,1
+Kabc_f,Kabc,Transporte,1
+Kabcpp_f,Kabcpp,Transporte,1
+Kt1_f,Kt1,Transporte,1
+Kt2pp_f,Kt2pp,Transporte,1
+Kt2r_f,Kt2r,Transporte,1
+Kt3pp_f,Kt3pp,Transporte,1
+Ktex_f,Ktex,Transporte,1
+LACLt2_f,LACLt2,Transporte,1
+LACZpp_f,LACZpp,Carbono alternativo y aromaticos,2
+LALALGLUtex_f,LALALGLUtex,Transporte,1
+LALGP_f,LALGP,Aminoacidos,1
+LASP2OA_f,LASP2OA,Sin asignar,1
+LCADi_f,LCADi,Piruvato y anapleroticas,1
+LCARR_f,LCARR,Piruvato y anapleroticas,14
+LCARS_f,LCARS,Carbono alternativo y aromaticos,1
+LCARSyi_f,LCARSyi,Sin asignar,1
+LCTSabc_f,LCTSabc,Transporte,2
+LCTSt3ipp_f,LCTSt3ipp,Transporte,2
+LCYSTabc_f,LCYSTabc,Transporte,1
+LCYSTabcpp_f,LCYSTabcpp,Transporte,1
+LCYSTtex_f,LCYSTtex,Transporte,1
+LDGUNPD_f,LDGUNPD,Sin asignar,1
+LDH_D_f,LDH_D,Piruvato y anapleroticas,2
+LDH_D2_f,LDH_D2,Piruvato y anapleroticas,2
+LEULEULAPc_f,LEULEULAPc,Aminoacidos,1
+LEULEUabcpp_f,LEULEUabcpp,Transporte,1
+LEULEUtex_f,LEULEUtex,Transporte,1
+LEUTA_f,LEUTA,Aminoacidos,1
+LEUabc_f,LEUabc,Transporte,1
+LEUabcpp_f,LEUabcpp,Transporte,1
+LEUt2rpp_f,LEUt2rpp,Transporte,1
+LEUt3pp_f,LEUt3pp,Transporte,1
+LEUtex_f,LEUtex,Transporte,1
+LEVUACOAL_f,LEVUACOAL,Carbono alternativo y aromaticos,6
+LGTHL_f,LGTHL,Piruvato y anapleroticas,1
+LLEUDr_f,LLEUDr,Sin asignar,1
+LNLCtexi_f,LNLCtexi,Transporte,4
+LPCOXc_f,LPCOXc,Aminoacidos,7
+LPLIPAL1A120pp_f,LPLIPAL1A120pp,Lipidos y PHA,4
+LPLIPAL1E120pp_f,LPLIPAL1E120pp,Lipidos y PHA,4
+LPLIPAL1E141pp_f,LPLIPAL1E141pp,Lipidos y PHA,4
+LPLIPAL1G120pp_f,LPLIPAL1G120pp,Lipidos y PHA,4
+LPLIPAL2E161_f,LPLIPAL2E161,Lipidos y PHA,4
+LPLIPAL2G161_f,LPLIPAL2G161,Lipidos y PHA,4
+LSERDHr_f,LSERDHr,Aminoacidos,1
+LTDCL_f,LTDCL,Biomasa,1
+LTHRK_f,LTHRK,Sin asignar,1
+LYSAM_f,LYSAM,Sin asignar,7
+LYSDC_f,LYSDC,Aminoacidos,7
+LYSMO_f,LYSMO,Aminoacidos,7
+LYSRC_f,LYSRC,Aminoacidos,7
+LYSabc_f,LYSabc,Transporte,7
+LYSabcpp_f,LYSabcpp,Transporte,7
+LYSt3pp_f,LYSt3pp,Transporte,7
+LYSt3r_f,LYSt3r,Transporte,7
+LYStex_f,LYStex,Transporte,7
+L_LACD2_f,L_LACD2,Piruvato y anapleroticas,2
+L_LACD3_f,L_LACD3,Fosforilacion oxidativa,1
+L_LACt2rpp_f,L_LACt2rpp,Transporte,1
+L_LACtex_f,L_LACtex,Transporte,1
+MACACI_f,MACACI,Carbono alternativo y aromaticos,1
+MACCOAT_f,MACCOAT,Aminoacidos,1
+MAGLIPA160ex_f,MAGLIPA160ex,Lipidos y PHA,4
+MAGLIPA180ex_f,MAGLIPA180ex,Lipidos y PHA,4
+MAGLIPA181d9ex_f,MAGLIPA181d9ex,Lipidos y PHA,4
+MAGLIPA182d9d12ex_f,MAGLIPA182d9d12ex,Lipidos y PHA,4
+MAK_f,MAK,Sin asignar,2
+MAL6PG_f,MAL6PG,Sin asignar,2
+MALEI_f,MALEI,Cofactores y vitaminas,1
+MALS_f,MALS,Ciclo TCA y glioxilato,1
+MALTHPabc_f,MALTHPabc,Transporte,2
+MALTHXabc_f,MALTHXabc,Transporte,2
+MALTHXabcpp_f,MALTHXabcpp,Transporte,2
+MALTHXtexi_f,MALTHXtexi,Transporte,2
+MALTPTabcpp_f,MALTPTabcpp,Transporte,2
+MALTPTtexi_f,MALTPTtexi,Transporte,2
+MALTT_f,MALTT,Carbono alternativo y aromaticos,2
+MALTTRabc_f,MALTTRabc,Transporte,2
+MALTTRabcpp_f,MALTTRabcpp,Transporte,2
+MALTTRtexi_f,MALTTRtexi,Transporte,2
+MALTTTRabcpp_f,MALTTTRabcpp,Transporte,2
+MALTTTRtexi_f,MALTTTRtexi,Transporte,2
+MALTabc_f,MALTabc,Transporte,2
+MALTabcpp_f,MALTabcpp,Transporte,2
+MALTpts_f,MALTpts,Transporte,2
+MALTptspp_f,MALTptspp,Transporte,2
+MALTtexi_f,MALTtexi,Transporte,2
+MALt2_2pp_f,MALt2_2pp,Transporte,1
+MALt4_f,MALt4,Transporte,1
+MALt5_f,MALt5,Transporte,1
+MAN1PT_f,MAN1PT,Carbono alternativo y aromaticos,2
+MAN1PT2_f,MAN1PT2,Envoltura celular,2
+MAN6PI_f,MAN6PI,Envoltura celular,2
+MANAO_f,MANAO,Carbono alternativo y aromaticos,2
+MANE_f,MANE,Carbono alternativo y aromaticos,2
+MANGLYCptspp_f,MANGLYCptspp,Transporte,2
+MANGLYCtex_f,MANGLYCtex,Transporte,2
+MANPGH_f,MANPGH,Carbono alternativo y aromaticos,2
+MANpts_f,MANpts,Transporte,2
+MANptspp_f,MANptspp,Transporte,2
+MANtex_f,MANtex,Transporte,2
+MB2CFO_f,MB2CFO,Sin asignar,1
+MBCOAi_f,MBCOAi,Aminoacidos,1
+MCBTS3_f,MCBTS3,Sin asignar,4
+MCCC_f,MCCC,Aminoacidos,1
+MCITD_f,MCITD,Carbono alternativo y aromaticos,1
+MCITL2_f,MCITL2,Carbono alternativo y aromaticos,1
+MCITS_f,MCITS,Carbono alternativo y aromaticos,1
+MCOATA_f,MCOATA,Lipidos y PHA,4
+MCPST_f,MCPST,Aminoacidos,1
+MCSNAH_f,MCSNAH,Nucleotidos,1
+MCTP1App_f,MCTP1App,Envoltura celular,2
+MCTP1Bpp_f,MCTP1Bpp,Envoltura celular,2
+MCTP2App_f,MCTP2App,Envoltura celular,2
+MDDCP1pp_f,MDDCP1pp,Envoltura celular,2
+MDDCP2pp_f,MDDCP2pp,Envoltura celular,2
+MDDCP3pp_f,MDDCP3pp,Envoltura celular,2
+MDDCP4pp_f,MDDCP4pp,Envoltura celular,2
+MDDCP5pp_f,MDDCP5pp,Envoltura celular,2
+MDDEP1pp_f,MDDEP1pp,Envoltura celular,2
+MDDEP2pp_f,MDDEP2pp,Envoltura celular,2
+MDDEP3pp_f,MDDEP3pp,Envoltura celular,2
+MDDEP4pp_f,MDDEP4pp,Envoltura celular,2
+MDH2_f,MDH2,Ciclo TCA y glioxilato,1
+MDNTHAep_f,MDNTHAep,"Iones, hierro y azufre",1
+MDRPD_f,MDRPD,Sin asignar,1
+ME2_f,ME2,Ciclo TCA y glioxilato,1
+MECDPDH2_f,MECDPDH2,Sin asignar,2
+MECDPS_f,MECDPS,Cofactores y vitaminas,2
+MELIBt2pp_f,MELIBt2pp,Transporte,15
+MELIBt3ipp_f,MELIBt3ipp,Transporte,15
+MEOHtex_f,MEOHtex,Transporte,1
+MEOHtrpp_f,MEOHtrpp,Transporte,1
+MEPCT_f,MEPCT,Cofactores y vitaminas,2
+MEPCT_1_f,MEPCT_1,Sin asignar,2
+METAT_f,METAT,Aminoacidos,1
+METDabc_f,METDabc,Transporte,1
+METDabcpp_f,METDabcpp,Transporte,1
+METDtex_f,METDtex,Transporte,1
+METGL_f,METGL,Aminoacidos,1
+METOX1s_f,METOX1s,Aminoacidos,1
+METOX2s_f,METOX2s,Aminoacidos,1
+METS_f,METS,Aminoacidos,1
+METSOXR1_f,METSOXR1,Aminoacidos,1
+METSOXR2_f,METSOXR2,Aminoacidos,1
+METSR_R1_f,METSR_R1,Sin asignar,1
+METSR_R2_f,METSR_R2,Sin asignar,1
+METSR_S1_f,METSR_S1,Sin asignar,1
+METSRabc_f,METSRabc,Transporte,1
+METSabc_f,METSabc,Transporte,1
+METabc_f,METabc,Transporte,1
+METabcpp_f,METabcpp,Transporte,1
+METt3pp_f,METt3pp,Transporte,1
+MG2tex_f,MG2tex,Transporte,1
+MG2tpp_f,MG2tpp,Transporte,1
+MG2uabcpp_f,MG2uabcpp,Transporte,1
+MGCH_f,MGCH,Aminoacidos,1
+MGSA_f,MGSA,Piruvato y anapleroticas,2
+MGt5_f,MGt5,Transporte,1
+MI1PP_f,MI1PP,Envoltura celular,2
+MI1PS_f,MI1PS,Sin asignar,2
+MICITDr_f,MICITDr,Carbono alternativo y aromaticos,1
+MLDCP1App_f,MLDCP1App,Envoltura celular,2
+MLDCP1Bpp_f,MLDCP1Bpp,Envoltura celular,2
+MLDCP2App_f,MLDCP2App,Envoltura celular,2
+MLDCP2Bpp_f,MLDCP2Bpp,Envoltura celular,2
+MLDCP3App_f,MLDCP3App,Envoltura celular,2
+MLDEP1pp_f,MLDEP1pp,Envoltura celular,2
+MLDEP2pp_f,MLDEP2pp,Envoltura celular,2
+MLTG3_f,MLTG3,Carbono alternativo y aromaticos,2
+MLTGY1pp_f,MLTGY1pp,Envoltura celular,2
+MLTGY2pp_f,MLTGY2pp,Envoltura celular,2
+MLTGY3pp_f,MLTGY3pp,Envoltura celular,2
+MLTGY4pp_f,MLTGY4pp,Envoltura celular,2
+MLTP3_f,MLTP3,Carbono alternativo y aromaticos,2
+MMCD_f,MMCD,Carbono alternativo y aromaticos,1
+MME_f,MME,Sin asignar,1
+MMM2_f,MMM2,Sin asignar,1
+MMSAD1_f,MMSAD1,Sin asignar,1
+MMSAD2_f,MMSAD2,Sin asignar,1
+MMSAD3_f,MMSAD3,Aminoacidos,2
+MMTSAO_f,MMTSAO,Aminoacidos,1
+MN2t3pp_f,MN2t3pp,"Iones, hierro y azufre",8
+MN2tpp_f,MN2tpp,Transporte,8
+MNL1P_Et_f,MNL1P_Et,Transporte,1
+MNLpts_f,MNLpts,Transporte,1
+MNLptspp_f,MNLptspp,Transporte,1
+MNLtex_f,MNLtex,Transporte,1
+MNNH_f,MNNH,Carbono alternativo y aromaticos,2
+MNabc_f,MNabc,Transporte,8
+MNabc_1_f,MNabc_1,Transporte,8
+MNt2pp_f,MNt2pp,Transporte,8
+MNtex_f,MNtex,Transporte,8
+MOBDabc_f,MOBDabc,Transporte,1
+MOBDabc_rev_f,MOBDabc_rev,Transporte,1
+MOBDabcpp_f,MOBDabcpp,Transporte,1
+MOBDtex_f,MOBDtex,Transporte,1
+MOHMT_f,MOHMT,Cofactores y vitaminas,1
+MOTH1_f,MOTH1,Carbono alternativo y aromaticos,2
+MOTH3_f,MOTH3,Sin asignar,2
+MOTS1_f,MOTS1,Carbono alternativo y aromaticos,2
+MOTS3_f,MOTS3,Sin asignar,2
+MPTG_f,MPTG,Envoltura celular,2
+MPTG2_f,MPTG2,Envoltura celular,2
+MSO3abc_f,MSO3abc,Transporte,1
+MSO3abcpp_f,MSO3abcpp,Transporte,1
+MSO3tex_f,MSO3tex,Transporte,1
+MTAP_f,MTAP,Sin asignar,1
+MTHFC_f,MTHFC,Cofactores y vitaminas,1
+MTHFD_f,MTHFD,Cofactores y vitaminas,1
+MTHFD2i_f,MTHFD2i,Sin asignar,1
+MTHFR2_f,MTHFR2,Cofactores y vitaminas,1
+MTI_f,MTI,Carbono alternativo y aromaticos,2
+MTRI_f,MTRI,Aminoacidos,1
+MUCCYCI_f,MUCCYCI,Carbono alternativo y aromaticos,2
+MUCCY_kt_f,MUCCY_kt,Carbono alternativo y aromaticos,2
+MUCLI_f,MUCLI,Carbono alternativo y aromaticos,2
+MXYLt5_f,MXYLt5,Transporte,1
+MXYLt6_f,MXYLt6,Transporte,1
+M_XYLtpp_f,M_XYLtpp,Transporte,1
+M_Xylt1_f,M_Xylt1,Transporte,1
+NABTNO_f,NABTNO,Sin asignar,1
+NACHY_f,NACHY,Cofactores y vitaminas,1
+NACODA_f,NACODA,Aminoacidos,1
+NACt1pp_f,NACt1pp,Transporte,1
+NACtex_f,NACtex,Transporte,1
+NADDP_f,NADDP,Cofactores y vitaminas,1
+NADDPp_1_f,NADDPp_1,Sin asignar,1
+NADH10_f,NADH10,Fosforilacion oxidativa,1
+NADH16pp_f,NADH16pp,Fosforilacion oxidativa,1
+NADH5_f,NADH5,Fosforilacion oxidativa,1
+NADH9_f,NADH9,Fosforilacion oxidativa,1
+NADHHR_f,NADHHR,Sin asignar,1
+NADHPO_f,NADHPO,Sin asignar,2
+NADHXD_f,NADHXD,Sin asignar,1
+NADHXE_f,NADHXE,Sin asignar,1
+NADK_f,NADK,Cofactores y vitaminas,1
+NADKd_f,NADKd,Sin asignar,1
+NADN_f,NADN,Nucleotidos,2
+NADPHHR_f,NADPHHR,Sin asignar,1
+NADPHQR2_f,NADPHQR2,Fosforilacion oxidativa,1
+NADPHQR3_f,NADPHQR3,Fosforilacion oxidativa,1
+NADPHQR4_f,NADPHQR4,Fosforilacion oxidativa,1
+NADPHXD_f,NADPHXD,Sin asignar,1
+NADPHXE_f,NADPHXE,Sin asignar,1
+NADS1_f,NADS1,Cofactores y vitaminas,1
+NADTRHD_f,NADTRHD,Fosforilacion oxidativa,1
+NAMNPP_f,NAMNPP,Cofactores y vitaminas,1
+NARK_f,NARK,Transporte,1
+NAR_syn_f,NAR_syn,Sin asignar,1
+NAt3_1_f,NAt3_1,Transporte,1
+NAt3_1p5pp_f,NAt3_1p5pp,Transporte,1
+NAt3_2pp_f,NAt3_2pp,Transporte,1
+NAt3pp_f,NAt3pp,Transporte,1
+NAtex_f,NAtex,Transporte,1
+NBAHH_ir_f,NBAHH_ir,"Iones, hierro y azufre",1
+NDP3_f,NDP3,Sin asignar,1
+NDP7_f,NDP7,Sin asignar,2
+NDP8_f,NDP8,Nucleotidos,2
+NDPK1_f,NDPK1,Nucleotidos,1
+NDPK2_f,NDPK2,Nucleotidos,2
+NDPK3_f,NDPK3,Nucleotidos,4
+NDPK4_f,NDPK4,Nucleotidos,1
+NDPK5_f,NDPK5,Nucleotidos,1
+NDPK6_f,NDPK6,Nucleotidos,2
+NDPK7_f,NDPK7,Nucleotidos,1
+NDPK8_f,NDPK8,Nucleotidos,1
+NFMLDF_f,NFMLDF,Cofactores y vitaminas,1
+NFORGLUAH2_f,NFORGLUAH2,Aminoacidos,1
+NH3c_f,NH3c,Sin asignar,1
+NH4OHDs_f,NH4OHDs,Sin asignar,1
+NH4t3pp_f,NH4t3pp,Transporte,1
+NH4tex_f,NH4tex,Transporte,1
+NH4tpp_f,NH4tpp,Transporte,1
+NI2t3pp_f,NI2t3pp,"Iones, hierro y azufre",1
+NI2t4pp_f,NI2t4pp,"Iones, hierro y azufre",1
+NI2tex_f,NI2tex,Transporte,1
+NI2tpp_f,NI2tpp,Transporte,1
+NI2uabcpp_f,NI2uabcpp,Transporte,1
+NIabc_f,NIabc,Transporte,1
+NMNAT_f,NMNAT,Cofactores y vitaminas,1
+NMNDA_f,NMNDA,Cofactores y vitaminas,1
+NMNN_f,NMNN,Nucleotidos,1
+NMNP_f,NMNP,Transporte,1
+NMNPtpp_f,NMNPtpp,Transporte,1
+NMNR_f,NMNR,Sin asignar,1
+NMNtex_f,NMNtex,Transporte,1
+NMO_f,NMO,Sin asignar,4
+NNAM_f,NNAM,Cofactores y vitaminas,1
+NNATr_f,NNATr,Cofactores y vitaminas,1
+NNDPR_f,NNDPR,Cofactores y vitaminas,1
+NO2t2rpp_f,NO2t2rpp,Transporte,1
+NO2tex_f,NO2tex,Transporte,1
+NO3R1bpp_f,NO3R1bpp,"Iones, hierro y azufre",1
+NO3R2_f,NO3R2,Fosforilacion oxidativa,1
+NO3R2bpp_f,NO3R2bpp,"Iones, hierro y azufre",1
+NO3abc_f,NO3abc,Transporte,1
+NO3abcpp_f,NO3abcpp,Transporte,1
+NO3t_f,NO3t,Transporte,1
+NO3t2pp_f,NO3t2pp,Transporte,1
+NO3tex_f,NO3tex,Transporte,1
+NODOx_f,NODOx,"Iones, hierro y azufre",1
+NODOy_f,NODOy,"Iones, hierro y azufre",1
+NONAtexi_f,NONAtexi,Transporte,6
+NOVBCNtex_f,NOVBCNtex,Transporte,1
+NOVBCNtpp_f,NOVBCNtpp,Transporte,1
+NOX_f,NOX,Sin asignar,1
+NOt_f,NOt,Transporte,1
+NTD1_f,NTD1,Nucleotidos,2
+NTD10_f,NTD10,Nucleotidos,1
+NTD11_f,NTD11,Nucleotidos,1
+NTD12_f,NTD12,Nucleotidos,1
+NTD2_f,NTD2,Nucleotidos,2
+NTD3_f,NTD3,Nucleotidos,1
+NTD4_f,NTD4,Nucleotidos,4
+NTD5_f,NTD5,Nucleotidos,1
+NTD6_f,NTD6,Nucleotidos,1
+NTD7_f,NTD7,Nucleotidos,1
+NTD8_f,NTD8,Nucleotidos,1
+NTD9_f,NTD9,Nucleotidos,1
+NTP1_f,NTP1,Nucleotidos,2
+NTP10_f,NTP10,Nucleotidos,1
+NTP3_f,NTP3,Nucleotidos,1
+NTP5_f,NTP5,Nucleotidos,1
+NTPP1_f,NTPP1,Nucleotidos,1
+NTPP10_f,NTPP10,Nucleotidos,1
+NTPP11_f,NTPP11,Nucleotidos,1
+NTPP2_f,NTPP2,Nucleotidos,1
+NTPP3_f,NTPP3,Nucleotidos,1
+NTPP4_f,NTPP4,Nucleotidos,4
+NTPP5_f,NTPP5,Nucleotidos,1
+NTPP6_f,NTPP6,Nucleotidos,1
+NTPP7_f,NTPP7,Nucleotidos,1
+NTPP8_f,NTPP8,Nucleotidos,2
+NTPP9_f,NTPP9,Nucleotidos,1
+NTPTP1_f,NTPTP1,Nucleotidos,1
+NTPTP2_f,NTPTP2,Nucleotidos,1
+NTR3B_f,NTR3B,Transporte,1
+NTRIR2x_f,NTRIR2x,"Iones, hierro y azufre",1
+NTRIR2y_f,NTRIR2y,Sin asignar,1
+NTRIRx_f,NTRIRx,Sin asignar,1
+NTRIRy_f,NTRIRy,Sin asignar,1
+O2tex_f,O2tex,Transporte,1
+O2tpp_f,O2tpp,Transporte,1
+OAADC_f,OAADC,Glucolisis/Gluconeogenesis,1
+OAAt2_2pp_f,OAAt2_2pp,Transporte,1
+OAAtex_f,OAAtex,Transporte,1
+OARGDC_f,OARGDC,Aminoacidos,1
+OBTFL_f,OBTFL,Carbono alternativo y aromaticos,1
+OCBT_f,OCBT,Aminoacidos,1
+OCBT2i_f,OCBT2i,Aminoacidos,1
+OCBT_1_f,OCBT_1,Sin asignar,1
+OCDCAt2pp_f,OCDCAt2pp,Transporte,4
+OCDCAtexi_f,OCDCAtexi,Transporte,4
+OCDCEAt2pp_f,OCDCEAt2pp,Transporte,4
+OCDCEAtexi_f,OCDCEAtexi,Transporte,4
+OCDOR_f,OCDOR,Sin asignar,1
+OCOAT1_f,OCOAT1,Carbono alternativo y aromaticos,1
+OCOAT2r_f,OCOAT2r,Sin asignar,1
+OCOAT4_f,OCOAT4,"Iones, hierro y azufre",1
+OCTAtex_f,OCTAtex,Transporte,4
+OCTDPS_f,OCTDPS,Cofactores y vitaminas,1
+OHCUDC2_f,OHCUDC2,Nucleotidos,1
+OHEDH_f,OHEDH,Sin asignar,1
+OHPBAT_f,OHPBAT,Cofactores y vitaminas,2
+OIVD1r_f,OIVD1r,Aminoacidos,1
+OIVD2_f,OIVD2,Aminoacidos,1
+OIVD2E_f,OIVD2E,Sin asignar,1
+OIVD3_f,OIVD3,Aminoacidos,1
+OMCDC_f,OMCDC,Aminoacidos,1
+OMPDC_f,OMPDC,Nucleotidos,1
+OP4ENH_f,OP4ENH,Carbono alternativo y aromaticos,1
+OP4ENH2_f,OP4ENH2,Carbono alternativo y aromaticos,1
+OPAH_f,OPAH,"Iones, hierro y azufre",1
+OPETDC_f,OPETDC,Sin asignar,1
+OPHBDC_f,OPHBDC,Cofactores y vitaminas,2
+OPHHX_f,OPHHX,Cofactores y vitaminas,2
+OPTCCL_f,OPTCCL,Sin asignar,1
+ORN5O_f,ORN5O,"Iones, hierro y azufre",1
+ORNCD_f,ORNCD,Aminoacidos,1
+ORNCD_1_f,ORNCD_1,Sin asignar,1
+ORNDC_f,ORNDC,Aminoacidos,1
+ORNTA_f,ORNTA,Sin asignar,1
+ORNabc_f,ORNabc,Transporte,1
+ORNabcpp_f,ORNabcpp,Transporte,1
+ORNtex_f,ORNtex,Transporte,1
+OROTt2_2pp_f,OROTt2_2pp,Transporte,2
+OROTtex_f,OROTtex,Transporte,1
+ORPT_f,ORPT,Nucleotidos,1
+OXACOAL_f,OXACOAL,Sin asignar,1
+OXADC_f,OXADC,Sin asignar,1
+OXCOAHDH_f,OXCOAHDH,Carbono alternativo y aromaticos,9
+OXDHCOAT_f,OXDHCOAT,Carbono alternativo y aromaticos,9
+OXFOt4pp_f,OXFOt4pp,Transporte,1
+OXFOtex_f,OXFOtex,Transporte,1
+OXOADLR_f,OXOADLR,Aminoacidos,7
+OXOAEL_f,OXOAEL,Carbono alternativo y aromaticos,2
+OXPTNDH_f,OXPTNDH,Aminoacidos,7
+P3PCL_f,P3PCL,Sin asignar,2
+P5CD_f,P5CD,Aminoacidos,1
+P5CR_f,P5CR,Aminoacidos,1
+PA120abcpp_f,PA120abcpp,Transporte,4
+PA140abcpp_f,PA140abcpp,Transporte,4
+PA141abcpp_f,PA141abcpp,Transporte,4
+PA160abcpp_f,PA160abcpp,Transporte,4
+PA161abcpp_f,PA161abcpp,Transporte,4
+PA180abcpp_f,PA180abcpp,Transporte,4
+PA181abcpp_f,PA181abcpp,Transporte,4
+PACALtabcpp_f,PACALtabcpp,Transporte,1
+PACCOAE_f,PACCOAE,Carbono alternativo y aromaticos,9
+PACCOAL_f,PACCOAL,Carbono alternativo y aromaticos,9
+PACOAT_f,PACOAT,Sin asignar,9
+PACt1_f,PACt1,Transporte,9
+PACt3_f,PACt3,Transporte,9
+PALDH_f,PALDH,Sin asignar,1
+PALDO2_f,PALDO2,"Iones, hierro y azufre",1
+PALDP_f,PALDP,"Iones, hierro y azufre",1
+PALGSKT_f,PALGSKT,Envoltura celular,2
+PANTS_f,PANTS,Cofactores y vitaminas,1
+PAPA120pp_f,PAPA120pp,Lipidos y PHA,4
+PAPA140pp_f,PAPA140pp,Lipidos y PHA,4
+PAPA141pp_f,PAPA141pp,Lipidos y PHA,4
+PAPA160pp_f,PAPA160pp,Lipidos y PHA,4
+PAPA161pp_f,PAPA161pp,Lipidos y PHA,4
+PAPA180pp_f,PAPA180pp,Lipidos y PHA,4
+PAPA181pp_f,PAPA181pp,Lipidos y PHA,4
+PAPPT3_f,PAPPT3,Envoltura celular,2
+PAPSR_f,PAPSR,"Iones, hierro y azufre",1
+PAPSR2_f,PAPSR2,"Iones, hierro y azufre",1
+PC_f,PC,Ciclo TCA y glioxilato,1
+PCADYOX_f,PCADYOX,Carbono alternativo y aromaticos,2
+PCMEH3pp_f,PCMEH3pp,Transporte,1
+PCNO_f,PCNO,Sin asignar,1
+PDE1_f,PDE1,Nucleotidos,1
+PDE4_f,PDE4,Nucleotidos,1
+PDH_f,PDH,Glucolisis/Gluconeogenesis,1
+PDHa_f,PDHa,Glucolisis/Gluconeogenesis,7
+PDHbr_f,PDHbr,Glucolisis/Gluconeogenesis,7
+PDHcr_f,PDHcr,Ciclo TCA y glioxilato,7
+PDX5POi_f,PDX5POi,Cofactores y vitaminas,2
+PDX5PS_f,PDX5PS,Cofactores y vitaminas,2
+PDYXPT_c_f,PDYXPT_c,Sin asignar,1
+PE120abcpp_f,PE120abcpp,Transporte,4
+PE141abcpp_f,PE141abcpp,Transporte,4
+PE160abcpp_f,PE160abcpp,Transporte,4
+PE161abcpp_f,PE161abcpp,Transporte,4
+PE180abcpp_f,PE180abcpp,Transporte,4
+PE181abcpp_f,PE181abcpp,Transporte,4
+PEAL2tabc_f,PEAL2tabc,Transporte,9
+PEALtabc_f,PEALtabc,Transporte,9
+PEALtex_f,PEALtex,Transporte,9
+PEAMNO_f,PEAMNO,"Iones, hierro y azufre",1
+PEAMNO2pp_f,PEAMNO2pp,Carbono alternativo y aromaticos,1
+PEAMNOpp_f,PEAMNOpp,"Iones, hierro y azufre",1
+PEAMNtex_f,PEAMNtex,Transporte,1
+PEAOpp_f,PEAOpp,Carbono alternativo y aromaticos,1
+PEAtabcpp_f,PEAtabcpp,Transporte,1
+PENTSOtex_f,PENTSOtex,Transporte,6
+PEPA_f,PEPA,Sin asignar,2
+PEPt6pp_f,PEPt6pp,Transporte,2
+PEPtex_f,PEPtex,Transporte,2
+PERD_f,PERD,Cofactores y vitaminas,2
+PG120abcpp_f,PG120abcpp,Transporte,4
+PG140abcpp_f,PG140abcpp,Transporte,4
+PG141abcpp_f,PG141abcpp,Transporte,4
+PG160abcpp_f,PG160abcpp,Transporte,4
+PG161abcpp_f,PG161abcpp,Transporte,4
+PG180abcpp_f,PG180abcpp,Transporte,4
+PG181abcpp_f,PG181abcpp,Transporte,4
+PGAMT_f,PGAMT,Envoltura celular,2
+PGCD_f,PGCD,Aminoacidos,2
+PGI_f,PGI,Glucolisis/Gluconeogenesis,2
+PGK_f,PGK,Glucolisis/Gluconeogenesis,2
+PGL_f,PGL,Glucolisis/Gluconeogenesis,2
+PGLCNDH_f,PGLCNDH,Glucolisis/Gluconeogenesis,2
+PGLYCP_f,PGLYCP,Ciclo TCA y glioxilato,1
+PGM_f,PGM,Glucolisis/Gluconeogenesis,2
+PGMT_f,PGMT,Carbono alternativo y aromaticos,2
+PGMT_B_f,PGMT_B,Sin asignar,2
+PGP120abcpp_f,PGP120abcpp,Transporte,4
+PGP140abcpp_f,PGP140abcpp,Transporte,4
+PGP141abcpp_f,PGP141abcpp,Transporte,4
+PGP160abcpp_f,PGP160abcpp,Transporte,4
+PGP161abcpp_f,PGP161abcpp,Transporte,4
+PGP180abcpp_f,PGP180abcpp,Transporte,4
+PGP181abcpp_f,PGP181abcpp,Transporte,4
+PGPP120_f,PGPP120,Lipidos y PHA,4
+PGPP120pp_f,PGPP120pp,Lipidos y PHA,4
+PGPP140_f,PGPP140,Lipidos y PHA,4
+PGPP140pp_f,PGPP140pp,Lipidos y PHA,4
+PGPP141_f,PGPP141,Lipidos y PHA,4
+PGPP141pp_f,PGPP141pp,Lipidos y PHA,4
+PGPP160_f,PGPP160,Lipidos y PHA,4
+PGPP160pp_f,PGPP160pp,Lipidos y PHA,4
+PGPP161_f,PGPP161,Lipidos y PHA,4
+PGPP161pp_f,PGPP161pp,Lipidos y PHA,4
+PGPP180_f,PGPP180,Lipidos y PHA,4
+PGPP180pp_f,PGPP180pp,Lipidos y PHA,4
+PGPP181_f,PGPP181,Lipidos y PHA,4
+PGPP181pp_f,PGPP181pp,Lipidos y PHA,4
+PGSA120_f,PGSA120,Lipidos y PHA,4
+PGSA140_f,PGSA140,Lipidos y PHA,4
+PGSA141_f,PGSA141,Lipidos y PHA,4
+PGSA160_f,PGSA160,Lipidos y PHA,4
+PGSA161_f,PGSA161,Lipidos y PHA,4
+PGSA180_f,PGSA180,Lipidos y PHA,4
+PGSA181_f,PGSA181,Lipidos y PHA,4
+PHACOAOR_f,PHACOAOR,Sin asignar,9
+PHEDCAtexi_f,PHEDCAtexi,Transporte,9
+PHEHPAtexi_f,PHEHPAtexi,Transporte,5
+PHEHXAtexi_f,PHEHXAtexi,Transporte,9
+PHEME2abcpp_f,PHEME2abcpp,Transporte,1
+PHEMEabcpp_f,PHEMEabcpp,"Iones, hierro y azufre",1
+PHEMEt_f,PHEMEt,Transporte,1
+PHEMEtonex_f,PHEMEtonex,Transporte,1
+PHENONAtexi_f,PHENONAtexi,Transporte,5
+PHEOCTAtexi_f,PHEOCTAtexi,Transporte,9
+PHEOR_f,PHEOR,Sin asignar,1
+PHEPTtexi_f,PHEPTtexi,Transporte,5
+PHER_f,PHER,Aminoacidos,1
+PHET_f,PHET,Sin asignar,1
+PHETA1_f,PHETA1,Aminoacidos,1
+PHETHPTOX3_f,PHETHPTOX3,Carbono alternativo y aromaticos,1
+PHEabc_f,PHEabc,Transporte,1
+PHEt2r_f,PHEt2r,Transporte,1
+PHEt2rpp_f,PHEt2rpp,Transporte,1
+PHEtipp_f,PHEtipp,Transporte,1
+PHNACH_f,PHNACH,"Iones, hierro y azufre",1
+PICH_f,PICH,Sin asignar,1
+PIMEtr_f,PIMEtr,Transporte,1
+PIabc_f,PIabc,Transporte,2
+PIt2rpp_f,PIt2rpp,Transporte,2
+PIt7_f,PIt7,Transporte,1
+PIt7ipp_f,PIt7ipp,Transporte,1
+PItex_f,PItex,Transporte,2
+PIuabcpp_f,PIuabcpp,Transporte,2
+PLIPA1E160pp_f,PLIPA1E160pp,Lipidos y PHA,4
+PLIPA1E161pp_f,PLIPA1E161pp,Lipidos y PHA,4
+PLIPA1E180pp_f,PLIPA1E180pp,Lipidos y PHA,4
+PLIPA1E181pp_f,PLIPA1E181pp,Lipidos y PHA,4
+PLIPA1G160pp_f,PLIPA1G160pp,Lipidos y PHA,4
+PLIPA1G161pp_f,PLIPA1G161pp,Lipidos y PHA,4
+PLIPA1G180pp_f,PLIPA1G180pp,Lipidos y PHA,4
+PLIPA1G181d11pp_f,PLIPA1G181d11pp,Lipidos y PHA,4
+PLIPA2A120pp_f,PLIPA2A120pp,Lipidos y PHA,4
+PLIPA2E120pp_f,PLIPA2E120pp,Lipidos y PHA,4
+PLIPA2E141pp_f,PLIPA2E141pp,Lipidos y PHA,4
+PLIPA2G120pp_f,PLIPA2G120pp,Lipidos y PHA,4
+PMANM_f,PMANM,Envoltura celular,2
+PMDPHT_f,PMDPHT,Cofactores y vitaminas,1
+PMPK_f,PMPK,Cofactores y vitaminas,13
+PNTK_f,PNTK,Cofactores y vitaminas,4
+PNTOt4pp_f,PNTOt4pp,Transporte,4
+PNTOtex_f,PNTOtex,Transporte,4
+PPA_f,PPA,Lipidos y PHA,2
+PPA2_f,PPA2,Lipidos y PHA,2
+PPAP_Et_f,PPAP_Et,Transporte,1
+PPAt2pp_f,PPAt2pp,Transporte,1
+PPAtex_f,PPAtex,Transporte,1
+PPBNGS_f,PPBNGS,Cofactores y vitaminas,1
+PPC_f,PPC,Glucolisis/Gluconeogenesis,1
+PPCDC_f,PPCDC,Cofactores y vitaminas,1
+PPCK_f,PPCK,Glucolisis/Gluconeogenesis,2
+PPCOAC_f,PPCOAC,Sin asignar,1
+PPCSCT_f,PPCSCT,Carbono alternativo y aromaticos,1
+PPDOy_f,PPDOy,Sin asignar,14
+PPGPPDP_f,PPGPPDP,Nucleotidos,1
+PPItex_1_f,PPItex_1,Transporte,2
+PPIuabcpp_f,PPIuabcpp,Transporte,2
+PPK_f,PPK,Fosforilacion oxidativa,2
+PPK2_f,PPK2,Fosforilacion oxidativa,1
+PPK50_B_f,PPK50_B,Lipidos y PHA,1
+PPK50r_f,PPK50r,Lipidos y PHA,1
+PPM2_f,PPM2,Carbono alternativo y aromaticos,1
+PPNCL2_f,PPNCL2,Cofactores y vitaminas,1
+PPND_f,PPND,Aminoacidos,1
+PPNDH_f,PPNDH,Aminoacidos,1
+PPNDH2_f,PPNDH2,Sin asignar,1
+PPOHt2pp_f,PPOHt2pp,Transporte,1
+PPOHtex_f,PPOHtex,Transporte,1
+PPPGO_f,PPPGO,Cofactores y vitaminas,1
+PPPM_f,PPPM,Sin asignar,2
+PPRGL_f,PPRGL,Nucleotidos,1
+PPS_f,PPS,Glucolisis/Gluconeogenesis,2
+PRAGSr_f,PRAGSr,Nucleotidos,1
+PRAIS_f,PRAIS,Nucleotidos,13
+PRAIi_f,PRAIi,Aminoacidos,1
+PRAMPC_1_f,PRAMPC_1,Sin asignar,1
+PRASCSi_f,PRASCSi,Nucleotidos,1
+PRATPP_f,PRATPP,Aminoacidos,1
+PRCOA1_f,PRCOA1,Sin asignar,1
+PRDX_f,PRDX,Sin asignar,1
+PRFGS_f,PRFGS,Nucleotidos,13
+PRMICI_f,PRMICI,Aminoacidos,1
+PROD2_f,PROD2,Aminoacidos,1
+PROGLYabcpp_f,PROGLYabcpp,Transporte,1
+PROGLYtex_f,PROGLYtex,Transporte,1
+PROR_f,PROR,Sin asignar,1
+PROabc_f,PROabc,Transporte,1
+PROabcpp_f,PROabcpp,Transporte,1
+PROt2r_f,PROt2r,Transporte,1
+PROt2rpp_f,PROt2rpp,Transporte,1
+PROt4pp_f,PROt4pp,Transporte,1
+PROtex_f,PROtex,Transporte,1
+PRPPS_f,PRPPS,Carbono alternativo y aromaticos,2
+PSCVT_1_f,PSCVT_1,Sin asignar,2
+PSD120_f,PSD120,Lipidos y PHA,4
+PSD141_f,PSD141,Lipidos y PHA,4
+PSD161_f,PSD161,Lipidos y PHA,4
+PSERT_f,PSERT,Aminoacidos,1
+PSP_L_f,PSP_L,Aminoacidos,1
+PSSA120_f,PSSA120,Lipidos y PHA,4
+PSSA141_f,PSSA141,Lipidos y PHA,4
+PSSA161_f,PSSA161,Lipidos y PHA,4
+PSUDS_f,PSUDS,Sin asignar,2
+PTA2_f,PTA2,Carbono alternativo y aromaticos,1
+PTAr_f,PTAr,Ciclo TCA y glioxilato,7
+PTAtex_f,PTAtex,Transporte,1
+PTHRP_f,PTHRP,Sin asignar,1
+PTOLDOX_f,PTOLDOX,Carbono alternativo y aromaticos,1
+PTPATi_f,PTPATi,Cofactores y vitaminas,1
+PTRCAT1_f,PTRCAT1,Sin asignar,1
+PTRCORNt7pp_f,PTRCORNt7pp,Transporte,1
+PTRCTA_f,PTRCTA,"Iones, hierro y azufre",1
+PTRCTA2_f,PTRCTA2,"Iones, hierro y azufre",1
+PTRCabc_f,PTRCabc,Transporte,1
+PTRCabcpp_f,PTRCabcpp,Transporte,1
+PTRCt2pp_f,PTRCt2pp,Transporte,1
+PTSLAtexi_f,PTSLAtexi,Transporte,4
+PUNP1_f,PUNP1,Nucleotidos,1
+PUNP4_1_f,PUNP4_1,Sin asignar,1
+PUNP6_1_f,PUNP6_1,Sin asignar,1
+PUTA3_f,PUTA3,Aminoacidos,1
+PXMO_f,PXMO,Carbono alternativo y aromaticos,1
+PXYLt5_f,PXYLt5,Transporte,1
+PXYLt6_f,PXYLt6,Transporte,1
+PYAM5PO_f,PYAM5PO,Cofactores y vitaminas,2
+PYDAMK_f,PYDAMK,Cofactores y vitaminas,2
+PYDXK_f,PYDXK,Cofactores y vitaminas,2
+PYDXNK_f,PYDXNK,Cofactores y vitaminas,2
+PYDXNO_f,PYDXNO,Sin asignar,2
+PYDXNtr_f,PYDXNtr,Transporte,2
+PYK_f,PYK,Glucolisis/Gluconeogenesis,1
+PYK2_f,PYK2,Sin asignar,2
+PYNP1_1_f,PYNP1_1,Sin asignar,1
+PYOVD2tex_f,PYOVD2tex,"Iones, hierro y azufre",1
+PYOVDM1_f,PYOVDM1,"Iones, hierro y azufre",1
+PYOVDM2_f,PYOVDM2,"Iones, hierro y azufre",1
+PYRDOX_f,PYRDOX,Cofactores y vitaminas,1
+PYRZAM_f,PYRZAM,Cofactores y vitaminas,1
+PYRt2rpp_f,PYRt2rpp,Transporte,1
+PYRtex_f,PYRtex,Transporte,1
+P_XYLtpp_f,P_XYLtpp,Transporte,1
+P_Xylt1_f,P_Xylt1,Transporte,1
+QMO2_f,QMO2,Fosforilacion oxidativa,1
+QUIDH_f,QUIDH,Carbono alternativo y aromaticos,2
+QUIDHy_f,QUIDHy,Aminoacidos,2
+QUIN2tpp_f,QUIN2tpp,Transporte,2
+QUINDH_f,QUINDH,Aminoacidos,2
+QUINtpp_f,QUINtpp,Transporte,2
+QULNS_f,QULNS,Cofactores y vitaminas,1
+R5PP_f,R5PP,Carbono alternativo y aromaticos,2
+RBFK_f,RBFK,Cofactores y vitaminas,2
+RBFSa_f,RBFSa,Cofactores y vitaminas,2
+RBFSb_f,RBFSb,Cofactores y vitaminas,2
+RBK_f,RBK,Carbono alternativo y aromaticos,2
+RBK_L1_f,RBK_L1,Carbono alternativo y aromaticos,2
+RBP4E_f,RBP4E,Carbono alternativo y aromaticos,2
+RECOAH10_f,RECOAH10,Lipidos y PHA,6
+RECOAH11_f,RECOAH11,Lipidos y PHA,9
+RECOAH12_f,RECOAH12,Lipidos y PHA,5
+RECOAH13_f,RECOAH13,Lipidos y PHA,9
+RECOAH14_f,RECOAH14,Lipidos y PHA,5
+RECOAH15_f,RECOAH15,Lipidos y PHA,9
+RECOAH16_f,RECOAH16,Lipidos y PHA,5
+RECOAH17_f,RECOAH17,Lipidos y PHA,9
+RECOAH19_f,RECOAH19,Lipidos y PHA,3
+RECOAH2_f,RECOAH2,Lipidos y PHA,7
+RECOAH20_f,RECOAH20,Lipidos y PHA,3
+RECOAH21_f,RECOAH21,Lipidos y PHA,4
+RECOAH22_f,RECOAH22,Lipidos y PHA,4
+RECOAH23_f,RECOAH23,Lipidos y PHA,4
+RECOAH24_f,RECOAH24,Lipidos y PHA,4
+RECOAH25_f,RECOAH25,Lipidos y PHA,4
+RECOAH26_f,RECOAH26,Lipidos y PHA,4
+RECOAH3_f,RECOAH3,Lipidos y PHA,4
+RECOAH4_f,RECOAH4,Lipidos y PHA,4
+RECOAH5_f,RECOAH5,Lipidos y PHA,4
+RECOAH6_f,RECOAH6,Lipidos y PHA,4
+RECOAH7_f,RECOAH7,Lipidos y PHA,4
+RECOAH8_f,RECOAH8,Lipidos y PHA,6
+RECOAH9_f,RECOAH9,Lipidos y PHA,6
+REPHACCOAI_f,REPHACCOAI,Carbono alternativo y aromaticos,9
+RHA160tex_f,RHA160tex,Transporte,4
+RHA160tpp_f,RHA160tpp,Transporte,4
+RHA40tpp_f,RHA40tpp,Transporte,7
+RHA50tex_f,RHA50tex,Transporte,6
+RHA50tpp_f,RHA50tpp,Transporte,6
+RHACOAE100_f,RHACOAE100,Lipidos y PHA,4
+RHACOAE120_f,RHACOAE120,Lipidos y PHA,4
+RHACOAE121_f,RHACOAE121,Lipidos y PHA,4
+RHACOAE121d6_f,RHACOAE121d6,Lipidos y PHA,4
+RHACOAE140_f,RHACOAE140,Lipidos y PHA,4
+RHACOAE141_f,RHACOAE141,Lipidos y PHA,4
+RHACOAE141d5_f,RHACOAE141d5,Lipidos y PHA,4
+RHACOAE142_f,RHACOAE142,Lipidos y PHA,4
+RHACOAE160_f,RHACOAE160,Lipidos y PHA,4
+RHACOAE50_f,RHACOAE50,Lipidos y PHA,6
+RHACOAE60_f,RHACOAE60,Lipidos y PHA,7
+RHACOAE70_f,RHACOAE70,Lipidos y PHA,6
+RHACOAE80_f,RHACOAE80,Lipidos y PHA,4
+RHACOAE90_f,RHACOAE90,Lipidos y PHA,6
+RHACOAEP100_f,RHACOAEP100,Lipidos y PHA,9
+RHACOAEP101_f,RHACOAEP101,Lipidos y PHA,4
+RHACOAEP40_f,RHACOAEP40,Lipidos y PHA,9
+RHACOAEP50_f,RHACOAEP50,Lipidos y PHA,5
+RHACOAEP60_f,RHACOAEP60,Lipidos y PHA,9
+RHACOAEP70_f,RHACOAEP70,Lipidos y PHA,5
+RHACOAEP80_f,RHACOAEP80,Lipidos y PHA,9
+RHACOAEP90_f,RHACOAEP90,Lipidos y PHA,5
+RHACOAET40_f,RHACOAET40,Lipidos y PHA,3
+RHACOAET60_f,RHACOAET60,Lipidos y PHA,3
+RHACOAR100_f,RHACOAR100,Lipidos y PHA,4
+RHACOAR101_f,RHACOAR101,Lipidos y PHA,4
+RHACOAR120_f,RHACOAR120,Lipidos y PHA,4
+RHACOAR121d5_f,RHACOAR121d5,Lipidos y PHA,4
+RHACOAR121d6_f,RHACOAR121d6,Lipidos y PHA,4
+RHACOAR140_f,RHACOAR140,Lipidos y PHA,4
+RHACOAR141d5_f,RHACOAR141d5,Lipidos y PHA,4
+RHACOAR141d7_f,RHACOAR141d7,Lipidos y PHA,4
+RHACOAR142_f,RHACOAR142,Lipidos y PHA,4
+RHACOAR60_f,RHACOAR60,Lipidos y PHA,7
+RHACOAR70_f,RHACOAR70,Lipidos y PHA,6
+RHACOAR80_f,RHACOAR80,Lipidos y PHA,4
+RHACOAR90_f,RHACOAR90,Lipidos y PHA,6
+RHACOARP100_f,RHACOARP100,Lipidos y PHA,9
+RHACOARP40_f,RHACOARP40,Lipidos y PHA,9
+RHACOARP50_f,RHACOARP50,Lipidos y PHA,5
+RHACOARP60_f,RHACOARP60,Lipidos y PHA,9
+RHACOARP70_f,RHACOARP70,Lipidos y PHA,5
+RHACOARP80_f,RHACOARP80,Lipidos y PHA,9
+RHACOARP90_f,RHACOARP90,Lipidos y PHA,5
+RHACOART60_f,RHACOART60,Lipidos y PHA,3
+RHAP50tex_f,RHAP50tex,Transporte,5
+RHAP50tpp_f,RHAP50tpp,Transporte,5
+RHAT40tex_f,RHAT40tex,Transporte,3
+RHAT40tpp_f,RHAT40tpp,Transporte,3
+RIBabc_f,RIBabc,Transporte,2
+RIBabc1_f,RIBabc1,Transporte,2
+RIBabcpp_f,RIBabcpp,Transporte,2
+RIBtex_f,RIBtex,Transporte,2
+RMN_Et_f,RMN_Et,Transporte,1
+RMNabc_f,RMNabc,Transporte,1
+RNDR1_f,RNDR1,Nucleotidos,1
+RNDR1b_f,RNDR1b,Nucleotidos,1
+RNDR2_f,RNDR2,Nucleotidos,1
+RNDR2b_f,RNDR2b,Nucleotidos,1
+RNDR3_f,RNDR3,Nucleotidos,1
+RNDR3b_f,RNDR3b,Nucleotidos,1
+RNDR4_f,RNDR4,Nucleotidos,2
+RNDR4b_f,RNDR4b,Nucleotidos,2
+RNTR1_f,RNTR1,Sin asignar,1
+RNTR3_f,RNTR3,Sin asignar,1
+RPE_f,RPE,Pentosas fosfato,2
+RPI_f,RPI,Pentosas fosfato,2
+RU5PP_f,RU5PP,Sin asignar,2
+SADH_f,SADH,Aminoacidos,1
+SADT_f,SADT,"Iones, hierro y azufre",1
+SADT2_f,SADT2,Aminoacidos,1
+SALADC2_f,SALADC2,Sin asignar,1
+SALCHS4FER1_f,SALCHS4FER1,Sin asignar,1
+SALCHS4FEabcpp_f,SALCHS4FEabcpp,Transporte,1
+SALCHS4FEtonex_f,SALCHS4FEtonex,Transporte,1
+SALCHS4abcpp_f,SALCHS4abcpp,Transporte,1
+SALCHS4tex_f,SALCHS4tex,Transporte,1
+SALCt_f,SALCt,Transporte,1
+SAOR_f,SAOR,Sin asignar,1
+SARCOX_f,SARCOX,"Iones, hierro y azufre",1
+SARCOX2_f,SARCOX2,"Iones, hierro y azufre",1
+SBTD_D2_f,SBTD_D2,Sin asignar,2
+SBTPD_f,SBTPD,Carbono alternativo y aromaticos,2
+SBTpts_f,SBTpts,Transporte,2
+SBTptspp_f,SBTptspp,Transporte,2
+SBTt2_f,SBTt2,Transporte,2
+SBTtex_f,SBTtex,Transporte,2
+SCYSSL_f,SCYSSL,Aminoacidos,1
+SDPDS_f,SDPDS,Aminoacidos,2
+SDPTA_f,SDPTA,Aminoacidos,2
+SELADT_f,SELADT,Sin asignar,1
+SELR_f,SELR,Transporte,1
+SELTt_f,SELTt,Transporte,1
+SELabcpp_f,SELabcpp,Transporte,1
+SELt_f,SELt,Transporte,1
+SELtex_f,SELtex,Transporte,1
+SERASr_f,SERASr,Cofactores y vitaminas,1
+SERAT_f,SERAT,Aminoacidos,1
+SERD_D_f,SERD_D,Aminoacidos,1
+SERD_L_f,SERD_L,Aminoacidos,1
+SERabc_f,SERabc,Transporte,1
+SERt2rpp_f,SERt2rpp,Transporte,1
+SERt4pp_f,SERt4pp,Transporte,1
+SERtpp_f,SERtpp,Transporte,1
+SFGTHi_f,SFGTHi,Carbono alternativo y aromaticos,1
+SGDS_f,SGDS,Aminoacidos,1
+SGSAD_f,SGSAD,Aminoacidos,1
+SHCHD2_f,SHCHD2,Cofactores y vitaminas,1
+SHCHF_f,SHCHF,Cofactores y vitaminas,1
+SHEME2abcpp_f,SHEME2abcpp,Transporte,1
+SHEMEtonex_f,SHEMEtonex,Transporte,1
+SHGO_f,SHGO,Aminoacidos,1
+SHK3Dr_f,SHK3Dr,Aminoacidos,2
+SHKK_f,SHKK,Aminoacidos,2
+SHSL2_f,SHSL2,Sin asignar,1
+SHSL3_f,SHSL3,Sin asignar,1
+SKMt2_f,SKMt2,Transporte,1
+SKMt2pp_f,SKMt2pp,Transporte,1
+SKMtex_f,SKMtex,Transporte,1
+SLCYSS_f,SLCYSS,Aminoacidos,1
+SO3abcpp_f,SO3abcpp,Transporte,1
+SO3tex_f,SO3tex,Transporte,1
+SO4t2_f,SO4t2,Transporte,1
+SO4t2pp_f,SO4t2pp,Transporte,1
+SO4tex_f,SO4tex,Transporte,1
+SOTA_f,SOTA,Aminoacidos,1
+SPMDabc_f,SPMDabc,Transporte,1
+SPMDabcpp_f,SPMDabcpp,Transporte,1
+SPMDt3i_f,SPMDt3i,Transporte,1
+SPMDt3pp_f,SPMDt3pp,Transporte,1
+SPMS_f,SPMS,Aminoacidos,1
+SPODM_f,SPODM,Sin asignar,1
+SSALx_f,SSALx,Aminoacidos,1
+SSALy_f,SSALy,Aminoacidos,1
+SSCOARy_f,SSCOARy,Sin asignar,1
+STPT1_f,STPT1,Sin asignar,1
+STPT2_f,STPT2,Sin asignar,1
+SUCCt2_2pp_f,SUCCt2_2pp,Transporte,1
+SUCCtex_f,SUCCtex,Transporte,1
+SUCD1_f,SUCD1,Sin asignar,1
+SUCD4_f,SUCD4,Lipidos y PHA,1
+SUCDi_f,SUCDi,Ciclo TCA y glioxilato,1
+SUCOAS_f,SUCOAS,Ciclo TCA y glioxilato,1
+SUCR_f,SUCR,Sin asignar,2
+SUCRabcpp_syn_f,SUCRabcpp_syn,Transporte,2
+SUCRtex_f,SUCRtex,Transporte,2
+SUCpts_f,SUCpts,Transporte,2
+SUCptspp_f,SUCptspp,Transporte,2
+SULAabc_f,SULAabc,Transporte,1
+SULFACabcpp_f,SULFACabcpp,Transporte,1
+SULFACtex_f,SULFACtex,Transporte,1
+SULR_f,SULR,"Iones, hierro y azufre",1
+SULabc_f,SULabc,Transporte,1
+SULabcpp_f,SULabcpp,Transporte,1
+T2ECR_f,T2ECR,Sin asignar,7
+T6PGD_f,T6PGD,Sin asignar,2
+TAGLIPA160ex_f,TAGLIPA160ex,Lipidos y PHA,4
+TAGLIPA180ex_f,TAGLIPA180ex,Lipidos y PHA,4
+TAGLIPA181d9ex_f,TAGLIPA181d9ex,Lipidos y PHA,4
+TAGLIPA182d9d12_f,TAGLIPA182d9d12,Lipidos y PHA,4
+TALA_f,TALA,Pentosas fosfato,2
+TAUDO_f,TAUDO,"Iones, hierro y azufre",1
+TAURabc_f,TAURabc,Transporte,1
+TAURabcpp_f,TAURabcpp,Transporte,1
+TAURtex_f,TAURtex,Transporte,1
+TCBO_f,TCBO,Sin asignar,1
+TCBt2ex_f,TCBt2ex,Transporte,1
+TCBt2pp_f,TCBt2pp,Transporte,1
+TCYNTtex_f,TCYNTtex,Transporte,1
+TCYNTtpp_f,TCYNTtpp,Transporte,1
+TDP_f,TDP,Cofactores y vitaminas,13
+TETDHpp3_f,TETDHpp3,Transporte,1
+TETtex_f,TETtex,Transporte,1
+THD2pp_f,THD2pp,Fosforilacion oxidativa,4
+THDPS_f,THDPS,Aminoacidos,2
+THFAT_f,THFAT,Cofactores y vitaminas,1
+THFOR1_f,THFOR1,Sin asignar,1
+THIORDXi_f,THIORDXi,Sin asignar,1
+THMabc_f,THMabc,Transporte,13
+THRA_f,THRA,Aminoacidos,1
+THRA2_f,THRA2,Aminoacidos,1
+THRD_f,THRD,Aminoacidos,1
+THRD_L_f,THRD_L,Aminoacidos,1
+THRS_f,THRS,Aminoacidos,1
+THRabc_f,THRabc,Transporte,1
+THRabcpp_f,THRabcpp,Transporte,1
+THRt2pp_f,THRt2pp,Transporte,1
+THRt4pp_f,THRt4pp,Transporte,1
+THYMt_f,THYMt,Transporte,1
+THYMt4pp_f,THYMt4pp,Transporte,1
+THYMtex_f,THYMtex,Transporte,1
+THZPSN_f,THZPSN,Cofactores y vitaminas,13
+THZSN_1_f,THZSN_1,Sin asignar,13
+TKT1_f,TKT1,Pentosas fosfato,2
+TKT2_f,TKT2,Pentosas fosfato,2
+TMDPP_f,TMDPP,Nucleotidos,1
+TMDS_f,TMDS,Nucleotidos,1
+TMDSf_f,TMDSf,Sin asignar,1
+TMK_f,TMK,Cofactores y vitaminas,13
+TMPK_f,TMPK,Cofactores y vitaminas,13
+TMPPP_f,TMPPP,Cofactores y vitaminas,13
+TNTHAC1_f,TNTHAC1,"Iones, hierro y azufre",1
+TNTHAC2_f,TNTHAC2,"Iones, hierro y azufre",1
+TNTR1_f,TNTR1,"Iones, hierro y azufre",1
+TNTR1x_f,TNTR1x,"Iones, hierro y azufre",1
+TNTR2_f,TNTR2,"Iones, hierro y azufre",1
+TNTR2x_f,TNTR2x,"Iones, hierro y azufre",1
+TNTR3_f,TNTR3,"Iones, hierro y azufre",1
+TNTR4_f,TNTR4,"Iones, hierro y azufre",1
+TNTep_f,TNTep,"Iones, hierro y azufre",1
+TNTtex_f,TNTtex,Transporte,1
+TNTtpp_f,TNTtpp,Transporte,1
+TOLt5_f,TOLt5,Transporte,1
+TOLt6_f,TOLt6,Transporte,1
+TOLt7_f,TOLt7,Transporte,1
+TOLtex_f,TOLtex,Transporte,1
+TPI_f,TPI,Glucolisis/Gluconeogenesis,2
+TRDR_f,TRDR,Nucleotidos,1
+TREP_f,TREP,Sin asignar,2
+TREabc_f,TREabc,Transporte,2
+TREpts_f,TREpts,Transporte,2
+TREptspp_f,TREptspp,Transporte,2
+TREtex_f,TREtex,Transporte,2
+TRPAS1_f,TRPAS1,Sin asignar,1
+TRPS2_f,TRPS2,Aminoacidos,1
+TRPS3_f,TRPS3,Aminoacidos,1
+TRPTA_f,TRPTA,Sin asignar,1
+TRPabc_f,TRPabc,Transporte,1
+TRPt2rpp_f,TRPt2rpp,Transporte,1
+TRPtipp_f,TRPtipp,Transporte,1
+TRSARr_f,TRSARr,Ciclo TCA y glioxilato,2
+TRSARyr_f,TRSARyr,Sin asignar,2
+TRYPTAOX_f,TRYPTAOX,Biomasa,1
+TSULDHpp1_f,TSULDHpp1,Transporte,1
+TSULDHpp2_f,TSULDHpp2,Transporte,1
+TSULDHpp3_f,TSULDHpp3,Transporte,1
+TSULR3e_f,TSULR3e,Sin asignar,1
+TSULabc_f,TSULabc,Transporte,1
+TSULabcpp_f,TSULabcpp,Transporte,1
+TSULtex_f,TSULtex,Transporte,1
+TTDCAtexi_f,TTDCAtexi,Transporte,4
+TTDCEAtexi_f,TTDCEAtexi,Transporte,4
+TTRCYCt2pp_f,TTRCYCt2pp,Transporte,1
+TTRCYCt5_f,TTRCYCt5,Transporte,1
+TTRCYCt7pp_f,TTRCYCt7pp,Transporte,1
+TTRCYCtex_f,TTRCYCtex,Transporte,1
+TTRCYCtpp_f,TTRCYCtpp,Transporte,1
+TYMtex_f,TYMtex,Transporte,1
+TYRL_f,TYRL,Cofactores y vitaminas,1
+TYROXDApp_f,TYROXDApp,"Iones, hierro y azufre",1
+TYRTA_f,TYRTA,Carbono alternativo y aromaticos,13
+TYRabc_f,TYRabc,Transporte,13
+TYRt2rpp_f,TYRt2rpp,Transporte,13
+TYRtex_f,TYRtex,Transporte,13
+TYRtipp_f,TYRtipp,Transporte,13
+UAAGDS_f,UAAGDS,Envoltura celular,2
+UACCpts_f,UACCpts,Transporte,2
+UAG2EMA_f,UAG2EMA,Sin asignar,2
+UAGCVT_f,UAGCVT,Envoltura celular,2
+UAGDP_f,UAGDP,Envoltura celular,2
+UAGPT3_f,UAGPT3,Envoltura celular,2
+UAMAGS_f,UAMAGS,Envoltura celular,2
+UAMAS_f,UAMAS,Envoltura celular,2
+UAPGR_f,UAPGR,Envoltura celular,2
+UDCPDP_f,UDCPDP,Envoltura celular,2
+UDCPDPS_f,UDCPDPS,Cofactores y vitaminas,2
+UDCPPtexi_f,UDCPPtexi,Transporte,2
+UDPG4E_f,UDPG4E,Envoltura celular,2
+UGLYCH_f,UGLYCH,Nucleotidos,1
+UGMDDS_f,UGMDDS,Envoltura celular,2
+UHBZ1t_pp_f,UHBZ1t_pp,Transporte,1
+UM3PL_f,UM3PL,Envoltura celular,2
+UM4PCP_f,UM4PCP,Envoltura celular,2
+UM4PL_f,UM4PL,Envoltura celular,2
+UMPK_f,UMPK,Nucleotidos,2
+UMPt6_f,UMPt6,Transporte,2
+UNK3_f,UNK3,Aminoacidos,1
+UPP3MT_f,UPP3MT,Cofactores y vitaminas,1
+UPP3S_f,UPP3S,Cofactores y vitaminas,1
+UPPDC1_f,UPPDC1,Cofactores y vitaminas,1
+UPPN_f,UPPN,Nucleotidos,1
+UPPRT_f,UPPRT,Nucleotidos,2
+URAt_f,URAt,Transporte,2
+URAt2_f,URAt2,Transporte,2
+URAt2pp_f,URAt2pp,Transporte,2
+URAtex_f,URAtex,Transporte,2
+URCN_f,URCN,Aminoacidos,13
+UREA_f,UREA,Aminoacidos,1
+UREA2t2pp_f,UREA2t2pp,Transporte,1
+UREASE_f,UREASE,Sin asignar,1
+UREA_1_f,UREA_1,Sin asignar,1
+UREAabcpp_f,UREAabcpp,Transporte,1
+UREAtpp_f,UREAtpp,Transporte,1
+URIC_f,URIC,Sin asignar,1
+URIDK2r_f,URIDK2r,Nucleotidos,1
+URIH_f,URIH,Nucleotidos,2
+URO_c_f,URO_c,Nucleotidos,1
+VACCtex_f,VACCtex,Transporte,4
+VACOAI_f,VACOAI,Sin asignar,7
+VACOAI_2_f,VACOAI_2,Sin asignar,7
+VALDHr_f,VALDHr,Aminoacidos,1
+VALTA_f,VALTA,Aminoacidos,1
+VALabc_f,VALabc,Transporte,1
+VALabcpp_f,VALabcpp,Transporte,1
+VALt2rpp_f,VALt2rpp,Transporte,1
+VALt3pp_f,VALt3pp,Transporte,1
+VALtex_f,VALtex,Transporte,1
+VANKpp_f,VANKpp,Transporte,1
+VANLNtex_f,VANLNtex,Transporte,1
+VANLTtex_f,VANLTtex,Transporte,1
+VCACT_f,VCACT,Sin asignar,1
+VCOAD_f,VCOAD,Lipidos y PHA,6
+VECOAH_f,VECOAH,Lipidos y PHA,6
+VNDH_f,VNDH,Carbono alternativo y aromaticos,1
+VNDH_2_f,VNDH_2,Carbono alternativo y aromaticos,1
+VNLNpp_f,VNLNpp,Transporte,1
+VNTDM_f,VNTDM,Carbono alternativo y aromaticos,1
+VPAMTr_f,VPAMTr,Aminoacidos,1
+X5PL3E_f,X5PL3E,Carbono alternativo y aromaticos,2
+XAND_f,XAND,Nucleotidos,1
+XANt2_f,XANt2,Transporte,1
+XANt2pp_f,XANt2pp,Transporte,1
+XANtpp_f,XANtpp,Transporte,1
+XPPT_f,XPPT,Nucleotidos,1
+XTSNH_f,XTSNH,Nucleotidos,1
+XTSNt2_f,XTSNt2,Transporte,1
+XYLI1_f,XYLI1,Carbono alternativo y aromaticos,2
+XYLK_f,XYLK,Carbono alternativo y aromaticos,2
+XYLabc_f,XYLabc,Transporte,2
+XYLabcpp_f,XYLabcpp,Transporte,2
+XYLt_f,XYLt,Transporte,2
+XYLt2_f,XYLt2,Transporte,2
+XYLt2pp_f,XYLt2pp,Transporte,2
+XYLtex_f,XYLtex,Transporte,2
+YUMPS_f,YUMPS,Sin asignar,2
+ZN2abcpp_f,ZN2abcpp,"Iones, hierro y azufre",1
+ZN2t3pp_f,ZN2t3pp,"Iones, hierro y azufre",1
+ZN2t4_f,ZN2t4,"Iones, hierro y azufre",1
+ZN2t4pp_f,ZN2t4pp,"Iones, hierro y azufre",1
+ZN2t5_f,ZN2t5,"Iones, hierro y azufre",1
+ZN2t6_f,ZN2t6,"Iones, hierro y azufre",1
+ZN2tpp_f,ZN2tpp,Transporte,1
+ZNabc_f,ZNabc,Transporte,1
+ZNabcpp_f,ZNabcpp,Transporte,1
+Zn2tex_f,Zn2tex,Transporte,1
+araphe1_f,araphe1,Sin asignar,1
+araphe2_f,araphe2,Sin asignar,1
+araphe3_f,araphe3,Sin asignar,1
+aratry1_f,aratry1,Sin asignar,1
+aratry2_f,aratry2,Sin asignar,1
+aratyr1_f,aratyr1,Sin asignar,1
+aratyr2_f,aratyr2,Sin asignar,1
+aratyr3_f,aratyr3,Sin asignar,1
+aratyr4_f,aratyr4,Sin asignar,1
+pentso3abcpp_f,pentso3abcpp,Transporte,6
+r2136_f,r2136,Transporte,1
+r2465_1_f,r2465_1,Transporte,1
+sink_2ohph_c_f,sink_2ohph_c,Sin asignar,2
+sink_aacald_c_f,sink_aacald_c,Sin asignar,1
+sink_amob_c_f,sink_amob_c,Sin asignar,1
+sink_hemeO_c_f,sink_hemeO_c,Sin asignar,1
+sink_sheme_c_f,sink_sheme_c,Sin asignar,1
+Growth_f,Growth,Biomasa,2
+ATPM_f,ATPM,Biomasa,2
+PHPYROX_f,PHPYROX,Sin asignar,1
+EX_12dgr160_e_b,EX_12dgr160_e,Intercambio,4
+EX_12dgr180_e_b,EX_12dgr180_e,Intercambio,4
+EX_14glucan_e_b,EX_14glucan_e,Intercambio,2
+EX_1ag160_e_b,EX_1ag160_e,Intercambio,4
+EX_1ag180_e_b,EX_1ag180_e,Intercambio,4
+EX_1ag181d9_e_b,EX_1ag181d9_e,Intercambio,4
+EX_1ag182d9d12_e_b,EX_1ag182d9d12_e,Intercambio,4
+EX_25dkglcn_e_b,EX_25dkglcn_e,Intercambio,2
+EX_26dap__M_e_b,EX_26dap__M_e,Intercambio,2
+EX_2ameph_e_b,EX_2ameph_e,Intercambio,1
+EX_2dhglcn_e_b,EX_2dhglcn_e,Intercambio,2
+EX_2m35mdntha_e_b,EX_2m35mdntha_e,Intercambio,1
+EX_2obut_e_b,EX_2obut_e,Intercambio,1
+EX_2pg_e_b,EX_2pg_e,Intercambio,2
+EX_2pglyc_e_b,EX_2pglyc_e,Intercambio,1
+EX_34dhbz_e_b,EX_34dhbz_e,Intercambio,1
+EX_34dhpac_e_b,EX_34dhpac_e,Intercambio,1
+EX_35dnta_e_b,EX_35dnta_e,Intercambio,1
+EX_3h4atb_e_b,EX_3h4atb_e,Intercambio,1
+EX_3hcinnm_e_b,EX_3hcinnm_e,Intercambio,1
+EX_3hoxpac_e_b,EX_3hoxpac_e,Intercambio,1
+EX_3hpppn_e_b,EX_3hpppn_e,Intercambio,1
+EX_3mb_e_b,EX_3mb_e,Intercambio,1
+EX_3oxoadp_e_b,EX_3oxoadp_e,Intercambio,1
+EX_3pg_e_b,EX_3pg_e,Intercambio,2
+EX_4abut_e_b,EX_4abut_e,Intercambio,1
+EX_4crsol_e_b,EX_4crsol_e,Intercambio,1
+EX_4hba_e_b,EX_4hba_e,Intercambio,1
+EX_4hbald_e_b,EX_4hbald_e,Intercambio,1
+EX_4hbz_e_b,EX_4hbz_e,Intercambio,1
+EX_4hoxpac_e_b,EX_4hoxpac_e,Intercambio,1
+EX_4hoxpacd_e_b,EX_4hoxpacd_e,Intercambio,1
+EX_4hphac_e_b,EX_4hphac_e,Intercambio,1
+EX_4hpro_DC_e_b,EX_4hpro_DC_e,Intercambio,1
+EX_4hpro_LT_e_b,EX_4hpro_LT_e,Intercambio,1
+EX_4oxptn_e_b,EX_4oxptn_e,Intercambio,1
+EX_5aptn_e_b,EX_5aptn_e,Intercambio,7
+EX_5drib_e_b,EX_5drib_e,Intercambio,1
+EX_6atha_e_b,EX_6atha_e,Intercambio,3
+EX_6hnac_e_b,EX_6hnac_e,Intercambio,1
+EX_LalaDgluMdapDala_e_b,EX_LalaDgluMdapDala_e,Intercambio,2
+EX_LalaLglu_e_b,EX_LalaLglu_e,Intercambio,1
+EX_Lcyst_e_b,EX_Lcyst_e,Intercambio,1
+EX_R_3h4atba_e_b,EX_R_3h4atba_e,Intercambio,3
+EX_R_3hhdca_e_b,EX_R_3hhdca_e,Intercambio,4
+EX_R_3hppta_e_b,EX_R_3hppta_e,Intercambio,5
+EX_R_3hpt_e_b,EX_R_3hpt_e,Intercambio,6
+EX_abg4_e_b,EX_abg4_e,Intercambio,1
+EX_ac_e_b,EX_ac_e,Intercambio,1
+EX_acac_e_b,EX_acac_e,Intercambio,7
+EX_acgam_e_b,EX_acgam_e,Intercambio,2
+EX_acmana_e_b,EX_acmana_e,Intercambio,2
+EX_acnam_e_b,EX_acnam_e,Intercambio,2
+EX_acon_C_e_b,EX_acon_C_e,Intercambio,1
+EX_acser_e_b,EX_acser_e,Intercambio,1
+EX_actn__R_e_b,EX_actn__R_e,Intercambio,1
+EX_ad_e_b,EX_ad_e,Intercambio,1
+EX_ade_e_b,EX_ade_e,Intercambio,1
+EX_adn_e_b,EX_adn_e,Intercambio,1
+EX_ag_e_b,EX_ag_e,Intercambio,1
+EX_agm_e_b,EX_agm_e,Intercambio,1
+EX_akg_e_b,EX_akg_e,Intercambio,1
+EX_ala_B_e_b,EX_ala_B_e,Intercambio,1
+EX_ala_L_asp__L_e_b,EX_ala_L_asp__L_e,Intercambio,1
+EX_ala_L_glu__L_e_b,EX_ala_L_glu__L_e,Intercambio,1
+EX_ala_L_thr__L_e_b,EX_ala_L_thr__L_e,Intercambio,1
+EX_ala__L_e_b,EX_ala__L_e,Intercambio,1
+EX_ala_gln_e_b,EX_ala_gln_e,Intercambio,1
+EX_ala_his_e_b,EX_ala_his_e,Intercambio,1
+EX_ala_leu_e_b,EX_ala_leu_e,Intercambio,1
+EX_alaala_e_b,EX_alaala_e,Intercambio,2
+EX_alagly_e_b,EX_alagly_e,Intercambio,1
+EX_alahis_e_b,EX_alahis_e,Intercambio,1
+EX_alaleu_e_b,EX_alaleu_e,Intercambio,1
+EX_alathr_e_b,EX_alathr_e,Intercambio,1
+EX_alatrp_e_b,EX_alatrp_e,Intercambio,1
+EX_algac_MG_14_e_b,EX_algac_MG_14_e,Intercambio,1
+EX_algac_MG_23_e_b,EX_algac_MG_23_e,Intercambio,1
+EX_algac_MG_32_e_b,EX_algac_MG_32_e,Intercambio,1
+EX_algac_MG_41_e_b,EX_algac_MG_41_e,Intercambio,1
+EX_algac__M_e_b,EX_algac__M_e,Intercambio,1
+EX_all__D_e_b,EX_all__D_e,Intercambio,1
+EX_alltn_e_b,EX_alltn_e,Intercambio,1
+EX_anhgm_e_b,EX_anhgm_e,Intercambio,2
+EX_apc_e_b,EX_apc_e,Intercambio,1
+EX_arab__L_e_b,EX_arab__L_e,Intercambio,2
+EX_arbt_e_b,EX_arbt_e,Intercambio,2
+EX_arg__L_e_b,EX_arg__L_e,Intercambio,1
+EX_ascb__L_e_b,EX_ascb__L_e,Intercambio,2
+EX_asn__D_e_b,EX_asn__D_e,Intercambio,1
+EX_asn__L_e_b,EX_asn__L_e,Intercambio,1
+EX_aso3_e_b,EX_aso3_e,Intercambio,1
+EX_aso4_e_b,EX_aso4_e,Intercambio,1
+EX_asp__L_e_b,EX_asp__L_e,Intercambio,1
+EX_balaala_e_b,EX_balaala_e,Intercambio,2
+EX_balabala_e_b,EX_balabala_e,Intercambio,2
+EX_balagly_e_b,EX_balagly_e,Intercambio,2
+EX_balaleu_e_b,EX_balaleu_e,Intercambio,1
+EX_balamd_e_b,EX_balamd_e,Intercambio,1
+EX_biliverd_e_b,EX_biliverd_e,Intercambio,1
+EX_btd_RR_e_b,EX_btd_RR_e,Intercambio,1
+EX_btn_e_b,EX_btn_e,Intercambio,1
+EX_btoh_e_b,EX_btoh_e,Intercambio,7
+EX_but_e_b,EX_but_e,Intercambio,7
+EX_buts_e_b,EX_buts_e,Intercambio,7
+EX_butso3_e_b,EX_butso3_e,Intercambio,7
+EX_bz_e_b,EX_bz_e,Intercambio,1
+EX_bzal_e_b,EX_bzal_e,Intercambio,1
+EX_bzalc_e_b,EX_bzalc_e,Intercambio,1
+EX_ca2_e_b,EX_ca2_e,Intercambio,1
+EX_carn_e_b,EX_carn_e,Intercambio,1
+EX_cd2_e_b,EX_cd2_e,Intercambio,1
+EX_cgly_e_b,EX_cgly_e,Intercambio,13
+EX_chol_e_b,EX_chol_e,Intercambio,1
+EX_chols_e_b,EX_chols_e,Intercambio,1
+EX_chor_e_b,EX_chor_e,Intercambio,1
+EX_chsterol_e_b,EX_chsterol_e,Intercambio,1
+EX_chtbs_e_b,EX_chtbs_e,Intercambio,2
+EX_cinnm_e_b,EX_cinnm_e,Intercambio,1
+EX_cit_e_b,EX_cit_e,Intercambio,1
+EX_cl_e_b,EX_cl_e,Intercambio,1
+EX_cm_e_b,EX_cm_e,Intercambio,1
+EX_cmcbtt_e_b,EX_cmcbtt_e,Intercambio,1
+EX_co2_e_b,EX_co2_e,Intercambio,1
+EX_cobalt2_e_b,EX_cobalt2_e,Intercambio,1
+EX_confrl_e_b,EX_confrl_e,Intercambio,1
+EX_creat_e_b,EX_creat_e,Intercambio,1
+EX_crn_e_b,EX_crn_e,Intercambio,1
+EX_cro4_e_b,EX_cro4_e,Intercambio,1
+EX_csn_e_b,EX_csn_e,Intercambio,1
+EX_cu2_e_b,EX_cu2_e,Intercambio,3
+EX_cu_e_b,EX_cu_e,Intercambio,3
+EX_cyan_e_b,EX_cyan_e,Intercambio,1
+EX_cys__L_e_b,EX_cys__L_e,Intercambio,13
+EX_d23hb_e_b,EX_d23hb_e,Intercambio,1
+EX_dad_2_e_b,EX_dad_2_e,Intercambio,1
+EX_dag181d9_e_b,EX_dag181d9_e,Intercambio,4
+EX_dag182d9d12_e_b,EX_dag182d9d12_e,Intercambio,4
+EX_dca_e_b,EX_dca_e,Intercambio,4
+EX_ddca_e_b,EX_ddca_e,Intercambio,4
+EX_dmanur_e_b,EX_dmanur_e,Intercambio,1
+EX_dmgly_e_b,EX_dmgly_e,Intercambio,1
+EX_dmso2_e_b,EX_dmso2_e,Intercambio,1
+EX_dopa_e_b,EX_dopa_e,Intercambio,1
+EX_doxrbcn_e_b,EX_doxrbcn_e,Intercambio,1
+EX_drib_e_b,EX_drib_e,Intercambio,2
+EX_dtmp_e_b,EX_dtmp_e,Intercambio,1
+EX_dxyl_e_b,EX_dxyl_e,Intercambio,13
+EX_enter_e_b,EX_enter_e,Intercambio,1
+EX_etha_e_b,EX_etha_e,Intercambio,1
+EX_eths_e_b,EX_eths_e,Intercambio,1
+EX_ethso3_e_b,EX_ethso3_e,Intercambio,1
+EX_etoh_e_b,EX_etoh_e,Intercambio,1
+EX_fad_e_b,EX_fad_e,Intercambio,1
+EX_fald_e_b,EX_fald_e,Intercambio,1
+EX_fcmcbtt_e_b,EX_fcmcbtt_e,Intercambio,1
+EX_fe2_e_b,EX_fe2_e,Intercambio,1
+EX_fe3_e_b,EX_fe3_e,Intercambio,1
+EX_fe3dcit_e_b,EX_fe3dcit_e,Intercambio,1
+EX_fe3dhbzs3_e_b,EX_fe3dhbzs3_e,Intercambio,1
+EX_fe3pyovd_kt_e_b,EX_fe3pyovd_kt_e,Intercambio,1
+EX_feenter_e_b,EX_feenter_e,Intercambio,1
+EX_feoxam_e_b,EX_feoxam_e,Intercambio,1
+EX_feoxam_un_e_b,EX_feoxam_un_e,Intercambio,1
+EX_fer_e_b,EX_fer_e,Intercambio,1
+EX_fmn_e_b,EX_fmn_e,Intercambio,1
+EX_fol_e_b,EX_fol_e,Intercambio,1
+EX_for_e_b,EX_for_e,Intercambio,1
+EX_fru_e_b,EX_fru_e,Intercambio,2
+EX_fuc__L_e_b,EX_fuc__L_e,Intercambio,1
+EX_fusa_e_b,EX_fusa_e,Intercambio,1
+EX_g3pc_e_b,EX_g3pc_e,Intercambio,1
+EX_g3pg_e_b,EX_g3pg_e,Intercambio,4
+EX_g3pi_e_b,EX_g3pi_e,Intercambio,4
+EX_g3ps_e_b,EX_g3ps_e,Intercambio,1
+EX_gal_e_b,EX_gal_e,Intercambio,2
+EX_galct__D_e_b,EX_galct__D_e,Intercambio,1
+EX_galctn__D_e_b,EX_galctn__D_e,Intercambio,2
+EX_galt_e_b,EX_galt_e,Intercambio,2
+EX_galur_e_b,EX_galur_e,Intercambio,1
+EX_gam_e_b,EX_gam_e,Intercambio,2
+EX_glc__D_e_b,EX_glc__D_e,Intercambio,2
+EX_glcn_e_b,EX_glcn_e,Intercambio,2
+EX_glcr_e_b,EX_glcr_e,Intercambio,2
+EX_glcur_e_b,EX_glcur_e,Intercambio,2
+EX_gln__L_e_b,EX_gln__L_e,Intercambio,13
+EX_glu__L_e_b,EX_glu__L_e,Intercambio,1
+EX_glutar_e_b,EX_glutar_e,Intercambio,7
+EX_gly_asn__L_e_b,EX_gly_asn__L_e,Intercambio,1
+EX_gly_asp__L_e_b,EX_gly_asp__L_e,Intercambio,1
+EX_gly_cys_e_b,EX_gly_cys_e,Intercambio,13
+EX_gly_e_b,EX_gly_e,Intercambio,1
+EX_gly_gln_e_b,EX_gly_gln_e,Intercambio,13
+EX_gly_glu__L_e_b,EX_gly_glu__L_e,Intercambio,1
+EX_gly_leu_e_b,EX_gly_leu_e,Intercambio,1
+EX_gly_met_e_b,EX_gly_met_e,Intercambio,1
+EX_gly_phe_e_b,EX_gly_phe_e,Intercambio,1
+EX_gly_pro__L_e_b,EX_gly_pro__L_e,Intercambio,1
+EX_gly_tyr_e_b,EX_gly_tyr_e,Intercambio,13
+EX_glyald_e_b,EX_glyald_e,Intercambio,4
+EX_glyb_e_b,EX_glyb_e,Intercambio,1
+EX_glyc2p_e_b,EX_glyc2p_e,Intercambio,4
+EX_glyc3p_e_b,EX_glyc3p_e,Intercambio,4
+EX_glyc__R_e_b,EX_glyc__R_e,Intercambio,2
+EX_glyc_e_b,EX_glyc_e,Intercambio,4
+EX_glyclt_e_b,EX_glyclt_e,Intercambio,1
+EX_glycol_e_b,EX_glycol_e,Intercambio,1
+EX_glygln_e_b,EX_glygln_e,Intercambio,1
+EX_glyglu_e_b,EX_glyglu_e,Intercambio,1
+EX_glygly_e_b,EX_glygly_e,Intercambio,1
+EX_glymet_e_b,EX_glymet_e,Intercambio,1
+EX_glyphe_e_b,EX_glyphe_e,Intercambio,1
+EX_glyser_e_b,EX_glyser_e,Intercambio,1
+EX_gsn_e_b,EX_gsn_e,Intercambio,1
+EX_gthrd_e_b,EX_gthrd_e,Intercambio,1
+EX_gua_e_b,EX_gua_e,Intercambio,1
+EX_h2o2_e_b,EX_h2o2_e,Intercambio,2
+EX_h2o_e_b,EX_h2o_e,Intercambio,4
+EX_h2s_e_b,EX_h2s_e,Intercambio,1
+EX_h_e_b,EX_h_e,Intercambio,1
+EX_hco3_e_b,EX_hco3_e,Intercambio,1
+EX_hdca_e_b,EX_hdca_e,Intercambio,4
+EX_hdcea_e_b,EX_hdcea_e,Intercambio,4
+EX_hexs_e_b,EX_hexs_e,Intercambio,7
+EX_hg2_e_b,EX_hg2_e,Intercambio,1
+EX_hia_e_b,EX_hia_e,Intercambio,1
+EX_his__L_e_b,EX_his__L_e,Intercambio,1
+EX_hisgly_e_b,EX_hisgly_e,Intercambio,1
+EX_hishis_e_b,EX_hishis_e,Intercambio,1
+EX_hpta_e_b,EX_hpta_e,Intercambio,6
+EX_hqn_e_b,EX_hqn_e,Intercambio,1
+EX_hxa_e_b,EX_hxa_e,Intercambio,7
+EX_hxan_e_b,EX_hxan_e,Intercambio,1
+EX_ibt_e_b,EX_ibt_e,Intercambio,1
+EX_icit_e_b,EX_icit_e,Intercambio,1
+EX_ile__L_e_b,EX_ile__L_e,Intercambio,1
+EX_ind3ac_e_b,EX_ind3ac_e,Intercambio,1
+EX_indole_e_b,EX_indole_e,Intercambio,1
+EX_inost_e_b,EX_inost_e,Intercambio,1
+EX_ins_e_b,EX_ins_e,Intercambio,1
+EX_isetac_e_b,EX_isetac_e,Intercambio,1
+EX_istnt_e_b,EX_istnt_e,Intercambio,1
+EX_k_e_b,EX_k_e,Intercambio,1
+EX_lac__D_e_b,EX_lac__D_e,Intercambio,1
+EX_lac__L_e_b,EX_lac__L_e,Intercambio,1
+EX_lcts_e_b,EX_lcts_e,Intercambio,2
+EX_leu__D_e_b,EX_leu__D_e,Intercambio,1
+EX_leu__L_e_b,EX_leu__L_e,Intercambio,1
+EX_leuleu_e_b,EX_leuleu_e,Intercambio,1
+EX_lnlc_e_b,EX_lnlc_e,Intercambio,4
+EX_lys__D_e_b,EX_lys__D_e,Intercambio,7
+EX_lys__L_e_b,EX_lys__L_e,Intercambio,7
+EX_m_xyl_e_b,EX_m_xyl_e,Intercambio,1
+EX_mal__L_e_b,EX_mal__L_e,Intercambio,1
+EX_malt_e_b,EX_malt_e,Intercambio,2
+EX_malthp_e_b,EX_malthp_e,Intercambio,2
+EX_malthx_e_b,EX_malthx_e,Intercambio,2
+EX_maltpt_e_b,EX_maltpt_e,Intercambio,2
+EX_malttr_e_b,EX_malttr_e,Intercambio,2
+EX_maltttr_e_b,EX_maltttr_e,Intercambio,2
+EX_man_e_b,EX_man_e,Intercambio,2
+EX_manglyc_e_b,EX_manglyc_e,Intercambio,2
+EX_manur_e_b,EX_manur_e,Intercambio,1
+EX_meoh_e_b,EX_meoh_e,Intercambio,1
+EX_met_L_ala__L_e_b,EX_met_L_ala__L_e,Intercambio,1
+EX_met__D_e_b,EX_met__D_e,Intercambio,1
+EX_met__L_e_b,EX_met__L_e,Intercambio,1
+EX_metox__R_e_b,EX_metox__R_e,Intercambio,1
+EX_metox_e_b,EX_metox_e,Intercambio,1
+EX_mg2_e_b,EX_mg2_e,Intercambio,1
+EX_mn2_e_b,EX_mn2_e,Intercambio,8
+EX_mnl1p_e_b,EX_mnl1p_e,Intercambio,1
+EX_mnl_e_b,EX_mnl_e,Intercambio,1
+EX_mobd_e_b,EX_mobd_e,Intercambio,1
+EX_mso3_e_b,EX_mso3_e,Intercambio,1
+EX_na1_e_b,EX_na1_e,Intercambio,1
+EX_nac_e_b,EX_nac_e,Intercambio,1
+EX_nh4_e_b,EX_nh4_e,Intercambio,1
+EX_ni2_e_b,EX_ni2_e,Intercambio,1
+EX_nmn_e_b,EX_nmn_e,Intercambio,1
+EX_no2_e_b,EX_no2_e,Intercambio,1
+EX_no3_e_b,EX_no3_e,Intercambio,13
+EX_no_e_b,EX_no_e,Intercambio,13
+EX_nona_e_b,EX_nona_e,Intercambio,6
+EX_novbcn_e_b,EX_novbcn_e,Intercambio,1
+EX_o2_e_b,EX_o2_e,Intercambio,1
+EX_oaa_e_b,EX_oaa_e,Intercambio,1
+EX_ocdca_e_b,EX_ocdca_e,Intercambio,4
+EX_ocdcea_e_b,EX_ocdcea_e,Intercambio,4
+EX_octa_e_b,EX_octa_e,Intercambio,4
+EX_orn__D_e_b,EX_orn__D_e,Intercambio,1
+EX_orn_e_b,EX_orn_e,Intercambio,1
+EX_orot_e_b,EX_orot_e,Intercambio,2
+EX_oxa_e_b,EX_oxa_e,Intercambio,1
+EX_p_xyl_e_b,EX_p_xyl_e,Intercambio,1
+EX_pac_e_b,EX_pac_e,Intercambio,1
+EX_pea_e_b,EX_pea_e,Intercambio,1
+EX_peamn_e_b,EX_peamn_e,Intercambio,1
+EX_pentso3_e_b,EX_pentso3_e,Intercambio,6
+EX_pep_e_b,EX_pep_e,Intercambio,2
+EX_phe__L_e_b,EX_phe__L_e,Intercambio,1
+EX_phedca_e_b,EX_phedca_e,Intercambio,9
+EX_phehpa_e_b,EX_phehpa_e,Intercambio,5
+EX_phehxa_e_b,EX_phehxa_e,Intercambio,9
+EX_pheme_e_b,EX_pheme_e,Intercambio,1
+EX_phenona_e_b,EX_phenona_e,Intercambio,5
+EX_pheocta_e_b,EX_pheocta_e,Intercambio,9
+EX_phept_e_b,EX_phept_e,Intercambio,5
+EX_pi_e_b,EX_pi_e,Intercambio,1
+EX_pime_e_b,EX_pime_e,Intercambio,1
+EX_pnto__R_e_b,EX_pnto__R_e,Intercambio,4
+EX_ppa_e_b,EX_ppa_e,Intercambio,1
+EX_ppap_e_b,EX_ppap_e,Intercambio,1
+EX_ppi_e_b,EX_ppi_e,Intercambio,2
+EX_ppoh_e_b,EX_ppoh_e,Intercambio,1
+EX_prealg_MG_14_e_b,EX_prealg_MG_14_e,Intercambio,1
+EX_prealg_MG_23_e_b,EX_prealg_MG_23_e,Intercambio,1
+EX_prealg_MG_32_e_b,EX_prealg_MG_32_e,Intercambio,1
+EX_prealg_MG_41_e_b,EX_prealg_MG_41_e,Intercambio,1
+EX_prealginate_G_e_b,EX_prealginate_G_e,Intercambio,1
+EX_pro__L_e_b,EX_pro__L_e,Intercambio,1
+EX_progly_e_b,EX_progly_e,Intercambio,1
+EX_pta_e_b,EX_pta_e,Intercambio,6
+EX_ptrc_e_b,EX_ptrc_e,Intercambio,1
+EX_ptsla_e_b,EX_ptsla_e,Intercambio,4
+EX_pydxn_e_b,EX_pydxn_e,Intercambio,1
+EX_pyovd_kt_e_b,EX_pyovd_kt_e,Intercambio,1
+EX_pyr_e_b,EX_pyr_e,Intercambio,1
+EX_rib__D_e_b,EX_rib__D_e,Intercambio,2
+EX_rmn_e_b,EX_rmn_e,Intercambio,1
+EX_rnam_e_b,EX_rnam_e,Intercambio,1
+EX_salc_e_b,EX_salc_e,Intercambio,1
+EX_salchs4_e_b,EX_salchs4_e,Intercambio,1
+EX_salchs4fe_e_b,EX_salchs4fe_e,Intercambio,1
+EX_sbt__D_e_b,EX_sbt__D_e,Intercambio,2
+EX_sel_e_b,EX_sel_e,Intercambio,1
+EX_ser__L_e_b,EX_ser__L_e,Intercambio,1
+EX_sheme_e_b,EX_sheme_e,Intercambio,1
+EX_skm_e_b,EX_skm_e,Intercambio,1
+EX_slnt_e_b,EX_slnt_e,Intercambio,1
+EX_so3_e_b,EX_so3_e,Intercambio,1
+EX_so4_e_b,EX_so4_e,Intercambio,1
+EX_spmd_e_b,EX_spmd_e,Intercambio,1
+EX_succ_e_b,EX_succ_e,Intercambio,1
+EX_sucr_e_b,EX_sucr_e,Intercambio,2
+EX_sula_e_b,EX_sula_e,Intercambio,1
+EX_sulfac_e_b,EX_sulfac_e,Intercambio,1
+EX_tag160_e_b,EX_tag160_e,Intercambio,4
+EX_tag180_e_b,EX_tag180_e,Intercambio,4
+EX_tag181d9_e_b,EX_tag181d9_e,Intercambio,4
+EX_tag182d9d12_e_b,EX_tag182d9d12_e,Intercambio,4
+EX_taur_e_b,EX_taur_e,Intercambio,1
+EX_tcb_e_b,EX_tcb_e,Intercambio,1
+EX_tcynt_e_b,EX_tcynt_e,Intercambio,1
+EX_tet_e_b,EX_tet_e,Intercambio,1
+EX_thm_e_b,EX_thm_e,Intercambio,13
+EX_thr__L_e_b,EX_thr__L_e,Intercambio,1
+EX_thym_e_b,EX_thym_e,Intercambio,1
+EX_tmanur_e_b,EX_tmanur_e,Intercambio,1
+EX_tnt_e_b,EX_tnt_e,Intercambio,1
+EX_tol_e_b,EX_tol_e,Intercambio,1
+EX_tre_e_b,EX_tre_e,Intercambio,2
+EX_trp__L_e_b,EX_trp__L_e,Intercambio,1
+EX_tsul_e_b,EX_tsul_e,Intercambio,1
+EX_ttdca_e_b,EX_ttdca_e,Intercambio,4
+EX_ttdcea_e_b,EX_ttdcea_e,Intercambio,4
+EX_ttrcyc_e_b,EX_ttrcyc_e,Intercambio,1
+EX_tym_e_b,EX_tym_e,Intercambio,1
+EX_tyr__D_e_b,EX_tyr__D_e,Intercambio,1
+EX_tyr__L_e_b,EX_tyr__L_e,Intercambio,13
+EX_uaccg_e_b,EX_uaccg_e,Intercambio,2
+EX_udcpp_e_b,EX_udcpp_e,Intercambio,2
+EX_ump_e_b,EX_ump_e,Intercambio,2
+EX_ura_e_b,EX_ura_e,Intercambio,2
+EX_vacc_e_b,EX_vacc_e,Intercambio,4
+EX_val__D_e_b,EX_val__D_e,Intercambio,1
+EX_val__L_e_b,EX_val__L_e,Intercambio,1
+EX_vanln_e_b,EX_vanln_e,Intercambio,1
+EX_vanlt_e_b,EX_vanlt_e,Intercambio,1
+EX_xan_e_b,EX_xan_e,Intercambio,1
+EX_xtsn_e_b,EX_xtsn_e,Intercambio,1
+EX_xyl__D_e_b,EX_xyl__D_e,Intercambio,2
+EX_zn2_e_b,EX_zn2_e,Intercambio,1
+13PPDH_b,13PPDH,Sin asignar,10
+13PPDH2_b,13PPDH2,Carbono alternativo y aromaticos,10
+1P2CBXLCYCL_b,1P2CBXLCYCL,Aminoacidos,1
+25DKGLCNtex_b,25DKGLCNtex,Transporte,2
+26DAHtex_b,26DAHtex,Transporte,2
+2DHGLCNtex_b,2DHGLCNtex,Transporte,2
+2OBUTt2ipp_b,2OBUTt2ipp,Transporte,1
+2OBUTtex_b,2OBUTtex,Transporte,1
+2PGLYCt6_b,2PGLYCt6,Transporte,1
+2PGtex_b,2PGtex,Transporte,2
+34dhpactex_b,34dhpactex,Transporte,1
+3AIBT2_b,3AIBT2,Aminoacidos,1
+3HAACOAT80_b,3HAACOAT80,Lipidos y PHA,4
+3MBtex_b,3MBtex,Transporte,1
+3OXOADPt_ex_b,3OXOADPt_ex,Transporte,1
+3PGtex_b,3PGtex,Transporte,2
+3_4DHBZt2_b,3_4DHBZt2,Transporte,1
+3hoxpactex_b,3hoxpactex,Transporte,1
+4ABUTD_b,4ABUTD,Sin asignar,1
+4HBADH_b,4HBADH,Cofactores y vitaminas,1
+4HBALDtex_b,4HBALDtex,Transporte,1
+4HBAt_b,4HBAt,Transporte,1
+4HBAtex_b,4HBAtex,Transporte,1
+4HBZtex_b,4HBZtex,Transporte,1
+4HOXPACDtex_b,4HOXPACDtex,Transporte,1
+4HPRODCtex_b,4HPRODCtex,Transporte,1
+4HPROE_b,4HPROE,Aminoacidos,1
+4HPROLTtex_b,4HPROLTtex,Transporte,1
+4HPRO_LT_Et_b,4HPRO_LT_Et,Transporte,1
+4HTHRA_b,4HTHRA,Sin asignar,2
+4OT_b,4OT,Carbono alternativo y aromaticos,1
+4OT2_b,4OT2,Carbono alternativo y aromaticos,1
+4OXPTNtex_b,4OXPTNtex,Transporte,1
+4PEPTtex_b,4PEPTtex,Transporte,2
+4POPCOAM2_b,4POPCOAM2,Carbono alternativo y aromaticos,1
+4hoxpactex_b,4hoxpactex,Transporte,1
+5APTNtex_b,5APTNtex,Transporte,7
+5DKGR_b,5DKGR,Sin asignar,2
+6HNACtex_b,6HNACtex,Transporte,1
+AACOAR_syn_b,AACOAR_syn,Sin asignar,7
+AADSACYCL_b,AADSACYCL,Aminoacidos,7
+AALDH_b,AALDH,Sin asignar,9
+AATA_b,AATA,Aminoacidos,7
+ACACT1r_b,ACACT1r,Carbono alternativo y aromaticos,7
+ACACT2r_b,ACACT2r,Lipidos y PHA,7
+ACACT3r_b,ACACT3r,Lipidos y PHA,7
+ACACT4r_b,ACACT4r,Lipidos y PHA,4
+ACACT5r_b,ACACT5r,Lipidos y PHA,4
+ACACT5r_1_b,ACACT5r_1,Sin asignar,4
+ACACT6r_b,ACACT6r,Lipidos y PHA,4
+ACACT6r_1_b,ACACT6r_1,Sin asignar,4
+ACACT7r_b,ACACT7r,Lipidos y PHA,4
+ACACT8r_b,ACACT8r,Lipidos y PHA,4
+ACACtex_b,ACACtex,Transporte,7
+ACALD_b,ACALD,Carbono alternativo y aromaticos,7
+ACGAtex_b,ACGAtex,Transporte,2
+ACKr_b,ACKr,Piruvato y anapleroticas,1
+ACMANAtex_b,ACMANAtex,Transporte,2
+ACNAMtex_b,ACNAMtex,Transporte,2
+ACNPLYS_b,ACNPLYS,Sin asignar,2
+ACOAD10f_b,ACOAD10f,Lipidos y PHA,6
+ACOAD11f_b,ACOAD11f,Lipidos y PHA,6
+ACOAD12f_b,ACOAD12f,Lipidos y PHA,9
+ACOAD13f_b,ACOAD13f,Lipidos y PHA,5
+ACOAD14f_b,ACOAD14f,Lipidos y PHA,9
+ACOAD15f_b,ACOAD15f,Lipidos y PHA,5
+ACOAD16f_b,ACOAD16f,Lipidos y PHA,9
+ACOAD17f_b,ACOAD17f,Lipidos y PHA,5
+ACOAD18f_b,ACOAD18f,Lipidos y PHA,9
+ACOAD19f_b,ACOAD19f,Lipidos y PHA,5
+ACOAD2_b,ACOAD2,Sin asignar,7
+ACOAD20f_b,ACOAD20f,Lipidos y PHA,3
+ACOAD21f_b,ACOAD21f,Lipidos y PHA,3
+ACOAD22f_b,ACOAD22f,Lipidos y PHA,4
+ACOAD23f_b,ACOAD23f,Lipidos y PHA,4
+ACOAD24f_b,ACOAD24f,Lipidos y PHA,4
+ACOAD25f_b,ACOAD25f,Lipidos y PHA,4
+ACOAD26f_b,ACOAD26f,Lipidos y PHA,4
+ACOAD27f_b,ACOAD27f,Lipidos y PHA,4
+ACOAD28f_b,ACOAD28f,Lipidos y PHA,4
+ACOAD29f_b,ACOAD29f,Lipidos y PHA,4
+ACOAD2f_b,ACOAD2f,Lipidos y PHA,7
+ACOAD3_b,ACOAD3,Sin asignar,4
+ACOAD30f_b,ACOAD30f,Lipidos y PHA,4
+ACOAD31f_b,ACOAD31f,Lipidos y PHA,4
+ACOAD32f_b,ACOAD32f,Lipidos y PHA,4
+ACOAD33f_b,ACOAD33f,Lipidos y PHA,4
+ACOAD34f_b,ACOAD34f,Lipidos y PHA,4
+ACOAD3f_b,ACOAD3f,Lipidos y PHA,4
+ACOAD4_1_b,ACOAD4_1,Sin asignar,4
+ACOAD4f_b,ACOAD4f,Lipidos y PHA,4
+ACOAD5_1_b,ACOAD5_1,Sin asignar,4
+ACOAD5f_b,ACOAD5f,Lipidos y PHA,4
+ACOAD6_b,ACOAD6,Sin asignar,4
+ACOAD6f_b,ACOAD6f,Lipidos y PHA,4
+ACOAD7_b,ACOAD7,Sin asignar,4
+ACOAD7f_b,ACOAD7f,Lipidos y PHA,4
+ACOAD8f_b,ACOAD8f,Lipidos y PHA,4
+ACONCtex_b,ACONCtex,Transporte,1
+ACONT_b,ACONT,Sin asignar,1
+ACONTa_b,ACONTa,Ciclo TCA y glioxilato,1
+ACONTb_b,ACONTb,Ciclo TCA y glioxilato,1
+ACOTA_b,ACOTA,Aminoacidos,1
+ACOXT_b,ACOXT,Sin asignar,1
+ACSERtex_b,ACSERtex,Transporte,1
+ACtex_b,ACtex,Transporte,1
+ADEtex_b,ADEtex,Transporte,1
+ADK1_b,ADK1,Nucleotidos,1
+ADK3_b,ADK3,Nucleotidos,1
+ADK4_b,ADK4,Nucleotidos,1
+ADNtex_b,ADNtex,Transporte,1
+ADOCBIAH_b,ADOCBIAH,Sin asignar,11
+ADSL1r_b,ADSL1r,Nucleotidos,1
+ADSL2r_b,ADSL2r,Nucleotidos,1
+AEPTA_b,AEPTA,"Iones, hierro y azufre",1
+AEPtex_b,AEPtex,Transporte,1
+AGMtex_b,AGMtex,Transporte,1
+AGPR_b,AGPR,Aminoacidos,1
+AGtex_b,AGtex,Transporte,1
+AHCi_b,AHCi,Sin asignar,1
+AHGDx_b,AHGDx,Sin asignar,1
+AICART_b,AICART,Nucleotidos,1
+AIRC3_b,AIRC3,Nucleotidos,1
+AKGDa_b,AKGDa,Ciclo TCA y glioxilato,7
+AKGtex_b,AKGtex,Transporte,1
+ALAALAr_b,ALAALAr,Envoltura celular,2
+ALAALAtex_b,ALAALAtex,Transporte,2
+ALAHIStex_b,ALAHIStex,Transporte,1
+ALALEUtex_b,ALALEUtex,Transporte,1
+ALAR_b,ALAR,Aminoacidos,2
+ALAS_b,ALAS,Sin asignar,1
+ALATA_L_b,ALATA_L,Aminoacidos,1
+ALATHRtex_b,ALATHRtex,Transporte,1
+ALATRPtex_b,ALATRPtex,Transporte,1
+ALAtex_b,ALAtex,Transporte,1
+ALCD1_b,ALCD1,Sin asignar,1
+ALCD19_b,ALCD19,Lipidos y PHA,4
+ALCD19y_b,ALCD19y,Sin asignar,4
+ALCD22_L_b,ALCD22_L,Sin asignar,1
+ALCD2ir_b,ALCD2ir,Sin asignar,1
+ALCD2x_b,ALCD2x,Piruvato y anapleroticas,1
+ALCD3ir_b,ALCD3ir,Sin asignar,1
+ALCD4_b,ALCD4,Sin asignar,7
+ALDD19xr_b,ALDD19xr,Carbono alternativo y aromaticos,9
+ALDD31_b,ALDD31,"Iones, hierro y azufre",1
+ALDH_1_b,ALDH_1,Sin asignar,1
+ALGE1_b,ALGE1,Envoltura celular,1
+ALGE2_b,ALGE2,Envoltura celular,1
+ALGE3_b,ALGE3,Envoltura celular,1
+ALGE4_b,ALGE4,Envoltura celular,1
+ALGE5_b,ALGE5,Envoltura celular,1
+ALGE6_b,ALGE6,Envoltura celular,7
+ALGE7_b,ALGE7,Envoltura celular,1
+ALGE8_b,ALGE8,Envoltura celular,1
+ALGE9_b,ALGE9,Envoltura celular,1
+ALLTNRA_b,ALLTNRA,Nucleotidos,1
+ALLTNtex_b,ALLTNtex,Transporte,1
+ALL_D_Et_b,ALL_D_Et,Transporte,1
+ALLtex_b,ALLtex,Transporte,1
+AMANAPEr_b,AMANAPEr,Carbono alternativo y aromaticos,2
+AMAOTr_b,AMAOTr,Cofactores y vitaminas,1
+AMPEP1_b,AMPEP1,Sin asignar,1
+AMPEP10_b,AMPEP10,Sin asignar,1
+AMPEP12_b,AMPEP12,Sin asignar,13
+AMPEP13_b,AMPEP13,Sin asignar,1
+AMPEP14_b,AMPEP14,Sin asignar,1
+AMPEP2_b,AMPEP2,Sin asignar,1
+AMPEP3_b,AMPEP3,Sin asignar,13
+AMPEP4_b,AMPEP4,Sin asignar,1
+AMPEP5_b,AMPEP5,Sin asignar,1
+AMPEP6_b,AMPEP6,Sin asignar,1
+AMPEP7_b,AMPEP7,Sin asignar,1
+AMPEP8_b,AMPEP8,Sin asignar,1
+AMPEP9_b,AMPEP9,Sin asignar,1
+ANHGMtex_b,ANHGMtex,Transporte,2
+AOXSr_b,AOXSr,Sin asignar,1
+APATr_b,APATr,Aminoacidos,4
+APCtex_b,APCtex,Transporte,1
+APTNAT_b,APTNAT,Aminoacidos,7
+ARABDI_b,ARABDI,Sin asignar,2
+ARAI_b,ARAI,Carbono alternativo y aromaticos,2
+ARAT_b,ARAT,Sin asignar,1
+ARGORNt7pp_b,ARGORNt7pp,Transporte,1
+ARGR_b,ARGR,Aminoacidos,1
+ARGSL_b,ARGSL,Aminoacidos,1
+ARGtex_b,ARGtex,Transporte,1
+AROAT_b,AROAT,Sin asignar,1
+ARSR_b,ARSR,Sin asignar,1
+ARUH_b,ARUH,Aminoacidos,1
+ASAD_b,ASAD,Aminoacidos,1
+ASCBtex_b,ASCBtex,Transporte,2
+ASNtex_b,ASNtex,Transporte,1
+ASO3tex_b,ASO3tex,Transporte,1
+ASO4tex_b,ASO4tex,Transporte,1
+ASPK_b,ASPK,Aminoacidos,1
+ASPTA_b,ASPTA,Aminoacidos,1
+ATAH_1_b,ATAH_1,Sin asignar,1
+ATHRDHr_b,ATHRDHr,Aminoacidos,1
+ATPS4rpp_b,ATPS4rpp,Fosforilacion oxidativa,1
+BALAALAtex_b,BALAALAtex,Transporte,2
+BALABALAtex_b,BALABALAtex,Transporte,2
+BALAGLYtex_b,BALAGLYtex,Transporte,2
+BALALEUtex_b,BALALEUtex,Transporte,1
+BALAtex_b,BALAtex,Transporte,1
+BDH_b,BDH,Carbono alternativo y aromaticos,7
+BILIVERDtex_b,BILIVERDtex,Transporte,1
+BILIVERDtpp_b,BILIVERDtpp,Transporte,1
+BLAMDtex_b,BLAMDtex,Transporte,1
+BSCT_b,BSCT,Sin asignar,1
+BTDD_RR_b,BTDD_RR,Carbono alternativo y aromaticos,1
+BTDt_RR_b,BTDt_RR,Transporte,1
+BTNTe_b,BTNTe,Transporte,1
+BTOHtex_b,BTOHtex,Transporte,7
+BTS_b,BTS,Sin asignar,7
+BTS2_b,BTS2,Sin asignar,1
+BUTSO3tex_b,BUTSO3tex,Transporte,7
+BUTtex_b,BUTtex,Transporte,7
+BZALCtex_b,BZALCtex,Transporte,1
+BZALDH_b,BZALDH,Carbono alternativo y aromaticos,1
+BZALt_b,BZALt,Transporte,1
+BZALtex_b,BZALtex,Transporte,1
+BZDH_b,BZDH,Carbono alternativo y aromaticos,1
+BZSCD_b,BZSCD,Sin asignar,1
+BZSCT_b,BZSCT,Sin asignar,1
+BZSS_b,BZSS,Sin asignar,1
+BZtex_b,BZtex,Transporte,1
+CA2tex_b,CA2tex,Transporte,1
+CARNtex_b,CARNtex,Transporte,1
+CAt6_b,CAt6,Transporte,1
+CAt6pp_b,CAt6pp,Transporte,1
+CBMKr_b,CBMKr,Aminoacidos,1
+CD2tex_b,CD2tex,Transporte,1
+CDDTPP_b,CDDTPP,Sin asignar,1
+CGLYtex_b,CGLYtex,Transporte,13
+CHOLS_ex_b,CHOLS_ex,Transporte,1
+CHTBStex_b,CHTBStex,Transporte,2
+CINNMtex_b,CINNMtex,Transporte,5
+CINNMtpp_b,CINNMtpp,Transporte,5
+CITtex_b,CITtex,Transporte,1
+CLPNS120pp_b,CLPNS120pp,Lipidos y PHA,4
+CLPNS140pp_b,CLPNS140pp,Lipidos y PHA,4
+CLPNS141pp_b,CLPNS141pp,Lipidos y PHA,4
+CLPNS160_b,CLPNS160,Lipidos y PHA,4
+CLPNS160pp_b,CLPNS160pp,Lipidos y PHA,4
+CLPNS161pp_b,CLPNS161pp,Lipidos y PHA,4
+CLPNS180pp_b,CLPNS180pp,Lipidos y PHA,4
+CLPNS181pp_b,CLPNS181pp,Lipidos y PHA,4
+CLS_b,CLS,Sin asignar,4
+CLt3_2pp_b,CLt3_2pp,Transporte,1
+CLtex_b,CLtex,Transporte,1
+CMtex_b,CMtex,Transporte,1
+CO2FO_b,CO2FO,Sin asignar,13
+CO2tex_b,CO2tex,Transporte,1
+CO2tpp_b,CO2tpp,Transporte,1
+COBALT2tex_b,COBALT2tex,Transporte,1
+COBALTt5_b,COBALTt5,Transporte,1
+COCO2_b,COCO2,Sin asignar,13
+CONFRLtex_b,CONFRLtex,Transporte,1
+CONFRLtpp_b,CONFRLtpp,Transporte,1
+CREATtex_b,CREATtex,Transporte,1
+CREStex_b,CREStex,Transporte,1
+CRNtex_b,CRNtex,Transporte,1
+CRO4tex_b,CRO4tex,Transporte,1
+CTBTt2rpp_b,CTBTt2rpp,Transporte,12
+CTECOAI6_b,CTECOAI6,Lipidos y PHA,4
+CTECOAI7_b,CTECOAI7,Lipidos y PHA,4
+CTECOAI8_b,CTECOAI8,Lipidos y PHA,4
+CTI1_b,CTI1,Lipidos y PHA,4
+CU2tex_b,CU2tex,"Iones, hierro y azufre",3
+CUtex_b,CUtex,Transporte,3
+CYANtex_b,CYANtex,Transporte,1
+CYS_b,CYS,Sin asignar,1
+CYTK1_b,CYTK1,Nucleotidos,4
+CYTK2_b,CYTK2,Nucleotidos,1
+CYTOM_b,CYTOM,Sin asignar,1
+Clt_b,Clt,Transporte,1
+D3AIBT_b,D3AIBT,Sin asignar,1
+DABAAT2_b,DABAAT2,Aminoacidos,1
+DACL_b,DACL,Sin asignar,1
+DADK_b,DADK,Nucleotidos,1
+DAPE_b,DAPE,Aminoacidos,2
+DASNtex_b,DASNtex,Transporte,1
+DCAtex_b,DCAtex,Transporte,4
+DDPGALA_b,DDPGALA,Carbono alternativo y aromaticos,2
+DGK1_b,DGK1,Nucleotidos,1
+DHACOAH_b,DHACOAH,Carbono alternativo y aromaticos,1
+DHBD_b,DHBD,Cofactores y vitaminas,1
+DHFR_b,DHFR,Cofactores y vitaminas,1
+DHORTS_b,DHORTS,Nucleotidos,2
+DHR_1_b,DHR_1,Sin asignar,2
+DLASNR_b,DLASNR,Aminoacidos,1
+DLCYSR_b,DLCYSR,Aminoacidos,13
+DLEUtex_b,DLEUtex,Transporte,1
+DLMETR_b,DLMETR,Aminoacidos,1
+DLYStex_b,DLYStex,Transporte,7
+DMGDH2_b,DMGDH2,"Iones, hierro y azufre",1
+DMGLYtex_b,DMGLYtex,Transporte,1
+DMSO2tex_b,DMSO2tex,Transporte,1
+DOPAtex_b,DOPAtex,Transporte,1
+DOPDH_b,DOPDH,Carbono alternativo y aromaticos,1
+DORNtex_b,DORNtex,Transporte,1
+DOXRBCNtex_b,DOXRBCNtex,Transporte,1
+DSERDHr_b,DSERDHr,Aminoacidos,2
+DTMPK_b,DTMPK,Nucleotidos,1
+DTYRtex_b,DTYRtex,Transporte,1
+DURAD_b,DURAD,Nucleotidos,2
+DURAD2_b,DURAD2,Nucleotidos,1
+DURIPP_1_b,DURIPP_1,Sin asignar,1
+DVALtex_b,DVALtex,Transporte,1
+DXYLUDtex_b,DXYLUDtex,Transporte,13
+D_LACtex_b,D_LACtex,Transporte,1
+E4PD_b,E4PD,Cofactores y vitaminas,2
+ECHA191_b,ECHA191,Sin asignar,1
+ECHA192_b,ECHA192,Sin asignar,1
+ECHA193_b,ECHA193,Sin asignar,1
+ECOAH1_b,ECOAH1,Lipidos y PHA,7
+ECOAH14_b,ECOAH14,Lipidos y PHA,6
+ECOAH15_b,ECOAH15,Lipidos y PHA,6
+ECOAH16_b,ECOAH16,Lipidos y PHA,9
+ECOAH17_b,ECOAH17,Lipidos y PHA,5
+ECOAH18_b,ECOAH18,Lipidos y PHA,9
+ECOAH19_b,ECOAH19,Lipidos y PHA,5
+ECOAH2_b,ECOAH2,Lipidos y PHA,7
+ECOAH20_b,ECOAH20,Lipidos y PHA,9
+ECOAH21_b,ECOAH21,Lipidos y PHA,5
+ECOAH22_b,ECOAH22,Lipidos y PHA,9
+ECOAH23_b,ECOAH23,Lipidos y PHA,3
+ECOAH24_b,ECOAH24,Lipidos y PHA,3
+ECOAH25_b,ECOAH25,Lipidos y PHA,4
+ECOAH26_b,ECOAH26,Lipidos y PHA,4
+ECOAH27_b,ECOAH27,Lipidos y PHA,4
+ECOAH28_b,ECOAH28,Lipidos y PHA,4
+ECOAH29_b,ECOAH29,Lipidos y PHA,4
+ECOAH3_b,ECOAH3,Lipidos y PHA,4
+ECOAH30_b,ECOAH30,Lipidos y PHA,4
+ECOAH31_b,ECOAH31,Lipidos y PHA,4
+ECOAH32_b,ECOAH32,Lipidos y PHA,4
+ECOAH33_b,ECOAH33,Lipidos y PHA,4
+ECOAH34_b,ECOAH34,Lipidos y PHA,4
+ECOAH35_b,ECOAH35,Lipidos y PHA,4
+ECOAH36_b,ECOAH36,Lipidos y PHA,4
+ECOAH37_b,ECOAH37,Lipidos y PHA,4
+ECOAH38_b,ECOAH38,Lipidos y PHA,4
+ECOAH4_b,ECOAH4,Lipidos y PHA,4
+ECOAH5_b,ECOAH5,Lipidos y PHA,4
+ECOAH5_1_b,ECOAH5_1,Sin asignar,4
+ECOAH6_b,ECOAH6,Lipidos y PHA,4
+ECOAH7_b,ECOAH7,Lipidos y PHA,4
+ECOAH8_b,ECOAH8,Lipidos y PHA,4
+ENO_b,ENO,Glucolisis/Gluconeogenesis,2
+ETHAt_b,ETHAt,Transporte,1
+ETHSO3tex_b,ETHSO3tex,Transporte,1
+ETOHtex_b,ETOHtex,Transporte,1
+ETOHtrpp_b,ETOHtrpp,Transporte,1
+FADE233_b,FADE233,Sin asignar,1
+FADtex_b,FADtex,Transporte,1
+FALDH2_b,FALDH2,Carbono alternativo y aromaticos,1
+FALDtpp_b,FALDtpp,Transporte,1
+FALGTHLs_b,FALGTHLs,Carbono alternativo y aromaticos,1
+FBA_b,FBA,Glucolisis/Gluconeogenesis,2
+FCI_b,FCI,Carbono alternativo y aromaticos,1
+FCLPA_b,FCLPA,Carbono alternativo y aromaticos,1
+FE2tex_b,FE2tex,"Iones, hierro y azufre",1
+FE3PYOVDL2_b,FE3PYOVDL2,"Iones, hierro y azufre",1
+FE3t_b,FE3t,Transporte,1
+FE3tex_b,FE3tex,Transporte,1
+FERtex_b,FERtex,Transporte,1
+FERtpp_b,FERtpp,Transporte,1
+FFSD1r_b,FFSD1r,Sin asignar,2
+FMNtex_b,FMNtex,Transporte,2
+FNOR_b,FNOR,Sin asignar,13
+FORCT_b,FORCT,Carbono alternativo y aromaticos,1
+FORtex_b,FORtex,Transporte,1
+FRUtex_b,FRUtex,Transporte,2
+FUCtex_b,FUCtex,Transporte,1
+FUM_b,FUM,Ciclo TCA y glioxilato,1
+FUMt1pp_b,FUMt1pp,Transporte,1
+FUSAtex_b,FUSAtex,Transporte,1
+G1SAT_b,G1SAT,Cofactores y vitaminas,1
+G3PCtex_b,G3PCtex,Transporte,1
+G3PD_b,G3PD,Sin asignar,4
+G3PD1ir_b,G3PD1ir,Sin asignar,2
+G3PD2_b,G3PD2,Lipidos y PHA,4
+G3PItex_b,G3PItex,Transporte,4
+G6PDH2r_b,G6PDH2r,Glucolisis/Gluconeogenesis,2
+G6PI_b,G6PI,Pentosas fosfato,2
+GAD2ktpp_b,GAD2ktpp,Glucolisis/Gluconeogenesis,2
+GAL6PI_b,GAL6PI,Sin asignar,2
+GALCTNtex_b,GALCTNtex,Transporte,2
+GALCT_D_Et_b,GALCT_D_Et,Transporte,1
+GALCTtex_b,GALCTtex,Transporte,1
+GALKr_b,GALKr,Carbono alternativo y aromaticos,2
+GALT_b,GALT,Sin asignar,2
+GALTtex_b,GALTtex,Transporte,2
+GALURDH_b,GALURDH,Carbono alternativo y aromaticos,1
+GALUR_Et_b,GALUR_Et,Transporte,1
+GALURtex_b,GALURtex,Transporte,1
+GALpts_b,GALpts,Transporte,2
+GAMtex_b,GAMtex,Transporte,2
+GAPD_b,GAPD,Glucolisis/Gluconeogenesis,2
+GARFT_b,GARFT,Nucleotidos,13
+GDOCBIK_b,GDOCBIK,Sin asignar,11
+GG15DAPDxr_b,GG15DAPDxr,"Iones, hierro y azufre",7
+GGDAPDxr_b,GGDAPDxr,"Iones, hierro y azufre",4
+GGGABADr_b,GGGABADr,Carbono alternativo y aromaticos,1
+GGGABADxr_b,GGGABADxr,"Iones, hierro y azufre",1
+GHMT2r_b,GHMT2r,Aminoacidos,1
+GK1_b,GK1,Nucleotidos,1
+GK2_b,GK2,Sin asignar,1
+GLCNtex_b,GLCNtex,Transporte,2
+GLCOASYNT_b,GLCOASYNT,Aminoacidos,7
+GLCRtex_b,GLCRtex,Transporte,2
+GLCURDH_b,GLCURDH,Carbono alternativo y aromaticos,2
+GLCURtex_b,GLCURtex,Transporte,2
+GLCtex_b,GLCtex,Transporte,2
+GLNtex_b,GLNtex,Transporte,1
+GLTPD_b,GLTPD,Carbono alternativo y aromaticos,2
+GLUABUTt7pp_b,GLUABUTt7pp,Transporte,1
+GLUDxi_b,GLUDxi,Sin asignar,1
+GLUDy_b,GLUDy,Aminoacidos,1
+GLUR_b,GLUR,Aminoacidos,2
+GLUTARtex_b,GLUTARtex,Transporte,7
+GLUtex_b,GLUtex,Transporte,1
+GLYALDtex_b,GLYALDtex,Transporte,4
+GLYALDtpp_b,GLYALDtpp,Transporte,4
+GLYBACT1r_b,GLYBACT1r,"Iones, hierro y azufre",1
+GLYC2Ptex_b,GLYC2Ptex,Transporte,4
+GLYCAtex_b,GLYCAtex,Transporte,2
+GLYCLTtex_b,GLYCLTtex,Transporte,1
+GLYCOLtex_b,GLYCOLtex,Transporte,1
+GLYCYSAP_b,GLYCYSAP,Sin asignar,13
+GLYCtex_b,GLYCtex,Transporte,4
+GLYCtpp_b,GLYCtpp,Transporte,4
+GLYGLNtex_b,GLYGLNtex,Transporte,1
+GLYGLUtex_b,GLYGLUtex,Transporte,1
+GLYGLYtex_b,GLYGLYtex,Transporte,1
+GLYLEUAP_b,GLYLEUAP,Sin asignar,1
+GLYMETtex_b,GLYMETtex,Transporte,1
+GLYPHEAP_b,GLYPHEAP,Sin asignar,1
+GLYPHEtex_b,GLYPHEtex,Transporte,1
+GLYSERtex_b,GLYSERtex,Transporte,1
+GLYTYRAP_b,GLYTYRAP,Sin asignar,13
+GLYtex_b,GLYtex,Transporte,1
+GLYtpp_b,GLYtpp,Transporte,1
+GSEALD_b,GSEALD,Sin asignar,1
+GSNtex_b,GSNtex,Transporte,1
+GTHOr_b,GTHOr,Cofactores y vitaminas,1
+GUAt_b,GUAt,Transporte,1
+GUAtex_b,GUAtex,Transporte,1
+GUAtpp_b,GUAtpp,Transporte,1
+GUI1_b,GUI1,Carbono alternativo y aromaticos,2
+GalMr_2_b,GalMr_2,Sin asignar,2
+H2CO3D_b,H2CO3D,Sin asignar,13
+H2CO3D2_b,H2CO3D2,Sin asignar,1
+H2O2tex_b,H2O2tex,Transporte,2
+H2Ot_b,H2Ot,Transporte,4
+H2Otex_b,H2Otex,Transporte,4
+H2Otpp_b,H2Otpp,Transporte,2
+H2Stex_b,H2Stex,Transporte,1
+HACD1_b,HACD1,Lipidos y PHA,7
+HACD2_b,HACD2,Lipidos y PHA,7
+HACD3_b,HACD3,Lipidos y PHA,7
+HACD4_b,HACD4,Lipidos y PHA,4
+HACD5_b,HACD5,Lipidos y PHA,4
+HACD6_b,HACD6,Lipidos y PHA,4
+HACD7_b,HACD7,Lipidos y PHA,4
+HACD8_b,HACD8,Lipidos y PHA,4
+HACD9_b,HACD9,Aminoacidos,1
+HADPCOADH3_b,HADPCOADH3,Carbono alternativo y aromaticos,1
+HAT40tex_b,HAT40tex,Transporte,3
+HAT40tpp_b,HAT40tpp,Transporte,3
+HBCE_b,HBCE,Sin asignar,7
+HBCHLR_b,HBCHLR,Sin asignar,7
+HCINNMtex_b,HCINNMtex,Transporte,1
+HCO3E_b,HCO3E,Sin asignar,13
+HCO3tex_b,HCO3tex,Transporte,1
+HG2tex_b,HG2tex,Transporte,1
+HGt_b,HGt,Transporte,1
+HHDDI_b,HHDDI,Sin asignar,1
+HIAt_b,HIAt,Transporte,1
+HISGLYtex_b,HISGLYtex,Transporte,1
+HISHIStex_b,HISHIStex,Transporte,1
+HIStex_b,HIStex,Transporte,1
+HIUH_c_b,HIUH_c,Sin asignar,1
+HMPSCD_b,HMPSCD,Sin asignar,1
+HMR_3951_b,HMR_3951,Transporte,1
+HOXPRx_b,HOXPRx,Sin asignar,2
+HPAtex_b,HPAtex,Transporte,1
+HPHL_b,HPHL,Sin asignar,1
+HPPPNtex_b,HPPPNtex,Transporte,1
+HPYRI_b,HPYRI,Ciclo TCA y glioxilato,2
+HQNt6_b,HQNt6,Transporte,1
+HSDy_b,HSDy,Aminoacidos,1
+HSTPTr_b,HSTPTr,Sin asignar,1
+HVCD_b,HVCD,Sin asignar,1
+HXAtex_b,HXAtex,Transporte,7
+HYXNtex_b,HYXNtex,Transporte,1
+HYXNtpp_b,HYXNtpp,Transporte,1
+Htex_b,Htex,Transporte,1
+IBTtex_b,IBTtex,Transporte,1
+ICDHyr_b,ICDHyr,Ciclo TCA y glioxilato,1
+ICHORS_b,ICHORS,Sin asignar,1
+ICITtex_b,ICITtex,Transporte,1
+IDOND_b,IDOND,Carbono alternativo y aromaticos,2
+ILEDHr_1_b,ILEDHr_1,Sin asignar,1
+ILETA_b,ILETA,Aminoacidos,1
+ILETA2_b,ILETA2,Sin asignar,1
+ILEtex_b,ILEtex,Transporte,1
+IMPC_b,IMPC,Nucleotidos,1
+IND3ACtex_b,IND3ACtex,Transporte,1
+INDOLEt2pp_b,INDOLEt2pp,Transporte,1
+INDOLEtex_b,INDOLEtex,Transporte,1
+INOSR_b,INOSR,Sin asignar,4
+INStex_b,INStex,Transporte,1
+IPDDI_b,IPDDI,Cofactores y vitaminas,2
+IPPMIa_b,IPPMIa,Aminoacidos,1
+IPPMIb_b,IPPMIb,Aminoacidos,1
+ISETACtex_b,ISETACtex,Transporte,1
+KARA1_b,KARA1,Aminoacidos,1
+KARA2_b,KARA2,Aminoacidos,1
+KGD2_b,KGD2,Sin asignar,13
+Kt1_b,Kt1,Transporte,1
+Ktex_b,Ktex,Transporte,1
+LACLt2_b,LACLt2,Transporte,1
+LALALGLUtex_b,LALALGLUtex,Transporte,1
+LASP2OA_b,LASP2OA,Sin asignar,1
+LCARR_b,LCARR,Piruvato y anapleroticas,14
+LCARS_b,LCARS,Carbono alternativo y aromaticos,1
+LCYSTtex_b,LCYSTtex,Transporte,1
+LDH_D_b,LDH_D,Piruvato y anapleroticas,1
+LEULEULAPc_b,LEULEULAPc,Aminoacidos,1
+LEULEUtex_b,LEULEUtex,Transporte,1
+LEUTA_b,LEUTA,Aminoacidos,1
+LEUtex_b,LEUtex,Transporte,1
+LLEUDr_b,LLEUDr,Sin asignar,1
+LSERDHr_b,LSERDHr,Aminoacidos,1
+LYSAM_b,LYSAM,Sin asignar,7
+LYSRC_b,LYSRC,Aminoacidos,7
+LYStex_b,LYStex,Transporte,7
+L_LACtex_b,L_LACtex,Transporte,1
+MAK_b,MAK,Sin asignar,2
+MAL6PG_b,MAL6PG,Sin asignar,2
+MALEI_b,MALEI,Cofactores y vitaminas,1
+MAN6PI_b,MAN6PI,Envoltura celular,2
+MANAO_b,MANAO,Carbono alternativo y aromaticos,2
+MANE_b,MANE,Carbono alternativo y aromaticos,2
+MANGLYCtex_b,MANGLYCtex,Transporte,2
+MANtex_b,MANtex,Transporte,2
+MBCOAi_b,MBCOAi,Aminoacidos,1
+MCITL2_b,MCITL2,Carbono alternativo y aromaticos,1
+MCOATA_b,MCOATA,Lipidos y PHA,4
+MEOHtex_b,MEOHtex,Transporte,1
+MEOHtrpp_b,MEOHtrpp,Transporte,1
+METDtex_b,METDtex,Transporte,1
+MG2tex_b,MG2tex,Transporte,1
+MGCH_b,MGCH,Aminoacidos,7
+MGt5_b,MGt5,Transporte,1
+MICITDr_b,MICITDr,Carbono alternativo y aromaticos,1
+MLTP3_b,MLTP3,Carbono alternativo y aromaticos,2
+MME_b,MME,Sin asignar,1
+MNL1P_Et_b,MNL1P_Et,Transporte,1
+MNLtex_b,MNLtex,Transporte,1
+MNtex_b,MNtex,Transporte,8
+MOBDtex_b,MOBDtex,Transporte,1
+MSO3tex_b,MSO3tex,Transporte,1
+MTHFC_b,MTHFC,Cofactores y vitaminas,1
+MTHFD_b,MTHFD,Cofactores y vitaminas,1
+MTI_b,MTI,Carbono alternativo y aromaticos,2
+MTRI_b,MTRI,Aminoacidos,1
+MUCCYCI_b,MUCCYCI,Carbono alternativo y aromaticos,1
+MUCLI_b,MUCLI,Carbono alternativo y aromaticos,1
+M_XYLtpp_b,M_XYLtpp,Transporte,1
+M_Xylt1_b,M_Xylt1,Transporte,1
+NACtex_b,NACtex,Transporte,1
+NADDPp_1_b,NADDPp_1,Sin asignar,4
+NADHXE_b,NADHXE,Sin asignar,1
+NADKd_b,NADKd,Sin asignar,1
+NADPHXE_b,NADPHXE,Sin asignar,4
+NARK_b,NARK,Transporte,1
+NAtex_b,NAtex,Transporte,1
+NDPK1_b,NDPK1,Nucleotidos,1
+NDPK2_b,NDPK2,Nucleotidos,2
+NDPK3_b,NDPK3,Nucleotidos,1
+NDPK4_b,NDPK4,Nucleotidos,1
+NDPK5_b,NDPK5,Nucleotidos,1
+NDPK6_b,NDPK6,Nucleotidos,1
+NDPK7_b,NDPK7,Nucleotidos,1
+NDPK8_b,NDPK8,Nucleotidos,1
+NH3c_b,NH3c,Sin asignar,1
+NH4OHDs_b,NH4OHDs,Sin asignar,1
+NH4tex_b,NH4tex,Transporte,1
+NH4tpp_b,NH4tpp,Transporte,1
+NI2tex_b,NI2tex,Transporte,1
+NMNtex_b,NMNtex,Transporte,1
+NNATr_b,NNATr,Cofactores y vitaminas,1
+NO2tex_b,NO2tex,Transporte,1
+NO3t_b,NO3t,Transporte,13
+NO3tex_b,NO3tex,Transporte,13
+NOVBCNtex_b,NOVBCNtex,Transporte,1
+NOt_b,NOt,Transporte,13
+O2tex_b,O2tex,Transporte,1
+O2tpp_b,O2tpp,Transporte,1
+OAAtex_b,OAAtex,Transporte,1
+OCBT_b,OCBT,Aminoacidos,1
+OCBT_1_b,OCBT_1,Sin asignar,1
+OCOAT1_b,OCOAT1,Carbono alternativo y aromaticos,7
+OCOAT2r_b,OCOAT2r,Sin asignar,1
+OCTAtex_b,OCTAtex,Transporte,4
+OHPBAT_b,OHPBAT,Cofactores y vitaminas,2
+OIVD1r_b,OIVD1r,Aminoacidos,1
+ORNCD_b,ORNCD,Aminoacidos,1
+ORNTA_b,ORNTA,Sin asignar,1
+ORNtex_b,ORNtex,Transporte,1
+OROTtex_b,OROTtex,Transporte,2
+ORPT_b,ORPT,Nucleotidos,2
+OXACOAL_b,OXACOAL,Sin asignar,1
+OXFOt4pp_b,OXFOt4pp,Transporte,1
+OXFOtex_b,OXFOtex,Transporte,1
+OXPTNDH_b,OXPTNDH,Aminoacidos,7
+P3PCL_b,P3PCL,Sin asignar,2
+PACt1_b,PACt1,Transporte,1
+PACt3_b,PACt3,Transporte,1
+PALDO2_b,PALDO2,"Iones, hierro y azufre",1
+PCNO_b,PCNO,Sin asignar,1
+PDHbr_b,PDHbr,Glucolisis/Gluconeogenesis,7
+PDYXPT_c_b,PDYXPT_c,Sin asignar,1
+PEALtex_b,PEALtex,Transporte,1
+PEAMNtex_b,PEAMNtex,Transporte,1
+PENTSOtex_b,PENTSOtex,Transporte,6
+PEPtex_b,PEPtex,Transporte,2
+PERD_b,PERD,Cofactores y vitaminas,2
+PGAMT_b,PGAMT,Envoltura celular,2
+PGI_b,PGI,Glucolisis/Gluconeogenesis,2
+PGK_b,PGK,Glucolisis/Gluconeogenesis,2
+PGLCNDH_b,PGLCNDH,Glucolisis/Gluconeogenesis,2
+PGM_b,PGM,Glucolisis/Gluconeogenesis,2
+PGMT_b,PGMT,Carbono alternativo y aromaticos,2
+PGMT_B_b,PGMT_B,Sin asignar,2
+PHEMEt_b,PHEMEt,Transporte,1
+PHER_b,PHER,Aminoacidos,1
+PHETA1_b,PHETA1,Aminoacidos,1
+PICH_b,PICH,Sin asignar,1
+PItex_b,PItex,Transporte,1
+PMANM_b,PMANM,Envoltura celular,2
+PNTOtex_b,PNTOtex,Transporte,4
+PPAP_Et_b,PPAP_Et,Transporte,1
+PPAtex_b,PPAtex,Transporte,1
+PPItex_1_b,PPItex_1,Transporte,2
+PPK50r_b,PPK50r,Lipidos y PHA,2
+PPM2_b,PPM2,Carbono alternativo y aromaticos,1
+PPNDH2_b,PPNDH2,Sin asignar,1
+PPOHtex_b,PPOHtex,Transporte,1
+PPPM_b,PPPM,Sin asignar,2
+PPRGL_b,PPRGL,Nucleotidos,13
+PRAGSr_b,PRAGSr,Nucleotidos,13
+PRMICI_b,PRMICI,Aminoacidos,1
+PROGLYtex_b,PROGLYtex,Transporte,1
+PROR_b,PROR,Sin asignar,1
+PROtex_b,PROtex,Transporte,1
+PRPPS_b,PRPPS,Carbono alternativo y aromaticos,2
+PSCVT_1_b,PSCVT_1,Sin asignar,2
+PTAr_b,PTAr,Ciclo TCA y glioxilato,4
+PTAtex_b,PTAtex,Transporte,6
+PTHRP_b,PTHRP,Sin asignar,1
+PTRCORNt7pp_b,PTRCORNt7pp,Transporte,1
+PUNP1_b,PUNP1,Nucleotidos,1
+PUNP4_1_b,PUNP4_1,Sin asignar,1
+PUNP6_1_b,PUNP6_1,Sin asignar,1
+PYDXNtr_b,PYDXNtr,Transporte,1
+PYNP1_1_b,PYNP1_1,Sin asignar,1
+PYRtex_b,PYRtex,Transporte,1
+P_Xylt1_b,P_Xylt1,Transporte,1
+QUIDH_b,QUIDH,Carbono alternativo y aromaticos,2
+QUIDHy_b,QUIDHy,Aminoacidos,2
+QUIN2tpp_b,QUIN2tpp,Transporte,2
+RBP4E_b,RBP4E,Carbono alternativo y aromaticos,2
+RECOAH10_b,RECOAH10,Lipidos y PHA,6
+RECOAH11_b,RECOAH11,Lipidos y PHA,9
+RECOAH12_b,RECOAH12,Lipidos y PHA,5
+RECOAH13_b,RECOAH13,Lipidos y PHA,9
+RECOAH14_b,RECOAH14,Lipidos y PHA,5
+RECOAH15_b,RECOAH15,Lipidos y PHA,9
+RECOAH16_b,RECOAH16,Lipidos y PHA,5
+RECOAH17_b,RECOAH17,Lipidos y PHA,9
+RECOAH19_b,RECOAH19,Lipidos y PHA,3
+RECOAH2_b,RECOAH2,Lipidos y PHA,7
+RECOAH20_b,RECOAH20,Lipidos y PHA,3
+RECOAH21_b,RECOAH21,Lipidos y PHA,4
+RECOAH22_b,RECOAH22,Lipidos y PHA,4
+RECOAH23_b,RECOAH23,Lipidos y PHA,4
+RECOAH24_b,RECOAH24,Lipidos y PHA,4
+RECOAH25_b,RECOAH25,Lipidos y PHA,4
+RECOAH26_b,RECOAH26,Lipidos y PHA,4
+RECOAH3_b,RECOAH3,Lipidos y PHA,4
+RECOAH4_b,RECOAH4,Lipidos y PHA,4
+RECOAH5_b,RECOAH5,Lipidos y PHA,4
+RECOAH6_b,RECOAH6,Lipidos y PHA,4
+RECOAH7_b,RECOAH7,Lipidos y PHA,4
+RECOAH8_b,RECOAH8,Lipidos y PHA,6
+RECOAH9_b,RECOAH9,Lipidos y PHA,6
+REPHACCOAI_b,REPHACCOAI,Carbono alternativo y aromaticos,1
+RHA160tex_b,RHA160tex,Transporte,4
+RHA160tpp_b,RHA160tpp,Transporte,4
+RHA40tpp_b,RHA40tpp,Transporte,7
+RHA50tex_b,RHA50tex,Transporte,6
+RHA50tpp_b,RHA50tpp,Transporte,6
+RHACOAR100_b,RHACOAR100,Lipidos y PHA,4
+RHACOAR101_b,RHACOAR101,Lipidos y PHA,4
+RHACOAR120_b,RHACOAR120,Lipidos y PHA,4
+RHACOAR121d5_b,RHACOAR121d5,Lipidos y PHA,4
+RHACOAR121d6_b,RHACOAR121d6,Lipidos y PHA,4
+RHACOAR140_b,RHACOAR140,Lipidos y PHA,4
+RHACOAR141d5_b,RHACOAR141d5,Lipidos y PHA,4
+RHACOAR141d7_b,RHACOAR141d7,Lipidos y PHA,4
+RHACOAR142_b,RHACOAR142,Lipidos y PHA,4
+RHACOAR60_b,RHACOAR60,Lipidos y PHA,7
+RHACOAR70_b,RHACOAR70,Lipidos y PHA,6
+RHACOAR80_b,RHACOAR80,Lipidos y PHA,7
+RHACOAR90_b,RHACOAR90,Lipidos y PHA,6
+RHACOARP100_b,RHACOARP100,Lipidos y PHA,9
+RHACOARP40_b,RHACOARP40,Lipidos y PHA,9
+RHACOARP50_b,RHACOARP50,Lipidos y PHA,5
+RHACOARP60_b,RHACOARP60,Lipidos y PHA,9
+RHACOARP70_b,RHACOARP70,Lipidos y PHA,5
+RHACOARP80_b,RHACOARP80,Lipidos y PHA,9
+RHACOARP90_b,RHACOARP90,Lipidos y PHA,5
+RHACOART60_b,RHACOART60,Lipidos y PHA,3
+RHAP50tex_b,RHAP50tex,Transporte,5
+RHAP50tpp_b,RHAP50tpp,Transporte,5
+RHAT40tex_b,RHAT40tex,Transporte,3
+RHAT40tpp_b,RHAT40tpp,Transporte,3
+RIBtex_b,RIBtex,Transporte,2
+RMN_Et_b,RMN_Et,Transporte,1
+RPE_b,RPE,Pentosas fosfato,2
+RPI_b,RPI,Pentosas fosfato,2
+SALCt_b,SALCt,Transporte,1
+SBTPD_b,SBTPD,Carbono alternativo y aromaticos,2
+SBTtex_b,SBTtex,Transporte,2
+SDPTA_b,SDPTA,Aminoacidos,2
+SELTt_b,SELTt,Transporte,1
+SELt_b,SELt,Transporte,1
+SELtex_b,SELtex,Transporte,1
+SERASr_b,SERASr,Cofactores y vitaminas,1
+SERAT_b,SERAT,Aminoacidos,1
+SHK3Dr_b,SHK3Dr,Aminoacidos,1
+SHSL2_b,SHSL2,Sin asignar,1
+SKMtex_b,SKMtex,Transporte,1
+SO3tex_b,SO3tex,Transporte,1
+SO4tex_b,SO4tex,Transporte,1
+SPMDt3i_b,SPMDt3i,Transporte,1
+SSCOARy_b,SSCOARy,Sin asignar,1
+SUCCtex_b,SUCCtex,Transporte,1
+SUCD1_b,SUCD1,Sin asignar,1
+SUCOAS_b,SUCOAS,Ciclo TCA y glioxilato,1
+SUCRtex_b,SUCRtex,Transporte,2
+SULFACtex_b,SULFACtex,Transporte,1
+TALA_b,TALA,Pentosas fosfato,2
+TAURtex_b,TAURtex,Transporte,1
+TCYNTtex_b,TCYNTtex,Transporte,1
+TCYNTtpp_b,TCYNTtpp,Transporte,1
+TETtex_b,TETtex,Transporte,1
+THYMt_b,THYMt,Transporte,1
+THYMtex_b,THYMtex,Transporte,1
+TKT1_b,TKT1,Pentosas fosfato,2
+TKT2_b,TKT2,Pentosas fosfato,2
+TMDPP_b,TMDPP,Nucleotidos,1
+TOLtex_b,TOLtex,Transporte,1
+TPI_b,TPI,Glucolisis/Gluconeogenesis,2
+TREtex_b,TREtex,Transporte,2
+TRPTA_b,TRPTA,Sin asignar,1
+TRSARr_b,TRSARr,Ciclo TCA y glioxilato,2
+TSULR3e_b,TSULR3e,Sin asignar,1
+TSULtex_b,TSULtex,Transporte,1
+TTRCYCtex_b,TTRCYCtex,Transporte,1
+TYMtex_b,TYMtex,Transporte,1
+TYRTA_b,TYRTA,Carbono alternativo y aromaticos,13
+TYRtex_b,TYRtex,Transporte,13
+UAG2EMA_b,UAG2EMA,Sin asignar,2
+UDPG4E_b,UDPG4E,Envoltura celular,2
+UMPK_b,UMPK,Nucleotidos,2
+URAt_b,URAt,Transporte,2
+URAtex_b,URAtex,Transporte,2
+UREASE_b,UREASE,Sin asignar,1
+UREAtpp_b,UREAtpp,Transporte,1
+URIDK2r_b,URIDK2r,Nucleotidos,1
+VACOAI_b,VACOAI,Sin asignar,7
+VACOAI_2_b,VACOAI_2,Sin asignar,7
+VALDHr_b,VALDHr,Aminoacidos,1
+VALTA_b,VALTA,Aminoacidos,1
+VALtex_b,VALtex,Transporte,1
+VANLNtex_b,VANLNtex,Transporte,1
+VANLTtex_b,VANLTtex,Transporte,1
+VCACT_b,VCACT,Sin asignar,1
+VCOAD_b,VCOAD,Lipidos y PHA,6
+VECOAH_b,VECOAH,Lipidos y PHA,1
+VNDH_2_b,VNDH_2,Carbono alternativo y aromaticos,1
+VPAMTr_b,VPAMTr,Aminoacidos,1
+XANtpp_b,XANtpp,Transporte,1
+XYLI1_b,XYLI1,Carbono alternativo y aromaticos,2
+XYLt_b,XYLt,Transporte,2
+XYLtex_b,XYLtex,Transporte,2
+YUMPS_b,YUMPS,Sin asignar,2
+Zn2tex_b,Zn2tex,Transporte,1
+araphe1_b,araphe1,Sin asignar,1
+araphe2_b,araphe2,Sin asignar,1
+araphe3_b,araphe3,Sin asignar,1
+aratry1_b,aratry1,Sin asignar,1
+aratry2_b,aratry2,Sin asignar,1
+aratyr1_b,aratyr1,Sin asignar,13
+aratyr2_b,aratyr2,Sin asignar,13
+aratyr3_b,aratyr3,Sin asignar,13
+aratyr4_b,aratyr4,Sin asignar,13
+r2465_1_b,r2465_1,Transporte,1

@@ -1,0 +1,65 @@
+﻿organismo,grafo,categoria,pagerank_acumulado,n_nodos
+RU47,NFG,Glucolisis/Gluconeogenesis,0.015062500475987207,43
+RU47,NFG,Pentosas fosfato,0.007900181999089671,13
+RU47,NFG,Ciclo TCA y glioxilato,0.011629818552026923,36
+RU47,NFG,Piruvato y anapleroticas,0.005353401208179397,16
+RU47,NFG,Fosforilacion oxidativa,0.0033560273111422263,21
+RU47,NFG,Aminoacidos,0.0801116667299706,292
+RU47,NFG,Nucleotidos,0.053717602549387844,175
+RU47,NFG,Cofactores y vitaminas,0.053640341979092426,147
+RU47,NFG,Lipidos y PHA,0.17913842550899703,586
+RU47,NFG,Envoltura celular,0.03759541645861174,119
+RU47,NFG,Carbono alternativo y aromaticos,0.08146295842604807,224
+RU47,NFG,"Iones, hierro y azufre",0.03594632470190151,148
+RU47,NFG,Transporte,0.18254053689787608,1197
+RU47,NFG,Intercambio,0.0625170893324655,770
+RU47,NFG,Biomasa,0.0020520637300541463,5
+RU47,NFG,Sin asignar,0.18797564413916962,572
+RU47,MFG_glucosa,Glucolisis/Gluconeogenesis,0.05758924343718201,11
+RU47,MFG_glucosa,Pentosas fosfato,0.006361579329617784,5
+RU47,MFG_glucosa,Ciclo TCA y glioxilato,0.07944566902999432,9
+RU47,MFG_glucosa,Piruvato y anapleroticas,0.007156981774592364,1
+RU47,MFG_glucosa,Fosforilacion oxidativa,0.311805680665904,3
+RU47,MFG_glucosa,Aminoacidos,0.10360020502605256,72
+RU47,MFG_glucosa,Nucleotidos,0.04567506020963324,36
+RU47,MFG_glucosa,Cofactores y vitaminas,0.05924122579699652,58
+RU47,MFG_glucosa,Lipidos y PHA,0.0,0
+RU47,MFG_glucosa,Envoltura celular,0.016736790659218532,15
+RU47,MFG_glucosa,Carbono alternativo y aromaticos,0.01357809601255312,12
+RU47,MFG_glucosa,"Iones, hierro y azufre",0.005793692985647174,4
+RU47,MFG_glucosa,Transporte,0.08386467835034594,25
+RU47,MFG_glucosa,Intercambio,0.04323415593418195,18
+RU47,MFG_glucosa,Biomasa,0.0660442629507194,1
+RU47,MFG_glucosa,Sin asignar,0.09987267783736108,41
+E. coli core,NFG,Glucolisis/Gluconeogenesis,0.12645410172348795,19
+E. coli core,NFG,Pentosas fosfato,0.12928323249906362,14
+E. coli core,NFG,Ciclo TCA y glioxilato,0.1310268857561333,14
+E. coli core,NFG,Piruvato y anapleroticas,0.12956957999156038,17
+E. coli core,NFG,Fosforilacion oxidativa,0.06626969329469536,7
+E. coli core,NFG,Aminoacidos,0.03630294977522722,5
+E. coli core,NFG,Nucleotidos,0.01693923722905953,2
+E. coli core,NFG,Cofactores y vitaminas,0.0,0
+E. coli core,NFG,Lipidos y PHA,0.0,0
+E. coli core,NFG,Envoltura celular,0.0,0
+E. coli core,NFG,Carbono alternativo y aromaticos,0.0,0
+E. coli core,NFG,"Iones, hierro y azufre",0.0,0
+E. coli core,NFG,Transporte,0.16118391024729065,33
+E. coli core,NFG,Intercambio,0.09894481884495421,40
+E. coli core,NFG,Biomasa,0.08966718992522849,2
+E. coli core,NFG,Sin asignar,0.014358400713298938,1
+E. coli core,MFG_glucosa,Glucolisis/Gluconeogenesis,0.16835474864321057,10
+E. coli core,MFG_glucosa,Pentosas fosfato,0.0734978498714754,8
+E. coli core,MFG_glucosa,Ciclo TCA y glioxilato,0.10544855957504114,8
+E. coli core,MFG_glucosa,Piruvato y anapleroticas,0.008500595953849593,1
+E. coli core,MFG_glucosa,Fosforilacion oxidativa,0.37210260448272503,4
+E. coli core,MFG_glucosa,Aminoacidos,0.024087707876374518,2
+E. coli core,MFG_glucosa,Nucleotidos,0.0,0
+E. coli core,MFG_glucosa,Cofactores y vitaminas,0.0,0
+E. coli core,MFG_glucosa,Lipidos y PHA,0.0,0
+E. coli core,MFG_glucosa,Envoltura celular,0.0,0
+E. coli core,MFG_glucosa,Carbono alternativo y aromaticos,0.0,0
+E. coli core,MFG_glucosa,"Iones, hierro y azufre",0.0,0
+E. coli core,MFG_glucosa,Transporte,0.07613704750559068,6
+E. coli core,MFG_glucosa,Intercambio,0.071957740124767,7
+E. coli core,MFG_glucosa,Biomasa,0.099913145966966,2
+E. coli core,MFG_glucosa,Sin asignar,0.0,0

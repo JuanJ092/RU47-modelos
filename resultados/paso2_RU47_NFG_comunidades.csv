@@ -1,0 +1,16 @@
+﻿comunidad,n_reacciones,pagerank_acumulado,rutas_dominantes,reacciones_mas_centrales
+C1,2576,0.513615011346122,Transporte (828); Intercambio (598); Sin asignar (372),NNATr_f; PPK50_B_f; ACOXT_b; FORCT_f; MICITDr_f; TRDR_f
+C2,685,0.1814612003846929,Transporte (176); Envoltura celular (91); Carbono alternativo y aromaticos (87),PYAM5PO_f; PAPPT3_f; UAGPT3_f; PGAMT_b; UGMDDS_f; ALATA_D2_f
+C3,50,0.01154069884058865,Lipidos y PHA (22); Transporte (18); Intercambio (7),ACOAD21f_f; HAT40tpp_b; ACOAD20f_f; CU2abcpp_f; Cut1_f; ACOAD21f_b
+C4,591,0.16061861385835768,Lipidos y PHA (388); Transporte (87); Sin asignar (54),PNTK_f; MCBTS3_f; CLPNS141pp_f; CLPNS140pp_f; CLPNS180pp_f; CLPNS181pp_f
+C5,59,0.015716196933604258,Lipidos y PHA (42); Transporte (11); Intercambio (6),ACOAD17f_f; ACOAD15f_f; CINNMtpp_f; ACOAD19f_f; ACOAD17f_b; CINNMtex_b
+C6,60,0.01574753455519182,Lipidos y PHA (42); Transporte (10); Intercambio (6),FACOAL50i_f; VCOAD_f; FACOAE50_f; ACOAD10f_f; FACOAE70_f; FACOAL_70_c_f
+C7,173,0.04969377425697468,Sin asignar (33); Lipidos y PHA (32); Transporte (31),GLCOASYNT_f; BUTCT_f; APTNAT_f; BUTCT2_f; GLCOASYNT_b; ACACT2r_f
+C8,11,0.0021624409369226916,"Transporte (8); Intercambio (2); Iones, hierro y azufre (1)",MN2t3pp_f; MNabc_1_f; MNt2pp_f; MN2tpp_f; MNtex_b; MNabc_f
+C9,79,0.024066987898843,Lipidos y PHA (51); Carbono alternativo y aromaticos (10); Transporte (8),DHACOAH_f; HADPCOADH3_f; ACOAD16f_f; 3OXCOAT_f; ACOAD14f_f; ACOAD18f_f
+C10,4,0.00133549154485313,Sin asignar (2); Carbono alternativo y aromaticos (2),13PPDH_f; 13PPDH2_b; 13PPDH_b; 13PPDH2_f
+C11,6,0.0019608370817186032,Sin asignar (4); Cofactores y vitaminas (2),GDOCBIK_b; GDOCBIK_f; ADOCBIK_f; ADOCBIAH_f; ADCPS1_f; ADOCBIAH_b
+C12,3,0.0008695537573146486,Transporte (3),CTBTt2rpp_b; CTBTabcpp_f; CTBTt2rpp_f
+C13,54,0.019579094730266658,Sin asignar (16); Intercambio (11); Transporte (11),TMPK_f; TDP_f; GARFT_b; TMPPP_f; KGD2_b; PRFGS_f
+C14,3,0.0010287611008666896,Piruvato y anapleroticas (2); Sin asignar (1),LCARR_b; LCARR_f; PPDOy_f
+C15,2,0.0006038027736826313,Transporte (2),MELIBt2pp_f; MELIBt3ipp_f

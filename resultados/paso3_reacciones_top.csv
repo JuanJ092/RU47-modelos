@@ -1,0 +1,121 @@
+﻿nodo,categoria,pagerank,condicion,nombre
+ATPS4rpp_f,Fosforilacion oxidativa,0.14419405210007513,glucosa,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.08709205125790433,glucosa,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp_f,Fosforilacion oxidativa,0.08174380179181076,glucosa,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+Growth_f,Biomasa,0.06614735597900676,glucosa,Biomass reaction
+H2Ot_b,Transporte,0.021871941139770704,glucosa,H2O transport via diffusion
+OXACOAL_b,Sin asignar,0.019949780245632757,glucosa,OXACOAL
+EX_h2o_e_f,Intercambio,0.019168280555495847,glucosa,EX_h2o_e
+CO2tpp_b,Transporte,0.014409630464558783,glucosa,CO2 transporter via diffusion (periplasm)
+CO2tex_b,Transporte,0.01282531648386713,glucosa,CO2 transport via diffusion (extracellular to periplasm)
+AKGDH_f,Ciclo TCA y glioxilato,0.01190138574222322,glucosa,2-Oxogluterate dehydrogenase
+ATPS4rpp_f,Fosforilacion oxidativa,0.08364508516424181,glucosa_O2_limitado,ATP synthase (four protons for one ATP) (periplasm)
+Growth_f,Biomasa,0.05677466837324167,glucosa_O2_limitado,Biomass reaction
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.049816356221424246,glucosa_O2_limitado,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp_f,Fosforilacion oxidativa,0.04356270063941829,glucosa_O2_limitado,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+PDH_f,Glucolisis/Gluconeogenesis,0.03759118105660047,glucosa_O2_limitado,Pyruvate dehydrogenase
+ACALD_b,Carbono alternativo y aromaticos,0.03513651336303287,glucosa_O2_limitado,Acetaldehyde dehydrogenase (acetylating)
+ALCD2ir_f,Sin asignar,0.03502643035909825,glucosa_O2_limitado,Alcohol dehydrogenase  reverse rxn  acetaldehyde   ethanol
+GAPD_f,Glucolisis/Gluconeogenesis,0.02392136877696916,glucosa_O2_limitado,Glyceraldehyde-3-phosphate dehydrogenase
+CO2tpp_b,Transporte,0.01975729850461076,glucosa_O2_limitado,CO2 transporter via diffusion (periplasm)
+OXACOAL_b,Sin asignar,0.01949804727887836,glucosa_O2_limitado,OXACOAL
+ATPS4rpp_f,Fosforilacion oxidativa,0.14612577898175624,glucosa_N_P_limitados,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.08847430383185065,glucosa_N_P_limitados,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp_f,Fosforilacion oxidativa,0.07148683549136649,glucosa_N_P_limitados,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+Growth_f,Biomasa,0.06724588860226036,glucosa_N_P_limitados,Biomass reaction
+H2Ot_b,Transporte,0.02283012573011513,glucosa_N_P_limitados,H2O transport via diffusion
+EX_h2o_e_f,Intercambio,0.02000095023848923,glucosa_N_P_limitados,EX_h2o_e
+OXACOAL_b,Sin asignar,0.019759942527632555,glucosa_N_P_limitados,OXACOAL
+CO2tpp_b,Transporte,0.01478696326281038,glucosa_N_P_limitados,CO2 transporter via diffusion (periplasm)
+CO2tex_b,Transporte,0.013164262140776529,glucosa_N_P_limitados,CO2 transport via diffusion (extracellular to periplasm)
+AKGDH_f,Ciclo TCA y glioxilato,0.012334685598458687,glucosa_N_P_limitados,2-Oxogluterate dehydrogenase
+ATPS4rpp_f,Fosforilacion oxidativa,0.1427424780654654,succinato,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.09673600256330635,succinato,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+Growth_f,Biomasa,0.06232896045372192,succinato,Biomass reaction
+NADH16pp_f,Fosforilacion oxidativa,0.05984798881842057,succinato,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+CO2tpp_b,Transporte,0.02258710670742452,succinato,CO2 transporter via diffusion (periplasm)
+OXACOAL_b,Sin asignar,0.020308584432883265,succinato,OXACOAL
+CO2tex_b,Transporte,0.019795608507750178,succinato,CO2 transport via diffusion (extracellular to periplasm)
+H2Ot_b,Transporte,0.018898061935800615,succinato,H2O transport via diffusion
+FUM_f,Ciclo TCA y glioxilato,0.0181758403197013,succinato,Fumarase
+EX_co2_e_f,Intercambio,0.017422835039963315,succinato,EX_co2_e
+ATPS4rpp_f,Fosforilacion oxidativa,0.15618975076606012,malato,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.08379252078232312,malato,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp_f,Fosforilacion oxidativa,0.07867055016481203,malato,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+Growth_f,Biomasa,0.06660604783564138,malato,Biomass reaction
+H2Ot_b,Transporte,0.022760200379354258,malato,H2O transport via diffusion
+CO2tpp_b,Transporte,0.022634132693331997,malato,CO2 transporter via diffusion (periplasm)
+OXACOAL_b,Sin asignar,0.020580612837695154,malato,OXACOAL
+EX_h2o_e_f,Intercambio,0.01995425566353983,malato,EX_h2o_e
+CO2tex_b,Transporte,0.01984709813579209,malato,CO2 transport via diffusion (extracellular to periplasm)
+EX_co2_e_f,Intercambio,0.01747811875864499,malato,EX_co2_e
+ATPS4rpp_f,Fosforilacion oxidativa,0.1469680396013752,citrato,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.08550800434942213,citrato,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+Growth_f,Biomasa,0.06905391517948097,citrato,Biomass reaction
+NADH16pp_f,Fosforilacion oxidativa,0.06425480492687805,citrato,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+AKGDH_f,Ciclo TCA y glioxilato,0.02368102524837,citrato,2-Oxogluterate dehydrogenase
+CO2tpp_b,Transporte,0.023517489074362356,citrato,CO2 transporter via diffusion (periplasm)
+OXACOAL_b,Sin asignar,0.021426423948817958,citrato,OXACOAL
+CO2tex_b,Transporte,0.020593089547564763,citrato,CO2 transport via diffusion (extracellular to periplasm)
+SUCOAS_b,Ciclo TCA y glioxilato,0.020329280246900283,citrato,Succinyl-CoA synthetase (ADP-forming)
+H2Ot_b,Transporte,0.020013756085882878,citrato,H2O transport via diffusion
+ATPS4rpp_f,Fosforilacion oxidativa,0.15139606549896836,glutamato,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.09144596174049849,glutamato,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+Growth_f,Biomasa,0.06940456609831892,glutamato,Biomass reaction
+NADH16pp_f,Fosforilacion oxidativa,0.06918567789046697,glutamato,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+AKGDH_f,Ciclo TCA y glioxilato,0.026542710637647276,glutamato,2-Oxogluterate dehydrogenase
+CO2tpp_b,Transporte,0.02261258768990549,glutamato,CO2 transporter via diffusion (periplasm)
+SUCOAS_b,Ciclo TCA y glioxilato,0.021940650713027872,glutamato,Succinyl-CoA synthetase (ADP-forming)
+OXACOAL_b,Sin asignar,0.02133936483900229,glutamato,OXACOAL
+CO2tex_b,Transporte,0.019818903956727706,glutamato,CO2 transport via diffusion (extracellular to periplasm)
+EX_co2_e_f,Intercambio,0.017444272784061087,glutamato,EX_co2_e
+ATPS4rpp_f,Fosforilacion oxidativa,0.13955945670157846,benzoato,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.08401557932986159,benzoato,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp_f,Fosforilacion oxidativa,0.06992116570616719,benzoato,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+Growth_f,Biomasa,0.06072481552717332,benzoato,Biomass reaction
+CO2tpp_b,Transporte,0.02001866902761796,benzoato,CO2 transporter via diffusion (periplasm)
+OXACOAL_b,Sin asignar,0.01866355098453867,benzoato,OXACOAL
+CO2tex_b,Transporte,0.017565655662447652,benzoato,CO2 transport via diffusion (extracellular to periplasm)
+EX_co2_e_f,Intercambio,0.015480594305326965,benzoato,EX_co2_e
+DMALRED_f,Ciclo TCA y glioxilato,0.01433445281972288,benzoato,(S)-Malate:(acceptor) oxidoreductase
+CS_f,Ciclo TCA y glioxilato,0.014285564258362544,benzoato,Citrate synthase
+ATPS4r_f,Fosforilacion oxidativa,0.14177703645461093,glucosa,ATP synthase (four protons for one ATP)
+NADH16_f,Fosforilacion oxidativa,0.13436142674447035,glucosa,NADH dehydrogenase (ubiquinone-8 & 3 protons)
+Biomass_Ecoli_core_f,Biomasa,0.09062410496413745,glucosa,Biomass Objective Function with GAM
+CYTBD_f,Fosforilacion oxidativa,0.08626160982028046,glucosa,cytochrome oxidase bd (ubiquinol-8: 2 protons)
+GAPD_f,Glucolisis/Gluconeogenesis,0.04010702166697815,glucosa,glyceraldehyde-3-phosphate dehydrogenase
+PGK_b,Glucolisis/Gluconeogenesis,0.02335939833605856,glucosa,phosphoglycerate kinase
+PFK_f,Glucolisis/Gluconeogenesis,0.022484712811279704,glucosa,phosphofructokinase
+PDH_f,Glucolisis/Gluconeogenesis,0.02205412231487503,glucosa,pyruvate dehydrogenase
+EX_co2_e_f,Intercambio,0.021403050994008566,glucosa,CO2 exchange
+EX_h2o_e_f,Intercambio,0.020369218778388976,glucosa,H2O exchange
+ATPS4r_f,Fosforilacion oxidativa,0.16282187696982134,etanol,ATP synthase (four protons for one ATP)
+NADH16_f,Fosforilacion oxidativa,0.14124282171463268,etanol,NADH dehydrogenase (ubiquinone-8 & 3 protons)
+CYTBD_f,Fosforilacion oxidativa,0.0984060246805353,etanol,cytochrome oxidase bd (ubiquinol-8: 2 protons)
+Biomass_Ecoli_core_f,Biomasa,0.0855355863932059,etanol,Biomass Objective Function with GAM
+ACALD_f,Piruvato y anapleroticas,0.032168511257838886,etanol,acetaldehyde dehydrogenase (acetylating)
+MDH_f,Ciclo TCA y glioxilato,0.02593985278187119,etanol,malate dehydrogenase
+ALCD2x_f,Piruvato y anapleroticas,0.020924419091018834,etanol,alcohol dehydrogenase (ethanol)
+EX_h2o_e_f,Intercambio,0.02067311539139269,etanol,H2O exchange
+H2Ot_b,Transporte,0.01979921152746151,etanol,R H2O transport via - diffusion
+THD2_f,Fosforilacion oxidativa,0.019549188327773102,etanol,R NAD - P-transhydrogenase
+GAPD_f,Glucolisis/Gluconeogenesis,0.07993759978984583,glucosa_anaerobio,glyceraldehyde-3-phosphate dehydrogenase
+Biomass_Ecoli_core_f,Biomasa,0.07820097721958637,glucosa_anaerobio,Biomass Objective Function with GAM
+PGK_b,Glucolisis/Gluconeogenesis,0.04879761397356535,glucosa_anaerobio,phosphoglycerate kinase
+PFL_f,Piruvato y anapleroticas,0.04791708100974421,glucosa_anaerobio,pyruvate formate lyase
+ATPS4r_b,Fosforilacion oxidativa,0.0433667027423867,glucosa_anaerobio,ATP synthase (four protons for one ATP)
+EX_h_e_f,Intercambio,0.04231346886025005,glucosa_anaerobio,H+ exchange
+ALCD2x_b,Piruvato y anapleroticas,0.03480976755806897,glucosa_anaerobio,alcohol dehydrogenase (ethanol)
+ACALD_b,Piruvato y anapleroticas,0.03437466339865914,glucosa_anaerobio,acetaldehyde dehydrogenase (acetylating)
+THD2_f,Fosforilacion oxidativa,0.03073636577436576,glucosa_anaerobio,R NAD - P-transhydrogenase
+ETOHt2r_b,Transporte,0.030528244574143357,glucosa_anaerobio,ETOHt2r
+ATPS4r_f,Fosforilacion oxidativa,0.13018146948891182,glucosa_N_P_limitados,ATP synthase (four protons for one ATP)
+NADH16_f,Fosforilacion oxidativa,0.12510581093209874,glucosa_N_P_limitados,NADH dehydrogenase (ubiquinone-8 & 3 protons)
+Biomass_Ecoli_core_f,Biomasa,0.09149164444285168,glucosa_N_P_limitados,Biomass Objective Function with GAM
+CYTBD_f,Fosforilacion oxidativa,0.07377228158846057,glucosa_N_P_limitados,cytochrome oxidase bd (ubiquinol-8: 2 protons)
+GAPD_f,Glucolisis/Gluconeogenesis,0.0465556359204336,glucosa_N_P_limitados,glyceraldehyde-3-phosphate dehydrogenase
+PDH_f,Glucolisis/Gluconeogenesis,0.029510443433486754,glucosa_N_P_limitados,pyruvate dehydrogenase
+PGK_b,Glucolisis/Gluconeogenesis,0.027474657459843836,glucosa_N_P_limitados,phosphoglycerate kinase
+PFK_f,Glucolisis/Gluconeogenesis,0.025342991367975153,glucosa_N_P_limitados,phosphofructokinase
+GLUDy_b,Aminoacidos,0.02185549461193184,glucosa_N_P_limitados,glutamate dehydrogenase (NADP)
+EX_co2_e_f,Intercambio,0.020163086615352006,glucosa_N_P_limitados,CO2 exchange

@@ -1,0 +1,41 @@
+﻿nodo,categoria,pagerank,grafo,nombre
+TMPK_f,Cofactores y vitaminas,0.0029860612915858257,NFG,Thiamine-phosphate kinase
+TDP_f,Cofactores y vitaminas,0.002577266988480138,NFG,Thiamin pyrophosphatase
+PYAM5PO_f,Cofactores y vitaminas,0.002161024277832199,NFG,Pyridoxamine 5'-phosphate oxidase
+PAPPT3_f,Envoltura celular,0.0018125063869069145,NFG,"Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)"
+NNATr_f,Cofactores y vitaminas,0.001800885949100262,NFG,Nicotinate-nucleotide adenylyltransferase
+UAGPT3_f,Envoltura celular,0.0017605742932723897,NFG,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PGAMT_b,Envoltura celular,0.0016889518441845853,NFG,Phosphoglucosamine mutase
+PPK50_B_f,Lipidos y PHA,0.0015434377014403556,NFG,Polyphosphate utilization  GDP dependent
+UGMDDS_f,Envoltura celular,0.001460237479851785,NFG,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase"
+ACOXT_b,Sin asignar,0.001386691672363945,NFG,Acetyl-CoA:oxalate CoA-transferase
+FORCT_f,Carbono alternativo y aromaticos,0.0013517237748453981,NFG,Formyl-CoA Transferase
+MICITDr_f,Carbono alternativo y aromaticos,0.0013153606181001967,NFG,2-methylisocitrate dehydratase
+ALATA_D2_f,Cofactores y vitaminas,0.0012885720328911373,NFG,D-alanine transaminase
+Growth_f,Biomasa,0.001286382849479094,NFG,Biomass reaction
+TRDR_f,Nucleotidos,0.0012719101167531052,NFG,Thioredoxin reductase (NADPH)
+TMDPP_f,Nucleotidos,0.0012625325350185874,NFG,Thymidine phosphorylase
+PUNP6_1_f,Sin asignar,0.0012587271797281057,NFG,Purine-nucleoside phosphorylase (Deoxyinosine)
+YUMPS_b,Sin asignar,0.0012469690233943053,NFG,YUMP synthetase
+PPK50r_b,Lipidos y PHA,0.0011641484397881834,NFG,Polyphosphate kinase  PolyP synthesis
+MAL6PG_f,Sin asignar,0.001154050481559797,NFG,Maltose 6  phosphate glucosidase
+ATPS4rpp_f,Fosforilacion oxidativa,0.14368442673757392,MFG_glucosa,ATP synthase (four protons for one ATP) (periplasm)
+CYTBO3_4pp_f,Fosforilacion oxidativa,0.08690809909824379,MFG_glucosa,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)
+NADH16pp_f,Fosforilacion oxidativa,0.08121315483008625,MFG_glucosa,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)
+Growth_f,Biomasa,0.0660442629507194,MFG_glucosa,Biomass reaction
+H2Ot_b,Transporte,0.021757256181985166,MFG_glucosa,H2O transport via diffusion
+OXACOAL_b,Sin asignar,0.019869006203401804,MFG_glucosa,OXACOAL
+EX_h2o_e_f,Intercambio,0.019070498746119418,MFG_glucosa,EX_h2o_e
+CO2tpp_b,Transporte,0.014411807407097858,MFG_glucosa,CO2 transporter via diffusion (periplasm)
+CO2tex_b,Transporte,0.012826867284570309,MFG_glucosa,CO2 transport via diffusion (extracellular to periplasm)
+AKGDH_f,Ciclo TCA y glioxilato,0.01198567354426744,MFG_glucosa,2-Oxogluterate dehydrogenase
+PDH_f,Glucolisis/Gluconeogenesis,0.011543378781070675,MFG_glucosa,Pyruvate dehydrogenase
+EX_co2_e_f,Intercambio,0.011479668180003146,MFG_glucosa,EX_co2_e
+GLUDy_b,Aminoacidos,0.011462418793055784,MFG_glucosa,Glutamate dehydrogenase (NADP)
+CS_f,Ciclo TCA y glioxilato,0.011332675957642629,MFG_glucosa,Citrate synthase
+ICDHyr_f,Ciclo TCA y glioxilato,0.010672315136302346,MFG_glucosa,Isocitrate dehydrogenase (NADP)
+DMALRED_f,Ciclo TCA y glioxilato,0.010592520168002453,MFG_glucosa,(S)-Malate:(acceptor) oxidoreductase
+GAPD_f,Glucolisis/Gluconeogenesis,0.00981675155864016,MFG_glucosa,Glyceraldehyde-3-phosphate dehydrogenase
+SUCOAS_b,Ciclo TCA y glioxilato,0.00954440491554475,MFG_glucosa,Succinyl-CoA synthetase (ADP-forming)
+ACOXT_f,Sin asignar,0.00906678025707251,MFG_glucosa,Acetyl-CoA:oxalate CoA-transferase
+PGL_f,Glucolisis/Gluconeogenesis,0.0079647463313765,MFG_glucosa,6-phosphogluconolactonase

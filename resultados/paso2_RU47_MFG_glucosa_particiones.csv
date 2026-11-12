@@ -1,0 +1,312 @@
+﻿nodo,reaccion,categoria,t=0.181 (99 com.),t=0.401 (67 com.),t=1.32 (43 com.),t=6.46 (5 com.),t=21.3 (4 com.)
+EX_co2_e_f,EX_co2_e,Intercambio,1,1,1,1,1
+EX_h2o_e_f,EX_h2o_e,Intercambio,2,2,2,2,2
+EX_h_e_f,EX_h_e,Intercambio,3,3,3,2,2
+3OADPCOAT_f,3OADPCOAT,Carbono alternativo y aromaticos,4,4,4,1,1
+3OXCOAT_f,3OXCOAT,Carbono alternativo y aromaticos,4,4,4,1,1
+4CMLCL_kt_f,4CMLCL_kt,Carbono alternativo y aromaticos,5,4,4,1,1
+4HBADH_f,4HBADH,Cofactores y vitaminas,6,5,5,1,3
+4HBHYOX_f,4HBHYOX,Carbono alternativo y aromaticos,7,6,4,1,1
+4HTHRK_f,4HTHRK,Sin asignar,8,7,6,1,3
+ACHBS_f,ACHBS,Aminoacidos,9,8,7,1,1
+ACKr_f,ACKr,Piruvato y anapleroticas,10,9,8,3,3
+ACLS_f,ACLS,Cofactores y vitaminas,11,10,9,1,3
+ACONT_f,ACONT,Sin asignar,12,11,10,4,1
+ACOXT_f,ACOXT,Sin asignar,10,9,8,3,3
+ADCL_f,ADCL,Cofactores y vitaminas,11,12,11,1,1
+ADCS_f,ADCS,Cofactores y vitaminas,11,12,11,1,1
+ADNK1_f,ADNK1,Nucleotidos,13,13,12,1,3
+ADSL1r_f,ADSL1r,Nucleotidos,14,14,13,1,1
+ADSL2r_f,ADSL2r,Nucleotidos,15,15,14,4,1
+ADSS_f,ADSS,Nucleotidos,14,14,13,1,1
+AHCi_f,AHCi,Sin asignar,13,13,12,1,3
+AHMMPS_1_f,AHMMPS_1,Sin asignar,8,7,6,1,4
+AHSERL2_f,AHSERL2,Aminoacidos,16,16,8,1,1
+AICART_f,AICART,Nucleotidos,17,17,7,1,1
+AIRC2_f,AIRC2,Nucleotidos,18,18,15,1,3
+AKGDH_f,AKGDH,Ciclo TCA y glioxilato,19,19,16,1,1
+ALAALAr_f,ALAALAr,Envoltura celular,6,5,5,1,3
+ALAR_f,ALAR,Aminoacidos,6,5,5,1,3
+AMMQT8_f,AMMQT8,Sin asignar,13,13,12,1,3
+ANPRT_f,ANPRT,Aminoacidos,20,20,17,1,3
+ANS2_f,ANS2,Aminoacidos,20,20,17,1,3
+APPAT_f,APPAT,Cofactores y vitaminas,21,21,18,3,3
+APRAUR_f,APRAUR,Cofactores y vitaminas,22,7,6,1,1
+APSR_f,APSR,"Iones, hierro y azufre",23,22,3,1,3
+ARGSL_f,ARGSL,Aminoacidos,24,19,16,1,1
+ARGSS_f,ARGSS,Aminoacidos,24,19,16,1,1
+AROAT_f,AROAT,Sin asignar,20,20,17,1,3
+AROH_f,AROH,Aminoacidos,20,20,17,1,3
+ASNS1_f,ASNS1,Aminoacidos,25,19,16,1,1
+ASPCT_f,ASPCT,Nucleotidos,26,23,16,4,1
+ASPK_f,ASPK,Aminoacidos,25,19,16,4,1
+ASPO3_f,ASPO3,Cofactores y vitaminas,27,24,2,1,3
+ATPPRT_f,ATPPRT,Aminoacidos,28,25,19,3,3
+ATPS4rpp_f,ATPS4rpp,Fosforilacion oxidativa,29,26,20,2,2
+BCOALIG_f,BCOALIG,Sin asignar,30,27,8,3,3
+BZDH_f,BZDH,Carbono alternativo y aromaticos,30,27,8,1,2
+CAT_f,CAT,Sin asignar,31,28,2,1,1
+CBMKr_f,CBMKr,Aminoacidos,26,23,16,1,3
+CDPMEK_f,CDPMEK,Cofactores y vitaminas,32,29,18,3,2
+CHORM_f,CHORM,Aminoacidos,20,20,17,1,3
+CHORS_f,CHORS,Aminoacidos,20,20,17,1,3
+CS_f,CS,Ciclo TCA y glioxilato,12,11,10,4,1
+CTPS1_f,CTPS1,Nucleotidos,33,30,21,2,3
+CU2tex_f,CU2tex,"Iones, hierro y azufre",34,31,22,2,2
+CU2tpp_f,CU2tpp,Transporte,34,31,22,2,2
+CYS_f,CYS,Sin asignar,16,16,7,1,3
+CYTBO3_4pp_f,CYTBO3_4pp,Fosforilacion oxidativa,35,26,20,2,2
+CYTK1_f,CYTK1,Nucleotidos,21,21,18,3,2
+Clt_f,Clt,Transporte,36,32,23,2,2
+DAPDC_f,DAPDC,Aminoacidos,37,33,16,1,3
+DAPE_f,DAPE,Aminoacidos,37,33,16,1,3
+DB4PS_f,DB4PS,Cofactores y vitaminas,38,34,24,1,3
+DDPA_f,DDPA,Aminoacidos,28,25,19,5,3
+DGAK_f,DGAK,Sin asignar,39,35,25,5,3
+DHAD1_f,DHAD1,Aminoacidos,40,36,16,1,3
+DHAD2_f,DHAD2,Aminoacidos,41,36,16,1,1
+DHDPRy_f,DHDPRy,Aminoacidos,42,36,16,1,1
+DHDPS_f,DHDPS,Aminoacidos,42,36,16,1,1
+DHFR_f,DHFR,Cofactores y vitaminas,43,37,6,1,3
+DHFS_f,DHFS,Cofactores y vitaminas,43,37,6,1,3
+DHNAOT_f,DHNAOT,Sin asignar,13,13,12,1,2
+DHNCOAS_f,DHNCOAS,Cofactores y vitaminas,44,13,12,1,3
+DHNCOAT_f,DHNCOAT,Cofactores y vitaminas,13,13,12,1,3
+DHNPA_1_f,DHNPA_1,Cofactores y vitaminas,22,7,6,1,2
+DHORD2_f,DHORD2,Nucleotidos,45,38,26,1,2
+DHPPDA_f,DHPPDA,Sin asignar,22,7,6,1,1
+DHPS_f,DHPS,Cofactores y vitaminas,43,37,6,1,3
+DHQS_f,DHQS,Aminoacidos,46,25,19,5,3
+DHQTi_f,DHQTi,Aminoacidos,47,39,2,1,3
+DMALRED_f,DMALRED,Ciclo TCA y glioxilato,48,11,10,4,1
+DMATT_f,DMATT,Cofactores y vitaminas,21,21,18,3,3
+DMPPS_f,DMPPS,Cofactores y vitaminas,21,21,18,3,3
+DNMPPA_f,DNMPPA,Cofactores y vitaminas,22,7,6,1,2
+DNTPPA_f,DNTPPA,Cofactores y vitaminas,22,7,6,1,2
+DPCOAK_f,DPCOAK,Cofactores y vitaminas,49,21,18,1,3
+DPR_f,DPR,Cofactores y vitaminas,50,16,7,1,3
+DTMPK_f,DTMPK,Nucleotidos,43,37,6,1,2
+DXPRIi_f,DXPRIi,Cofactores y vitaminas,51,10,9,1,3
+DXPS_f,DXPS,Cofactores y vitaminas,51,10,9,1,3
+EDA_f,EDA,Glucolisis/Gluconeogenesis,52,10,9,5,3
+EDD_f,EDD,Glucolisis/Gluconeogenesis,52,10,9,5,3
+ENO_f,ENO,Glucolisis/Gluconeogenesis,53,40,25,5,3
+FDH_f,FDH,Carbono alternativo y aromaticos,22,7,6,1,3
+FE2t_f,FE2t,Transporte,54,41,27,2,2
+FE3t_f,FE3t,Transporte,55,42,28,2,2
+FMNAT_f,FMNAT,Cofactores y vitaminas,56,43,10,4,1
+FUM_f,FUM,Ciclo TCA y glioxilato,48,11,10,4,1
+G1PACT_f,G1PACT,Envoltura celular,57,44,21,1,3
+G5SADs_f,G5SADs,Aminoacidos,58,45,16,1,3
+G5SD_f,G5SD,Aminoacidos,58,45,16,1,1
+G6PBDH_f,G6PBDH,Glucolisis/Gluconeogenesis,40,36,16,5,3
+G6PDH1_f,G6PDH1,Sin asignar,59,35,25,2,2
+GAPD_f,GAPD,Glucolisis/Gluconeogenesis,60,46,19,2,2
+GARFT_f,GARFT,Nucleotidos,17,17,7,1,3
+GF6PTA_f,GF6PTA,Envoltura celular,59,35,21,1,3
+GHMT2r_f,GHMT2r,Aminoacidos,50,16,7,1,3
+GK1_f,GK1,Nucleotidos,14,14,13,3,3
+GLCabc_f,GLCabc,Transporte,61,35,25,5,3
+GLCpts_f,GLCpts,Transporte,59,35,25,5,3
+GLNS_f,GLNS,Aminoacidos,25,36,16,1,2
+GLU5K_f,GLU5K,Aminoacidos,58,45,16,1,3
+GLUPRT_f,GLUPRT,Nucleotidos,28,25,19,3,3
+GLYCL_f,GLYCL,Aminoacidos,50,16,7,1,3
+GMPS_f,GMPS,Sin asignar,14,14,13,3,3
+GRTT_f,GRTT,Cofactores y vitaminas,21,21,18,3,3
+GTPCI_f,GTPCI,Cofactores y vitaminas,22,7,6,1,2
+GTPCII_f,GTPCII,Sin asignar,22,7,6,1,3
+HCO3E_f,HCO3E,Sin asignar,18,18,15,2,2
+HDH_f,HDH,Aminoacidos,62,47,7,1,2
+HISTP_f,HISTP,Aminoacidos,62,47,7,1,2
+HMPK1_f,HMPK1,Cofactores y vitaminas,63,48,29,2,2
+HSERTA_f,HSERTA,Aminoacidos,16,16,8,1,3
+HSTPT_f,HSTPT,Aminoacidos,62,47,7,1,3
+ICDHyr_f,ICDHyr,Ciclo TCA y glioxilato,19,36,16,1,1
+IG3PS_f,IG3PS,Aminoacidos,17,17,7,1,3
+IGPDH_f,IGPDH,Aminoacidos,62,47,7,1,3
+IGPS_f,IGPS,Aminoacidos,64,49,15,1,3
+IMPD_f,IMPD,Nucleotidos,14,14,13,2,2
+INS2D_f,INS2D,Sin asignar,65,50,30,2,2
+INSCR_f,INSCR,Sin asignar,66,50,30,4,1
+IPDPS_f,IPDPS,Cofactores y vitaminas,21,21,18,3,1
+IPMD_f,IPMD,Aminoacidos,67,51,15,1,2
+IPPS_f,IPPS,Aminoacidos,68,36,16,1,3
+KARA2_f,KARA2,Aminoacidos,41,36,16,1,3
+Kt1_f,Kt1,Transporte,69,52,31,2,2
+MECDPDH2_f,MECDPDH2,Sin asignar,21,21,18,3,1
+MECDPS_f,MECDPS,Cofactores y vitaminas,21,21,18,3,3
+MEPCT_f,MEPCT,Cofactores y vitaminas,32,29,18,3,3
+METAT_f,METAT,Aminoacidos,13,13,12,3,2
+METS_f,METS,Aminoacidos,50,16,7,1,2
+MI1PP_f,MI1PP,Envoltura celular,65,50,30,2,2
+MI1PS_f,MI1PS,Sin asignar,65,50,30,2,2
+MN2tpp_f,MN2tpp,Transporte,70,53,32,2,2
+MNtex_f,MNtex,Transporte,70,53,32,2,2
+MOHMT_f,MOHMT,Cofactores y vitaminas,50,16,7,1,3
+MTHFC_f,MTHFC,Cofactores y vitaminas,17,17,7,1,3
+MTHFD_f,MTHFD,Cofactores y vitaminas,17,17,7,1,3
+MTHFR2_f,MTHFR2,Cofactores y vitaminas,50,16,7,1,2
+MUCCY_kt_f,MUCCY_kt,Carbono alternativo y aromaticos,5,4,4,1,1
+NADH16pp_f,NADH16pp,Fosforilacion oxidativa,71,54,20,2,2
+NADK_f,NADK,Cofactores y vitaminas,40,36,16,1,3
+NADS1_f,NADS1,Cofactores y vitaminas,72,55,33,3,3
+NDPK2_f,NDPK2,Nucleotidos,33,30,21,2,2
+NDPK3_f,NDPK3,Nucleotidos,32,29,18,3,2
+NDPK4_f,NDPK4,Nucleotidos,73,37,6,2,2
+NDPK5_f,NDPK5,Nucleotidos,74,22,3,2,2
+NH4tex_f,NH4tex,Transporte,26,23,16,1,3
+NH4tpp_f,NH4tpp,Transporte,26,23,16,1,3
+NNATr_f,NNATr,Cofactores y vitaminas,72,55,33,3,3
+NNDPR_f,NNDPR,Cofactores y vitaminas,72,55,33,3,3
+O2tex_f,O2tex,Transporte,75,56,34,2,2
+O2tpp_f,O2tpp,Transporte,35,26,20,2,2
+OCBT_f,OCBT,Aminoacidos,24,19,16,1,1
+OCTDPS_f,OCTDPS,Cofactores y vitaminas,13,13,12,3,3
+OMCDC_f,OMCDC,Aminoacidos,18,51,15,1,3
+OMPDC_f,OMPDC,Nucleotidos,76,30,21,1,3
+OXADC_f,OXADC,Sin asignar,22,7,6,1,3
+OXOAEL_f,OXOAEL,Carbono alternativo y aromaticos,4,4,4,4,1
+P5CR_f,P5CR,Aminoacidos,19,36,16,1,3
+PANTS_f,PANTS,Cofactores y vitaminas,11,57,8,3,3
+PAPPT3_f,PAPPT3,Envoltura celular,77,58,21,2,2
+PC_f,PC,Ciclo TCA y glioxilato,12,11,10,2,3
+PCADYOX_f,PCADYOX,Carbono alternativo y aromaticos,5,4,4,1,1
+PDH_f,PDH,Glucolisis/Gluconeogenesis,10,9,8,3,3
+PDX5POi_f,PDX5POi,Cofactores y vitaminas,31,28,2,2,2
+PDX5PS_f,PDX5PS,Cofactores y vitaminas,31,28,2,1,2
+PGCD_f,PGCD,Aminoacidos,78,40,25,2,2
+PGI_f,PGI,Glucolisis/Gluconeogenesis,59,35,25,5,3
+PGL_f,PGL,Glucolisis/Gluconeogenesis,52,10,9,5,3
+PIt2rpp_f,PIt2rpp,Transporte,79,59,35,2,2
+PItex_f,PItex,Transporte,79,59,35,2,2
+PMDPHT_f,PMDPHT,Cofactores y vitaminas,80,46,19,2,2
+PMPK_f,PMPK,Cofactores y vitaminas,81,60,36,3,2
+PNTK_f,PNTK,Cofactores y vitaminas,82,57,8,3,2
+PPCDC_f,PPCDC,Cofactores y vitaminas,21,21,18,1,3
+PPNCL2_f,PPNCL2,Cofactores y vitaminas,21,21,18,3,3
+PPND_f,PPND,Aminoacidos,83,18,15,1,3
+PPNDH_f,PPNDH,Aminoacidos,84,18,8,1,3
+PPRGL_f,PPRGL,Nucleotidos,17,17,7,2,2
+PRAIS_f,PRAIS,Nucleotidos,18,18,15,2,2
+PRAIi_f,PRAIi,Aminoacidos,64,49,15,1,3
+PRAMPC_1_f,PRAMPC_1,Sin asignar,85,17,7,1,3
+PRASCSi_f,PRASCSi,Nucleotidos,15,15,14,4,1
+PRATPP_f,PRATPP,Aminoacidos,85,17,7,1,3
+PRFGS_f,PRFGS,Nucleotidos,18,18,15,2,2
+PRMICI_f,PRMICI,Aminoacidos,17,17,7,1,3
+PRPPS_f,PRPPS,Carbono alternativo y aromaticos,28,25,19,3,3
+PSCVT_1_f,PSCVT_1,Sin asignar,20,20,17,1,3
+PSERT_f,PSERT,Aminoacidos,25,19,16,1,1
+PSP_L_f,PSP_L,Aminoacidos,50,16,7,1,2
+QULNS_f,QULNS,Cofactores y vitaminas,72,55,33,1,3
+RBFK_f,RBFK,Cofactores y vitaminas,56,43,37,4,1
+RBFSa_f,RBFSa,Cofactores y vitaminas,56,43,37,4,1
+RBFSb_f,RBFSb,Cofactores y vitaminas,56,43,37,4,1
+RNDR2_f,RNDR2,Nucleotidos,74,22,3,1,3
+RNDR4_f,RNDR4,Nucleotidos,23,22,3,1,3
+RNTR1_f,RNTR1,Sin asignar,23,22,3,1,3
+RNTR3_f,RNTR3,Sin asignar,23,22,3,1,3
+SADT_f,SADT,"Iones, hierro y azufre",23,22,3,3,3
+SDPDS_f,SDPDS,Aminoacidos,37,33,16,1,1
+SHK3Dr_f,SHK3Dr,Aminoacidos,40,36,16,1,3
+SHKK_f,SHKK,Aminoacidos,20,20,17,1,2
+SO4t2_f,SO4t2,Transporte,23,22,3,3,3
+STPT1_f,STPT1,Sin asignar,50,16,7,1,3
+SUCDi_f,SUCDi,Ciclo TCA y glioxilato,86,11,10,4,1
+SULR_f,SULR,"Iones, hierro y azufre",16,36,16,1,3
+T6PGD_f,T6PGD,Sin asignar,59,35,25,5,3
+THDPS_f,THDPS,Aminoacidos,87,19,16,1,1
+THRD_L_f,THRD_L,Aminoacidos,9,8,7,1,3
+THRS_f,THRS,Aminoacidos,9,8,7,1,3
+THZPSN_f,THZPSN,Cofactores y vitaminas,6,5,5,1,2
+TMDS_f,TMDS,Nucleotidos,43,37,6,1,3
+TMPK_f,TMPK,Cofactores y vitaminas,88,61,38,2,2
+TMPPP_f,TMPPP,Cofactores y vitaminas,88,61,38,3,2
+TRDR_f,TRDR,Nucleotidos,23,22,3,1,3
+TRPS2_f,TRPS2,Aminoacidos,60,46,19,2,2
+TRPS3_f,TRPS3,Aminoacidos,60,46,19,5,2
+UAAGDS_f,UAAGDS,Envoltura celular,89,62,39,2,2
+UAGCVT_f,UAGCVT,Envoltura celular,90,44,21,1,3
+UAGDP_f,UAGDP,Envoltura celular,90,44,21,3,3
+UAGPT3_f,UAGPT3,Envoltura celular,33,30,21,2,2
+UAMAGS_f,UAMAGS,Envoltura celular,89,62,39,2,2
+UAMAS_f,UAMAS,Envoltura celular,89,62,39,2,2
+UAPGR_f,UAPGR,Envoltura celular,89,62,39,1,3
+UDCPDP_f,UDCPDP,Envoltura celular,77,58,21,2,2
+UDCPDPS_f,UDCPDPS,Cofactores y vitaminas,77,58,8,3,3
+UGMDDS_f,UGMDDS,Envoltura celular,77,58,21,2,2
+UMPK_f,UMPK,Nucleotidos,33,30,21,2,2
+VNDH_2_f,VNDH_2,Carbono alternativo y aromaticos,7,6,4,2,2
+r2136_f,r2136,Transporte,91,63,40,2,2
+Growth_f,Growth,Biomasa,92,64,20,2,2
+PHPYROX_f,PHPYROX,Sin asignar,30,27,8,3,2
+EX_ca2_e_b,EX_ca2_e,Intercambio,91,63,40,2,2
+EX_cl_e_b,EX_cl_e,Intercambio,36,32,23,2,2
+EX_cobalt2_e_b,EX_cobalt2_e,Intercambio,93,65,41,2,2
+EX_cu2_e_b,EX_cu2_e,Intercambio,34,31,22,2,2
+EX_fe2_e_b,EX_fe2_e,Intercambio,54,41,27,2,2
+EX_fe3_e_b,EX_fe3_e,Intercambio,55,42,28,2,2
+EX_glc__D_e_b,EX_glc__D_e,Intercambio,59,35,25,5,3
+EX_k_e_b,EX_k_e,Intercambio,69,52,31,2,2
+EX_mg2_e_b,EX_mg2_e,Intercambio,94,66,42,2,2
+EX_mn2_e_b,EX_mn2_e,Intercambio,70,53,32,2,2
+EX_nh4_e_b,EX_nh4_e,Intercambio,26,23,16,1,3
+EX_o2_e_b,EX_o2_e,Intercambio,75,56,34,2,2
+EX_pi_e_b,EX_pi_e,Intercambio,79,59,35,2,2
+EX_so4_e_b,EX_so4_e,Intercambio,23,22,3,3,3
+EX_zn2_e_b,EX_zn2_e,Intercambio,95,67,43,2,2
+4HTHRA_b,4HTHRA,Sin asignar,8,7,6,1,2
+ADK1_b,ADK1,Nucleotidos,96,64,8,3,3
+ADK3_b,ADK3,Nucleotidos,14,14,13,3,1
+AIRC3_b,AIRC3,Nucleotidos,15,15,14,4,1
+ALATA_L_b,ALATA_L,Aminoacidos,25,19,16,1,1
+APATr_b,APATr,Aminoacidos,11,57,8,3,3
+ASAD_b,ASAD,Aminoacidos,42,36,16,1,1
+ASPTA_b,ASPTA,Aminoacidos,25,19,16,1,1
+BSCT_b,BSCT,Sin asignar,44,13,12,2,2
+CAt6_b,CAt6,Transporte,91,63,40,2,2
+CO2tex_b,CO2tex,Transporte,1,1,1,1,3
+CO2tpp_b,CO2tpp,Transporte,1,1,1,1,3
+COBALTt5_b,COBALTt5,Transporte,92,64,20,2,2
+DHORTS_b,DHORTS,Nucleotidos,45,38,26,1,3
+E4PD_b,E4PD,Cofactores y vitaminas,28,25,19,1,3
+FFSD1r_b,FFSD1r,Sin asignar,59,35,25,5,3
+G3PD_b,G3PD,Sin asignar,48,11,10,4,1
+G3PD1ir_b,G3PD1ir,Sin asignar,48,11,10,4,1
+GLUDxi_b,GLUDxi,Sin asignar,25,19,16,1,1
+GLUDy_b,GLUDy,Aminoacidos,25,36,16,1,1
+GLUR_b,GLUR,Aminoacidos,89,62,39,2,2
+GalMr_2_b,GalMr_2,Sin asignar,39,35,25,5,3
+H2Ot_b,H2Ot,Transporte,2,2,2,1,3
+HSDy_b,HSDy,Aminoacidos,50,16,7,1,3
+Htex_b,Htex,Transporte,3,3,3,1,3
+ILEDHr_1_b,ILEDHr_1,Sin asignar,97,64,2,2,2
+IMPC_b,IMPC,Nucleotidos,14,14,13,4,1
+IPPMIa_b,IPPMIa,Aminoacidos,67,51,15,1,2
+IPPMIb_b,IPPMIb,Aminoacidos,67,51,15,1,2
+KARA1_b,KARA1,Aminoacidos,40,36,16,1,3
+LLEUDr_b,LLEUDr,Sin asignar,98,64,2,2,2
+MGt5_b,MGt5,Transporte,92,64,20,2,2
+OHPBAT_b,OHPBAT,Cofactores y vitaminas,25,19,16,1,1
+ORNTA_b,ORNTA,Sin asignar,24,19,16,1,1
+ORPT_b,ORPT,Nucleotidos,76,30,21,3,3
+OXACOAL_b,OXACOAL,Sin asignar,10,9,8,3,3
+PERD_b,PERD,Cofactores y vitaminas,28,25,19,5,3
+PGAMT_b,PGAMT,Envoltura celular,57,44,21,3,3
+PGK_b,PGK,Glucolisis/Gluconeogenesis,78,40,25,5,3
+PGM_b,PGM,Glucolisis/Gluconeogenesis,53,40,25,5,3
+PGMT_B_b,PGMT_B,Sin asignar,40,36,16,5,3
+PTAr_b,PTAr,Ciclo TCA y glioxilato,12,11,10,3,3
+RPE_b,RPE,Pentosas fosfato,28,25,19,3,3
+RPI_b,RPI,Pentosas fosfato,28,25,19,3,3
+SDPTA_b,SDPTA,Aminoacidos,37,33,16,1,1
+SUCOAS_b,SUCOAS,Ciclo TCA y glioxilato,86,11,10,4,1
+TALA_b,TALA,Pentosas fosfato,60,46,19,3,3
+TKT1_b,TKT1,Pentosas fosfato,28,25,19,3,3
+TKT2_b,TKT2,Pentosas fosfato,28,25,19,3,3
+TPI_b,TPI,Glucolisis/Gluconeogenesis,48,11,10,4,1
+TYRTA_b,TYRTA,Carbono alternativo y aromaticos,25,64,16,1,1
+URIDK2r_b,URIDK2r,Nucleotidos,43,37,6,1,2
+VALDHr_b,VALDHr,Aminoacidos,99,64,2,2,2
+r2465_1_b,r2465_1,Transporte,92,64,20,2,2

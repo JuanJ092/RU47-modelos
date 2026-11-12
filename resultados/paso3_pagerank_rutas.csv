@@ -1,0 +1,193 @@
+﻿organismo,condicion,categoria,pagerank_acumulado
+RU47,glucosa,Glucolisis/Gluconeogenesis,0.05786975989232632
+RU47,glucosa,Pentosas fosfato,0.00636575130300606
+RU47,glucosa,Ciclo TCA y glioxilato,0.07875955783365866
+RU47,glucosa,Piruvato y anapleroticas,0.0071820220864427945
+RU47,glucosa,Fosforilacion oxidativa,0.31302990514979023
+RU47,glucosa,Aminoacidos,0.10249088355487963
+RU47,glucosa,Nucleotidos,0.04556930561581316
+RU47,glucosa,Cofactores y vitaminas,0.053274725380301945
+RU47,glucosa,Lipidos y PHA,0.006991072646456045
+RU47,glucosa,Envoltura celular,0.016732407852826044
+RU47,glucosa,Carbono alternativo y aromaticos,0.012636062555824723
+RU47,glucosa,"Iones, hierro y azufre",0.005745741503194373
+RU47,glucosa,Transporte,0.08403060902727323
+RU47,glucosa,Intercambio,0.04334826867397211
+RU47,glucosa,Biomasa,0.06614735597900676
+RU47,glucosa,Sin asignar,0.09982657094522818
+RU47,glucosa_O2_limitado,Glucolisis/Gluconeogenesis,0.13429160219798544
+RU47,glucosa_O2_limitado,Pentosas fosfato,0.006384191328587233
+RU47,glucosa_O2_limitado,Ciclo TCA y glioxilato,0.04945659838570227
+RU47,glucosa_O2_limitado,Piruvato y anapleroticas,0.006140478522534824
+RU47,glucosa_O2_limitado,Fosforilacion oxidativa,0.17702414202508435
+RU47,glucosa_O2_limitado,Aminoacidos,0.1007189065586674
+RU47,glucosa_O2_limitado,Nucleotidos,0.0458694739904145
+RU47,glucosa_O2_limitado,Cofactores y vitaminas,0.05342524206193159
+RU47,glucosa_O2_limitado,Lipidos y PHA,0.005071065870938607
+RU47,glucosa_O2_limitado,Envoltura celular,0.017299326626125357
+RU47,glucosa_O2_limitado,Carbono alternativo y aromaticos,0.04033020392840125
+RU47,glucosa_O2_limitado,"Iones, hierro y azufre",0.005757786611608067
+RU47,glucosa_O2_limitado,Transporte,0.11785498019058588
+RU47,glucosa_O2_limitado,Intercambio,0.05421324182458796
+RU47,glucosa_O2_limitado,Biomasa,0.05677466837324167
+RU47,glucosa_O2_limitado,Sin asignar,0.1293880915036035
+RU47,glucosa_N_P_limitados,Glucolisis/Gluconeogenesis,0.057150586440483576
+RU47,glucosa_N_P_limitados,Pentosas fosfato,0.008511516128056
+RU47,glucosa_N_P_limitados,Ciclo TCA y glioxilato,0.0832767921290091
+RU47,glucosa_N_P_limitados,Piruvato y anapleroticas,0.007150415970277875
+RU47,glucosa_N_P_limitados,Fosforilacion oxidativa,0.30608691830497337
+RU47,glucosa_N_P_limitados,Aminoacidos,0.10001865671331985
+RU47,glucosa_N_P_limitados,Nucleotidos,0.048307978948763826
+RU47,glucosa_N_P_limitados,Cofactores y vitaminas,0.05349588687721139
+RU47,glucosa_N_P_limitados,Lipidos y PHA,0.005379201899119326
+RU47,glucosa_N_P_limitados,Envoltura celular,0.01774167187452609
+RU47,glucosa_N_P_limitados,Carbono alternativo y aromaticos,0.003631105306491209
+RU47,glucosa_N_P_limitados,"Iones, hierro y azufre",0.0059585442489421174
+RU47,glucosa_N_P_limitados,Transporte,0.09452030893844353
+RU47,glucosa_N_P_limitados,Intercambio,0.04608277058014695
+RU47,glucosa_N_P_limitados,Biomasa,0.06724588860226036
+RU47,glucosa_N_P_limitados,Sin asignar,0.09544175703797508
+RU47,succinato,Glucolisis/Gluconeogenesis,0.039579094014814936
+RU47,succinato,Pentosas fosfato,0.007560387991572959
+RU47,succinato,Ciclo TCA y glioxilato,0.10649247070349704
+RU47,succinato,Piruvato y anapleroticas,0.007129831920806823
+RU47,succinato,Fosforilacion oxidativa,0.2993264694471923
+RU47,succinato,Aminoacidos,0.10649719239178876
+RU47,succinato,Nucleotidos,0.04686640161803814
+RU47,succinato,Cofactores y vitaminas,0.055388978516986875
+RU47,succinato,Lipidos y PHA,0.0
+RU47,succinato,Envoltura celular,0.01632167922239177
+RU47,succinato,Carbono alternativo y aromaticos,0.014175790342803037
+RU47,succinato,"Iones, hierro y azufre",0.00695069003287328
+RU47,succinato,Transporte,0.09904602704212934
+RU47,succinato,Intercambio,0.04362784040981029
+RU47,succinato,Biomasa,0.06232896045372192
+RU47,succinato,Sin asignar,0.08870818589157278
+RU47,malato,Glucolisis/Gluconeogenesis,0.03974639437888303
+RU47,malato,Pentosas fosfato,0.007680112880427456
+RU47,malato,Ciclo TCA y glioxilato,0.08514015918768114
+RU47,malato,Piruvato y anapleroticas,0.007263942151503673
+RU47,malato,Fosforilacion oxidativa,0.3211386978153679
+RU47,malato,Aminoacidos,0.10463568317992038
+RU47,malato,Nucleotidos,0.047947179444037855
+RU47,malato,Cofactores y vitaminas,0.05689394190534528
+RU47,malato,Lipidos y PHA,0.0
+RU47,malato,Envoltura celular,0.01649048359242091
+RU47,malato,Carbono alternativo y aromaticos,0.014463197713067472
+RU47,malato,"Iones, hierro y azufre",0.007055097589013173
+RU47,malato,Transporte,0.09218219205354809
+RU47,malato,Intercambio,0.04716173994823569
+RU47,malato,Biomasa,0.06660604783564138
+RU47,malato,Sin asignar,0.08559513032490641
+RU47,citrato,Glucolisis/Gluconeogenesis,0.034201773532588194
+RU47,citrato,Pentosas fosfato,0.00817450264373978
+RU47,citrato,Ciclo TCA y glioxilato,0.1112266821025176
+RU47,citrato,Piruvato y anapleroticas,0.007910061166499185
+RU47,citrato,Fosforilacion oxidativa,0.2983405927796551
+RU47,citrato,Aminoacidos,0.10740919766828522
+RU47,citrato,Nucleotidos,0.04934573133938694
+RU47,citrato,Cofactores y vitaminas,0.058680987464250656
+RU47,citrato,Lipidos y PHA,0.008026315717639301
+RU47,citrato,Envoltura celular,0.016665200382657955
+RU47,citrato,Carbono alternativo y aromaticos,0.014473303731856759
+RU47,citrato,"Iones, hierro y azufre",0.00584129100129508
+RU47,citrato,Transporte,0.09133302229844499
+RU47,citrato,Intercambio,0.045373847810653734
+RU47,citrato,Biomasa,0.06905391517948097
+RU47,citrato,Sin asignar,0.07394357518104848
+RU47,glutamato,Glucolisis/Gluconeogenesis,0.03552458066809771
+RU47,glutamato,Pentosas fosfato,0.007910191017666275
+RU47,glutamato,Ciclo TCA y glioxilato,0.11122217820880816
+RU47,glutamato,Piruvato y anapleroticas,0.007949239327606033
+RU47,glutamato,Fosforilacion oxidativa,0.31202770512993383
+RU47,glutamato,Aminoacidos,0.09611973981015202
+RU47,glutamato,Nucleotidos,0.04943516907973964
+RU47,glutamato,Cofactores y vitaminas,0.06169684912795782
+RU47,glutamato,Lipidos y PHA,0.0
+RU47,glutamato,Envoltura celular,0.01642895809167355
+RU47,glutamato,Carbono alternativo y aromaticos,0.014287421436065406
+RU47,glutamato,"Iones, hierro y azufre",0.006201264911882659
+RU47,glutamato,Transporte,0.08475512783498201
+RU47,glutamato,Intercambio,0.04152214031637929
+RU47,glutamato,Biomasa,0.06940456609831892
+RU47,glutamato,Sin asignar,0.08551486894073645
+RU47,benzoato,Glucolisis/Gluconeogenesis,0.02261350139542765
+RU47,benzoato,Pentosas fosfato,0.007409113193181929
+RU47,benzoato,Ciclo TCA y glioxilato,0.09586265503589336
+RU47,benzoato,Piruvato y anapleroticas,0.006457370477982501
+RU47,benzoato,Fosforilacion oxidativa,0.29349620173760727
+RU47,benzoato,Aminoacidos,0.0917333873602333
+RU47,benzoato,Nucleotidos,0.04323328023391169
+RU47,benzoato,Cofactores y vitaminas,0.05103312462580436
+RU47,benzoato,Lipidos y PHA,0.009557224932742279
+RU47,benzoato,Envoltura celular,0.015064883898264197
+RU47,benzoato,Carbono alternativo y aromaticos,0.09321488301104276
+RU47,benzoato,"Iones, hierro y azufre",0.0056196436096958725
+RU47,benzoato,Transporte,0.08585224487100195
+RU47,benzoato,Intercambio,0.03283655303978258
+RU47,benzoato,Biomasa,0.06072481552717332
+RU47,benzoato,Sin asignar,0.0852911170502548
+E. coli core,glucosa,Glucolisis/Gluconeogenesis,0.16835474864321057
+E. coli core,glucosa,Pentosas fosfato,0.0734978498714754
+E. coli core,glucosa,Ciclo TCA y glioxilato,0.10544855957504114
+E. coli core,glucosa,Piruvato y anapleroticas,0.008500595953849593
+E. coli core,glucosa,Fosforilacion oxidativa,0.37210260448272503
+E. coli core,glucosa,Aminoacidos,0.024087707876374518
+E. coli core,glucosa,Nucleotidos,0.0
+E. coli core,glucosa,Cofactores y vitaminas,0.0
+E. coli core,glucosa,Lipidos y PHA,0.0
+E. coli core,glucosa,Envoltura celular,0.0
+E. coli core,glucosa,Carbono alternativo y aromaticos,0.0
+E. coli core,glucosa,"Iones, hierro y azufre",0.0
+E. coli core,glucosa,Transporte,0.07613704750559068
+E. coli core,glucosa,Intercambio,0.071957740124767
+E. coli core,glucosa,Biomasa,0.099913145966966
+E. coli core,glucosa,Sin asignar,0.0
+E. coli core,etanol,Glucolisis/Gluconeogenesis,0.07118197651688234
+E. coli core,etanol,Pentosas fosfato,0.0429970128966424
+E. coli core,etanol,Ciclo TCA y glioxilato,0.10516583278086167
+E. coli core,etanol,Piruvato y anapleroticas,0.09395013419127644
+E. coli core,etanol,Fosforilacion oxidativa,0.4364628219835038
+E. coli core,etanol,Aminoacidos,0.02084465860452056
+E. coli core,etanol,Nucleotidos,0.0
+E. coli core,etanol,Cofactores y vitaminas,0.0
+E. coli core,etanol,Lipidos y PHA,0.0
+E. coli core,etanol,Envoltura celular,0.0
+E. coli core,etanol,Carbono alternativo y aromaticos,0.0
+E. coli core,etanol,"Iones, hierro y azufre",0.0
+E. coli core,etanol,Transporte,0.07056026846261669
+E. coli core,etanol,Intercambio,0.06048748828632416
+E. coli core,etanol,Biomasa,0.09834980627737216
+E. coli core,etanol,Sin asignar,0.0
+E. coli core,glucosa_anaerobio,Glucolisis/Gluconeogenesis,0.27176323339103103
+E. coli core,glucosa_anaerobio,Pentosas fosfato,0.043348110020569784
+E. coli core,glucosa_anaerobio,Ciclo TCA y glioxilato,0.03606125943086651
+E. coli core,glucosa_anaerobio,Piruvato y anapleroticas,0.1872370155405835
+E. coli core,glucosa_anaerobio,Fosforilacion oxidativa,0.07410306851675247
+E. coli core,glucosa_anaerobio,Aminoacidos,0.028143111628165015
+E. coli core,glucosa_anaerobio,Nucleotidos,0.0
+E. coli core,glucosa_anaerobio,Cofactores y vitaminas,0.0
+E. coli core,glucosa_anaerobio,Lipidos y PHA,0.0
+E. coli core,glucosa_anaerobio,Envoltura celular,0.0
+E. coli core,glucosa_anaerobio,Carbono alternativo y aromaticos,0.0
+E. coli core,glucosa_anaerobio,"Iones, hierro y azufre",0.0
+E. coli core,glucosa_anaerobio,Transporte,0.13681208624104105
+E. coli core,glucosa_anaerobio,Intercambio,0.12884489785202277
+E. coli core,glucosa_anaerobio,Biomasa,0.09368721737896783
+E. coli core,glucosa_anaerobio,Sin asignar,0.0
+E. coli core,glucosa_N_P_limitados,Glucolisis/Gluconeogenesis,0.19838412027349478
+E. coli core,glucosa_N_P_limitados,Pentosas fosfato,0.08851976388457894
+E. coli core,glucosa_N_P_limitados,Ciclo TCA y glioxilato,0.03213259200225047
+E. coli core,glucosa_N_P_limitados,Piruvato y anapleroticas,0.03817684215055045
+E. coli core,glucosa_N_P_limitados,Fosforilacion oxidativa,0.3290595620094711
+E. coli core,glucosa_N_P_limitados,Aminoacidos,0.027088577712325874
+E. coli core,glucosa_N_P_limitados,Nucleotidos,0.0
+E. coli core,glucosa_N_P_limitados,Cofactores y vitaminas,0.0
+E. coli core,glucosa_N_P_limitados,Lipidos y PHA,0.0
+E. coli core,glucosa_N_P_limitados,Envoltura celular,0.0
+E. coli core,glucosa_N_P_limitados,Carbono alternativo y aromaticos,0.0
+E. coli core,glucosa_N_P_limitados,"Iones, hierro y azufre",0.0
+E. coli core,glucosa_N_P_limitados,Transporte,0.09226566857145502
+E. coli core,glucosa_N_P_limitados,Intercambio,0.08794925774513386
+E. coli core,glucosa_N_P_limitados,Biomasa,0.10642361565073952
+E. coli core,glucosa_N_P_limitados,Sin asignar,0.0

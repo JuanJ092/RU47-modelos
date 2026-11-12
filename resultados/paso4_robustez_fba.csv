@@ -1,0 +1,4 @@
+comparacion,nodos_pFBA,nodos_FBA,jaccard_nodos,spearman_pagerank,coinciden_top20,nodos_muestreo
+pFBA vs FBA,311.0,316.0,0.8017241379310345,0.9617444601342443,14,
+pFBA vs muestreo,311.0,,0.15889830508474576,0.6527254178116938,3,1877.0
+FBA vs muestreo,,316.0,0.16401273885350318,0.6384177028248518,3,1877.0

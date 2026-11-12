@@ -1,0 +1,5 @@
+﻿comunidad,n_reacciones,pagerank_acumulado,rutas_dominantes,reacciones_mas_centrales
+C1,15,0.19483694676849128,Ciclo TCA y glioxilato (8); Intercambio (2); Glucolisis/Gluconeogenesis (2),PDH_f; EX_co2_e_f; ICDHyr_f; CS_f; MDH_f; EX_h_e_f
+C2,10,0.49231914064790927,Fosforilacion oxidativa (3); Biomasa (2); Transporte (2),ATPS4r_f; NADH16_f; Biomass_Ecoli_core_f; CYTBD_f; PIt2r_f; ATPM_f
+C3,22,0.2924746938052104,Glucolisis/Gluconeogenesis (8); Pentosas fosfato (8); Transporte (3),GAPD_f; PGK_b; PFK_f; CO2t_b; GLUDy_b; H2Ot_b
+C4,1,0.020369218778388976,Intercambio (1),EX_h2o_e_f

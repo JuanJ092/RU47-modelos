@@ -1,0 +1,6 @@
+﻿comunidad,n_reacciones,pagerank_acumulado,rutas_dominantes,reacciones_mas_centrales
+C1,35,0.15994614719412265,Intercambio (16); Transporte (11); Piruvato y anapleroticas (7),FORti_f; ACALD_f; ALCD2x_b; ALCD2x_f; FORt2_f; ETOHt2r_b
+C2,49,0.3268902892664674,Transporte (14); Intercambio (12); Glucolisis/Gluconeogenesis (8),Biomass_Ecoli_core_f; ATPS4r_f; ACKr_b; PGK_b; GLUSy_f; GLUDy_b
+C3,22,0.15417369562526193,Ciclo TCA y glioxilato (9); Piruvato y anapleroticas (7); Intercambio (3),ACONTa_f; ICDHyr_b; PTAr_b; ICDHyr_f; ME2_f; MALS_f
+C4,22,0.1490509817556025,Intercambio (7); Transporte (6); Fosforilacion oxidativa (4),SUCOAS_b; SUCDi_f; FRD7_f; NADH16_f; CYTBD_f; SUCOAS_f
+C5,26,0.20993888615854525,Pentosas fosfato (14); Glucolisis/Gluconeogenesis (10); Intercambio (2),TALA_b; TALA_f; TKT1_b; TKT2_f; TKT1_f; TKT2_b
