@@ -1,0 +1,44 @@
+ANALISIS DE GRAFOS DE FLUJO DE Pseudomonas sp. RU47
+(Beguerisse-Diaz et al. 2018; Newman 2010)
+
+ARCHIVOS NECESARIOS EN ESTA CARPETA
+  RU47_model.xml     modelo metabolico (CarveMe)
+  iJN1462.json       modelo de P. putida KT2440 (BiGG, Nogales et al. 2020); solo para heredar rutas
+  flujo.py           funciones comunes (todos los pasos lo usan)
+
+INSTALAR (una sola vez, con el entorno venv_red activo)
+  pip install cobra networkx scipy numpy pandas matplotlib scikit-learn powerlaw pygenstability
+
+ORDEN DE EJECUCION (los resultados quedan en la carpeta "resultados")
+  python paso1_rutas.py          rutas de cada reaccion y PageRank por ruta           (~1 min)
+  python paso2_comunidades.py    comunidades multiescala con Markov Stability          (~3 min)
+       python paso2_comunidades.py --nfg   agrega el NFG de RU47 (horas; ver nota)
+  python paso3_condiciones.py    MFG en 8 condiciones de crecimiento + E. coli         (~10 min)
+  python paso4_rigor.py          modelos nulos, distribuciones y robustez del FBA      (~20-40 min)
+       python paso4_rigor.py --rapido      omite el NFG de RU47 en los modelos nulos
+  python paso5_robustez.py       percolacion y esencialidad por FBA                    (~10 min)
+  python paso6_rag_y_red.py      RAG (Ec. 3 del articulo) vs NFG y figura de la red del MFG          (~5 min)
+       python paso6_rag_y_red.py --rag     calcula las comunidades del RAG de RU47 (~1 hora; ver nota)
+  python nfg_gephi.py            archivos .gexf del NFG para Gephi (comunidades de RU47 y NFG de E. coli) (~2 min)
+  (Los tiempos son aproximados; en un portatil pueden ser el doble.)
+
+DECISIONES DE METODO QUE HAY QUE DECLARAR EN LA TESIS
+  1. Reacciones desdobladas: toda reaccion con cota inferior < 0 (incluidas las que solo van en inverso)
+     y todos los intercambios EX_. Con E. coli core reproduce el NFG del articulo (154 nodos, 1604 aristas).
+  2. Medio: M9 minimo; fuente de carbono a 18,5 mmol/gDW/h (valor del articulo, medido en E. coli).
+  3. Flujos: pFBA (FBA + minima suma de flujos) en lugar de FBA simple, porque da una solucion
+     reproducible. El paso 4 compara FBA, pFBA y muestreo de flujos.
+  4. PageRank y Markov Stability con lambda = 0,85, como el articulo.
+  5. Markov Stability: PyGenStability, constructor dirigido con una correccion propia (flujo.py,
+     DirigidoCorregido) para los nodos sin aristas de salida.
+  6. Rutas: heredadas de iJN1462 (P. putida) y, si no estan, de iJO1366 (E. coli) por id BiGG;
+     el resto por reglas (EX_ = intercambio; varios compartimentos = transporte). ~14 % queda sin asignar.
+  7. Condiciones: el modelo no crece en anaerobiosis (ni con nitrato), asi que se usa O2 limitado.
+  8. RAG: A = S_bin^T S_bin sobre la matriz sin desdoblar (no dirigido). Sus comunidades se calculan con
+     Markov Stability continua normalizada (no dirigida, sin teletransportacion).
+
+NOTA SOBRE EL NFG DE RU47 Y MARKOV STABILITY
+  La version dirigida necesita matrices densas de 4356 x 4356; en un equipo de 2 nucleos tarda ~1 hora
+  y usa ~3 GB de memoria. Por eso el paso 2 lo omite salvo que se pida con --nfg.
+  Lo mismo ocurre con las comunidades del RAG de RU47 (paso 6 con --rag). Si en la carpeta "resultados"
+  ya estan ms_RU47_NFG.pkl y ms_RU47_RAG.pkl, los pasos 2 y 6 los leen y no repiten el calculo.
