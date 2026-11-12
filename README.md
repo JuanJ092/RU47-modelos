@@ -1,6 +1,6 @@
 # Grafos de flujo de la red metabólica de *Pseudomonas* sp. RU47
 
-Datos y código del trabajo de grado *"Grafos de flujo de la red metabólica a escala genómica de Pseudomonas sp. RU47: estructura, comunidades y comparación con Escherichia coli"* (\[autor\], \[programa\], Universidad de los Llanos, \[año\]).
+Datos y código del trabajo de grado *"Grafos de flujo de la red metabólica a escala genómica de Pseudomonas sp. RU47: estructura, comunidades y comparación con Escherichia coli"* Juan José Fandiño Mora - Camila Andrea Suarez Ascencio, Licenciatura en matemáticas, Universidad de los Llanos, 2026.
 
 El trabajo construye el modelo metabólico a escala genómica de *Pseudomonas* sp. RU47, lo representa con los grafos de flujo de Beguerisse-Díaz et al. (2018), el *Normalised Flow Graph* (NFG) y los *Mass Flow Graphs* (MFG), y analiza sus propiedades topológicas (Newman, 2010), su centralidad (PageRank) y sus comunidades (Markov Stability), en comparación con el modelo central de *E. coli*.
 
